@@ -21,6 +21,12 @@ markdown: kramdown
 plugins:
 - jekyll-assets
 - jekyll-multiple-languages-plugin
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
+- jekyll-include-cache
 
 # jekyll-multiple-languages-plugin settings:
 languages: ["pt", "en"]
