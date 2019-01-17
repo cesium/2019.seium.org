@@ -13,7 +13,7 @@ layout: default
 
     {% for speaker in site.data.speakers %}
     <div id="{{ speaker.name | slugify }}" class="col-md-12 speak-list">
-      <div class="col-md-3 vcenter">
+      
         <div class="speaker-img">
           {% image 'speakers/{{ speaker.pic }}' class:'speaker-pic' %}
         </div>
