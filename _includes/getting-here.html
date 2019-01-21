@@ -2,13 +2,11 @@
 <section id="transports">
   <div class="container">
     <div class="section-title-container text-center">
-      <h1 class="section-title">Como chegar</h1>
+      <h1 class="section-title">{% t navbar.getting_here %}</h1>
     </div>
 
     <div class="col-md-offset-2 col-md-8 def-text">
-
-      Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
-
+      {% t getting_here.headline %}
     </div>
 
     <div class="transports-list">
@@ -18,58 +16,55 @@
           <div class="transport-img">
             {% image 'icons/{{ transport.pic }}' class:transport-pic %}
           </div>
-          <span class="transport-name">{{ transport.name }}</span>
+          <span class="transport-name">{% t getting_here.{{ transport.name }}.title %}</span>
         </a>
       </div>
       {% endfor %}
     </div>
   </div>
 
-  <section id="comboio">
+  <section id="train">
     <div class="container">
       <div class="section-title-container">
-        <h1 class="section-title">Comboio</h1>
-      </div>            
+        <h1 class="section-title">{% t getting_here.train.title %}</h1>
+      </div>
       <div class="row">
         <div class="col-md-offset-1 col-md-4">
           {% image 'sponsors/cp-logo.png' class:img-responsive %}
         </div>
       <div class="col-md-offset-1 col-md-5 transport-desc">
-        <p>De 5 a 9 de fevereiro, podes viajar por 2,00€ ida e volta, nos comboios Urbanos do Porto com destino a Braga (linhas de Braga, Marco de Canaveses, Guimarães e Aveiro).</p>
-        
-        <p>Estes bilhetes especiais serão vendidos nas bilheteiras ou a bordo, no dia da viagem (se no local de embarque não estiver disponível bilheteira), e basta apresentar o comprovativo de inscrição na SEI'18 (que é enviado em formato pdf para o teu e-mail) e o teu documento de identificação, no ato da compra do bilhete de comboio e da fiscalização a bordo.</p>
+        <p>{% t getting_here.train.description %}</p>
       </div>
     </div>
   </div>
 </section>
 
-<section id="autocarro">
+<section id="bus">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">Autocarro</h1>
-    </div>            
+      <h1 class="section-title">{% t getting_here.bus.title %}</h1>
+    </div>
     <div class="row">
       <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-3 transport-bus">
           {% image 'sponsors/tub.png' class:img-responsive %}
         </div>
     <div class="col-md-offset-2 col-md-5 transport-desc">
-      <p>Poderás viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB), nomeadamente através do autocarro número 43. A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.</p>
+      <p>{% t getting_here.bus.description %}</p>
     </div>
   </div>
 </section>
 
-<section id="carro">
+<section id="car">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">Carro</h1>
-    </div>            
+      <h1 class="section-title">{% t getting_here.car.title %}</h1>
+    </div>
     <div class="row">
       <div class="col-md-5 text-center googleMaps-col">
         <iframe class="center-block" id="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2985.432470973233!2d-8.39983718456886!3d41.55988387924861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24fe9d967b3e7b%3A0x8e7b5fcf6deed3b!2sComplexo+Pedag%C3%B3gico+II+-+UMinho!5e0!3m2!1spt-PT!2spt!4v1516222853906" allowfullscreen></iframe>
       </div>
       <div class="col-md-offset-1 col-md-5 transport-desc">
-        <p>Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas <b>41.56131</b>, <b>-8.393804</b> ou seguir para a morada <b>Rua da Universidade, Gualtar, Portugal</b>.</p>
+        <p>{% t getting_here.car.description %}</p>
       </div>
   </div>
 </section>
-

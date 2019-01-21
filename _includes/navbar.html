@@ -8,14 +8,18 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
         <i class="fa fa-bars"></i>
       </button>
-      <a class="navbar-brand page-scroll" href="/" id="nav-logo">
+      {% if site.lang == 'pt' %}
+      <a class="navbar-brand page-scroll" href="{{ site.url }}" id="nav-logo">
+      {% else %}
+      <a class="navbar-brand page-scroll" href="{{ site.baseurl }}" id="nav-logo">
+      {% endif %}
         {% image nav-logo.png %}
         <div>
           <span>
             SEMANA DA<br>
             ENGENHARIA INFORMÁTICA<br>
-            <strong>UNIVERSIDADE DO MINHO<br>
-              2018</strong>
+            <strong>{% t defaults.university %}<br>
+              {{ site.year }}</strong>
             </span>
           </div>
         </a>
@@ -28,31 +32,40 @@
             <a href="#page-top"></a>
           </li>
          <li>
-            <a class="page-scroll" href="/agenda">Agenda</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/agenda">{% t navbar.agenda %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="/speakers">Oradores</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/speakers">{% t navbar.speakers %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="/challenges">Desafios</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/challenges">{% t navbar.challenges %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="/getting-here">Como chegar</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/getting-here">{% t navbar.getting_here %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="/staff">Equipa</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/staff">{% t navbar.staff %}</a>
           </li>
            <li>
-            <a class="page-scroll" href="http://hacktivate.io/" target="_blank">Hackathon</a>
+            <a class="page-scroll" href="http://hacktivate.io/" target="_blank">{% t navbar.hackathon %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="https://seium18.eventbrite.pt" target="_blank">Inscrições</a>
-          </li>
-          <li> 
-            <a class="page-scroll" href="/workshops">Workshops</a>
+            <a class="page-scroll" href="https://seium18.eventbrite.pt" target="_blank">{% t navbar.registrations %}</a>
           </li>
           <li>
-            <a class="page-scroll" href="http://intra.seium.org" target="_blank">Badges</a>
+            <a class="page-scroll" href="{{ site.baseurl }}/workshops">{% t navbar.workshops %}</a>
+          </li>
+          <li>
+            <a class="page-scroll" href="http://intra.seium.org" target="_blank">{% t navbar.badges %}</a>
+          </li>
+          <li>
+          {% if site.lang == "pt" %}
+            {% capture link_en %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+            <a class="page-scroll" href="{{ link_en }}" onclick="localStorage.seiLang = 'en'">EN</a>
+          {% else %}
+            {% capture link_pt %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+            <a class="page-scroll" href="{{ link_pt }}" onclick="localStorage.seiLang = 'pt'">PT</a>
+          {% endif %}
           </li>
         </ul>
       </div>
