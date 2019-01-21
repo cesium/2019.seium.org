@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - saturday2:
   date: 2 FEV
   dayOfWeek: SÁBADO
@@ -99,92 +100,20 @@
 
     - name: Tabletop meetup
       time: 21:30-23:30
-      duration: two-hours
-      about: Encontro de amantes de jogos e aventuras analógicas!
-      type: social
-      icon: fa-users
-      place: Drawstep, Bragashopping
-
-- tuesday:
-  date: 6 FEV
-  dayOfWeek: TERÇA
+=======
+- saturday3:
+  day: 3
+  month: feb
+  day_of_week: saturday
   activities:
-    - name: Real-time webapps com Laravel e Pusher
-      speaker: Francisco Neves
-      enterprise: HASLab
-      enterpriseURL: http://haslab.uminho.pt/
-      time: 09:30-11:30
+    - name: coderdojo.name
+      time: coderdojo.time
+>>>>>>> 069ed25... Add i18n (PT and EN) and add year variable to make annual updates easier
       duration: two-hours
-      icon: fa-globe
-      about: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel,  vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
-      type: workshop
-      place: DI-0.05
-
-    - coffee: true
-
-    - name: "Machine Learning: Evening the Odds in the Digital Fraud War"
-      speaker: Carlos Martins
-      speaker2: Raul Azevedo
-      enterprise: WeDo
-      enterpriseURL: http://ww1.wedotechnologies.com/
-      type: talk 
-      time: 12:00-13:00
-      duration: one-hour
-      icon: fa-cogs
-      about: A era digital em que entramos, onde a conectividade massivamente sensorial e ubíqua está a indefinir os mundos físico e digital, está a traçar uma nova forma de viver, trazendo várias oportunidades e a promessa de um mundo melhor. Mas esta mudança radical traz também mais desafios, em que este mundo interconectado, onde tudo acontece num instante, facilmente se torna uma enorme plataforma de ataque para defraudadores e criminosos informáticos no geral. É, portanto, necessário haver igualmente uma abordagem alternativa para combater a fraude, suportada pelas mesmas ferramentas que dão forma a este novo mundo digital, onde a Inteligência Artificial tem um papel fundamental.
-      place: CP2-B1
-
-    - meal: true
-
-    - name: 1v1 Tournament
-      time: 14:00-15:00
-      duration: one-hour
-      type: talk
-      icon: fa-trophy
-      about: Desafios de programação 1v1. Comecem os duelos!
-      place: CP2-B1
-
-    - name: "GitLab: One Tool for Software Development"
-      speaker: Filipa Lacerda
-      speaker2: Pedro Moreira da Silva
-      enterprise: GitLab
-      enterpriseURL: https://about.gitlab.com/
-      time: 15:00-16:00 
-      duration: one-hour
-      icon: fa-question
-      type: talk
-      about: Filipa Lacerda e Pedro Moreira da Silva vêm falar-te de como a GitLab pode ser uma ferramenta útil para os teus projetos.
-      place: CP2-B1
-
-    - coffee: true
-
-    - name: O estado da segurança em Organizações Modernas
-      speaker: Daniel Teixeira
-      enterprise: KPMG
-      enterpriseURL: https://home.kpmg.com/
-      time: 16:30-17:30 
-      duration: one-hour
-      about: A segurança das organizações está cada vez mais ligada ao sucesso dos seus negócios. Esta palestra irá discutir a necessidade da realização de testes de penetração e simulação de adversários nas organizações e mostrar alguns exemplos práticos tanto defensivos como ofensivos para tornar as organizações e os seus negócios mais seguros.
-      icon: fa-lock
-      type: talk
-      place: CP2-B1
-
-    - name: What about the future?
-      speaker: Alberto Proença
-      speaker2: José Nuno Oliveira
-      speaker3: Paulo S. Almeida
-      time: 17:30-18:30
-      type: Tertulia
-      duration: one-hour
-      icon: fa-desktop
-      about: Convidamos alguns dos professores mais carismáticos do nosso departamento para discutirem o futuro da engenharia informática. Não podes mesmo perder esta conversa!
-      place: CP2-B1
-
-    - name: Arraial de engenharia
-      time: 20:30-23:30
-      duration: three-hours
-      about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica! Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/161849231269866/' target='_blank'>Facebook</a>."
+      about: coderdojo.about
+      icon: fa-users
       type: social
+<<<<<<< HEAD
       place: Largo do Carpe
 
 - wednesday:
@@ -478,3 +407,6 @@
       type: Concurso
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.  
       place: CP2
+=======
+      place: Gnration
+>>>>>>> 069ed25... Add i18n (PT and EN) and add year variable to make annual updates easier

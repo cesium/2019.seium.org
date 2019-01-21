@@ -23,7 +23,7 @@ and then deploy.
 # Bugs and Issues
 
 Please take into account that this website is still a work in progress. And we can still use your help!
-Found a bug or an issue? [Open a new issue](https://github.com/cesium/2018.seium.org/issues) here on GitHub.
+Found a bug or an issue? [Open a new issue](https://github.com/cesium/2019.seium.org/issues) here on GitHub.
 
 # Contributors
 
@@ -45,7 +45,6 @@ This website was made with :heart: by:
 * [Hugo Gonçalves](https://github.com/Hugainz)
 * [Nuno Rafael Rocha](https://github.com/nunorafaelrocha)
 
-[See more Contributors](https://github.com/cesium/2018.seium.org/graphs/contributors)
+[See more Contributors](https://github.com/cesium/2019.seium.org/graphs/contributors)
 
 Design made by [Jorge Simão](https://www.linkedin.com/in/jorgepedrosimao)
-
