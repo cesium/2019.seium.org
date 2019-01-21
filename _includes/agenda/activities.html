@@ -3,7 +3,9 @@
     {% for day in site.data.agenda %}
     <div class="container">
       <div class="section-title-container">
-        <h1 class="section-title text-center">{{ day.date }} - {{ day.dayOfWeek }}</h1>
+        <h1 class="section-title text-center">
+          {{ day.day }} {% t defaults.months.{{ day.month }} %} - {% t defaults.days_of_week.{{ day.day_of_week }} %}
+        </h1>
       </div>
 
       {% for act in day.activities %}
@@ -14,7 +16,11 @@
             <div class="col-sm-3 hidden-xs activity-img">
               <div class=" col-md-offset-4">
 
+<<<<<<< HEAD
                 <i class="{{ act.iconLeft }} fa-5x"></i>
+=======
+                <i class="fa {{ act.iconLeft }} fa-5x"></i>
+>>>>>>> 069ed25... Add i18n (PT and EN) and add year variable to make annual updates easier
 
               </div>
               <div class="activity-info">
@@ -102,7 +108,7 @@
               <p class="col-xs-12 activity-text">{{ act.aboutLeft }}</p>
               {% if act.registerLeft %}
               <a href="{{ act.registerLeft }}" target="_blank">
-                <button class="btn btn-info btn-sei">Inscrição</button>
+                <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
               </a>
               {% endif %}
             </div>
@@ -115,7 +121,11 @@
             <div class="col-sm-3 hidden-xs activity-img">
               <div class=" col-md-offset-4">
 
+<<<<<<< HEAD
                 <i class="{{ act.iconRight }} fa-5x"></i>
+=======
+                <i class="fa {{ act.iconRight }} fa-5x"></i>
+>>>>>>> 069ed25... Add i18n (PT and EN) and add year variable to make annual updates easier
 
               </div>
               <div class="activity-info">
@@ -203,7 +213,7 @@
               <p class="col-xs-12 activity-text">{{ act.aboutRight }}</p>
               {% if act.registerRight %}
               <a href="{{ act.registerRight }}" target="_blank">
-                <button class="btn btn-info btn-sei">Inscrição</button>
+                <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
               </a>
               {% endif %}
             </div>
@@ -216,9 +226,9 @@
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 activity-box">
           <div class="col-sm-3 hidden-xs activity-img">
             <div class=" col-md-offset-4">
-              
+
               <i class="fa {{ act.icon }} fa-5x"></i>
-              
+
             </div>
             <div class="activity-info">
               <div class="activity-datetime">
@@ -228,7 +238,7 @@
                   {% endif %}
                 </p>
                 <p>
-                  <i class="fa fa-clock-o"></i><span>{{ act.time }}</span>
+                  <i class="fa fa-clock-o"></i><span>{% t activities.{{ act.time }} %}</span>
                 </p>
               </div>
               <div class="container activity-speaker">
@@ -277,7 +287,7 @@
             </div>
           </div>
           <div class="col-sm-9 activity-text">
-            <p class="activity-title">{{ act.name }}</p>
+            <p class="activity-title">{% t activities.{{ act.name }} %}</p>
             {% if act.type %}
             <div class="activity-type">
               <p>{{ act.type }}</p>
@@ -285,7 +295,7 @@
             <div class="hidden-lg hidden-md hidden-sm activity-info">
               <div class="activity-datetime">
                 <div class="col-xs-7 ">
-                  <i class="fa fa-clock-o"></i><span>{{ act.time }}</span>
+                  <i class="fa fa-clock-o"></i><span>{% t activities.{{ act.time }} %}</span>
                 </div>
                 <div class="col-xs-5">
                   {% if act.place %}
@@ -338,10 +348,10 @@
               </div>
             </div>
             {% endif %}
-            <p class="col-xs-12 activity-text">{{ act.about }}</p>
+            <p class="col-xs-12 activity-text">{% t activities.{{ act.about }} %}</p>
             {% if act.register %}
             <a href="{{ act.register }}" target="_blank">
-              <button class="btn btn-info btn-sei">Inscrição</button>
+              <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
             </a>
             {% endif %}
           </div>
