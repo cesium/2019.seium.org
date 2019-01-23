@@ -1,4 +1,4 @@
-# [SEI18](https://github.com/cesium/2018.seium.org)
+# [SEI19](https://github.com/cesium/2018.seium.org)
 
 SEI - Semana da Engenharia Informática, our Computer Engineering Week is an eventful week, fully organized by students for students.
 
