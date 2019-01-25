@@ -18,107 +18,116 @@
       time: 10:00-10:30
       duration: half-hour
       icon: fa-scissors
-      about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
+      about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
       type: social
       place: CP2-B1
 
-    - name: AI Stack
-      speaker: Miguel Ramos
-      enterprise: Unbabel
-      enterpriseURL: https://unbabel.com/
-      time: 10:30-11:30
-      duration: one-hour
-      about: Overview das aplicações de inteligência artificial e machine learning na pipeline da Unbabel.
-      icon: fa-cogs
-      type: talk
+    - name: Apresentação dos desafios
+      time: 11:00-11:30
+      duration: half-hour
+      icon: fa-scissors
+      about: Apresentação de todos os desafios que irão acontecer durante a semana.
+      type: social
       place: CP2-B1
 
     - coffee: true
 
-    - name: Big Data - Present & Future
-      speaker: Nuno Barreto
-      speaker2: Ricardo Cardante
+    - name: Talk BLIP
+      speaker: TBA
+      speaker2: TBA
       time: 12:00-13:00
       duration: one-hour 
       type: talk
-      about: O tema será iniciado com uma componente descritiva em torno do conceito de Big Data, o seu papel no presente e a evolução prevista (o porquê da necessidade, a linha ténue entre as soluções tradicionais de BI (ETL vs ELT, por exemplo) e as novas abordagens e alternativas/complementos que Big Data pode trazer, etc). Seguir-se-á uma abordagem às soluções Near Real Time e uma demo que mostre um exemplo concreto de tratamento de dados em escala significativa em Near Real Time.
+      about: TBA
       icon: fa-database
-      enterprise: XpandIT
-      enterpriseURL: https://www.xpand-it.com/
+      enterprise: BLIP
+      enterpriseURL: www.blip.pt
       type: talk
       place: CP2-B1
 
     - meal: true
 
-    - name: "Enterprise Architecture @ Sonae: let’s dive in?"
-      speaker: Paula Gomes
-      enterprise: BitSonae
-      enterpriseURL: https://www.linkedin.com/showcase/bit-sonae/
+    - name: TBA
+      speaker: TBA
+      enterprise: Accenture
+      enterpriseURL: https://www.accenture.pt/
       time: 14:00-15:00
       duration: one-hour
       icon: fa-table
-      type: talk 
-      about: Nesta talk terão a oportunidade de conhecer com maior detalhe o papel da tecnologia no retalho e, especificamente, num contexto empresarial tão dinâmico como o da Sonae.
+      type: talk
+      about: TBA
       place: CP2-B1
 
-    - name: Fogos.pt - A história, a tecnologia e os problemas
-      speaker: João Pina
-      enterprise: MeshApp
-      enterpriseURL: https://meshapp.me/
+    - name: Analysing a Cross-Platform Game engine
+      speaker: David Amador
+      enterprise: ¯\_(ツ)_/¯
+      enterpriseURL: https://upfallstudios.com/
       time: 15:00-16:00
       duration: one-hour
       icon: fa-fire
       type: talk
-      about: Uma conversa onde são apresentados alguns marcos históricos do Fogos.pt. A tecnologia por detrás e alguns problemas encontrados no caminho!
+      about: 
       place: CP2-B1
 
     - coffee: true
     
-    - name: Software Inteligente
-      speaker: Miguel Domingues
-      speaker2: Daniel Malhadas
-      enterprise: Primavera
-      enterpriseURL: https://pt.primaverabss.com/
-      time: 16:30-17:30
-      duration: one-hour
+    - name: Apresentação da BLIP
+      speaker: TBA
+      enterprise: BLIP
+      enterpriseURL: https://www.blip.pt/
+      time: 16:30-16:45
+      duration: fifty-min
       about: A Inteligência Artificial, o Machine Learning e o Blockchain foram temas de grande destaque na Web Summit 2017 e são as tendências da inovação tecnológica da PRIMAVERA para 2018. Estas tecnologias fazem parte de uma visão para construir produtos inteligentes que servirá de orientação para o futuro do software de gestão da PRIMAVERA. Ficaste curioso? Então esta sessão é para ti!
       type: talk
       icon: fa-desktop
       place: CP2-B1
 
-    - name: How to work remotely and live wherever you want
+    - name: Remote Work Podcast 
       speaker: Job van der Voort
-      enterprise: GitLab
-      enterpriseURL: https://about.gitlab.com/
-      time: 17:30-18:30
+      enterprise: Remote
+      enterpriseURL: https://remote.com/
+      time: 16:45-18:00
       duration: one-hour
-      about: Job trabalha na GitLab e vem falar-te de como trabalha remotamente, permitindo-lhe viver onde quer.
-      type: talk
-      icon: fa-briefcase
+      about: TBA
+      type: podcast
+      icon: fa-podcast
       place: CP2-B1
 
-    - name: Tabletop meetup
-      time: 21:30-23:30
+    - name: BigData meetup
+      time: 19:00-21:30
       duration: two-hours
-      about: Encontro de amantes de jogos e aventuras analógicas!
+      about: TBA
       type: social
       icon: fa-users
-      place: Drawstep, Bragashopping
+      place: Departamento de Informática
 
 - tuesday:
   date: 6 FEV
   dayOfWeek: TERÇA
   activities:
-    - name: Real-time webapps com Laravel e Pusher
-      speaker: Francisco Neves
-      enterprise: HASLab
-      enterpriseURL: http://haslab.uminho.pt/
-      time: 09:30-11:30
-      duration: two-hours
-      icon: fa-globe
-      about: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel,  vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
-      type: workshop
-      place: DI-0.05
+    - double: true
+      nameLeft: Workshop - XpandIT
+      speakerLeft: TBA
+      speakerLeft2: TBA
+      enterpriseLeft: XpandIT
+      enterpriseURLLeft: https://xpand-it.com/
+      timeLeft: 09:00-11:00
+      durationLeft: two-hours
+      iconLeft: fa-globe
+      aboutLeft: TBA
+      typeLeft: workshop
+      placeLeft: DI-TBA
+      nameRight: Workshop - Accenture
+      speakerRight: TBA
+      enterpriseRight: Accenture
+      enterpriseURLRight: https://accenture.pt/
+      timeRight: 09:00-11:00
+      durationRight: two-hours
+      iconRight: fa-code
+      aboutRight: TBA
+      typeRight: TBA
+      placeRight: DI-TBA
+      #HERE
 
     - coffee: true
 
