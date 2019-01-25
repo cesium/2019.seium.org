@@ -16,4 +16,13 @@ highlighter: rouge
 markdown: kramdown
 
 gems:
-- jekyll-assets
+  - jekyll-assets
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
