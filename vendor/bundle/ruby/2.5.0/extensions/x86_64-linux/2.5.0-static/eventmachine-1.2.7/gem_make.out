@@ -1,0 +1,28 @@
+current directory: /home/franciscolira/Documents/cesium/2019.seium.org/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/franciscolira/.asdf/installs/ruby/2.5.3/bin/ruby -r ./siteconf20190123-1055-a5na4.rb extconf.rb
+creating Makefile
+
+current directory: /home/franciscolira/Documents/cesium/2019.seium.org/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/franciscolira/Documents/cesium/2019.seium.org/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+cc1plus: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1plus: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1plus: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+compiling rubymain.cpp
+cc1plus: warning: command line option ‘-Wimplicit-int’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
+cc1plus: warning: command line option ‘-Wimplicit-function-declaration’ is valid for C/ObjC but not for C++
+cc1plus: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1plus: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1plus: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+linking shared-object fastfilereaderext.so
+
+current directory: /home/franciscolira/Documents/cesium/2019.seium.org/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190123-1055-18riqtd

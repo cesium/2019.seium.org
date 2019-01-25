@@ -2,7 +2,7 @@
   <div class="container">
     
     <div class="section-title-container">
-      <h1 class="section-title">Organização</h1>
+      <h1 class="section-title">    Organização    </h1>
     </div>
 
     {% for staff in site.data.staff %}
@@ -14,22 +14,22 @@
           <ul class="list-inline social-buttons">
             {% if staff.website %}
             <li>
-              <a href="{{ staff.website }}" target="_blank"><i class="fa fa-globe"></i></a>
+              <a href="{{ staff.website }}" target="_blank"><i class="fas fa-globe"></i></a>
             </li>
             {% endif %}
             {% if staff.twitter %}
             <li>
-              <a href="{{ staff.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+              <a href="{{ staff.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
             </li>
             {% endif %}
             {% if staff.github %}
             <li>
-              <a href="{{ staff.github }}" target="_blank"><i class="fa fa-github"></i></a>
+              <a href="{{ staff.github }}" target="_blank"><i class="fab fa-github"></i></a>
             </li>
             {% endif %}
             {% if staff.linkedin %}
             <li>
-              <a href="{{ staff.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a>
+              <a href="{{ staff.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
             </li>
             {% endif %}
           </ul>

@@ -1,23 +1,23 @@
-- saturday3:
-  date: 3 FEV
+- saturday2:
+  date: 2 FEV
   dayOfWeek: SÁBADO
   activities:
-    - name: CoderDojo
-      time: 10:00-12:00
-      duration: two-hours 
-      about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
+    - name: GeekGirls
+      time: 09:00-16:00
+      duration: seven-hours 
+      about: "TODO"
       icon: fa-users
       type: social
-      place: Generation
+      place: Departamento de Informática
 
 - monday:
-  date: 5 FEV
+  date: 4 FEV
   dayOfWeek: SEGUNDA
   activities:
     - name: Sessão de Abertura 
-      time: 10:00-10:30
+      time: 10:00-11:00
       duration: half-hour
-      icon: fa-scissors
+      icon: fa-cut
       about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
       type: social
       place: CP2-B1

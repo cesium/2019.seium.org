@@ -2,7 +2,7 @@
 <section id="speakers" controller="speakerCtrl">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">Oradores</h1>
+      <h1 class="section-title">    Oradores    </h1>
     </div>
     <div class="speakers-list">
       {% for speaker in site.data.speakers %}
@@ -23,15 +23,15 @@
           <ul class="list-inline social-buttons speaker-social">
             {% if speaker.web %}
             <li>
-              <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fa fa-globe"></i></a>
+              <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fas fa-globe"></i></a>
             </li>
             {% endif %} {% if speaker.twitter %}
             <li>
-              <a if="speaker.twitter" target="_blank" href="{{ speaker.twitter }}"><i class="fa fa-twitter"></i></a>
+              <a if="speaker.twitter" target="_blank" href="{{ speaker.twitter }}"><i class="fab fa-twitter"></i></a>
             </li>
             {% endif %} {% if speaker.github %}
             <li>
-              <a if="speaker.github" target="_blank" href="{{ speaker.github }}"><i class="fa fa-github"></i></a>
+              <a if="speaker.github" target="_blank" href="{{ speaker.github }}"><i class="fab fa-github"></i></a>
             </li>
             {% endif %}
           </ul>
