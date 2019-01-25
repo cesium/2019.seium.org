@@ -4,7 +4,7 @@
   activities:
     - name: GeekGirls
       time: 09:00-16:00
-      duration: seven-hours 
+      duration: seven-hours
       about: "TODO"
       icon: fa-users
       type: social
@@ -14,7 +14,7 @@
   date: 4 FEV
   dayOfWeek: SEGUNDA
   activities:
-    - name: Sessão de Abertura 
+    - name: Sessão de Abertura
       time: 10:00-11:00
       duration: half-hour
       icon: fa-cut
@@ -199,7 +199,7 @@
       enterpriseURLLeft: https://blip.pt/
       timeLeft: 09:30-11:30
       durationLeft: two-hours
-      iconLeft: fa-globe
+      iconLeft: fas fa-globe
       aboutLeft: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
       typeLeft: workshop
       placeLeft: DI-0.02
@@ -209,7 +209,7 @@
       enterpriseURLRight: https://subvisual.co/
       timeRight: 10:30-11:30
       durationRight: one-hour
-      iconRight: fa-code
+      iconRight: fas fa-code
       aboutRight: Uma viagem pela terra de sistemas distribuídos e topologias P2P, onde começamos com um projeto de smart office e aprendemos como pensar quando construímos aplicações assíncronas. Esta talk pode ou não incluir uma pequena introdução a Elixir.
       typeRight: talk
       placeRight: CP2-B1
@@ -291,7 +291,7 @@
       enterpriseURLLeft: http://www.smithmicro.com/
       timeLeft: 09:30-11:30
       durationLeft: two-hours
-      iconLeft: fa-android
+      iconLeft: fab fa-android
       aboutLeft: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
       typeLeft: workshop
       placeLeft: DI-0.02
@@ -301,7 +301,7 @@
       enterpriseURLRight: https://performetric.net/
       timeRight: 10:30-11:30
       durationRight: one-hour
-      iconRight: fa-cogs
+      iconRight: fas fa-cogs
       aboutRight: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
       typeRight: talk
       placeRight: CP2-B1
@@ -378,7 +378,7 @@
       typeLeft: workshop
       timeLeft: 09:30-11:30
       durationLeft: two-hours
-      iconLeft: fa-apple
+      iconLeft: fas fa-apple
       enterpriseLeft: Nutrium
       enterpriseURLLeft: https://nutrium.io/
       aboutLeft: "Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.<br>Requisitos: Xcode 9 instalado e atualizado."
@@ -389,7 +389,7 @@
       enterpriseURLRight: http://gip.aaum.pt/
       durationRight: one-hour
       timeRight: 10:30-11:30
-      iconRight: fa-paperclip
+      iconRight: fas fa-paperclip
       typeRight: talk
       aboutRight: O currículo é o "cartão de visita" e o primeiro contacto do candidato com o empregador. Vem aprender algumas dicas para teres um CV implacável e diferenciador.
       placeRight: CP2-B1
@@ -447,14 +447,14 @@
       nameLeft: Hackathon 
       timeLeft: 10:00-14:30
       durationLeft: four-hours-and-half
-      iconLeft: fa-code
+      iconLeft: fas fa-code
       typeLeft: Concurso
       aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       placeLeft: CP2
       nameRight: 61º Geek Girls Portugal
       timeRight: 10:30-14:30
       durationRight: four-hours
-      iconRight: fa-female
+      iconRight: fas fa-female
       typeRight: Meeting
       aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
       placeRight: Smith Micro Portugal, Braga 
