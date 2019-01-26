@@ -1,0 +1,97 @@
+<section id="organization">
+  <div class="container">
+
+    <div class="section-title-container">
+      <h1 class="section-title">    Organização    </h1>
+    </div>
+
+    {% for member in site.data.team.organization %}
+    {% if member.picture %}
+    <div repeat="staff in staffs" class="col-md-2  col-sm-2 col-xs-3 staff">
+      <div class="staff-info-container" style="background-image: url( {% asset_path 'team/organization/{{ member.picture }}' %} )">
+        <div class="staff-info">
+          <span class="col-md-12 staff-name">{{ member.name }}</span>
+          <ul class="list-inline social-buttons">
+            {% if member.website %}
+            <li>
+              <a href="{{ member.website }}" target="_blank"><i class="fas fa-globe"></i></a>
+            </li>
+            {% endif %}
+            {% if member.twitter %}
+            <li>
+              <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+            </li>
+            {% endif %}
+            {% if member.github %}
+            <li>
+              <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fab fa-github"></i></a>
+            </li>
+            {% endif %}
+            {% if member.gitlab %}
+            <li>
+              <a href="https://gitlab.com/{{ member.gitlab }}" target="_blank"><i class="fab fa-gitlab"></i></a>
+            </li>
+            {% endif %}
+            {% if member.linkedin %}
+            <li>
+              <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div>
+</section>
+
+<section id="staff">
+  <div class="container">
+
+    <div class="section-title-container">
+      <h1 class="section-title">       Staff       </h1>
+    </div>
+
+    {% for member in site.data.team.organization %}
+    {% if member.picture %}
+    <div repeat="staff in staffs" class="col-md-2  col-sm-2 col-xs-3 staff">
+      <div class="staff-info-container" style="background-image: url( {% asset_path 'team/staff/{{ member.picture }}' %} )">
+        <div class="staff-info">
+          <span class="col-md-12 staff-name">{{ member.name }}</span>
+          <ul class="list-inline social-buttons">
+            {% if member.website %}
+            <li>
+              <a href="{{ member.website }}" target="_blank"><i class="fas fa-globe"></i></a>
+            </li>
+            {% endif %}
+            {% if member.twitter %}
+            <li>
+              <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+            </li>
+            {% endif %}
+            {% if member.github %}
+            <li>
+              <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fab fa-github"></i></a>
+            </li>
+            {% endif %}
+            {% if member.gitlab %}
+            <li>
+              <a href="https://gitlab.com/{{ member.gitlab }}" target="_blank"><i class="fab fa-gitlab"></i></a>
+            </li>
+            {% endif %}
+            {% if member.linkedin %}
+            <li>
+              <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+  </div>
+</section>
