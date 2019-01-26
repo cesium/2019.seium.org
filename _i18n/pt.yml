@@ -3,7 +3,7 @@ navbar:
   speakers: Oradores
   challenges: Desafios
   getting_here: Como chegar
-  staff: Equipa
+  team: Equipa
   hackathon: Hackathon
   registrations: Inscrições
   workshops: Workshops
@@ -63,7 +63,9 @@ speakers:
   mike_elsmore:
     about: Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano...
 
-staff:
+team:
+  organization: Organização
+  staff: Staff
   headline: Para te trazer esta semana, o CeSIUM juntou a melhor equipa possível. Eles andam por aí, cheios de trabalho, a reunir oradores, a atrair parceiros e a dar asas à imaginação, tudo para que esta seja a tua semana favorita.
   find_us: Como nos encontrar
 

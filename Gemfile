@@ -10,5 +10,3 @@ gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 
 gem 'rouge'
-
-gem 'minimal-mistakes-jekyll', '4.13.0'

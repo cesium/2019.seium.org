@@ -11,7 +11,7 @@
 
             {% for day in site.data.agenda %}
             <div class="col-sm-3 agenda-day">
-              <h4 class="center-block agenda-date">{{ day.day }} {% t defaults.months.{{ day.month}} %}. <br><span>{% t defaults.days_of_week.{{ day.day_of_week }} %}</span></h4>
+              <h4 class="center-block agenda-date">{{ day.day }} {% t defaults.months.{{ day.month }} %}. <br><span>{% t defaults.days_of_week.{{ day.day_of_week }} %}</span></h4>
               {% for act in day.activities %}
               {% if act.coffee %}
               <h5 class="agenda-coffee">

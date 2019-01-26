@@ -1,8 +1,8 @@
 ### Jekyll ###
-
 _site/
+.asset-cache
 .sass-cache/
-.asset-cache/
+.jekyll-cache/
 .jekyll-metadata
 
 ### Ruby ###
