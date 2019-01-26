@@ -1,29 +1,29 @@
-- name: Eugene Petrenko
-  pic: eugene.png
-  position: Software Developer
-  enterprise: JetBrains
-  enterpriseURL: https://www.jetbrains.com/
-  twitter: https://twitter.com/jonnyzzz
-  github: https://github.com/jonnyzzz
-  about: Durante anos Eugene tem andado a divertir-se com Kotlin, tendo completado em 2013 o seu primeiro projeto. É apaixonado por linguagens de programação, tecnologias inovadoras e por tornar o mundo um lugar melhor. Eugene é developer na JetBrains, continuando a contribuir para muitos projetos open source e talks sobre Kotlin, Java, Go, .NET, Web e código nativo.
+- name: Celso Martinho
+  pic: celso-martinho.png
+  position: CEO and Founder
+  enterprise: Bright Pixel
+  enterpriseURL: https://brpx.com/
+  twitter: https://twitter.com/celso
+  github: https://github.com/celso
+  about: Celso Martinho é uma pessoa que encontra motivação nos desafios, um geek tecnológico optimista, um homem de produto, uma alma empresarial, eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior projeto de internet de Portugal, agora uma empresa mídia e conteúdo da fábrica de inovação da Portugal Telecom, constrói serviços B2C em grande escala em áreas desde cloud, e-commerce e e-payments até interatividade IPTV. Ele tem um combinado passado em gestão de alto nível, gestão de projetos software, arquitetura de sistemas e desenvolvimento de produto técnico e várias décadas de experiência nas indústrias telecom e internet. Celso é também CEO e fundador da Bright Pixel, um estúdio de software, casa de uma equipa de experts da indústria com vasta experiência em usar tecnologia e criatividade para criar produtos com alcance mundial e serviços num ambiente diverso de áreas desde desenvolvimento web, segurança, e-payment, tecnologias big-data e design de interfaces e usabilidade.
   id: 1
 
-- name: Mike Elsmore
-  pic: mike-elsmore.jpg
-  position: Developer, Technologist, Speaker & Community Organiser
-  twitter: https://twitter.com/ukmadlz
-  github: https://github.com/ukmadlz
-  about: Mike adora desenvolver o que ainda não foi desenvolvido, consertar o que já foi e fazer coisas invulgares através de uma mistura de código e força de vontade. Adora partilhar conhecimento em desenvolvimento rápido e bases de dados diferentes, qual feiticeiro moderno. É comum ser encontrado envolto em protótipos que combinam Javascript, tecnologias de servidores e API’s estranhas e misteriosas, quais resquícios de incantações antigas. Mike é também parte ativa da subcultura hacker, participando em hackathons e conferências de desenvolvimento.
+- name: Bruno Ribeiro
+  pic: bruno-ribeiro.png
+  position: Gamification Designer
+  enterprise: Fractal Mind
+  enterpriseURL: http://landing.fractalmind.pt/
+  about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados. É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   id: 2
 
-- name: Filipa Lacerda
-  pic: filipa-lacerda.png
-  position: Frontend Engineer
-  enterprise: GitLab
-  enterpriseURL: https://about.gitlab.com/
-  twitter: https://twitter.com/filipalacerda
-  github: https://github.com/filipalacerda
-  about: Filipa é Senior Frontend Engineer na GitLab, focando-se em tornar fantástica a experiência com CI/CD (Continuous Integration/Continuous Delivery) para todos os que dela necessitarem. É apaixonada por desenvolvimento web, código bem escrito e ajudar pessoas da melhor forma que puder, procurando aplicar a sua mestria nas artes da engenharia para deixar o mundo um pouco melhor do que o encontrou, uma linha de código de cada vez.
+- name: David Amador
+  pic: david-amador.png
+  position: ¯\_(ツ)_/¯
+  enterprise: Upfall Studios
+  enterpriseURL: https://www.upfallstudios.com/
+  twitter: https://twitter.com/DJ_Link
+  github: https://github.com/DJLink
+  about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
   id: 3
 
 - name: João Pina
@@ -95,7 +95,7 @@
   enterprise: BitSonae
   enterpriseURL: https://www.linkedin.com/showcase/bit-sonae/
   about: Curiosa, dedicada, muito teimosa e, acima de tudo, feliz. Paula Gomes, licenciada em Ciência da Informação e Mestre em Engenharia de Serviços e Gestão pela FEUP. Parece que foi ontem, mas já lá vão mais de 10 anos de um percurso profissional dedicado à organização empresarial, sistemas de informação, estratégia e empreendedorismo. Depois de uns anos a batalhar como consultora e muito direcionada para a indústria, decidiu voltar-se para o maravilhoso mundo do retalho. Há 4 anos que faz parte do universo Sonae, mais concretamente da Direção de Sistemas de Informação (BIT), onde lidera a equipa de IT Strategy & Enterprise Architecture (também conhecida pela "melhor equipa de sempre").
-  id: 11  
+  id: 11
 
 - name: José Carreiras
   pic: jose-carreiras-aptiv.jpg
@@ -175,7 +175,7 @@
   about: João Vilela é mestre em Engenharia de Telecomunicações e Informática pela Universidade do Minho, sendo atualmente Software Developer na Smith Micro Software. Tendo já participado em vários projetos nacionais e internacionais e em desenvolvimento de produto, possui experiência no desenvolvimento de aplicações móveis e soluções backend, sendo especialista no desenvolvimento de aplicações nativas para Android.
   id: 20
 
-- name: Diogo Martins 
+- name: Diogo Martins
   pic: diogo-martins-nutrium.jpg
   position: Developer
   enterprise: Nutrium
@@ -183,7 +183,7 @@
   about: Estudou Engenharia Informática na Universidade do Minho, sendo agora líder da equipa de desenvolvimento iOS no Nutrium.
   id: 21
 
-- name: Daniel Malhadas 
+- name: Daniel Malhadas
   pic: daniel-malhadas-primavera.jpg
   position: Researcher
   enterprise: Primavera
