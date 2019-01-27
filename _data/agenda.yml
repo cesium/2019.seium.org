@@ -1,220 +1,287 @@
-- saturday2:
+- saturday3:
   date: 2 FEV
   dayOfWeek: SÁBADO
   activities:
-    - name: GeekGirls
-      time: 09:00-16:00
-      duration: seven-hours
-      about: "TODO"
+    - name: CoderDojo
+      time: 10:00-12:00
+      duration: two-hours
+      about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
       icon: fa-users
       type: social
-      place: Departamento de Informática
+      place: Generation
 
 - monday:
   date: 4 FEV
   dayOfWeek: SEGUNDA
   activities:
     - name: Sessão de Abertura
-      time: 10:00-11:00
+      time: 10:00-10:30
       duration: half-hour
-      icon: fa-cut
-      about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
+      icon: fa-scissors
+      about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
       type: social
       place: CP2-B1
 
-    - name: AI Stack
-      speaker: Miguel Ramos
-      enterprise: Unbabel
-      enterpriseURL: https://unbabel.com/
-      time: 10:30-11:30
-      duration: one-hour
-      about: Overview das aplicações de inteligência artificial e machine learning na pipeline da Unbabel.
-      icon: fa-cogs
-      type: talk
+    - name: Apresentação dos desafios
+      time: 11:00-11:30
+      duration: half-hour
+      icon: fa-scissors
+      about: Apresentação de todos os desafios que irão acontecer durante a semana.
+      type: social
       place: CP2-B1
 
     - coffee: true
 
-    - name: Big Data - Present & Future
-      speaker: Nuno Barreto
-      speaker2: Ricardo Cardante
+    - name: Talk BLIP
+      speaker: TBA
+      speaker2: TBA
       time: 12:00-13:00
-      duration: one-hour 
+      duration: one-hour
       type: talk
-      about: O tema será iniciado com uma componente descritiva em torno do conceito de Big Data, o seu papel no presente e a evolução prevista (o porquê da necessidade, a linha ténue entre as soluções tradicionais de BI (ETL vs ELT, por exemplo) e as novas abordagens e alternativas/complementos que Big Data pode trazer, etc). Seguir-se-á uma abordagem às soluções Near Real Time e uma demo que mostre um exemplo concreto de tratamento de dados em escala significativa em Near Real Time.
+      about: TBA
       icon: fa-database
-      enterprise: XpandIT
-      enterpriseURL: https://www.xpand-it.com/
+      enterprise: BLIP
+      enterpriseURL: www.blip.pt
       type: talk
       place: CP2-B1
 
     - meal: true
 
-    - name: "Enterprise Architecture @ Sonae: let’s dive in?"
-      speaker: Paula Gomes
-      enterprise: BitSonae
-      enterpriseURL: https://www.linkedin.com/showcase/bit-sonae/
+    - name: Talk Accenture
+      speaker: TBA
+      enterprise: Accenture
+      enterpriseURL: https://www.accenture.pt/
       time: 14:00-15:00
       duration: one-hour
       icon: fa-table
-      type: talk 
-      about: Nesta talk terão a oportunidade de conhecer com maior detalhe o papel da tecnologia no retalho e, especificamente, num contexto empresarial tão dinâmico como o da Sonae.
+      type: talk
+      about: TBA
       place: CP2-B1
 
-    - name: Fogos.pt - A história, a tecnologia e os problemas
-      speaker: João Pina
-      enterprise: MeshApp
-      enterpriseURL: https://meshapp.me/
+    - name: Analysing a Cross-Platform Game engine
+      speaker: David Amador
+      enterprise: Upfall Studios
+      enterpriseURL: https://upfallstudios.com/
       time: 15:00-16:00
       duration: one-hour
       icon: fa-fire
       type: talk
-      about: Uma conversa onde são apresentados alguns marcos históricos do Fogos.pt. A tecnologia por detrás e alguns problemas encontrados no caminho!
+      about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
       place: CP2-B1
 
     - coffee: true
-    
-    - name: Software Inteligente
-      speaker: Miguel Domingues
-      speaker2: Daniel Malhadas
-      enterprise: Primavera
-      enterpriseURL: https://pt.primaverabss.com/
-      time: 16:30-17:30
-      duration: one-hour
+
+    - name: Apresentação da BLIP
+      speaker: TBA
+      enterprise: BLIP
+      enterpriseURL: https://www.blip.pt/
+      time: 16:30-16:45
+      duration: fifty-min
       about: A Inteligência Artificial, o Machine Learning e o Blockchain foram temas de grande destaque na Web Summit 2017 e são as tendências da inovação tecnológica da PRIMAVERA para 2018. Estas tecnologias fazem parte de uma visão para construir produtos inteligentes que servirá de orientação para o futuro do software de gestão da PRIMAVERA. Ficaste curioso? Então esta sessão é para ti!
       type: talk
       icon: fa-desktop
       place: CP2-B1
 
-    - name: How to work remotely and live wherever you want
+    - name: Remote Work Podcast
       speaker: Job van der Voort
-      enterprise: GitLab
-      enterpriseURL: https://about.gitlab.com/
-      time: 17:30-18:30
+      enterprise: Remote
+      enterpriseURL: https://remote.com/
+      time: 16:45-18:00
       duration: one-hour
-      about: Job trabalha na GitLab e vem falar-te de como trabalha remotamente, permitindo-lhe viver onde quer.
-      type: talk
-      icon: fa-briefcase
+      about: TBA
+      type: podcast
+      icon: fa-podcast
       place: CP2-B1
 
-    - name: Tabletop meetup
-      time: 21:30-23:30
+    - name: BigData meetup
+      time: 19:00-21:30
       duration: two-hours
-      about: Encontro de amantes de jogos e aventuras analógicas!
+      about: TBA
       type: social
       icon: fa-users
-      place: Drawstep, Bragashopping
+      place: Departamento de Informática
 
 - tuesday:
-  date: 6 FEV
+  date: 5 FEV
   dayOfWeek: TERÇA
   activities:
-    - name: Real-time webapps com Laravel e Pusher
-      speaker: Francisco Neves
-      enterprise: HASLab
-      enterpriseURL: http://haslab.uminho.pt/
-      time: 09:30-11:30
-      duration: two-hours
-      icon: fa-globe
-      about: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel,  vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
-      type: workshop
-      place: DI-0.05
+    - double: true
+      nameLeft: Workshop - Xpand IT
+      speakerLeft: TBA
+      speakerLeft2: TBA
+      enterpriseLeft: Xpand IT
+      enterpriseURLLeft: https://xpand-it.com/
+      timeLeft: 09:00-11:00
+      durationLeft: two-hours
+      iconLeft: fa fa-globe
+      aboutLeft: TBA
+      typeLeft: workshop
+      placeLeft: DI-TBA
+      nameRight: Workshop - Accenture
+      speakerRight: TBA
+      enterpriseRight: Accenture
+      enterpriseURLRight: https://accenture.pt/
+      timeRight: 09:00-11:00
+      durationRight: two-hours
+      iconRight: fa fa-code
+      aboutRight: TBA
+      typeRight: TBA
+      placeRight: DI-TBA
 
     - coffee: true
 
-    - name: "Machine Learning: Evening the Odds in the Digital Fraud War"
-      speaker: Carlos Martins
-      speaker2: Raul Azevedo
-      enterprise: WeDo
-      enterpriseURL: http://ww1.wedotechnologies.com/
-      type: talk 
-      time: 12:00-13:00
-      duration: one-hour
-      icon: fa-cogs
-      about: A era digital em que entramos, onde a conectividade massivamente sensorial e ubíqua está a indefinir os mundos físico e digital, está a traçar uma nova forma de viver, trazendo várias oportunidades e a promessa de um mundo melhor. Mas esta mudança radical traz também mais desafios, em que este mundo interconectado, onde tudo acontece num instante, facilmente se torna uma enorme plataforma de ataque para defraudadores e criminosos informáticos no geral. É, portanto, necessário haver igualmente uma abordagem alternativa para combater a fraude, suportada pelas mesmas ferramentas que dão forma a este novo mundo digital, onde a Inteligência Artificial tem um papel fundamental.
-      place: CP2-B1
+    - double: true
+      nameLeft: Workshop - Pixelmatters
+      speakerLeft: TBA
+      enterpriseLeft: Pixelmatters
+      enterpriseURLLeft: http://pixelmatters.com/
+      timeLeft: 11:30-13:30
+      durationLeft: two-hours
+      iconLeft: fa fa-globe
+      aboutLeft: TBA
+      typeLeft: workshop
+      placeLeft: DI-TBA
+      nameRight: Workshop - OutSystems
+      speakerRight: TBA
+      enterpriseRight: OutSystems
+      enterpriseURLRight: https://www.outsystems.com/
+      timeRight: 11:30-13:30
+      durationRight: two-hours
+      iconRight: fa fa-code
+      aboutRight: TBA
+      typeRight: workshop
+      placeRight: DI-TBA
 
     - meal: true
 
-    - name: 1v1 Tournament
+    - name: TBA
+      speaker: André Pimenta
+      enterprise: TBA
+      enterpriseURL: TBA
       time: 14:00-15:00
       duration: one-hour
+      icon: fa-desktop
       type: talk
-      icon: fa-trophy
-      about: Desafios de programação 1v1. Comecem os duelos!
-      place: CP2-B1
+      about: TBA
+      place: TBA
 
-    - name: "GitLab: One Tool for Software Development"
-      speaker: Filipa Lacerda
-      speaker2: Pedro Moreira da Silva
-      enterprise: GitLab
-      enterpriseURL: https://about.gitlab.com/
-      time: 15:00-16:00 
+    - name: Startups para Geeks
+      speaker: Celso Martinho
+      enterprise: Bright Pixel
+      enterpriseURL: https://brpx.com/
+      time: 15:00-16:00
       duration: one-hour
-      icon: fa-question
+      icon: fa-cogs
       type: talk
-      about: Filipa Lacerda e Pedro Moreira da Silva vêm falar-te de como a GitLab pode ser uma ferramenta útil para os teus projetos.
-      place: CP2-B1
+      about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+      place: TBA
 
     - coffee: true
 
-    - name: O estado da segurança em Organizações Modernas
-      speaker: Daniel Teixeira
-      enterprise: KPMG
-      enterpriseURL: https://home.kpmg.com/
-      time: 16:30-17:30 
-      duration: one-hour
-      about: A segurança das organizações está cada vez mais ligada ao sucesso dos seus negócios. Esta palestra irá discutir a necessidade da realização de testes de penetração e simulação de adversários nas organizações e mostrar alguns exemplos práticos tanto defensivos como ofensivos para tornar as organizações e os seus negócios mais seguros.
-      icon: fa-lock
+    - name: Apresentação da TBA
+      speaker: TBA
+      enterprise: TBA
+      enterpriseURL:
+      time: 16:30-16:45
+      duration: fifty-min
+      about: TBA
       type: talk
-      place: CP2-B1
-
-    - name: What about the future?
-      speaker: Alberto Proença
-      speaker2: José Nuno Oliveira
-      speaker3: Paulo S. Almeida
-      time: 17:30-18:30
-      type: Tertulia
-      duration: one-hour
       icon: fa-desktop
-      about: Convidamos alguns dos professores mais carismáticos do nosso departamento para discutirem o futuro da engenharia informática. Não podes mesmo perder esta conversa!
-      place: CP2-B1
+      place: TBA
+
+    - name: Eng. Informática nas Universidades Portuguesas
+      speaker: TBA
+      speaker2: TBA
+      speaker3: TBA
+      time: 17:00-18:00
+      duration: one-hour
+      about: TBA
+      icon: fa-desktop
+      type: Tertúlia
+      place: TBA
 
     - name: Arraial de engenharia
-      time: 20:30-23:30
+      time: 21:00-00:00
       duration: three-hours
       about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica! Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/161849231269866/' target='_blank'>Facebook</a>."
       type: social
       place: Largo do Carpe
 
 - wednesday:
-  date: 7 FEV
+  date: 6 FEV
   dayOfWeek: QUARTA
   activities:
     - double: true
-      nameLeft: Building a Single Page Application
-      speakerLeft: Bruno Araújo
-      speakerLeft2: Gonçalo Matos
-      enterpriseLeft: Blip
-      enterpriseURLLeft: https://blip.pt/
-      timeLeft: 09:30-11:30
+      nameLeft: Workshop - Jean Pierre
+      speakerLeft: Jean Pierre
+      enterpriseLeft: TBA
+      enterpriseURLLeft: TBA
+      timeLeft: 09:00-11:00
       durationLeft: two-hours
-      iconLeft: fas fa-globe
-      aboutLeft: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
+      iconLeft: fa fa-globe
+      aboutLeft: TBA
       typeLeft: workshop
-      placeLeft: DI-0.02
-      nameRight: A journey through P2P land
-      speakerRight: F. Mendes
-      enterpriseRight: Subvisual
-      enterpriseURLRight: https://subvisual.co/
-      timeRight: 10:30-11:30
-      durationRight: one-hour
-      iconRight: fas fa-code
-      aboutRight: Uma viagem pela terra de sistemas distribuídos e topologias P2P, onde começamos com um projeto de smart office e aprendemos como pensar quando construímos aplicações assíncronas. Esta talk pode ou não incluir uma pequena introdução a Elixir.
-      typeRight: talk
-      placeRight: CP2-B1
+      placeLeft: DI-TBA
+      nameRight: Workshop - WeDo
+      speakerRight: TBA
+      enterpriseRight: WeDo
+      enterpriseURLRight: https://www.wedotechnologies.com/
+      timeRight: 09:00-11:00
+      durationRight: two-hours
+      iconRight: fa fa-code
+      aboutRight: TBA
+      typeRight: TBA
+      placeRight: DI-TBA
 
     - coffee: true
+
+    - name: Talk WeDo
+      speaker: TBA
+      enterprise: WeDo
+      enterpriseURL: https://www.wedotechnologies.com/
+      time: 11:30-12:30
+      duration: one-hour
+      icon: fa-table
+      type: talk
+      about: TBA
+      place: TBA
+
+    - meal: true
+
+    - name: Talk TalkDesk
+      speaker: TBA
+      enterprise: TalkDesk
+      enterpriseURL: https://www.talkdesk.com/
+      time: 14:00-15:00
+      duration: one-hour
+      icon: fa-table
+      type: talk
+      about: TBA
+      place: TBA
+
+    - name: Talk
+      speaker: TBA
+      enterprise: TBA
+      enterpriseURL: TBA
+      time: 14:00-15:00
+      duration: one-hour
+      icon: fa-table
+      type: talk
+      about: TBA
+      place: TBA
+
+    - name: Apresentação da Bosch
+      speaker: TBA
+      enterprise: Bosch
+      enterpriseURL: https://www.bosch.pt/
+      time: 16:30-16:45
+      duration: fifty-min
+      about: TBA
+      type: talk
+      icon: fa-desktop
+      place: CP2-B1
+
+      #HERE
 
     - name: Transforming Mobility
       speaker: José Carreiras
@@ -228,7 +295,6 @@
       about: A palestra “Transforming Mobility”, será feita uma abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
       place: CP2-B1
 
-    - meal: true
 
     - name: Android
       speaker: Francisco Franco
@@ -281,7 +347,7 @@
       place: Largo do Carpe
 
 - thursday:
-  date: 8 FEV
+  date: 7 FEV
   dayOfWeek: QUINTA
   activities:
     - double: true
@@ -291,7 +357,7 @@
       enterpriseURLLeft: http://www.smithmicro.com/
       timeLeft: 09:30-11:30
       durationLeft: two-hours
-      iconLeft: fab fa-android
+      iconLeft: fa-android
       aboutLeft: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
       typeLeft: workshop
       placeLeft: DI-0.02
@@ -301,7 +367,7 @@
       enterpriseURLRight: https://performetric.net/
       timeRight: 10:30-11:30
       durationRight: one-hour
-      iconRight: fas fa-cogs
+      iconRight: fa-cogs
       aboutRight: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
       typeRight: talk
       placeRight: CP2-B1
@@ -344,7 +410,7 @@
       place: CP2-B1
 
     - coffee: true
-    
+
     - name: "AI&ML @Critical Software: A Guided Tour"
       speaker: Paulo Gomes
       enterprise: Critical Software
@@ -362,14 +428,14 @@
       speaker3: Tiago Mateus
       speaker4: Rui Marinho
       time: 17:30-18:30
-      duration: one-hour 
+      duration: one-hour
       icon: fa-bitcoin
       type: Tertulia
       about: Um olhar sobre a blockchain e as criptomoedas, onde abordamos a adopção, a legalização e a tecnologia que a suporta.
       place: CP2-B1
 
 - friday:
-  date: 9 FEV
+  date: 8 FEV
   dayOfWeek: SEXTA
   activities:
     - double: true
@@ -378,7 +444,7 @@
       typeLeft: workshop
       timeLeft: 09:30-11:30
       durationLeft: two-hours
-      iconLeft: fas fa-apple
+      iconLeft: fa-apple
       enterpriseLeft: Nutrium
       enterpriseURLLeft: https://nutrium.io/
       aboutLeft: "Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.<br>Requisitos: Xcode 9 instalado e atualizado."
@@ -389,7 +455,7 @@
       enterpriseURLRight: http://gip.aaum.pt/
       durationRight: one-hour
       timeRight: 10:30-11:30
-      iconRight: fas fa-paperclip
+      iconRight: fa-paperclip
       typeRight: talk
       aboutRight: O currículo é o "cartão de visita" e o primeiro contacto do candidato com o empregador. Vem aprender algumas dicas para teres um CV implacável e diferenciador.
       placeRight: CP2-B1
@@ -440,26 +506,26 @@
       place: CP2-B1
 
 - saturday10:
-  date: 10 FEV
+  date: 9 FEV
   dayOfWeek: SÁBADO
   activities:
     - double: true
-      nameLeft: Hackathon 
+      nameLeft: Hackathon
       timeLeft: 10:00-14:30
       durationLeft: four-hours-and-half
-      iconLeft: fas fa-code
+      iconLeft: fa-code
       typeLeft: Concurso
       aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       placeLeft: CP2
       nameRight: 61º Geek Girls Portugal
       timeRight: 10:30-14:30
       durationRight: four-hours
-      iconRight: fas fa-female
+      iconRight: fa-female
       typeRight: Meeting
       aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
-      placeRight: Smith Micro Portugal, Braga 
+      placeRight: Smith Micro Portugal, Braga
 
-    - name: Hackathon 
+    - name: Hackathon
       time: 14:30-23:59
       duration: nine-hours-and-half
       icon: fa-code
@@ -468,7 +534,7 @@
       place: CP2
 
 - sunday11:
-  date: 11 FEV
+  date: 10 FEV
   dayOfWeek: DOMINGO
   activities:
     - name: Hackathon
@@ -476,5 +542,5 @@
       duration: thirteen-hours
       icon: fa-code
       type: Concurso
-      about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.  
+      about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       place: CP2
