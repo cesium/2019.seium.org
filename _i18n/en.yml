@@ -12,6 +12,7 @@ navbar:
 defaults:
   date: 4th to 8th of February
   university: University of Minho
+  computer_eng_week: Computer Engineering Week
   register: Register
   registration: Registration
   send: Send
