@@ -71,39 +71,40 @@
   about: Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
   id: 8
 
-  #HERE
-
-- name: André Rocha
-  pic: andre-rocha-eurotux.jpg
-  position: Senior Web Developer
-  enterprise: Dipcode/Eurotux
-  enterpriseURL: https://dipcode.com/
-  about: André Rocha tem mais de seis anos de experiência em desenvolvimento web. Integrou as equipas de projeto dos websites do Pingo Doce, Dinheiro Vivo, BPI Expresso Imobiliário, Unibanco, eVotUM e Vida Económica, entre outros. Formou-se em Ciências da Computação pela Universidade do Minho e é pós-graduado em Computação Paralela e Distribuída, complementado com Engenharia e Processamento de Linguagens. Adicionalmente, passou pela University of Texas at Austin para aprofundar o seu conhecimento em escalabilidade e optimização de software. Tem artigos sobre virtualização e clustering, assim como sobre análise e desenvolvimento de software, publicados em revistas científicas e apresentados em conferências de cariz internacional.  Atualmente, integra a Dipcode, empresa do Grupo Eurotux, na área de Desenvolvimento Web, como Senior Web Developer. Quando não está a transpor as suas ideias para o software desenvolvido, gosta de se aventurar pelo mundo da culinária e de praticar desporto.
+- name: Diogo Cruz
+  pic: diogo-cruz.png
+  position: Software Engineer
+  enterprise: Aptiv
+  enterpriseURL: https://www.aptiv.com/
+  about: Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da Aptiv em Braga, como Software Engineer.
   id: 9
 
-- name: Eduardo Afonso
-  pic: eduardo-afonso-aptiv.jpg
-  position: Diretor de Recursos Humanos
-  enterprise: Aptiv
-  enterpriseURL: http://www.aptiv.com/
-  about: Eduardo iniciou a sua carreira em 1991 como Engenheiro de Qualidade de Fornecedores. Em 2004 foi nomeado Diretor de Compras e em 2014 assumiu o cargo de Diretor de Recursos Humanos. Em 2017, Eduardo Afonso assumiu funções adicionais como HR Partner EMEA Operations Electronics & Safety.
-  id: 10
-
-- name: Paula Gomes
-  pic: paula-gomes-BitSonae.jpg
-  position: IT Strategy & Enterprise Architecture Lead
-  enterprise: BitSonae
-  enterpriseURL: https://www.linkedin.com/showcase/bit-sonae/
-  about: Curiosa, dedicada, muito teimosa e, acima de tudo, feliz. Paula Gomes, licenciada em Ciência da Informação e Mestre em Engenharia de Serviços e Gestão pela FEUP. Parece que foi ontem, mas já lá vão mais de 10 anos de um percurso profissional dedicado à organização empresarial, sistemas de informação, estratégia e empreendedorismo. Depois de uns anos a batalhar como consultora e muito direcionada para a indústria, decidiu voltar-se para o maravilhoso mundo do retalho. Há 4 anos que faz parte do universo Sonae, mais concretamente da Direção de Sistemas de Informação (BIT), onde lidera a equipa de IT Strategy & Enterprise Architecture (também conhecida pela "melhor equipa de sempre").
-  id: 11
-
 - name: José Carreiras
-  pic: jose-carreiras-aptiv.jpg
+  pic: jose-carreiras.png
   position: Diretor do Centro de Desenvolvimento de Braga
   enterprise: Aptiv
-  enterpriseURL: http://www.aptiv.com/
+  enterpriseURL: https://www.aptiv.com/
   about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
+  id: 10
+
+- name: Nuno Fernandes
+  pic: nuno-fernandes.png
+  position: Diretor de Investigação e Desenvolvimento
+  enterprise: Eurotux
+  enterpriseURL: https://eurotux.com/
+  about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
+  id: 11
+
+- name: Márcio
+  pic: marcio.png
+  position: Engineering Manager
+  enterprise: Farfetch
+  enterpriseURL: https://www.farfetch.com/pt/
+  about: Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the software industry, he started as a software developer after graduating from the University of Minho and has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
   id: 12
+
+  #HERE
+
 
 - name: Nuno Barreto
   pic: nuno-barreto-xpandit.jpg
