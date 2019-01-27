@@ -53,7 +53,10 @@
                     {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{{ act.nameRight }}</b></div>
-                      {% if (act.speakerRight and act.speakerRight2) %}
+                      {% if (act.speakerRight and act.speakerRight2 and act.speakerRight3 and act.speakerRight4) %}
+                      <div class="activity-speaker">{{ act.speakerRight }} & {{ act.speakerRight2 }}</div>
+                      <div class="activity-speaker">{{ act.speakerRight3 }} & {{ act.speakerRight4 }}</div>
+                      {% elsif (act.speakerRight and act.speakerRight2) %}
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
                       <div class="activity-speaker">{{ act.speakerRight2 }}</div>
                       {% elsif act.speakerRight %}
