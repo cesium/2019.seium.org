@@ -1,8 +1,8 @@
-- saturday3: #TODO
+- saturday3:
   date: 2 FEV
   dayOfWeek: SÁBADO
   activities:
-    - name: CoderDojo
+    - name: CoderDojo #TODO
       time: 10:00-12:00
       duration: two-hours
       about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
@@ -17,7 +17,7 @@
     - name: Sessão de Abertura #TODO
       time: 10:00-10:30
       duration: half-hour
-      icon: fa-scissors
+      icon: fas fa-cut
       about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
       type: social
       place: CP2-B1
@@ -25,7 +25,7 @@
     - name: Apresentação dos desafios
       time: 11:00-11:30
       duration: half-hour
-      icon: fa-scissors
+      icon: fas fa-bullhorn
       about: Apresentação de todos os desafios que irão acontecer durante a semana.
       type: social
       place: CP2-B1
@@ -38,7 +38,7 @@
       duration: one-hour
       type: talk
       about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
-      icon: fa-database
+      icon: fas fa-code
       enterprise: BLIP
       enterpriseURL: www.blip.pt
       type: talk
@@ -52,7 +52,7 @@
       enterpriseURL: https://www.accenture.pt/
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-table
+      icon: fas fa-business-time
       type: talk
       about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
       place: CP2-B1
@@ -63,7 +63,7 @@
       enterpriseURL: https://upfallstudios.com/
       time: 15:00-16:00
       duration: one-hour
-      icon: fa-fire
+      icon: fas fa-gamepad
       type: talk
       about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
       place: CP2-B1
@@ -78,7 +78,7 @@
       duration: fifty-min
       about:
       type: talk
-      icon: fa-desktop
+      icon: fas fa-desktop
       place: CP2-B1
 
     - name: Remote Work Podcast #TODO
@@ -89,7 +89,7 @@
       duration: one-hour
       about: TBA
       type: podcast
-      icon: fab fa-podcast
+      icon: fas fa-podcast
       place: CP2-B1
 
     - name: BigData meetup #TODO
@@ -112,7 +112,7 @@
       enterpriseURLLeft: https://xpand-it.com/
       timeLeft: 09:00-11:00
       durationLeft: two-hours
-      iconLeft: fa fa-globe
+      iconLeft: fa fa-code
       aboutLeft: TBA
       typeLeft: workshop
       placeLeft: DI-TBA
@@ -123,7 +123,7 @@
       enterpriseURLRight: https://accenture.pt/
       timeRight: 09:00-11:00
       durationRight: two-hours
-      iconRight: fa fa-code
+      iconRight: fa fa-globe
       aboutRight: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
       typeRight: workshop
       placeRight: DI-TBA
@@ -137,7 +137,7 @@
       enterpriseURLLeft: http://pixelmatters.com/
       timeLeft: 11:30-13:30
       durationLeft: two-hours
-      iconLeft: fa fa-globe
+      iconLeft: fas fa-fire
       aboutLeft: TBA
       typeLeft: workshop
       placeLeft: DI-TBA
@@ -163,7 +163,7 @@
       enterpriseURL: TBA
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-desktop
+      icon: fas fa-desktop
       type: talk
       about: TBA
       place: TBA
@@ -199,12 +199,13 @@
       time: 17:00-18:00
       duration: one-hour
       about: TBA
-      icon: fa-desktop
+      icon: fas fa-university
       type: Tertúlia
       place: TBA
 
     - name: Arraial de engenharia
       time: 21:00-00:00
+      icon: fas fa-beer
       duration: three-hours
       about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica! Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/161849231269866/' target='_blank'>Facebook</a>."
       type: social
@@ -221,7 +222,7 @@
       enterpriseURLLeft: TBA
       timeLeft: 09:00-11:00
       durationLeft: two-hours
-      iconLeft: fa fa-globe
+      iconLeft: fas fa-code
       aboutLeft: React.js
       typeLeft: workshop
       placeLeft: DI-TBA
@@ -231,7 +232,7 @@
       enterpriseURLRight: https://www.wedotechnologies.com/
       timeRight: 09:00-11:00
       durationRight: two-hours
-      iconRight: fa fa-code
+      iconRight: fas fa-paperclip
       aboutRight: TBA
       typeRight: TBA
       placeRight: DI-TBA
@@ -244,7 +245,7 @@
       enterpriseURL: https://www.wedotechnologies.com/
       time: 11:30-12:30
       duration: one-hour
-      icon: fa-table
+      icon: fas fa-wrench
       type: talk
       about: TBA
       place: TBA
@@ -257,7 +258,7 @@
       enterpriseURL: https://www.talkdesk.com/
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-table
+      icon: fas fa-database
       type: talk
       about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
       place: TBA
@@ -268,7 +269,7 @@
       enterpriseURL: TBA
       time: 15:00-16:00
       duration: one-hour
-      icon: fa-table
+      icon: fas fa-globe
       type: talk
       about: TBA
       place: TBA
@@ -283,7 +284,7 @@
       duration: fifty-min
       about:
       type: talk
-      icon: fa-desktop
+      icon: fas fa-table
       place: TBA
 
     - name: TBA #TODO
@@ -292,7 +293,7 @@
       enterpriseURL:
       time: 17:00-18:00
       duration: one-hour
-      icon: fa-car
+      icon: fas fa-table
       type: talk
       about: TBA
       place: TBA
@@ -300,7 +301,7 @@
     - name: Rally das Tascas
       time: 21:00-00:00
       duration: three-hours
-      icon: fa-beer
+      icon: fas fa-beer
       about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
       type: social
       place: Largo do Carpe
@@ -317,7 +318,7 @@
       enterpriseURLLeft: https://xpand-it.com/
       timeLeft: 09:00-11:00
       durationLeft: two-hours
-      iconLeft: fa fa-globe
+      iconLeft: fas fa-globe
       aboutLeft: TBA
       typeLeft: workshop
       placeLeft: DI-TBA
@@ -327,7 +328,7 @@
       enterpriseURLRight: https://www.aptiv.com/
       timeRight: 09:00-11:00
       durationRight: two-hours
-      iconRight: fa fa-car
+      iconRight: fas fa-car
       aboutRight: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
       typeRight: workshop
       placeRight: DI-TBA
@@ -337,7 +338,7 @@
     - name: Transforming Mobility
       time: 11:30-12:30
       duration: one-hour
-      icon: fa fa-car
+      icon: fas fa-car
       about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
       type: talk
       speaker: José Carreiras
@@ -350,7 +351,7 @@
     - name: Gamification 1-0-1
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-globe
+      icon: fas fa-gamepad
       enterprise: Fractal Mind
       enterpriseURL: http://landing.fractalmind.pt/
       speaker: Bruno Ribeiro
@@ -377,7 +378,7 @@
       enterpriseURL:
       time: 16:30-16:45
       duration: fifty-min
-      about: TBA
+      about:
       type: talk
       icon: fa-desktop
       place: TBA
@@ -404,7 +405,7 @@
       enterpriseURLLeft: https://eurotux.com/
       timeLeft: 09:00-11:00
       durationLeft: two-hours
-      iconLeft: fa fa-globe
+      iconLeft: fas fa-code-branch
       aboutLeft: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
       typeLeft: workshop
       placeLeft: DI-TBA
@@ -414,7 +415,7 @@
       enterpriseURLRight: https://www.farfetch.com/pt/
       timeRight: 09:00-11:00
       durationRight: two-hours
-      iconRight: fa fa-globe
+      iconRight: fas fa-code
       aboutRight: TBA
       typeRight: workshop
       placeRight: DI-TBA
@@ -425,7 +426,7 @@
       speaker: TBA
       type: talk
       time: 11:30-12:30
-      icon: fa-globe
+      icon: fas fa-globe
       about: TBA
       duration: one-hour
       place: TBA
@@ -438,7 +439,7 @@
       enterpriseURL: https://www.farfetch.com/pt/
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-database
+      icon: fas fa-user-graduate
       about: Starting your professional career can be a daunting thought. The presentation will go through some of the main challenges and things that don’t teach you at University, as well as some advice for your first steps.
       type: talk
       place: CP2-B1
@@ -449,7 +450,7 @@
       enterpriseURL:
       time: 15:00-16:00
       duration: one-hour
-      icon:
+      icon: fas fa-fire
       type: talk
       about: TBA
       place: TBA
@@ -459,7 +460,7 @@
     - name: Encerramento & entrega de prémios
       time: 16:30-17:30
       duration: one-hour
-      icon: fa-users
+      icon: fas fa-trophy
       about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
       type: social
       place: CP2-B1
@@ -474,14 +475,14 @@
       nameLeft: Hackathon
       timeLeft: 10:00-14:30
       durationLeft: four-hours-and-half
-      iconLeft: fa-code
+      iconLeft: fas fa-code
       typeLeft: Concurso
       aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       placeLeft: CP2
       nameRight: 61º Geek Girls Portugal
       timeRight: 10:30-14:30
       durationRight: four-hours
-      iconRight: fa-female
+      iconRight: fas fa-female
       typeRight: Meeting
       aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
       placeRight: Smith Micro Portugal, Braga
