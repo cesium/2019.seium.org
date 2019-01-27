@@ -15,7 +15,7 @@
   position: Gamification Designer
   enterprise: Fractal Mind
   enterpriseURL: http://landing.fractalmind.pt/
-  about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados. É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
+  about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados.</span><span class="aboutspeaker">É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   id: 2
 
 - name: David Amador
@@ -36,7 +36,7 @@
   position: Associate Director
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
-  about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges. Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers;​ Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​ </span><br><span class="aboutspeaker"> Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​. Executive Master Business Administration - ISCTE / INDEG Business School.
+  about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
   id: 4
 
 - name: Carlos Jesus
@@ -44,7 +44,7 @@
   position: #TODO
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
-  about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI. Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5. Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org. Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
+  about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.</span><span class="aboutspeaker">Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5.</span><span class="aboutspeaker">Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org.</span><span class="aboutspeaker">Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
   id: 5
 
 - name: André Silva
@@ -52,16 +52,8 @@
   position: #TODO
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
-  about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais. Nos tempos livres gosta de praticar mototurismo.
+  about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
   id: 6
-
-- name: Ricardo Soares
-  pic: ricardo-soares.png
-  position: Software Developer
-  enterprise: Blip
-  enterpriseURL: https://blip.pt/
-  about: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
-  id: 7
 
 - name: Daniel Ferrari
   pic: daniel-ferrari.png
@@ -69,6 +61,14 @@
   enterprise: TalkDesk
   enterpriseURL: https://www.talkdesk.com/
   about: Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
+  id: 7
+
+- name: Márcio
+  pic: marcio.png
+  position: Engineering Manager
+  enterprise: Farfetch
+  enterpriseURL: https://www.farfetch.com/pt/
+  about: Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the software industry, he started as a software developer after graduating from the University of Minho and has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
   id: 8
 
 - name: Diogo Cruz
@@ -87,217 +87,55 @@
   about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
   id: 10
 
+- name: Ricardo Soares
+  pic: ricardo-soares.png
+  position: Software Developer
+  enterprise: Blip
+  enterpriseURL: https://blip.pt/
+  about: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
+  id: 11
+
 - name: Nuno Fernandes
   pic: nuno-fernandes.png
   position: Diretor de Investigação e Desenvolvimento
   enterprise: Eurotux
   enterpriseURL: https://eurotux.com/
   about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
-  id: 11
-
-- name: Márcio
-  pic: marcio.png
-  position: Engineering Manager
-  enterprise: Farfetch
-  enterpriseURL: https://www.farfetch.com/pt/
-  about: Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the software industry, he started as a software developer after graduating from the University of Minho and has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
   id: 12
 
-  #HERE
-
-
-- name: Nuno Barreto
-  pic: nuno-barreto-xpandit.jpg
-  position: Partner & Big Data Lead
-  enterprise: XpandIT
-  enterpriseURL: http://xpand-it.com/
-  about: Nuno Barreto, licenciado em Engenharia Informática e de Computadores pelo Instituto Superior Técnico e com um MBA na Universidade de Oxford, foi responsável por projetos de âmbito internacional em países como EUA, México, Argentina, Holanda e Portugal. É Partner da Xpand IT e responsável pela área de Data & Middleware Infrastructure.
-
+- name: César Pinto
+  pic: cesar-pinto.png
+  position: Engagement Manager Mentor
+  enterprise: OutSystems
+  enterpriseURL: https://www.outsystems.com/
+  about: César joined OutSystems as Engagement Manager by having the responsibility for the overall management and delivery of innovative solutions using the OutSystems technology thru an agile approach. Recently become an Engagement Manager Mentor by leading a team of Engagement Managers with the responsibility of accelerating the team growth to an outstanding level and ensuring the team's deliveries success.
   id: 13
 
-- name: Ricardo Cardante
-  pic: ricardo-cardante-xpandit.jpg
-  position: Big Data Developer
-  enterprise: XpandIT
-  enterpriseURL: http://xpand-it.com/
-  github: https://github.com/ricardocardante
-  twitter: https://twitter.com/ricardocardante
-  about: Ricardo Cardante, Big Data Developer na Xpand IT e atual aluno do Mestrado Integrado em Engenharia Informática. Entusiasta de software open-source, tratamento de dados e arquiteturas NRT.
+- name: Hernâni Fernandes
+  pic: hernani-fernandes.png
+  position: Architect / Delivery Manager
+  enterprise: OutSystems
+  enterpriseURL: https://www.outsystems.com/
+  about: Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being responsible for the technical delivery of innovative solutions based on customer business needs and drivers. Since mid-2018 he's also a member of the Architecture Experts, who are responsible for designing flexible and cost-effective solution architectures that are aligned with the OutSystems customers' business strategies.
   id: 14
 
-- name: Carlos Martins
-  pic: carlos-martins-wedo.jpg
-  position: UX architect
-  enterprise: WeDo Technologies
-  enterpriseURL: http://ww1.wedotechnologies.com/
-  twitter: https://twitter.com/carlos_martins
-  about: Engenheiro de software e profissional certificado em Usabilidade, Carlos Martins juntou-se à WeDo para ajudar a redesenhar a RAID’s UX. Carlos tem mais de 15 anos de experiência em development e arquiteturas de grandes aplicações web. Mais recentemente, focou-se no RAID.Cloud, para construção de soluções com SaaS (Software as a Service) simples, que ajudem companhias telefónicas a combater a fraude.
+- name: Paulo Marques
+  pic: paulo-marques.png
+  position: Software Engineer
+  enterprise: OutSystems
+  enterpriseURL: https://www.outsystems.com/
+  about: Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
   id: 15
 
-- name: Thomas Papa
-  pic: thomas-papa.png
-  position: Game Developer
-  enterprise: Mimicry
-  enterpriseURL: http://www.mimicrygames.com/
-  twitter: https://twitter.com/thomasjpapa
-  about: Thomas Papa é o fundador e diretor da Mimicry, uma companhia de videojogos, realidade virtual e desenvolvimento de software, em Coimbra. Thomas é experiente no desenvolvimento de jogos, estando a trabalhar na indústria desde 2007 e tendo-se iniciado na realidade virtual desde o lançamento dos primeiros headsets em 2013. É essencialmente responsável por design de jogos e Biz Dev (Business Development). É ativo na interseção entre arte e tecnologia, além de estar em permanente busca de tecnologia que permita novas formas de jogo.
-
+- name: Tiago Fernandes
+  pic: tiago-fernandes.png
+  position: Software Engineer
+  enterprise: OutSystems
+  enterpriseURL: https://www.outsystems.com/
+  about: Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate in several engineering challenges and craft some of the features that are part of OutSystems IDE. Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
   id: 16
 
-- name: Raul Azevedo
-  pic: raul-azevedo-wedo.jpg
-  position: VP for Product Development
-  enterprise: WeDo Technologies
-  enterpriseURL: http://ww1.wedotechnologies.com/
-  about: Raul Azevedo, depois de completar a sua formação superior em Ciências da Computação e Engenharia de Sistemas, teve uma rica e variada experiência enquanto líder de Sistemas de Informação, numa diversidade de setores como manufatura, tecnologia, retalho e banca. Hoje, Raul é o VP for Product Development da WeDo Technologies, supervisionando as equipas de Research & Development, Support & Maintenance e Cloud & Managed Services Operations.
-  id: 17
-
-- name: Miguel Domingues
-  pic: miguel-domingues-primavera.png
-  position: New Technologies Researcher & Project Manager
-  enterprise: Primavera
-  enterpriseURL: https://pt.primaverabss.com/
-  about: Licenciado em Engenharia de Sistemas Informáticos pela U. Minho, onde prosseguiu com pós-graduação, e Ciências da Computação pela Faculdade de Ciências da U. Porto. Iniciou a sua carreira no Centro de Estudos de Telecomunicações da Portugal Telecom e trabalha desde 2005 na PRIMAVERA BSS, onde tem tido um percurso ligado à área de inovação e novas tecnologias, como lead developer, researcher e project manager. Curioso e pragmático, sempre a par das mais recentes novidades tecnológicas, tem atualmente a missão de tornar os produtos PRIMAVERA inteligentes usando tecnologias realmente incríveis!
-  id: 18
-
-- name: Pedro Couto
-  pic: pedro-couto-accenture.jpg
-  position: Senior Manager
-  enterprise: Accenture
-  enterpriseURL: http://accenture.com/
-  about: Pedro Couto, Senior Manager na Accenture Portugal, já confirmou a sua presença no dia 8 de fevereiro na SEI - Semana da Engenharia Informática na Universidade do Minho’18. Prepara-te para a sua palestra!
-  id: 19
-
-- name: João Vilela
-  pic: joao-vilela-smithmicro.jpg
-  position: Android & Backend Developer
-  enterprise: Smith Micro
-  enterpriseURL: http://www.smithmicro.com/
-  about: João Vilela é mestre em Engenharia de Telecomunicações e Informática pela Universidade do Minho, sendo atualmente Software Developer na Smith Micro Software. Tendo já participado em vários projetos nacionais e internacionais e em desenvolvimento de produto, possui experiência no desenvolvimento de aplicações móveis e soluções backend, sendo especialista no desenvolvimento de aplicações nativas para Android.
-  id: 20
-
-- name: Diogo Martins
-  pic: diogo-martins-nutrium.jpg
-  position: Developer
-  enterprise: Nutrium
-  enterpriseURL: https://nutrium.io/
-  about: Estudou Engenharia Informática na Universidade do Minho, sendo agora líder da equipa de desenvolvimento iOS no Nutrium.
-  id: 21
-
-- name: Daniel Malhadas
-  pic: daniel-malhadas-primavera.jpg
-  position: Researcher
-  enterprise: Primavera
-  enterpriseURL: https://pt.primaverabss.com/
-  about: Aluno finalista do Mestrado Integrado em Engenharia Informática na Universidade do Minho. Ao longo do seu percurso académico foi convidado a desenvolver alguns projetos para várias escolas da UM e foi também desenvolvendo um interesse particular pela área do Machine Learning. Está atualmente na PRIMAVERA a desenvolver a sua dissertação de mestrado sob o tema “Machine Learning aplicado à previsão da evolução financeira de uma empresa”, no departamento de Inovação e sob supervisão do Miguel Domingues.
-  id: 22
-
-- name: Daniel Teixeira
-  pic: daniel-teixeira-kpmg.jpg
-  position: Cyber Security Senior Manager
-  enterprise: KPMG
-  enterpriseURL: https://home.kpmg.com/
-  about: Daniel Teixeira é Senior Manager em Cyber Security na KPMG, especializado em testes de penetração e avaliação de vulnerabilidades. As suas áreas de foco são a simulação de adversários, emulação de tácticas, técnicas e procedimentos adversárias modernas, investigação e exploração de vulnerabilidades.
-  id: 23
-
-- name: João Gomes
-  pic: joao-gomes-farfetch.png
-  position: Data Scientist
-  enterprise: Farfetch
-  enterpriseURL: https://www.farfetch.com
-  about: João Gomes é o Lead Data Scientist da equipa de Recomendação na Farfetch. Desde que se juntou à companhia, em 2015, tem ajudado no design e desenvolvimento de novos algoritmos, que potencializem a personalização de recomendações e descoberta nos vários canais da plataforma da Farfetch. Pessoalmente, gosta de Python, pandas, provocar, Porto (FC), porto (vinho) e usar aliterações inapropriadamente.
-  id: 24
-
-- name: Tiago Mateus
-  pic: tiago-mateus.jpg
-  position: Diretor
-  enterprise: Parpública
-  enterpriseURL: http://www.parpublica.pt/
-  about: Tiago é jurista de formação e atualmente é diretor na Parpública e administrador do Hospital da Cruz Vermelha. Um dos seus principais hobbies consiste no estudo dos desafios jurídicos e económicos relacionados com blockchain, cryptocurrencies/tokens e inteligência artificial. Adoraria aprender código e defende que a programação deve ser incluída no currículo do ensino escolar básico e secundário.
-  id: 25
-
-- name: Miguel Amador
-  pic: miguel-amador.jpg
-  position: Team Member
-  enterprise: UTRUST
-  enterpriseURL: https://utrust.io/
-  about: Miguel Amador é membro da equipa da UTRUST, uma plataforma inovadora de pagamento que permite aos compradores usarem as suas criptomoedas favoritas nos pagamentos, oferecendo-lhes em simultâneo a melhor proteção do mercado. Anteriormente, era Manager of the HealthTech and NanoTech Programs, na Startup Braga, uma incubadora e aceleradora de novos negócios em Braga, Portugal. É, também, candidato a Ph.D. em Sistemas de Bioengenharia no IST (Instituto Superior Técnico), em Lisboa, sobre o MIT Portugal Program, focado em políticas públicas que fomentem a inovação na saúde, usando dados reais. Em 2014, recebeu o prémio Fulbright Fellowship, do MIT Center, pela inovação biomédica. É também Vice-President do EIT Health Alumni, que visa ser a maior companhia europeia de inovadores na saúde.
-  id: 26
-
-- name: Pedro Duarte
-  pic: pedro-duarte.jpg
-  position: Data Scientist
-  enterprise: Performetric
-  enterpriseURL: https://performetric.net/
-  about: Pedro Duarte, estuda Engenharia Informática na Universidade do Minho, sendo também Data Scientist na Performetric.
-  id: 27
-
-- name: Bruno Araújo
-  pic: bruno-araujo-blip.jpg
-  position: Frontend Developer
-  enterprise: Blip
-  enterpriseURL: https://blip.pt/
-  about: Bruno Araújo foi aluno da Universidade Minho e é frontend developer na Blip desde 2015. Apaixonado por aplicações escaláveis e modulares, encontrou na Blip o local certo para continuar a trabalhar em JavaScript. Gosta de experimentar todas as frameworks JavaScript para poder dizer mal e odeia ‘spaghetti’ code.
-  id: 28
-
-- name: Gonçalo Matos
-  pic: goncalo-matos-blip.jpg
-  position: Frontend Developer
-  enterprise: Blip
-  enterpriseURL: https://blip.pt/
-  about: Gonçalo Matos foi formado no ISEP em Engenharia Informática. Daí, seguiu e foi SQL Developer durante dois anos. Resolveu então trocar de ares e passou para Frontend Developer na Blip onde é aturado há, também, dois anos. Fundamentalista como é, o Javascript tornou-se a escolha ideal para chatear o maior número de pessoas. Gosta, então, de brincar com tecnologias novas de forma a poder dizer mal de todas as picuinhices que vê.
-  id: 29
-
-- name: F. Mendes
-  pic: mendes.jpg
-  position: Developer
-  github: https://github.com/fribmendes
-  twitter: https://twitter.com/fribmendes
-  enterprise: Subvisual
-  enterpriseURL: https://subvisual.co/
-  about: Fernando Mendes é um novo ex-aluno da UMinho. Fundador do Include Braga e voluntário no Coderdojo Braga, atualmente trabalha na Subvisual onde troca café por código profissionalmente.
-  id: 30
-
-- name: Francisco Neves
-  pic: francisco-neves.png
-  position: Researcher
-  github: https://github.com/fntneves
-  twitter: https://twitter.com/fntneves
-  enterprise: HASLab
-  enterpriseURL: http://haslab.uminho.pt/
-  about: Francisco Neves é um entusiasta do mundo das tecnologias web, ainda que ultimamente tenha mergulhado nas profundezas do kernel do Linux. A paixão pela programação para a web despoletou em si uma vontade imensa de contribuir para esse mundo. Atualmente é aluno de doutoramento e investigador no HASLab, centro I&D integrado do INESC TEC, e mantém a dedicação a pequenos projetos open-source e a gerir projetos nos Hackathonners, grupo que fundou com o objetivo de partilhar experiências e fomentar a aprendizagem de novas tecnologias através de organização e participação em hackathons.
-  id: 31
-
-- name: Ana Sampaio
-  pic: ana-sampaio-farfetch.png
-  position: Frontend Developer
-  enterprise: Farfetch
-  enterpriseURL: https://www.farfetch.com
-  about: A Ana Sampaio estudou Engenharia Informática na Universidade do Minho. Tem trabalhado maioritariamente com tecnologias front-end, desenvolvendo aplicações web em AngularJS e ReactJS. Atualmente é Front-end Developer na Farfetch. Os projectos “open source” em que colabora são orientados para a comunidades offline, como é o caso do Girls Lean In. Faz parte da equipa do 10web, um podcast sobre tecnologias web.
-  id: 32
-
-- name: Sandra Costa
-  pic: sandra-costa.jpg
-  position: Software Product Owner
-  enterprise: Bosch Braga
-  enterpriseURL: http://www.bosch.pt/pt/pt/startpage_10/country-landingpage.php
-  about: Formada em Engenharia Electrónica Industrial e Computadores, terminou o seu doutoramento em Robótica em 2015, verificando o impacto da utilização de um robô humanóide, capaz de simular expressões faciais básicas como mediador de interações sociais com crianças com Perturbações do Espectro do Autismo e outro ser humano. Product Owner da equipa de SW da Bosch Braga responsável pela implementação das funcionalidades de comunicação e segurança de sensores de “Passive Safety”. Estas funcionalidades são implementadas segundo a arquitectura AUTOSAR e os sensores são utilizados em projectos de condução autónoma.
-  id: 33
-
-- name: Mariana Gomes
-  pic: mariana-gomes.jpg
-  position: Co-founder & Managing Director
-  enterprise: MUB cargo
-  enterpriseURL: https://www.mubcargo.com/
-  about: Mariana Gomes lançou a sua primeira ideia de negócio em 2014, uma plataforma online que atualmente ajuda mais de 1000 artistas emergentes a divulgar as suas obras, chamada shairart.com. Após dois anos, decide fazer um MBA na Porto Business School. Foi aí que conheceu o resto da equipa de co-fundadores da MUB cargo (www.mubcargo.com), uma solução online que permite obter melhores preços para o transporte de mercadorias.
-  id: 34
-
-- name: Flávia Faria
-  pic: flavia-faria-gip.jpg
-  enterprise: GIP - AAUM
-  enterpriseURL: http://gip.aaum.pt/
-  about: Licenciada em Sociologia e pós-graduada em Gestão de Recursos Humanos pela UMinho, é a técnica responsável pelo GIP (Gabinete de Inserção Profissional) da AAUM.
-  id: 35
+  #HERE
 
 - name: José Nuno Oliveira
   pic: jno.jpg
@@ -323,16 +161,6 @@
   about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
   id: 38
 
-- name: Rui Marinho
-  pic: rui-marinho-uphold.jpg
-  position: Software Engineer
-  enterprise: Uphold
-  enterpriseURL: https://uphold.com/
-  github: https://github.com/ruimarinho
-  twitter: https://twitter.com/ruipmarinho
-  about: Rui Marinho é Engenheiro de Software na Uphold, projecto que ajudou a construir, e actualmente um dos responsáveis de engenharia da plataforma. Nos seus tempos livres dedica-se ao estudo nas áreas dele segurança e redes, conhecimento este que explora também nos seus projectos de automação em casa. Esta mistura de interesses dotou-o da capacidade de desenhar e construir projectos e infra-estruturas de grande escala, tendo-se especializado em sistemas críticos de alta disponibilidade em que a componente da segurança se assume como uma das principais prioridades. É colaborador frequente em diversos projectos open-source, muitos dos quais na área das criptomoedas.
-  id: 39
-
 - name: Paulo S. Almeida
   pic: psa.jpg
   position: Professor
@@ -340,19 +168,3 @@
   enterpriseURL: https://www.uminho.pt/
   about: Paulo Sérgio Almeida é professor no Departamento de Informática da Universidade do Minho e Researcher na área dos sistemas distribuídos no HASLab.
   id: 40
-
-- name: Ali Shoker
-  pic: ali-shoker.png
-  position: Researcher
-  enterprise: INESC TEC
-  enterpriseURL: http://www.inesctec.pt/
-  about: Ali Shoker é Senior Researcher no HASLab, INESC TEC e professor assistente convidado no Departamento de Informática da Universidade do Minho, onde leciona nas áreas dos Sistemas Distribuídos e Segurança (blockchains). Possui um PhD sobre o tema "Adaptive Byzantine Fault Tolerance”, obtido na Universidade de Toulouse, que é um caminho para construir "livros fiscais" distribuídos para Blockchain. Ali passou algum tempo no IRIT (França), INSA de Lyon (França) e EPFL (Suiça), neste último por duas vezes. O interesse da pesquisa de Ali está no entendimento e construção de sistemas distribuídos corretos, escaláveis, disponíveis, resilientes, seguros e eficientes.<br>Atualmente trabalha em Edge Computing (com base em Conflict-free Replicated DataTypes), Blockchain e Criptomoedas (PoW, PoX e BFT), sendo fundador do protocolo de blockchain sustentável Proof of eXercise (PoX) e coordenador do curso "Successful Systems in Production” no programa de doutoramento MAP-I.
-  id: 41
-
-- name: Paulo Gomes
-  pic: paulo-gomes-critical.png
-  position: AI&ML Researcher
-  enterprise: Critical Software
-  enterpriseURL: https://www.criticalsoftware.com/
-  about: Paulo Gomes tem mais de 20 anos de experiência nas áreas da Inteligência Artificial e Machine Learning. Agora é responsável pela área de AI&ML da Critical Software, onde está a criar sinergias com projetos e áreas em que a Critical Software opera. O seu caminho profissional começou na Universidade de Coimbra em 1996, onde foi professor assistente e Researcher até Dezembro de 2015. Paralelamente à carreira académica, foi fundador de três companhias.
-  id: 42
