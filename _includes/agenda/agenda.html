@@ -30,7 +30,7 @@
                     <div class="activity-tba-block {{ act.durationLeft }} text-left">
                     {% else %}
                     <div class="activity-block {{ act.durationLeft }} text-left">
-                    {% endif %} 
+                    {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{{ act.nameLeft }}</b></div>
                       {% if (act.speakerLeft and act.speakerLeft2) %}
@@ -50,12 +50,13 @@
                     <div class="activity-tba-block {{ act.durationRight }} text-left">
                     {% else %}
                     <div class="activity-block {{ act.durationRight }} text-left">
-                    {% endif %} 
+                    {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{{ act.nameRight }}</b></div>
-                      {% if (act.speakerRight and act.enterpriseRight) %}
+                      {% if (act.speakerRight and act.speakerRight2) %}
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
-                      {% else %}
+                      <div class="activity-speaker">{{ act.speakerRight2 }}</div>
+                      {% elsif act.speakerRight %}
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
                       {% endif %}
                     </div>
@@ -71,7 +72,7 @@
                   <div class="activity-tba-block {{ act.duration }} text-left">
                   {% else %}
                   <div class="activity-block {{ act.duration }} text-left">
-                  {% endif %} 
+                  {% endif %}
                     <div class="activity-border"></div>
                     <div class="activity-name"><b>{{ act.name }}</b></div>
                     {% if (act.speaker and act.speaker2 and act.speaker3 and act.speaker4) %}
