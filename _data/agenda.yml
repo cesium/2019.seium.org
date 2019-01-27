@@ -1,4 +1,4 @@
-- saturday3:
+- saturday3: #TODO
   date: 2 FEV
   dayOfWeek: SÁBADO
   activities:
@@ -14,7 +14,7 @@
   date: 4 FEV
   dayOfWeek: SEGUNDA
   activities:
-    - name: Sessão de Abertura
+    - name: Sessão de Abertura #TODO
       time: 10:00-10:30
       duration: half-hour
       icon: fa-scissors
@@ -37,7 +37,7 @@
       time: 12:00-13:00
       duration: one-hour
       type: talk
-      about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests? Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality. Do you want to improve the quality of your tests? Do not let mutants invade your code. Join us to learn how to create and kill some mutants in JavaScript.
+      about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
       icon: fa-database
       enterprise: BLIP
       enterpriseURL: www.blip.pt
@@ -54,7 +54,7 @@
       duration: one-hour
       icon: fa-table
       type: talk
-      about: Tech Trends Summary- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it; Leading companies are improving the way we live with new products and services that will become indispensable in the future; Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+      about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
       place: CP2-B1
 
     - name: Analysing a Cross-Platform Game engine
@@ -76,26 +76,26 @@
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
       duration: fifty-min
-      about: A Inteligência Artificial, o Machine Learning e o Blockchain foram temas de grande destaque na Web Summit 2017 e são as tendências da inovação tecnológica da PRIMAVERA para 2018. Estas tecnologias fazem parte de uma visão para construir produtos inteligentes que servirá de orientação para o futuro do software de gestão da PRIMAVERA. Ficaste curioso? Então esta sessão é para ti!
+      about:
       type: talk
       icon: fa-desktop
       place: CP2-B1
 
-    - name: Remote Work Podcast
+    - name: Remote Work Podcast #TODO
       speaker: Job van der Voort
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
       duration: one-hour
-      about: TBA #TODO
+      about: TBA
       type: podcast
-      icon: fa-podcast
+      icon: fab fa-podcast
       place: CP2-B1
 
-    - name: BigData meetup
+    - name: BigData meetup #TODO
       time: 19:00-21:30
       duration: two-hours
-      about: TBA #TODO
+      about: TBA
       type: social
       icon: fa-users
       place: Departamento de Informática
@@ -131,7 +131,7 @@
     - coffee: true
 
     - double: true
-      nameLeft: Workshop - Pixelmatters
+      nameLeft: Workshop - Pixelmatters #TODO
       speakerLeft: TBA
       enterpriseLeft: Pixelmatters
       enterpriseURLLeft: http://pixelmatters.com/
@@ -141,20 +141,23 @@
       aboutLeft: TBA
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - OutSystems
-      speakerRight: TBA
+      nameRight: Mobile and web rapid application development with OutSystems
+      speakerRight: César Pinto
+      speakerRight2: Hernâni Fernandes
+      speakerRight3: Paulo Marques
+      speakerRight4: Tiago Fernandes
       enterpriseRight: OutSystems
       enterpriseURLRight: https://www.outsystems.com/
       timeRight: 11:30-13:30
       durationRight: two-hours
       iconRight: fa fa-code
-      aboutRight: TBA
+      aboutRight: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
       typeRight: workshop
       placeRight: DI-TBA
 
     - meal: true
 
-    - name: TBA
+    - name: TBA #TODO
       speaker: André Pimenta
       enterprise: TBA
       enterpriseURL: TBA
@@ -178,7 +181,7 @@
 
     - coffee: true
 
-    - name: Apresentação da TBA
+    - name: Apresentação da TBA #TODO
       speaker:
       enterprise: TBA
       enterpriseURL:
@@ -189,7 +192,7 @@
       icon: fa-desktop
       place: TBA
 
-    - name: Eng. Informática nas Universidades Portuguesas
+    - name: Eng. Informática nas Universidades Portuguesas #TODO
       speaker: TBA
       speaker2: TBA
       speaker3: TBA
@@ -212,17 +215,17 @@
   dayOfWeek: QUARTA
   activities:
     - double: true
-      nameLeft: Workshop - Jean Pierre
+      nameLeft: Workshop - Jean Pierre #TODO
       speakerLeft: Jean Pierre
       enterpriseLeft: TBA
       enterpriseURLLeft: TBA
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fa fa-globe
-      aboutLeft: TBA
+      aboutLeft: React.js
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - WeDo
+      nameRight: Workshop - WeDo #TODO
       speakerRight: TBA
       enterpriseRight: WeDo
       enterpriseURLRight: https://www.wedotechnologies.com/
@@ -235,7 +238,7 @@
 
     - coffee: true
 
-    - name: Talk WeDo
+    - name: Talk WeDo #TODO
       speaker: TBA
       enterprise: WeDo
       enterpriseURL: https://www.wedotechnologies.com/
@@ -259,11 +262,11 @@
       about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
       place: TBA
 
-    - name: Talk
+    - name: Talk #TODO
       speaker: TBA
       enterprise: TBA
       enterpriseURL: TBA
-      time: 14:00-15:00
+      time: 15:00-16:00
       duration: one-hour
       icon: fa-table
       type: talk
@@ -278,12 +281,12 @@
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
       duration: fifty-min
-      about: TBA
+      about:
       type: talk
       icon: fa-desktop
       place: TBA
 
-    - name: TBA
+    - name: TBA #TODO
       speaker: TBA
       enterprise: TBA
       enterpriseURL:
@@ -307,7 +310,7 @@
   dayOfWeek: QUINTA
   activities:
     - double: true
-      nameLeft: Workshop CG - SmithMicro
+      nameLeft: Workshop CG - SmithMicro #TODO
       speakerLeft: TBA
       speakerLeft2: TBA
       enterpriseLeft: Xpand IT
@@ -325,7 +328,7 @@
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fa fa-car
-      aboutRight: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><span class="about"></span><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><span class="about"></span><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+      aboutRight: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
       typeRight: workshop
       placeRight: DI-TBA
 
@@ -352,10 +355,10 @@
       enterpriseURL: http://landing.fractalmind.pt/
       speaker: Bruno Ribeiro
       type: talk
-      about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><span class="about"></span><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
+      about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
       place: TBA
 
-    - name: Talk André Barbosa
+    - name: Talk André Barbosa #TODO
       speaker: André Barbosa
       enterprise:
       enterpriseURL:
@@ -368,7 +371,7 @@
 
     - coffee: true
 
-    - name: Apresentação da TBA
+    - name: Apresentação da TBA #TODO
       speaker:
       enterprise: TBA
       enterpriseURL:
@@ -379,7 +382,7 @@
       icon: fa-desktop
       place: TBA
 
-    - name: TBA
+    - name: TBA #TODO
       speaker: TBA
       enterprise: TBA
       enterpriseURL:
@@ -389,8 +392,6 @@
       type: talk
       about: TBA
       place: TBA
-
-#HERE
 
 - friday:
   date: 8 FEV
@@ -407,7 +408,7 @@
       aboutLeft: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - Farfetch
+      nameRight: Workshop - Farfetch #TODO
       speakerRight: TBA
       enterpriseRight: Farfetch
       enterpriseURLRight: https://www.farfetch.com/pt/
@@ -420,7 +421,7 @@
 
     - coffee: true
 
-    - name: Talk - Primavera
+    - name: Talk - Primavera #TODO
       speaker: TBA
       type: talk
       time: 11:30-12:30
@@ -442,7 +443,7 @@
       type: talk
       place: CP2-B1
 
-    - name: TBA
+    - name: TBA #TODO
       speaker: TBA
       enterprise: TBA
       enterpriseURL:
@@ -463,7 +464,9 @@
       type: social
       place: CP2-B1
 
-- saturday10:
+#HERE
+
+- saturday10: #TODO
   date: 9 FEV
   dayOfWeek: SÁBADO
   activities:
@@ -491,7 +494,7 @@
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       place: CP2
 
-- sunday11:
+- sunday11: #TODO
   date: 10 FEV
   dayOfWeek: DOMINGO
   activities:
