@@ -1,3 +1,5 @@
+#ORADORES INDIVIDUAIS
+
 - name: Celso Martinho
   pic: celso-martinho.png
   position: CEO and Founder
@@ -26,52 +28,50 @@
   about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
   id: 3
 
-- name: João Pina
-  pic: joão-pina.png
-  position: CTO
-  enterprise: MeshAPP
-  enterpriseURL: https://meshapp.me/
-  twitter: https://twitter.com/tomahock
-  github: https://github.com/tomahock
-  about: Criador do <a href="https://fogos.pt" target="_blank">fogos.pt</a>.</span><br><span class="aboutspeaker">CTO da MeshApp, interessado em criptomoedas e não perdoa o XSS quando faz uma pesquisa.
+
+#ORADORES EMPRESAS
+
+- name: Sérgio Gaio
+  pic: sergio-gaio.png
+  position: Associate Director
+  enterprise: Accenture
+  enterpriseURL: http://accenture.com/
+  about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges. Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers;​ Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​ </span><br><span class="aboutspeaker"> Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​. Executive Master Business Administration - ISCTE / INDEG Business School.
   id: 4
 
-- name: Francisco Franco
-  pic: francisco-franco.png
-  position: Android Developer
-  twitter: https://twitter.com/franciscof_1990/
-  github: https://github.com/franciscofranco
-  about: Indie Android developer. Apps, Kernels, mutative design e muito mais desde 2011! Pensador “out-of-the-box”.
+- name: Carlos Jesus
+  pic: carlos-jesus.png
+  position: #TODO
+  enterprise: Accenture
+  enterpriseURL: http://accenture.com/
+  about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI. Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5. Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org. Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
   id: 5
 
-- name: Job van der Voort
-  pic: jobvanderVoort.jpg
-  position: VP of Product
-  enterprise: GitLab
-  enterpriseURL: https://about.gitlab.com/
-  twitter: https://twitter.com/jobvo
-  github: https://github.com/JobV
-  about: Vindo da neurociência, Job iniciou-se no mundo da tecnologia criando uma startup, mais tarde trabalhando com a infraestrutura da Dutch IT e eventualmente acabou por se juntar à GitLab. Na GitLab fez de tudo, desde suporte, engenharia ou mesmo marketing, tendo, por último, se estabelecido como VP of Product, orientando o produto da empresa. No seu tempo livre, Job gosta de construir aplicações pequenas e úteis e jogar jogos de tabuleiro.
+- name: André Silva
+  pic: andre-silva.png
+  position: #TODO
+  enterprise: Accenture
+  enterpriseURL: http://accenture.com/
+  about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais. Nos tempos livres gosta de praticar mototurismo.
   id: 6
 
-- name: Pedro Moreira da Silva
-  pic: pedromoreiradasilva.jpg
-  position: Senior UX Designer
-  enterprise: GitLab
-  enterpriseURL: https://about.gitlab.com/
-  twitter: https://twitter.com/pedromscom
-  about: Senior UX Designer na GitLab, uma ferramenta open source para o desenvolvimento de software, usada por organizações como NASA, Sony e Uber. Trabalhou em consultoras, startups e como designer independente. Apaixonado por transparência, trabalho remoto e design aberto.
+- name: Ricardo Soares
+  pic: ricardo-soares.png
+  position: Software Developer
+  enterprise: Blip
+  enterpriseURL: https://blip.pt/
+  about: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
   id: 7
 
-- name: Miguel Ramos
-  pic: miguelramos.png
-  position: Machine Learning Scientist
-  enterprise: Unbabel
-  enterpriseURL: https://unbabel.com/
-  twitter: https://twitter.com/its_mikevr
-  github: https://github.com/miguelvr
-  about: Já tendo trabalhado como investigador no L2F/INESC-ID Lisboa e no Language Technologies Institute da Carnegie Mellon University, Miguel trabalha actualmente como Machine Learning Scientist na equipa de inteligência artificial da Unbabel.
+- name: Daniel Ferrari
+  pic: daniel-ferrari.png
+  position: Data Scientist
+  enterprise: TalkDesk
+  enterpriseURL: https://www.talkdesk.com/
+  about: Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
   id: 8
+
+  #HERE
 
 - name: André Rocha
   pic: andre-rocha-eurotux.jpg

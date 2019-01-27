@@ -32,13 +32,12 @@
 
     - coffee: true
 
-    - name: Talk BLIP
-      speaker: TBA
-      speaker2: TBA
+    - name: Mutation testing - Let's kill some mutants
+      speaker: Ricardo Soares
       time: 12:00-13:00
       duration: one-hour
       type: talk
-      about: TBA
+      about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests? Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality. Do you want to improve the quality of your tests? Do not let mutants invade your code. Join us to learn how to create and kill some mutants in JavaScript.
       icon: fa-database
       enterprise: BLIP
       enterpriseURL: www.blip.pt
@@ -47,15 +46,15 @@
 
     - meal: true
 
-    - name: Talk Accenture
-      speaker: TBA
+    - name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+      speaker: Sérgio Gaio
       enterprise: Accenture
       enterpriseURL: https://www.accenture.pt/
       time: 14:00-15:00
       duration: one-hour
       icon: fa-table
       type: talk
-      about: TBA
+      about: Tech Trends Summary- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it; Leading companies are improving the way we live with new products and services that will become indispensable in the future; Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
       place: CP2-B1
 
     - name: Analysing a Cross-Platform Game engine
@@ -72,7 +71,7 @@
     - coffee: true
 
     - name: Apresentação da BLIP
-      speaker: TBA
+      speaker:
       enterprise: BLIP
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
@@ -88,7 +87,7 @@
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
       duration: one-hour
-      about: TBA
+      about: TBA #TODO
       type: podcast
       icon: fa-podcast
       place: CP2-B1
@@ -96,7 +95,7 @@
     - name: BigData meetup
       time: 19:00-21:30
       duration: two-hours
-      about: TBA
+      about: TBA #TODO
       type: social
       icon: fa-users
       place: Departamento de Informática
@@ -106,7 +105,7 @@
   dayOfWeek: TERÇA
   activities:
     - double: true
-      nameLeft: Workshop - Xpand IT
+      nameLeft: Workshop - Xpand IT #TODO
       speakerLeft: TBA
       speakerLeft2: TBA
       enterpriseLeft: Xpand IT
@@ -117,15 +116,16 @@
       aboutLeft: TBA
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - Accenture
-      speakerRight: TBA
+      nameRight: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+      speakerRight: Carlos Jesus
+      speakerRight2: André Silva
       enterpriseRight: Accenture
       enterpriseURLRight: https://accenture.pt/
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fa fa-code
-      aboutRight: TBA
-      typeRight: TBA
+      aboutRight: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+      typeRight: workshop
       placeRight: DI-TBA
 
     - coffee: true
@@ -179,7 +179,7 @@
     - coffee: true
 
     - name: Apresentação da TBA
-      speaker: TBA
+      speaker:
       enterprise: TBA
       enterpriseURL:
       time: 16:30-16:45
@@ -248,15 +248,15 @@
 
     - meal: true
 
-    - name: Talk TalkDesk
-      speaker: TBA
+    - name: A evolução do Data Scientist
+      speaker: Daniel Ferrari
       enterprise: TalkDesk
       enterpriseURL: https://www.talkdesk.com/
       time: 14:00-15:00
       duration: one-hour
       icon: fa-table
       type: talk
-      about: TBA
+      about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
       place: TBA
 
     - name: Talk
@@ -270,8 +270,10 @@
       about: TBA
       place: TBA
 
+    - coffee: true
+
     - name: Apresentação da Bosch
-      speaker: TBA
+      speaker:
       enterprise: Bosch
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
@@ -281,70 +283,26 @@
       icon: fa-desktop
       place: CP2-B1
 
-      #HERE
-
-    - name: Transforming Mobility
-      speaker: José Carreiras
-      speaker2: Eduardo Afonso
-      enterprise: Aptiv
-      enterpriseURL: http://www.aptiv.com/
-      time: 12:00-13:00
+    - name: TBA
+      speaker: TBA
+      enterprise: TBA
+      enterpriseURL:
+      time: 17:00-18:00
       duration: one-hour
       icon: fa-car
       type: talk
-      about: A palestra “Transforming Mobility”, será feita uma abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
+      about: TBA
       place: CP2-B1
 
-
-    - name: Android
-      speaker: Francisco Franco
-      type: talk
-      time: 14:00-15:00
-      duration: one-hour
-      icon: fa-android
-      about: Francisco Franco vem falar-te da sua experiência em Kernel Android.
-      place: CP2-B1
-
-    - name: So you want to make videogames?
-      speaker: Thomas Papa
-      time: 15:00-16:00
-      duration: one-hour
-      type: talk
-      about: O que é que o Wild West, a princesa Pêssego e um carro de observação Amtrak têm em comum? São coisas que podes encontrar quando embarcas na viagem de desenvolver videojogos como modo de vida. Desenvoler videojogos, profissionalmente, é uma opção de carreira que frequentemente é encoberta em mistério quando toca a operações diárias. Esta palestra visa, precisamente, desmistificar isto e explorar 5 formas diferentes de enveredar por uma carreira nos videojogos. Também levantará a cortina sobre o que realmente significa correr um independent game e VR studio em Portugal, cobrindo aspetos como studio financing, Steam market research e "the two Johns”.
-      place: CP2-B1
-
-    - coffee: true
-
-    - name: DevOps no dia-a-dia de uma equipa de desenvolvimento web
-      speaker: André Rocha
-      enterprise: Dipcode
-      enterpriseURL: https://dipcode.com/
-      time: 16:30-17:30
-      type: talk
-      duration: one-hour
-      about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
-      icon: fa-wrench
-      place: CP2-B1
-
-    - name: "Ser-se 'Women in Tech'"
-      speaker: Mariana Gomes
-      speaker2: Ana Sampaio
-      speaker3: Sandra Costa
-      speaker4: JBB
-      time: 17:30-18:30
-      type: Tertulia
-      duration: one-hour
-      icon: fa-female
-      about: O que é ser-se mulher na tecnologia? O que se poderia fazer melhor? Para responder a estas perguntas vamos conversar com verdadeiras ‘women in tech’ e partilhar experiências e opiniões sobre o tema.
-      place: CP2-B1
-
-    - name: Rally de LEI
-      time: 21:30-23:30
+    - name: Rally das Tascas
+      time: 21:00-00:00
       duration: three-hours
       icon: fa-beer
       about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
       type: social
       place: Largo do Carpe
+
+#HERE
 
 - thursday:
   date: 7 FEV
