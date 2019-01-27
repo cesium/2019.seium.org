@@ -59,10 +59,52 @@ defaults:
 
 speakers:
   headline: Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
-  eugene_petrenko:
-    about: Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene...
-  mike_elsmore:
-    about: Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano...
+  celso_martinho:
+    about: Celso Martinho é uma pessoa que encontra motivação nos desafios, um geek tecnológico optimista, um homem de produto, uma alma empresarial, eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior projeto de internet de Portugal, agora uma empresa mídia e conteúdo da fábrica de inovação da Portugal Telecom, constrói serviços B2C em grande escala em áreas desde cloud, e-commerce e e-payments até interatividade IPTV. Ele tem um combinado passado em gestão de alto nível, gestão de projetos software, arquitetura de sistemas e desenvolvimento de produto técnico e várias décadas de experiência nas indústrias telecom e internet. Celso é também CEO e fundador da Bright Pixel, um estúdio de software, casa de uma equipa de experts da indústria com vasta experiência em usar tecnologia e criatividade para criar produtos com alcance mundial e serviços num ambiente diverso de áreas desde desenvolvimento web, segurança, e-payment, tecnologias big-data e design de interfaces e usabilidade.
+  bruno_ribeiro:
+    about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados.</span><span class="aboutspeaker">É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
+  david_amador:
+    about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
+  andre_pimenta:
+    about: CEO e co-founder da Performetric e Doutorado em Informática na especialidade de Inteligência Artificial pela Universidade do Minho.
+  andre_barbosa:
+    about: Entrei para LEI em 2006 e, com alguma ajuda, lá consegui acabar o curso. Passei por varias industrias e empresas até que acabei por me juntar á Skyscanner desafiado pela quantidade de dados e utilizadores diários. Actualmente passo os meus dias com uma equipa de Software Engineers e Data Scientists a tentar criar uma experiencia personalizada para os nossos utilizadores.
+  jorge_resende:
+    about: Licenciado em Engenharia Eletrónica Industrial e Computadores pela Universidade do Minho, tem dedicado a sua carreira ao desenvolvimento de hardware e software para equipamentos industriais automatizados e robotizados. Atualmente, além de CTO da IEM4.0, também é docente nos cursos TeSP de Automação, Robótica e Informática Industrial (ARII) e Sistemas Mecatrónicos e de Produção (SMP), lecionados na Escola Superior Aveiro Norte da Universidade de Aveiro.
+  nuno_cascais:
+    about: Nuno Cascais, com formação em Engenharia Química na Faculdade de Engenharia da Universidade do Porto e após um percurso profissional desenvolvido no sector automóvel, durante 10 anos, decide fazer um MBA em Gestão de Empresas na Universidade Fernando Pessoa. Esse foi o ponto de partida, para a criação de sinergias que proporcionaram o nascimento da IEM4.0.
+  sergio_gaio:
+    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+  carlos_jesus:
+    about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.</span><span class="aboutspeaker">Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5.</span><span class="aboutspeaker">Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org.</span><span class="aboutspeaker">Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
+  andre_silva:
+    about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
+  daniel_ferrari:
+    about: Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
+  marcio:
+    about: Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the software industry, he started as a software developer after graduating from the University of Minho and has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
+  diogo_cruz:
+    about: Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da Aptiv em Braga, como Software Engineer.
+  jose_carreiras:
+    about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
+  ricardo_soares:
+    about: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
+  nuno_fernandes:
+    about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
+  cesar_pinto:
+    about: César joined OutSystems as Engagement Manager by having the responsibility for the overall management and delivery of innovative solutions using the OutSystems technology thru an agile approach. Recently become an Engagement Manager Mentor by leading a team of Engagement Managers with the responsibility of accelerating the team growth to an outstanding level and ensuring the team's deliveries success.
+  hernani_fernandes:
+    about: Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being responsible for the technical delivery of innovative solutions based on customer business needs and drivers. Since mid-2018 he's also a member of the Architecture Experts, who are responsible for designing flexible and cost-effective solution architectures that are aligned with the OutSystems customers' business strategies.
+  paulo_marques:
+    about: Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
+  tiago_fernandes:
+    about: Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate in several engineering challenges and craft some of the features that are part of OutSystems IDE. Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
+  jno:
+    about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
+  jbb:
+    about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
+  psa:
+    about: Paulo Sérgio Almeida é professor no Departamento de Informática da Universidade do Minho e Researcher na área dos sistemas distribuídos no HASLab.
 
 team:
   organization: Organização
@@ -133,7 +175,115 @@ getting_here:
     description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Descrição do CoderDojo
-    time: 10:00-12:00
+  geekgirls:
+    name: Geek Girls
+    about:
+  sessao_abertura:
+    name: Sessão de Abertura
+    about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
+  apresentacao_desafios:
+    name: Apresentação dos desafios
+    about: Apresentação de todos os desafios que irão acontecer durante a semana.
+  talk_blip:
+    name: Mutation testing - Let's kill some mutants
+    about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
+  talk_accenture:
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+  talk_upfall:
+    name: Analysing a Cross-Platform Game engine
+    about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
+  apresentacao_blip:
+    name: Apresentação da BLIP
+    about:
+  job:
+    name: Remote Work Podcast
+    about: TBA
+  meetup:
+    name: BigData meetup
+    about: TBA
+  workshop_xpandit:
+    name: Data crunching with Tableau
+    about: >-
+      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
+  workshop_accenture:
+    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+    about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+  workshop_pixelmatters:
+    name: Workshop - Pixelmatters
+    about: TBA
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
+  talk_celso_martinho:
+    name: Startups para Geeks
+    about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+  ##TODO
+  tertulia:
+    name: Eng. Informática nas Universidades Portuguesas
+    about: TBA
+  arraial:
+    name: Arraial de engenharia
+    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+  workshop_andre_sousa:
+    name: React.js
+    about: React.js
+  workshop_wedo:
+    name: Workshop - WeDo
+    about: TBA
+  talk_wedo:
+    name: Talk WeDo
+    about: TBA
+  talk_talkdesk:
+    name: A evolução do Data Scientist
+    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+  talk:
+    name: Talk
+    about: TBA
+  apresentacao_bosch:
+    name: Apresentação da Bosch
+    about:
+  ##TODO
+  rally:
+    name: Rally das Tascas
+    about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
+  workshop_smithmicro:
+    name: Workshop CG - SmithMicro
+    about: TBA
+  workshop_aptiv:
+    name: Automotive Infotainment Systems
+    about: >-
+      A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica: As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos: Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+  talk_aptiv:
+    name: Transforming Mobility
+    about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
+  talk_bruno_ribeiro:
+    name: Gamification 1-0-1
+    about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
+  talk_andre_barbosa:
+    name: Building data driven products at scale
+    about: Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde usamos esses dados para construir produtos novos e melhorar a experiencia dos utilizadores que usam o nosso serviço.
+  ##TODO
+  ##TODO
+  workshop_eurotux:
+    name: Devops @Eurotux
+    about: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
+  workshop_farfetch:
+    name: Workshop - Farfetch
+    about: TBA
+  talk_primavera:
+    name: Talk - Primavera
+    about: TBA
+  talk_farfetch:
+    name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
+    about: Starting your professional career can be a daunting thought. The presentation will go through some of the main challenges and things that don’t teach you at University, as well as some advice for your first steps.
+  ##TODO
+  encerramento:
+    name: Encerramento & entrega de prémios
+    about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+  hackathon:
+    name: Hackathon
+    about:
