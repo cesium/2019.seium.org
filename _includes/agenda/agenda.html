@@ -53,9 +53,10 @@
                     {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{{ act.nameRight }}</b></div>
-                      {% if (act.speakerRight and act.enterpriseRight) %}
+                      {% if (act.speakerRight and act.speakerRight2) %}
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
-                      {% else %}
+                      <div class="activity-speaker">{{ act.speakerRight2 }}</div>
+                      {% elsif act.speakerRight %}
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
                       {% endif %}
                     </div>
