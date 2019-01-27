@@ -34,7 +34,6 @@
 
     - name: Talk BLIP
       speaker: TBA
-      speaker2: TBA
       time: 12:00-13:00
       duration: one-hour 
       type: talk
@@ -90,7 +89,7 @@
       duration: one-hour
       about: TBA
       type: podcast
-      icon: fa-podcast
+      icon: fab fa-podcast
       place: CP2-B1
 
     - name: BigData meetup
