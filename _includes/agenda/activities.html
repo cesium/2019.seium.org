@@ -146,6 +146,24 @@
                     </div>
                   </div>
                   {% endif %}
+                  {% if act.speakerRight3 %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerRight3 | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerRight3 }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.speakerRight4 %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerRight4 | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerRight4 }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
                   {% if act.enterpriseRight %}
                   <div class="activity-enterprise">
                     <a href="{{ act.enterpriseURLRight }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterpriseRight }}</span></a>
