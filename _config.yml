@@ -1,6 +1,9 @@
 # Site settings
-title: SeiUm
+title: SEI 19
 email: sei@cesium.di.uminho.pt
+year: 2019
+short_year: 19
+prev_year: 2018
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,14 +18,9 @@ highlighter: rouge
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-assets
-
-
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+- jekyll-assets
+- jekyll-multiple-languages-plugin
+
+# jekyll-multiple-languages-plugin settings:
+languages: ["pt", "en"]

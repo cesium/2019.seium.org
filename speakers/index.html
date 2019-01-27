@@ -4,11 +4,11 @@ layout: default
 <section id="aboutspeakers" controller="speakerCtrl">
   <div class="container">
     <div class="section-title-container text-center">
-      <h1 class="section-title">Oradores</h1>
+      <h1 class="section-title">{% t navbar.speakers %}</h1>
     </div>
 
     <div class="speakers-def col-md-8 col-md-offset-2 ">
-      Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
+      {% t speakers.headline %}
     </div>
 
     {% for speaker in site.data.speakers %}
@@ -52,7 +52,7 @@ layout: default
 
       </div>
    <div class="col-md-9 vcenter">
-        <span class="aboutspeaker">{{ speaker.about }}</span>
+        <span class="aboutspeaker">{% t speakers.{{speaker.about}} %}</span>
       </div>
     </div>
 

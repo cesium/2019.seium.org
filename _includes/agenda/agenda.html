@@ -1,7 +1,7 @@
 <section id="agenda">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">Agenda</h1>
+      <h1 class="section-title">{% t navbar.agenda %}</h1>
     </div>
 
     <div class="col-md-12">
@@ -11,7 +11,7 @@
 
             {% for day in site.data.agenda %}
             <div class="col-sm-3 agenda-day">
-              <h4 class="center-block agenda-date"> {{ day.date }}. <br><span>{{ day.dayOfWeek }}</span></h4>
+              <h4 class="center-block agenda-date">{{ day.day }} {% t defaults.months.{{ day.month }} %}. <br><span>{% t defaults.days_of_week.{{ day.day_of_week }} %}</span></h4>
               {% for act in day.activities %}
               {% if act.coffee %}
               <h5 class="agenda-coffee">
@@ -69,7 +69,7 @@
               </div>
               {% else %}
               <div class="agenda-activity">
-                <div class="activity-time">{{ act.time }}</div>
+                <div class="activity-time">{% t activities.{{ act.time }} %}</div>
                 <a href="#{{ act.name | slugify }}">
                   {% if act.tba %}
                   <div class="activity-tba-block {{ act.duration }} text-left">
@@ -77,7 +77,7 @@
                   <div class="activity-block {{ act.duration }} text-left">
                   {% endif %}
                     <div class="activity-border"></div>
-                    <div class="activity-name"><b>{{ act.name }}</b></div>
+                    <div class="activity-name"><b>{% t activities.{{ act.name }} %}</b></div>
                     {% if (act.speaker and act.speaker2 and act.speaker3 and act.speaker4) %}
                     <div class="activity-speaker">{{ act.speaker }} & {{ act.speaker2 }}</div>
                     <div class="activity-speaker2">{{ act.speaker3 }} & {{ act.speaker4 }}</div>

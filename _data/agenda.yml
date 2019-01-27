@@ -1,18 +1,20 @@
-- saturday3:
-  date: 2 FEV
-  dayOfWeek: SÁBADO
+- saturday2:
+  day: 2
+  month: feb
+  day_of_week: saturday
   activities:
     - name: CoderDojo #TODO
       time: 10:00-12:00
-      duration: two-hours
+      duration: two-hours 
       about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
       icon: fa-users
       type: social
       place: Generation
 
 - monday:
-  date: 4 FEV
-  dayOfWeek: SEGUNDA
+  day: 4
+  month: feb
+  day_of_week: monday
   activities:
     - name: Sessão de Abertura #TODO
       time: 10:00-10:30
@@ -101,8 +103,9 @@
       place: Departamento de Informática
 
 - tuesday:
-  date: 5 FEV
-  dayOfWeek: TERÇA
+  day: 5
+  month: feb
+  day_of_week: tuesday
   activities:
     - double: true
       nameLeft: Workshop - Xpand IT #TODO
@@ -212,8 +215,9 @@
       place: Largo do Carpe
 
 - wednesday:
-  date: 6 FEV
-  dayOfWeek: QUARTA
+  day: 6
+  month: feb
+  day_of_week: wednesday
   activities:
     - double: true
       nameLeft: Workshop - Jean Pierre #TODO
@@ -307,8 +311,9 @@
       place: Largo do Carpe
 
 - thursday:
-  date: 7 FEV
-  dayOfWeek: QUINTA
+  day: 7
+  month: feb
+  day_of_week: thursday
   activities:
     - double: true
       nameLeft: Workshop CG - SmithMicro #TODO
@@ -395,8 +400,9 @@
       place: TBA
 
 - friday:
-  date: 8 FEV
-  dayOfWeek: SEXTA
+  day: 8
+  month: feb
+  day_of_week: friday
   activities:
     - double: true
       nameLeft: Devops @Eurotux
@@ -467,22 +473,23 @@
 
 #HERE
 
-- saturday10: #TODO
-  date: 9 FEV
-  dayOfWeek: SÁBADO
+- saturday9:
+  day: 9
+  month: feb
+  day_of_week: saturday
   activities:
     - double: true
       nameLeft: Hackathon
       timeLeft: 10:00-14:30
       durationLeft: four-hours-and-half
-      iconLeft: fas fa-code
+      iconLeft: fa-code
       typeLeft: Concurso
       aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       placeLeft: CP2
       nameRight: 61º Geek Girls Portugal
       timeRight: 10:30-14:30
       durationRight: four-hours
-      iconRight: fas fa-female
+      iconRight: fa-female
       typeRight: Meeting
       aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
       placeRight: Smith Micro Portugal, Braga
@@ -495,9 +502,10 @@
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       place: CP2
 
-- sunday11: #TODO
-  date: 10 FEV
-  dayOfWeek: DOMINGO
+- sunday10: 
+  day: 10
+  month: feb
+  day_of_week: sunday
   activities:
     - name: Hackathon
       time: 00:00-13:00

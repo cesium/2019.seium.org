@@ -2,7 +2,7 @@
 <section id="speakers" controller="speakerCtrl">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">    Oradores    </h1>
+      <h1 class="section-title">    {% t navbar.speakers %}    </h1>
     </div>
     <div class="speakers-list">
       {% for speaker in site.data.speakers %}
@@ -39,9 +39,9 @@
       </div>
       {% endfor %}
     </div>
-    <div class="col-md-12">
-      <a href="/speakers">
-        <button class="btn btn-info btn-sei" href="/speakers" >Sabe Mais</button>
+    <div class="col-md-12 flex-center">
+      <a href="{{ site.baseurl }}/speakers" style="display: inline-block;">
+        <button class="btn btn-info btn-sei">{% t defaults.learn_more %}</button>
       </a>
     </div>
   </div>

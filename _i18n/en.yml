@@ -1,0 +1,139 @@
+navbar:
+  agenda: Agenda
+  speakers: Speakers
+  challenges: Challenges
+  getting_here: Getting here
+  team: Team
+  hackathon: Hackathon
+  registrations: Registrations
+  workshops: Workshops
+  badges: Badges
+
+defaults:
+  date: 4th to 8th of February
+  university: University of Minho
+  computer_eng_week: Computer Engineering Week
+  register: Register
+  registration: Registration
+  send: Send
+  partners: Partners
+  organisation: Organisation
+  activities: Activities
+  schedule: Schedule
+  days_of_week:
+    monday: Monday
+    tuesday: Tuesday
+    wednesday: Wednesday
+    thursday: Thursday
+    friday: Friday
+    saturday: Saturday
+    sunday: Sunday
+  phone: Phone
+  prev_edition: Previous edition
+  learn_more: Learn more
+  months:
+    january: January
+    jan: Jan
+    february: February
+    feb: Feb
+    march: March
+    mar: Mar
+    april: April
+    apr: Apr
+    may: May
+    mai: May
+    june: June
+    jun: Jun
+    july: July
+    jul: Jul
+    august: August
+    aug: Aug
+    september: September
+    sep: Sep
+    october: October
+    oct: Oct
+    november: November
+    nov: Nov
+    december: December
+    dec: Dec
+
+speakers:
+  headline: During this week, you have the opportunity to interact with many recognized speakers, national, international and notorious companies! You can get to know them better here.
+  eugene_petrenko:
+    about: During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene ...
+  mike_elsmore:
+    about: Mike is american Mike is american Mike is american Mike is american Mike is americanoMike is american Mike is american...
+
+team:
+  organization: Organization
+  staff: Staff
+  headline: To bring you this week, CeSIUM has teamed up with the best team possible. They walk around, full of work, gathering speakers, attracting partners and giving their imaginations wings, all for this to be your favorite week.
+  find_us: How to find us
+
+workshops:
+  headline: Sign up for the workshops you do not want to miss. Subscriptions are limited, hurry up!
+  laravel:
+    name: Real-time Webapps with Laravel and Pusher
+    description: If time is money, spare F5s. Real-time applications grow every day and endowing an application of these technologies can be incredibly simple. Taking advantage of the growing popularity of the Laravel web framework, we are developing a small integrated application with Pusher, a realtime technologies service that you will want to integrate into your upcoming projects.
+
+challenges:
+  headline: We are of the opinion that more interesting than lectures and workshops, are challenges and contests! For that reason, and since it has been tradition, we decided to create several friendly competitions. Stand out in one of these areas but, more importantly, have fun!
+  score: Score
+  regulation: Regulation
+  prize: Prize
+  ps4:
+    name: PS4 Draw
+    description: Did you go through CP2 and see Accenture? They want your resume! Send it to sei+cv@cesium.di.uminho.pt and enable yourself to win a PS4!
+
+hackathon:
+  date: 10th to 11th of February
+  infos:
+    what:
+      title: What is it?
+      description:
+  organisation:
+    supported_by: Supported by
+  awards:
+    first:
+      title: 1st Award
+      description:
+    second:
+      title: 2nd Award
+      description:
+    third:
+      title: 3rd Award
+      description:
+    surprises:
+      title: Surprises
+      description:
+  schedule:
+    activity_example:
+      name: Opening
+      time: 6PM-7PM
+
+about:
+  activities: 8 days of activities
+  free: Totally free
+  challenges: Multiple challenges and contests
+  talks_workshops_and_hackathon: Talks, Workshops and Hackathon
+  talks_and_workshops: Talks and Workshops
+  speakers: National and international speakers
+  organisation: The SEI is free for participants and is organized by volunteers from CeSIUM.
+
+getting_here:
+  headline: If you do not know exactly how to get to SEI, we help. Take advantage of train tickets at a very special price, thanks to our partnership with CP - Comboios de Portugal, or come by own means. What you can not do is miss this edition of your favorite week.
+  train:
+    title: Train
+    description: From February 5 to 9, you can travel for 2.00 € round trip, on the urban trains from Porto to Braga (lines from Braga, Marco de Canaveses, Guimarães and Aveiro).
+  bus:
+    title: Bus
+    description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
+  car:
+    title: Car
+    description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
+
+activities:
+  coderdojo:
+    name: CoderDojo
+    about: Description of CoderDojo
+    time: 10AM-12AM
