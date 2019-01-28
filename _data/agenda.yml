@@ -184,16 +184,16 @@
 
     - coffee: true
 
-    - name: Apresentação da TBA #TODO
-      speaker:
-      enterprise: TBA
-      enterpriseURL:
-      time: 16:30-16:45
-      duration: fifty-min
-      about: TBA
-      type: talk
-      icon: fa-desktop
-      place: CP2-B1
+##   - name: Apresentação da TBA #TODO
+##     speaker:
+##     enterprise: TBA
+##     enterpriseURL:
+##     time: 16:30-16:45
+##     duration: fifty-min
+##     about: TBA
+##     type: talk
+##     icon: fa-desktop
+##     place: CP2-B1
 
     - name: tertulia.name #TODO
       speaker: TBA
@@ -377,16 +377,16 @@
 
     - coffee: true
 
-    - name: Apresentação da TBA #TODO
-      speaker:
-      enterprise: TBA
-      enterpriseURL:
-      time: 16:30-16:45
-      duration: fifty-min
-      about:
-      type: talk
-      icon: fa-desktop
-      place: CP2-B1
+  ##  - name: Apresentação da TBA #TODO
+  ##    speaker:
+  ##    enterprise: TBA
+  ##    enterpriseURL:
+  ##    time: 16:30-16:45
+  ##    duration: fifty-min
+  ##    about:
+  ##    type: talk
+  ##    icon: fa-desktop
+  ##    place: CP2-B1
 
     - name: TBA #TODO
       speaker: TBA
@@ -482,7 +482,7 @@
       icon: fa-code
       type: Concurso
       about: hackathon.about
-      place: CP2
+      place: DI
 
 - sunday10:
   day: 10
@@ -495,4 +495,4 @@
       icon: fa-code
       type: Concurso
       about: hackathon.about
-      place: CP2
+      place: DI
