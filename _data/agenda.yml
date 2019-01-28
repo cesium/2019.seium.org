@@ -5,7 +5,7 @@
   activities:
     - name: CoderDojo #TODO
       time: 10:00-12:00
-      duration: two-hours 
+      duration: two-hours
       about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
       icon: fa-users
       type: social
@@ -16,30 +16,30 @@
   month: feb
   day_of_week: monday
   activities:
-    - name: Sessão de Abertura #TODO
+    - name: sessao_abertura.name #TODO
       time: 10:00-10:30
       duration: half-hour
       icon: fas fa-cut
-      about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
+      about: sessao_abertura.about
       type: social
       place: CP2-B1
 
-    - name: Apresentação dos desafios
+    - name: apresentacao_desafios.name
       time: 11:00-11:30
       duration: half-hour
       icon: fas fa-bullhorn
-      about: Apresentação de todos os desafios que irão acontecer durante a semana.
+      about: apresentacao_desafios.about
       type: social
       place: CP2-B1
 
     - coffee: true
 
-    - name: Mutation testing - Let's kill some mutants
+    - name: talk_blip.name
       speaker: Ricardo Soares
       time: 12:00-13:00
       duration: one-hour
       type: talk
-      about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
+      about: talk_blip.about
       icon: fas fa-code
       enterprise: BLIP
       enterpriseURL: www.blip.pt
@@ -48,7 +48,7 @@
 
     - meal: true
 
-    - name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    - name: talk_accenture.name
       speaker: Sérgio Gaio
       enterprise: Accenture
       enterpriseURL: https://www.accenture.pt/
@@ -56,10 +56,10 @@
       duration: one-hour
       icon: fas fa-business-time
       type: talk
-      about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+      about: talk_accenture.about
       place: CP2-B1
 
-    - name: Analysing a Cross-Platform Game engine
+    - name: talk_upfall.name
       speaker: David Amador
       enterprise: Upfall Studios
       enterpriseURL: https://upfallstudios.com/
@@ -67,37 +67,37 @@
       duration: one-hour
       icon: fas fa-gamepad
       type: talk
-      about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
+      about: talk_upfall.about
       place: CP2-B1
 
     - coffee: true
 
-    - name: Apresentação da BLIP
+    - name: apresentacao_blip.name
       speaker:
       enterprise: BLIP
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
       duration: fifty-min
-      about:
+      about: apresentacao_blip.about
       type: talk
       icon: fas fa-desktop
       place: CP2-B1
 
-    - name: Remote Work Podcast #TODO
+    - name: job.name #TODO
       speaker: Job van der Voort
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
       duration: one-hour
-      about: TBA
+      about: job.about
       type: podcast
       icon: fas fa-podcast
       place: CP2-B1
 
-    - name: BigData meetup #TODO
+    - name: meetup.name #TODO
       time: 19:00-21:30
       duration: two-hours
-      about: TBA
+      about: meetup.about
       type: social
       icon: fa-users
       place: Departamento de Informática
@@ -105,10 +105,10 @@
 - tuesday:
   day: 5
   month: feb
-  day_of_week: tuesday
+  day_of_week: tuesday #TODO
   activities:
     - double: true
-      nameLeft: Workshop - Xpand IT #TODO
+      nameLeft: workshop_xpandit.name
       speakerLeft: TBA
       speakerLeft2: TBA
       enterpriseLeft: Xpand IT
@@ -116,10 +116,10 @@
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fa fa-code
-      aboutLeft: TBA
+      aboutLeft: workshop_xpandit.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+      nameRight: workshop_accenture.name
       speakerRight: Carlos Jesus
       speakerRight2: André Silva
       enterpriseRight: Accenture
@@ -127,24 +127,24 @@
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fa fa-globe
-      aboutRight: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+      aboutRight: workshop_accenture.about
       typeRight: workshop
       placeRight: DI-TBA
 
     - coffee: true
 
-    - double: true
-      nameLeft: Workshop - Pixelmatters #TODO
+    - double: true #TODO
+      nameLeft: workshop_pixelmatters.name
       speakerLeft: TBA
       enterpriseLeft: Pixelmatters
       enterpriseURLLeft: http://pixelmatters.com/
       timeLeft: 11:30-13:30
       durationLeft: two-hours
       iconLeft: fas fa-fire
-      aboutLeft: TBA
+      aboutLeft: workshop_pixelmatters.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Mobile and web rapid application development with OutSystems
+      nameRight: workshop_outsystems.name
       speakerRight: César Pinto
       speakerRight2: Hernâni Fernandes
       speakerRight3: Paulo Marques
@@ -154,24 +154,24 @@
       timeRight: 11:30-13:30
       durationRight: two-hours
       iconRight: fa fa-code
-      aboutRight: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+      aboutRight: workshop_outsystems.about
       typeRight: workshop
       placeRight: DI-TBA
 
     - meal: true
 
-    - name: TBA #TODO
+    - name: talk_andre_pimenta.name
       speaker: André Pimenta
-      enterprise: TBA
-      enterpriseURL: TBA
+      enterprise: Performetric
+      enterpriseURL: https://performetric.net/
       time: 14:00-15:00
       duration: one-hour
       icon: fas fa-desktop
       type: talk
-      about: TBA
+      about: talk_andre_pimenta.about
       place: TBA
 
-    - name: Startups para Geeks
+    - name: talk_celso_martinho.name
       speaker: Celso Martinho
       enterprise: Bright Pixel
       enterpriseURL: https://brpx.com/
@@ -179,7 +179,7 @@
       duration: one-hour
       icon: fa-cogs
       type: talk
-      about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+      about: talk_celso_martinho.about
       place: TBA
 
     - coffee: true
@@ -195,22 +195,22 @@
       icon: fa-desktop
       place: TBA
 
-    - name: Eng. Informática nas Universidades Portuguesas #TODO
+    - name: tertulia.name #TODO
       speaker: TBA
       speaker2: TBA
       speaker3: TBA
       time: 17:00-18:00
       duration: one-hour
-      about: TBA
+      about: tertulia.about
       icon: fas fa-university
       type: Tertúlia
       place: TBA
 
-    - name: Arraial de engenharia
+    - name: arraial.name
       time: 21:00-00:00
       icon: fas fa-beer
       duration: three-hours
-      about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!"
+      about: arraial.about
       type: social
       place: Largo do Carpe
 
@@ -220,30 +220,30 @@
   day_of_week: wednesday
   activities:
     - double: true
-      nameLeft: Workshop - Jean Pierre #TODO
-      speakerLeft: Jean Pierre
+      nameLeft: workshop_andre_sousa.name #TODO
+      speakerLeft: André Sousa
       enterpriseLeft: TBA
       enterpriseURLLeft: TBA
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fas fa-code
-      aboutLeft: React.js
+      aboutLeft: workshop_andre_sousa.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - WeDo #TODO
+      nameRight: workshop_wedo.name #TODO
       speakerRight: TBA
       enterpriseRight: WeDo
       enterpriseURLRight: https://www.wedotechnologies.com/
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fas fa-paperclip
-      aboutRight: TBA
+      aboutRight: workshop_wedo.about
       typeRight: TBA
       placeRight: DI-TBA
 
     - coffee: true
 
-    - name: Talk WeDo #TODO
+    - name: talk_wedo.name  #TODO
       speaker: TBA
       enterprise: WeDo
       enterpriseURL: https://www.wedotechnologies.com/
@@ -251,12 +251,12 @@
       duration: one-hour
       icon: fas fa-wrench
       type: talk
-      about: TBA
+      about: talk_wedo.about
       place: TBA
 
     - meal: true
 
-    - name: A evolução do Data Scientist
+    - name: talk_talkdesk.name
       speaker: Daniel Ferrari
       enterprise: TalkDesk
       enterpriseURL: https://www.talkdesk.com/
@@ -264,10 +264,10 @@
       duration: one-hour
       icon: fas fa-database
       type: talk
-      about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+      about: talk_talkdesk.about
       place: TBA
 
-    - name: Talk #TODO
+    - name: talk.name #TODO
       speaker: TBA
       enterprise: TBA
       enterpriseURL: TBA
@@ -275,18 +275,18 @@
       duration: one-hour
       icon: fas fa-globe
       type: talk
-      about: TBA
+      about: talk.about
       place: TBA
 
     - coffee: true
 
-    - name: Apresentação da Bosch
+    - name: apresentacao_bosch.name
       speaker:
       enterprise: Bosch
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
       duration: fifty-min
-      about:
+      about: apresentacao_bosch.about
       type: talk
       icon: fas fa-table
       place: TBA
@@ -302,11 +302,11 @@
       about: TBA
       place: TBA
 
-    - name: Rally das Tascas
+    - name: rally.name
       time: 21:00-00:00
       duration: three-hours
       icon: fas fa-beer
-      about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
+      about: rally.about
       type: social
       place: Largo do Carpe
 
@@ -315,8 +315,8 @@
   month: feb
   day_of_week: thursday
   activities:
-    - double: true
-      nameLeft: Workshop CG - SmithMicro #TODO
+    - double: true #TODO
+      nameLeft: workshop_smithmicro.name
       speakerLeft: TBA
       speakerLeft2: TBA
       enterpriseLeft: Xpand IT
@@ -324,27 +324,27 @@
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fas fa-globe
-      aboutLeft: TBA
+      aboutLeft: workshop_smithmicro.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Automotive Infotainment Systems
+      nameRight: workshop_aptiv.name
       speakerRight: Diogo Cruz
       enterpriseRight: Aptiv
       enterpriseURLRight: https://www.aptiv.com/
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fas fa-car
-      aboutRight: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+      aboutRight: workshop_aptiv.about
       typeRight: workshop
       placeRight: DI-TBA
 
     - coffee: true
 
-    - name: Transforming Mobility
+    - name: talk_aptiv.name
       time: 11:30-12:30
       duration: one-hour
       icon: fas fa-car
-      about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
+      about: talk_aptiv.about
       type: talk
       speaker: José Carreiras
       enterprise: Aptiv
@@ -353,7 +353,7 @@
 
     - meal: true
 
-    - name: Gamification 1-0-1
+    - name: talk_bruno_ribeiro.name
       time: 14:00-15:00
       duration: one-hour
       icon: fas fa-gamepad
@@ -361,10 +361,10 @@
       enterpriseURL: http://landing.fractalmind.pt/
       speaker: Bruno Ribeiro
       type: talk
-      about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
+      about: talk_bruno_ribeiro.about
       place: TBA
 
-    - name: Talk André Barbosa #TODO
+    - name: talk_andre_barbosa.name #TODO
       speaker: André Barbosa
       enterprise:
       enterpriseURL:
@@ -372,7 +372,7 @@
       duration: one-hour
       type: talk
       icon: fa-cogs
-      about: TBA
+      about: talk_andre_barbosa.about
       place: TBA
 
     - coffee: true
@@ -405,48 +405,48 @@
   day_of_week: friday
   activities:
     - double: true
-      nameLeft: Devops @Eurotux
+      nameLeft: workshop_eurotux.name
       speakerLeft: Nuno Fernandes
       enterpriseLeft: Eurotux
       enterpriseURLLeft: https://eurotux.com/
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fas fa-code-branch
-      aboutLeft: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
+      aboutLeft: workshop_eurotux.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: Workshop - Farfetch #TODO
+      nameRight: workshop_farfetch.name #TODO
       speakerRight: TBA
       enterpriseRight: Farfetch
       enterpriseURLRight: https://www.farfetch.com/pt/
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fas fa-code
-      aboutRight: TBA
+      aboutRight: workshop_farfetch.about
       typeRight: workshop
       placeRight: DI-TBA
 
     - coffee: true
 
-    - name: Talk - Primavera #TODO
+    - name: talk_primavera.name #TODO
       speaker: TBA
       type: talk
       time: 11:30-12:30
       icon: fas fa-globe
-      about: TBA
+      about: talk_primavera.about
       duration: one-hour
       place: TBA
 
     - meal: true
 
-    - name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
+    - name: talk_farfetch.name
       speaker: Márcio
       enterprise: Farfetch
       enterpriseURL: https://www.farfetch.com/pt/
       time: 14:00-15:00
       duration: one-hour
       icon: fas fa-user-graduate
-      about: Starting your professional career can be a daunting thought. The presentation will go through some of the main challenges and things that don’t teach you at University, as well as some advice for your first steps.
+      about: talk_farfetch.about
       type: talk
       place: CP2-B1
 
@@ -463,11 +463,11 @@
 
     - coffee: true
 
-    - name: Encerramento & entrega de prémios
+    - name: encerramento.name
       time: 16:30-17:30
       duration: one-hour
       icon: fas fa-trophy
-      about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+      about: encerramento.about
       type: social
       place: CP2-B1
 
@@ -502,7 +502,7 @@
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       place: CP2
 
-- sunday10: 
+- sunday10:
   day: 10
   month: feb
   day_of_week: sunday

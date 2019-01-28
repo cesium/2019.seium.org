@@ -56,7 +56,7 @@
               </div>
             </div>
             <div class="col-sm-9 activity-text">
-              <p class="activity-title">{{ act.nameLeft }}</p>
+              <p class="activity-title">{% t activities.{{ act.nameLeft }} %}</p>
               {% if act.typeLeft %}
               <div class="activity-type">
                 <p>{{ act.typeLeft }}</p>
@@ -99,7 +99,7 @@
                 </div>
               </div>
               {% endif %}
-              <p class="col-xs-12 activity-text">{{ act.aboutLeft }}</p>
+              <p class="col-xs-12 activity-text">{% t activities.{{ act.aboutLeft }} %}</p>
               {% if act.registerLeft %}
               <a href="{{ act.registerLeft }}" target="_blank">
                 <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
@@ -173,7 +173,7 @@
               </div>
             </div>
             <div class="col-sm-9 activity-text">
-              <p class="activity-title">{{ act.nameRight }}</p>
+              <p class="activity-title">{% t activities.{{ act.nameRight }} %}</p>
               {% if act.typeRight %}
               <div class="activity-type">
                 <p>{{ act.typeRight }}</p>
@@ -216,7 +216,7 @@
                 </div>
               </div>
               {% endif %}
-              <p class="col-xs-12 activity-text">{{ act.aboutRight }}</p>
+              <p class="col-xs-12 activity-text">{% t activities.{{ act.aboutRight }} %}</p>
               {% if act.registerRight %}
               <a href="{{ act.registerRight }}" target="_blank">
                 <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
@@ -244,7 +244,7 @@
                   {% endif %}
                 </p>
                 <p>
-                  <i class="fa fa-clock-o"></i><span>{% t activities.{{ act.time }} %}</span>
+                  <i class="fa fa-clock-o"></i><span>{{ act.time }}</span>
                 </p>
               </div>
               <div class="container activity-speaker">
@@ -301,7 +301,7 @@
             <div class="hidden-lg hidden-md hidden-sm activity-info">
               <div class="activity-datetime">
                 <div class="col-xs-7 ">
-                  <i class="fa fa-clock-o"></i><span>{% t activities.{{ act.time }} %}</span>
+                  <i class="fa fa-clock-o"></i><span>{{ act.time }}</span>
                 </div>
                 <div class="col-xs-5">
                   {% if act.place %}

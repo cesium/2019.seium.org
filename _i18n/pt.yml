@@ -65,6 +65,8 @@ speakers:
     about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados.</span><span class="aboutspeaker">É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   david_amador:
     about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
+  andre_pimenta:
+    about: CEO e co-founder da Performetric e Doutorado em Informática na especialidade de Inteligência Artificial pela Universidade do Minho.
   sergio_gaio:
     about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
@@ -170,4 +172,107 @@ activities:
   coderdojo:
     name: CoderDojo
     about: Descrição do CoderDojo
-    time: 10:00-12:00
+  sessao_abertura:
+    name: Sessão de Abertura
+    about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
+  apresentacao_desafios:
+    name: Apresentação dos desafios
+    about: Apresentação de todos os desafios que irão acontecer durante a semana.
+  talk_blip:
+    name: Mutation testing - Let's kill some mutants
+    about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
+  talk_accenture:
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+  talk_upfall:
+    name: Analysing a Cross-Platform Game engine
+    about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
+  apresentacao_blip:
+    name: Apresentação da BLIP
+    about:
+  job:
+    name: Remote Work Podcast
+    about: TBA
+  meetup:
+    name: BigData meetup
+    about: TBA
+  workshop_xpandit:
+    name: Workshop - Xpand IT
+    about: TBA
+  workshop_accenture:
+    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+    about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+  workshop_pixelmatters:
+    name: Workshop - Pixelmatters
+    about: TBA
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
+  talk_celso_martinho:
+    name: Startups para Geeks
+    about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+  ##TODO
+  tertulia:
+    name: Eng. Informática nas Universidades Portuguesas
+    about: TBA
+  arraial:
+    name: Arraial de engenharia
+    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+  workshop_andre_sousa:
+    name: React.js
+    about: React.js
+  workshop_wedo:
+    name: Workshop - WeDo
+    about: TBA
+  talk_wedo:
+    name: Talk WeDo
+    about: TBA
+  talk_talkdesk:
+    name: A evolução do Data Scientist
+    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+  talk:
+    name: Talk
+    about: TBA
+  apresentacao_bosch:
+    name: Apresentação da Bosch
+    about:
+  ##TODO
+  rally:
+    name: Rally das Tascas
+    about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
+  workshop_smithmicro:
+    name: Workshop CG - SmithMicro
+    about: TBA
+  workshop_aptiv:
+    name: Automotive Infotainment Systems
+    about: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+  talk_aptiv:
+    name: Transforming Mobility
+    about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
+  talk_bruno_ribeiro:
+    name: Gamification 1-0-1
+    about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
+  talk_andre_barbosa:
+    name: Talk André Barbosa
+    about: TBA
+  ##TODO
+  ##TODO
+  workshop_eurotux:
+    name: Devops @Eurotux
+    about: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
+  workshop_farfetch:
+    name: Workshop - Farfetch
+    about: TBA
+  talk_primavera:
+    name: Talk - Primavera
+    about: TBA
+  talk_farfetch:
+    name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
+    about: Starting your professional career can be a daunting thought. The presentation will go through some of the main challenges and things that don’t teach you at University, as well as some advice for your first steps.
+  ##TODO
+  encerramento:
+    name: Encerramento & entrega de prémios
+    about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
