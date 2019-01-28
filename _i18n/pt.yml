@@ -59,10 +59,44 @@ defaults:
 
 speakers:
   headline: Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
-  eugene_petrenko:
-    about: Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene...
-  mike_elsmore:
-    about: Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano...
+  celso_martinho:
+    about: Celso Martinho é uma pessoa que encontra motivação nos desafios, um geek tecnológico optimista, um homem de produto, uma alma empresarial, eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior projeto de internet de Portugal, agora uma empresa mídia e conteúdo da fábrica de inovação da Portugal Telecom, constrói serviços B2C em grande escala em áreas desde cloud, e-commerce e e-payments até interatividade IPTV. Ele tem um combinado passado em gestão de alto nível, gestão de projetos software, arquitetura de sistemas e desenvolvimento de produto técnico e várias décadas de experiência nas indústrias telecom e internet. Celso é também CEO e fundador da Bright Pixel, um estúdio de software, casa de uma equipa de experts da indústria com vasta experiência em usar tecnologia e criatividade para criar produtos com alcance mundial e serviços num ambiente diverso de áreas desde desenvolvimento web, segurança, e-payment, tecnologias big-data e design de interfaces e usabilidade.
+  bruno_ribeiro:
+    about: O Bruno é um criativo da resolução dos problemas, com um background diversificado e uma forte componente no Game Design. Desde cedo que começou a desenhar jogos e a destruir as regras dos ditos jogos de tabuleiro tradicionais. Acompanhou vários Game Designers portugueses como consultor e tem mais de 30 protótipos reféns, à espera de serem libertados.</span><span class="aboutspeaker">É escritor, apenas quando pode, e divide o seu tempo entre a família, com os seus dois filhos e a animação de um canal online, na comunidade de Roleplaying games, é um storyteller por natureza, e vive na imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
+  david_amador:
+    about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
+  sergio_gaio:
+    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+  carlos_jesus:
+    about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.</span><span class="aboutspeaker">Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5.</span><span class="aboutspeaker">Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org.</span><span class="aboutspeaker">Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
+  andre_silva:
+    about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
+  daniel_ferrari:
+    about: Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
+  marcio:
+    about: Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the software industry, he started as a software developer after graduating from the University of Minho and has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
+  diogo_cruz:
+    about: Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da Aptiv em Braga, como Software Engineer.
+  jose_carreiras:
+    about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
+  ricardo_soares:
+    about: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
+  nuno_fernandes:
+    about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
+  cesar_pinto:
+    about: César joined OutSystems as Engagement Manager by having the responsibility for the overall management and delivery of innovative solutions using the OutSystems technology thru an agile approach. Recently become an Engagement Manager Mentor by leading a team of Engagement Managers with the responsibility of accelerating the team growth to an outstanding level and ensuring the team's deliveries success.
+  hernani_fernandes:
+    about: Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being responsible for the technical delivery of innovative solutions based on customer business needs and drivers. Since mid-2018 he's also a member of the Architecture Experts, who are responsible for designing flexible and cost-effective solution architectures that are aligned with the OutSystems customers' business strategies.
+  paulo_marques:
+    about: Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
+  tiago_fernandes:
+    about: Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate in several engineering challenges and craft some of the features that are part of OutSystems IDE. Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
+  jno:
+    about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
+  jbb:
+    about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
+  psa:
+    about: Paulo Sérgio Almeida é professor no Departamento de Informática da Universidade do Minho e Researcher na área dos sistemas distribuídos no HASLab.
 
 team:
   organization: Organização
