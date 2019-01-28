@@ -18,6 +18,7 @@ defaults:
   send: Send
   partners: Partners
   organisation: Organisation
+  about: About
   activities: Activities
   schedule: Schedule
   days_of_week:
