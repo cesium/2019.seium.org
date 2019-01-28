@@ -177,18 +177,18 @@
   about: jno.about
   id: 36
 
-- name: JBB
-  pic: jbb.jpg
-  position: Professor
-  enterprise: Universidade do Minho
-  enterpriseURL: https://www.uminho.pt/
-  about: jbb.about
-  id: 38
+# - name: JBB
+#   pic: jbb.jpg
+#   position: Professor
+#   enterprise: Universidade do Minho
+#   enterpriseURL: https://www.uminho.pt/
+#   about: jbb.about
+#   id: 38
 
-- name: Paulo S. Almeida
-  pic: psa.jpg
-  position: Professor
-  enterprise: Universidade do Minho
-  enterpriseURL: https://www.uminho.pt/
-  about: psa.about
-  id: 40
+# - name: Paulo S. Almeida
+#   pic: psa.jpg
+#   position: Professor
+#   enterprise: Universidade do Minho
+#   enterpriseURL: https://www.uminho.pt/
+#   about: psa.about
+#   id: 40
