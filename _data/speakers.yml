@@ -45,6 +45,22 @@
   about: andre_barbosa.about
   id: 5
 
+- name: Jorge Resende
+  pic: jorge-resende.png
+  position: CTO
+  enterprise: IEM4.0
+  enterpriseURL: https://www.iem4-0.com/
+  about: jorge_resende.about
+  id: 6
+
+- name: Nuno Cascais
+  pic: nuno-cascais.png
+  position: CEO
+  enterprise: IEM4.0
+  enterpriseURL: https://www.iem4-0.com/
+  about: nuno_cascais.about
+  id: 7
+
 #ORADORES EMPRESAS
 
 - name: Sérgio Gaio
@@ -53,7 +69,7 @@
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
   about: sergio_gaio.about
-  id: 6
+  id: 8
 
 - name: Carlos Jesus
   pic: carlos-jesus.png
@@ -61,7 +77,7 @@
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
   about: carlos_jesus.about
-  id: 7
+  id: 9
 
 - name: André Silva
   pic: andre-silva.png
@@ -69,7 +85,7 @@
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
   about: andre_silva.about
-  id: 8
+  id: 10
 
 - name: Daniel Ferrari
   pic: daniel-ferrari.png
@@ -77,7 +93,7 @@
   enterprise: TalkDesk
   enterpriseURL: https://www.talkdesk.com/
   about: daniel_ferrari.about
-  id: 9
+  id: 11
 
 - name: Márcio
   pic: marcio.png
@@ -85,7 +101,7 @@
   enterprise: Farfetch
   enterpriseURL: https://www.farfetch.com/pt/
   about: marcio.about
-  id: 10
+  id: 12
 
 - name: Diogo Cruz
   pic: diogo-cruz.png
@@ -93,7 +109,7 @@
   enterprise: Aptiv
   enterpriseURL: https://www.aptiv.com/
   about: diogo_cruz.about
-  id: 11
+  id: 13
 
 - name: José Carreiras
   pic: jose-carreiras.png
@@ -101,7 +117,7 @@
   enterprise: Aptiv
   enterpriseURL: https://www.aptiv.com/
   about: jose_carreiras.about
-  id: 12
+  id: 14
 
 - name: Ricardo Soares
   pic: ricardo-soares.png
@@ -109,7 +125,7 @@
   enterprise: Blip
   enterpriseURL: https://blip.pt/
   about: ricardo_soares.about
-  id: 13
+  id: 15
 
 - name: Nuno Fernandes
   pic: nuno-fernandes.png
@@ -117,7 +133,7 @@
   enterprise: Eurotux
   enterpriseURL: https://eurotux.com/
   about: nuno_fernandes.about
-  id: 14
+  id: 16
 
 - name: César Pinto
   pic: cesar-pinto.png
@@ -125,7 +141,7 @@
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
   about: cesar_pinto.about
-  id: 15
+  id: 17
 
 - name: Hernâni Fernandes
   pic: hernani-fernandes.png
@@ -133,7 +149,7 @@
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
   about: hernani_fernandes.about
-  id: 16
+  id: 18
 
 - name: Paulo Marques
   pic: paulo-marques.png
@@ -141,7 +157,7 @@
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
   about: paulo_marques.about
-  id: 17
+  id: 19
 
 - name: Tiago Fernandes
   pic: tiago-fernandes.png
@@ -149,7 +165,7 @@
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
   about: tiago_fernandes.about
-  id: 18
+  id: 20
 
   #HERE
 
