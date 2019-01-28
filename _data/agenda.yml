@@ -109,8 +109,8 @@
   activities:
     - double: true
       nameLeft: workshop_xpandit.name
-      speakerLeft: TBA
-      speakerLeft2: TBA
+      speakerLeft:
+      speakerLeft2:
       enterpriseLeft: Xpand IT
       enterpriseURLLeft: https://xpand-it.com/
       timeLeft: 09:00-11:00
@@ -481,7 +481,7 @@
       duration: twenty-hours
       icon: fa-code
       type: Concurso
-      about:
+      about: hackathon.about
       place: CP2
 
 - sunday10:
@@ -494,5 +494,5 @@
       duration: four-hours-and-half
       icon: fa-code
       type: Concurso
-      about:
+      about: hackathon.about
       place: CP2

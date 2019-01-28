@@ -197,8 +197,9 @@ activities:
     name: BigData meetup
     about: TBA
   workshop_xpandit:
-    name: Workshop - Xpand IT
-    about: TBA
+    name: Data crunching with Tableau
+    about: >-
+      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
   workshop_accenture:
     name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
     about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
@@ -248,7 +249,8 @@ activities:
     about: TBA
   workshop_aptiv:
     name: Automotive Infotainment Systems
-    about: A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica- As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos- Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+    about: >-
+      A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica: As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos: Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
   talk_aptiv:
     name: Transforming Mobility
     about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
