@@ -1,0 +1,139 @@
+navbar:
+  agenda: Agenda
+  speakers: Oradores
+  challenges: Desafios
+  getting_here: Como chegar
+  team: Equipa
+  hackathon: Hackathon
+  registrations: Inscrições
+  workshops: Workshops
+  badges: Badges
+
+defaults:
+  date: 4 a 8 de Fevereiro
+  university: Universidade do Minho
+  computer_eng_week: Semana da Engenharia Informática
+  register: Inscrever
+  registration: Inscrição
+  send: Submeter
+  partners: Parceiros
+  organisation: Organização
+  activities: Atividades
+  schedule: Horário
+  days_of_week:
+    monday: Segunda
+    tuesday: Terça
+    wednesday: Quarta
+    thursday: Quinta
+    friday: Sexta
+    saturday: Sábado
+    sunday: Domingo
+  phone: Telefone
+  prev_edition: Edição anterior
+  learn_more: Sabe mais
+  months:
+    january: Janeiro
+    jan: Jan
+    february: Fevereiro
+    feb: Fev
+    march: Março
+    mar: Mar
+    april: Abril
+    apr: Abr
+    may: Maio
+    mai: Mai
+    june: Junho
+    jun: Jun
+    july: Julho
+    jul: Jul
+    august: Agosto
+    aug: Ago
+    september: Setembro
+    sep: Set
+    october: Outubro
+    oct: Out
+    november: Novembro
+    nov: Nov
+    december: Dezembro
+    dec: Dez
+
+speakers:
+  headline: Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
+  eugene_petrenko:
+    about: Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene Durante anos, Eugene...
+  mike_elsmore:
+    about: Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano Mike é americano...
+
+team:
+  organization: Organização
+  staff: Staff
+  headline: Para te trazer esta semana, o CeSIUM juntou a melhor equipa possível. Eles andam por aí, cheios de trabalho, a reunir oradores, a atrair parceiros e a dar asas à imaginação, tudo para que esta seja a tua semana favorita.
+  find_us: Como nos encontrar
+
+workshops:
+  headline: Inscreve-te aqui para os workshops que não queres mesmo perder. As inscrições são limitadas, apressa-te!
+  laravel:
+    name: Real-time Webapps com Laravel e Pusher
+    description: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel, vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
+
+challenges:
+  headline: Somos de opinião que mais interessante que palestras e workshops, são desafios e concursos! Por essa razão, e já como vem sendo tradição, decidimos criar várias competições amigáveis. Destaca-te numa destas áreas mas, mais importante ainda, diverte-te!
+  score: Pontuação
+  regulation: Regulamento
+  prize: Prémio
+  ps4:
+    name: Sorteio PS4
+    description: Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar uma PS4!
+
+hackathon:
+  date: 10 a 11 de fevereiro
+  infos:
+    what:
+      title: O que é?
+      description:
+  organisation:
+    supported_by: Apoiado por
+  awards:
+    first:
+      title: 1º Prémio
+      description:
+    second:
+      title: 2º Prémio
+      description:
+    third:
+      title: 3º Prémio
+      description:
+    surprises:
+      title: Surpresas
+      description:
+  schedule:
+    activity_example:
+      name: Abertura
+      time: 18:00-19:00
+
+about:
+  activities: 8 dias de atividades
+  free: Completamente gratuita
+  challenges: Vários desafios e concursos
+  talks_workshops_and_hackathon: Palestras, Workshops e Hackathon
+  talks_and_workshops: Palestras e Workshops
+  speakers: Oradores nacionais e internacionais
+  organisation: A SEI é gratuita para os participantes, sendo organizada por voluntários do CeSIUM.
+
+getting_here:
+  headline: Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
+  train:
+    title: Comboio
+    description: De 5 a 9 de fevereiro, podes viajar por 2,00€ ida e volta, nos comboios Urbanos do Porto com destino a Braga (linhas de Braga, Marco de Canaveses, Guimarães e Aveiro).
+  bus:
+    title: Autocarro
+    description: Poderás viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB), nomeadamente através do autocarro número 43. A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.
+  car:
+    title: Carro
+    description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
+
+activities:
+  coderdojo:
+    name: CoderDojo
+    about: Descrição do CoderDojo
+    time: 10:00-12:00

@@ -6,13 +6,11 @@ layout: default
 
   <div class="container">
     <div class="section-title-container text-center">
-      <h1 class="section-title">Desafios</h1>
+      <h1 class="section-title">{% t navbar.challenges %}</h1>
     </div>
 
     <div class="col-md-offset-2 col-md-8 def-text">
-
-      Somos de opinião que mais interessante que palestras e workshops, são desafios e concursos! Por essa razão, e já como vem sendo tradição, decidimos criar várias competições amigáveis. Destaca-te numa destas áreas mas, mais importante ainda, diverte-te!
-
+      {% t challenges.headline %}
     </div>
   </div>
 </section>
@@ -21,17 +19,13 @@ layout: default
 
 <section class="{{ challenge.class }} col-md-12">
 
-
   <div class="col-md-8 col-md-offset-2">
-
     <div class=" container des-subtitle col-md-12">
-      {{ challenge.name }}
+      {% t challenges.{{ challenge.name }} %}
     </div>
 
-
-
     <span class="col-md-offset-2 def-text col-md-8">
-      {{ challenge.desc }}
+      {% t challenges.{{ challenge.desc }} %}
     </span>
 
     {% if challenge.enunciadol %}
@@ -47,7 +41,7 @@ layout: default
       <div class="panel-collapse collapse" id="{{ challenge.name | slugify }}">
           <p>{{ challenge.enunciado }}</p>
           {% if challenge.points %}
-          <h5> Pontuação </h5>
+          <h5>{% t challenges.score %}</h5>
           <ul>
             {% for task in challenge.points %}
               <li> {{ task.task }} </li>
@@ -55,7 +49,7 @@ layout: default
           </ul>
           {% endif %}
           {% if challenge.rules %}
-          <h5> Regulamento </h5>
+          <h5>{% t challenges.regulation %}</h5>
           <p>{{ challenge.rules }}</p>
           {% endif %}
           {% if challenge.input %}
@@ -73,10 +67,11 @@ layout: default
     {% elsif challenge.sub %}
     <div class="col-md-5 col-md-offset-1 ac-container">
       <div>
-
-        <a href="…"><button class="btn btn-info btn-sei btn-des">SUBMETER</button></a>
-
-
+        <a href="…">
+          <button class="btn btn-info btn-sei btn-des">
+            {% t defaults.send %}
+          </button>
+        </a>
       </div>
     </div>
     {% endif %}
@@ -88,19 +83,29 @@ layout: default
       <div class="row">
         {% for prize in challenge.prizes %}
         <div class="col-md-4 activities-container">
-
           <i class="fa {{ prize.img }} fa-4x"></i>
           {% if prize.num %}
-            <h5>{{ prize.num }}.º Prémio</h5>
+            {% assign number = prize.num %}
+            {% if site.lang == 'pt' %}
+              <h5>{{ number }}.º {% t challenges.prize %}</h5>
+            {% else %}
+              {% if number == 1 %}
+                <h5>{{ number }}st {% t challenges.prize %}</h5>
+              {% elsif number == 2 %}
+                <h5>{{ number }}nd {% t challenges.prize %}</h5>
+              {% elsif number == 3 %}
+                <h5>{{ number }}rd {% t challenges.prize %}</h5>
+              {% else %}
+                <h5>{{ number }}th {% t challenges.prize %}</h5>
+              {% endif %}
+            {% endif %}
           {% else %}
-            <h5>Prémio</h5>
+            <h5>{% t challenges.prize %}</h5>
           {% endif %}
           <!--<a href="{{ prize.link }}" target="_blank">          TIRAR O COMENTÁRIO QUANDO HOUVER PRÉMIOS-->
             <button class="btn btn-info btn-sei disabled">{{ prize.name }}</button>
          <!-- </a> -->
         </div>
-
-
         {% endfor %}
       </div>
     </div>

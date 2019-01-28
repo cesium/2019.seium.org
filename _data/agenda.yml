@@ -1,6 +1,7 @@
-- saturday3:
-  date: 3 FEV
-  dayOfWeek: SÁBADO
+- saturday2:
+  day: 2
+  month: feb
+  day_of_week: saturday
   activities:
     - name: CoderDojo
       time: 10:00-12:00
@@ -11,8 +12,9 @@
       place: Generation
 
 - monday:
-  date: 5 FEV
-  dayOfWeek: SEGUNDA
+  day: 4
+  month: feb
+  day_of_week: monday
   activities:
     - name: Sessão de Abertura 
       time: 10:00-10:30
@@ -101,8 +103,9 @@
       place: Departamento de Informática
 
 - tuesday:
-  date: 6 FEV
-  dayOfWeek: TERÇA
+  day: 5
+  month: feb
+  day_of_week: tuesday
   activities:
     - double: true
       nameLeft: Workshop - XpandIT
@@ -196,8 +199,9 @@
       place: Largo do Carpe
 
 - wednesday:
-  date: 7 FEV
-  dayOfWeek: QUARTA
+  day: 6
+  month: feb
+  day_of_week: wednesday
   activities:
     - double: true
       nameLeft: Building a Single Page Application
@@ -289,8 +293,9 @@
       place: Largo do Carpe
 
 - thursday:
-  date: 8 FEV
-  dayOfWeek: QUINTA
+  day: 7
+  month: feb
+  day_of_week: thursday
   activities:
     - double: true
       nameLeft: Android workshop
@@ -377,8 +382,9 @@
       place: CP2-B1
 
 - friday:
-  date: 9 FEV
-  dayOfWeek: SEXTA
+  day: 8
+  month: feb
+  day_of_week: friday
   activities:
     - double: true
       nameLeft: iOS - Facebook in 50 Swifty minutes
@@ -447,9 +453,10 @@
       type: social
       place: CP2-B1
 
-- saturday10:
-  date: 10 FEV
-  dayOfWeek: SÁBADO
+- saturday9:
+  day: 9
+  month: feb
+  day_of_week: saturday
   activities:
     - double: true
       nameLeft: Hackathon 
@@ -475,9 +482,10 @@
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
       place: CP2
 
-- sunday11:
-  date: 11 FEV
-  dayOfWeek: DOMINGO
+- sunday10:
+  day: 10
+  month: feb
+  day_of_week: sunday
   activities:
     - name: Hackathon
       time: 00:00-13:00

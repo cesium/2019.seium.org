@@ -4,16 +4,16 @@ layout: default
 <section id="aboutspeakers" controller="speakerCtrl">
   <div class="container">
     <div class="section-title-container text-center">
-      <h1 class="section-title">Oradores</h1>
+      <h1 class="section-title">{% t navbar.speakers %}</h1>
     </div>
 
     <div class="speakers-def col-md-8 col-md-offset-2 ">
-      Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
+      {% t speakers.headline %}
     </div>
 
     {% for speaker in site.data.speakers %}
     <div id="{{ speaker.name | slugify }}" class="col-md-12 speak-list">
-      <div class="col-md-3 vcenter">
+      
         <div class="speaker-img">
           {% image 'speakers/{{ speaker.pic }}' class:'speaker-pic' %}
         </div>
@@ -33,17 +33,17 @@ layout: default
           <ul class="list-inline social-buttons speaker-social">
             {% if speaker.web %}
             <li>
-              <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fa fa-globe"></i></a>
+              <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fas fa-globe"></i></a>
             </li>
             {% endif %}
             {% if speaker.twitter %}
             <li>
-              <a if="speaker.twitter" target="_blank" href="{{ speaker.twitter }}"><i class="fa fa-twitter"></i></a>
+              <a if="speaker.twitter" target="_blank" href="{{ speaker.twitter }}"><i class="fab fa-twitter"></i></a>
             </li>
             {% endif %}
             {% if speaker.github %}
             <li>
-              <a if="speaker.github" target="_blank" href="{{ speaker.github }}"><i class="fa fa-github"></i></a>
+              <a if="speaker.github" target="_blank" href="{{ speaker.github }}"><i class="fab fa-github"></i></a>
             </li>
             {% endif %}
           </ul>
@@ -51,7 +51,7 @@ layout: default
 
       </div>
    <div class="col-md-9 vcenter">
-        <span class="aboutspeaker">{{ speaker.about }}</span>
+        <span class="aboutspeaker">{% t speakers.{{speaker.about}} %}</span>
       </div>
     </div>
 

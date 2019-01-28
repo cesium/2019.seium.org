@@ -1,11 +1,11 @@
 #- name: local
 #  pic: location-icon.png
 
-- name: comboio
+- name: train
   pic: train-icon.png
 
-- name: autocarro
+- name: bus
   pic: bus-icon.png
 
-- name: carro
+- name: car
   pic: car-icon.png
