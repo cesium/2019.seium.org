@@ -67,6 +67,8 @@ speakers:
     about: David started to mod (and play) games as soon as he had access to a computer/console. After some time working professionally in the gaming industry he decided to go independent and make his own games back in 2010. Among the titles he worked you can find Vizati and Puwang. Most recently, after creating Upfall Studios, his game, Quest of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4 and Switch.
   andre_pimenta:
     about: CEO e co-founder da Performetric e Doutorado em Informática na especialidade de Inteligência Artificial pela Universidade do Minho.
+  andre_barbosa:
+    about: Entrei para LEI em 2006 e, com alguma ajuda, lá consegui acabar o curso. Passei por varias industrias e empresas até que acabei por me juntar á Skyscanner desafiado pela quantidade de dados e utilizadores diários. Actualmente passo os meus dias com uma equipa de Software Engineers e Data Scientists a tentar criar uma experiencia personalizada para os nossos utilizadores.
   sergio_gaio:
     about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
@@ -258,8 +260,8 @@ activities:
     name: Gamification 1-0-1
     about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
   talk_andre_barbosa:
-    name: Talk André Barbosa
-    about: TBA
+    name: Building data driven products at scale
+    about: Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde usamos esses dados para construir produtos novos e melhorar a experiencia dos utilizadores que usam o nosso serviço.
   ##TODO
   ##TODO
   workshop_eurotux:

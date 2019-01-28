@@ -364,10 +364,10 @@
       about: talk_bruno_ribeiro.about
       place: CP2-B1
 
-    - name: talk_andre_barbosa.name #TODO
+    - name: talk_andre_barbosa.name
       speaker: André Barbosa
-      enterprise:
-      enterpriseURL:
+      enterprise: Skycanner
+      enterpriseURL: https://www.skyscanner.pt/
       time: 15:00-16:00
       duration: one-hour
       type: talk
