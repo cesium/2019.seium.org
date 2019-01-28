@@ -1,8 +1,9 @@
-- saturday3:
-  date: 2 FEV
-  dayOfWeek: SÁBADO
+- saturday2:
+  day: 2
+  month: feb
+  day_of_week: saturday
   activities:
-    - name: geekgirls.name #TODO
+    - name: geekgirls.name
       time: 09:30-14:00
       duration: three-hours
       about: geekgirls.about
@@ -76,13 +77,13 @@
       enterprise: BLIP
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
-      duration: fifty-min
+      duration: fifteen-min
       about: apresentacao_blip.about
       type: talk
       icon: fas fa-desktop
       place: CP2-B1
 
-    - name: job.name #TODO
+    - name: job.name
       speaker: Job van der Voort
       enterprise: Remote
       enterpriseURL: https://remote.com/
