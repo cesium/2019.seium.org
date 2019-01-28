@@ -40,16 +40,32 @@ header
   font-family: 'Helvetica Neue', 'Open Sans', sans-serif
 
 .banner-title
-
   font-size: 60px
   text-align: center
   line-height: 100%
   display: inline-block
   font-family: 'Helvetica Neue', 'Open Sans', sans-serif
 
+.banner-title:before
+  content: "" 
+  display: block 
+  margin: 0 auto auto 0
+  width: 55% 
+  padding-top: 20px 
+  border-top: 4px solid white
+
+.banner-title:after
+  content: "" 
+  display: block 
+  margin: 0 0 auto auto
+  width: 55% 
+  padding-top: 20px 
+  border-bottom: 4px solid white
+
+
 .banner-sponsors
   font-weight: normal
-  font-size: 10px
+  font-size: 12px
   text-align: left
 
 .banner-logos img
@@ -71,7 +87,8 @@ header
   .banner-locale
     font-size: 10px
   .banner-sponsors
-    font-size: 8px
+    font-size: 9px
+    margin-top: 2px
     margin-left: 6%
     width: 75%
   .banner-title
@@ -97,7 +114,7 @@ header
   .banner-title
     font-size: 30px
     width: 75%
-    border: 6px solid
+    /*border: 6px solid*/
 
 @media (max-width: 768px)
   .banner
@@ -110,7 +127,7 @@ header
     font-size: 6px
   .banner-title
     font-size: 26px
-    border: 4px solid
+    /*border: 4px solid*/
 
 @media (max-width: 628px)
   .banner-logos
@@ -122,11 +139,11 @@ header
   .banner-sponsors
     font-size: 4px
     margin-left: 9%
-    width: 85%
+    width: 150%
   .banner-title
     width: 80%
     font-size: 20px
-    border: 3px solid
+    /*border: 3px solid*/
 
 @media (max-width: 447px)
   .banner-date
@@ -140,4 +157,4 @@ header
   .banner-title
     width: 80%
     font-size: 14px
-    border: 3px solid
+    /*border: 3px solid*/
