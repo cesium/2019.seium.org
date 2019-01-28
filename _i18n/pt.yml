@@ -18,6 +18,7 @@ defaults:
   send: Submeter
   partners: Parceiros
   organisation: Organização
+  about: Sobre
   activities: Atividades
   schedule: Horário
   days_of_week:

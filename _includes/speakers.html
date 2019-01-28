@@ -2,7 +2,7 @@
 <section id="speakers" controller="speakerCtrl">
   <div class="container">
     <div class="section-title-container">
-      <h1 class="section-title">    {% t navbar.speakers %}    </h1>
+      <h1 class="section-title"> {% t navbar.speakers %} </h1>
     </div>
     <div class="speakers-list">
       {% for speaker in site.data.speakers %}
@@ -11,7 +11,7 @@
           {% image 'speakers/{{ speaker.pic }}' class:speaker-pic %}
         </div>
         <span class="speaker-name">{{ speaker.name }}</span>
-        <span class="speaker-position">{{speaker.position}}</span>
+        <span class="speaker-position">{{ speaker.position }}</span>
         {% if speaker.enterprise %}
         <p class="speaker-company">
           <a target="_blank" href="{{ speaker.enterpriseURL }}">
@@ -25,11 +25,13 @@
             <li>
               <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fas fa-globe"></i></a>
             </li>
-            {% endif %} {% if speaker.twitter %}
+            {% endif %}
+            {% if speaker.twitter %}
             <li>
               <a if="speaker.twitter" target="_blank" href="https://twitter.com/{{ speaker.twitter }}"><i class="fab fa-twitter"></i></a>
             </li>
-            {% endif %} {% if speaker.github %}
+            {% endif %}
+            {% if speaker.github %}
             <li>
               <a if="speaker.github" target="_blank" href="https://github.com/{{ speaker.github }}"><i class="fab fa-github"></i></a>
             </li>

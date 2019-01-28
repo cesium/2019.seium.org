@@ -1,29 +1,29 @@
 {% if page.path == 'hackathon/index.html' %}
 <footer class="hackathon">
-{% else %}
-<footer class="sei">
-{% endif %}
-  <div class="container">
-    <div class="col-md-12 content">
-      <p>Made with ❤ by <a href="http://cesium.di.uminho.pt" target="_blank">CeSIUM</a>.</p>
+  {% else %}
+  <footer class="sei">
+    {% endif %}
+    <div class="container">
+      <div class="col-md-12 content">
+        <p>Made with <i class="fas fa-heart social"></i> by <a href="{{ site.website }}" target="_blank">CeSIUM</a>.</p>
 
-      <a href="http://www.facebook.com/SEI.UMinho"><i class="fab fa-facebook fa-2x"></i></a>
-      <a href="http://www.github.com/cesium"><i class="fab fa-github fa-2x"></i></a>
-      <a href="https://twitter.com/cesiuminho"><i class="fab fa-twitter fa-2x"></i></a>
+        <a class="social" href="http://www.facebook.com/{{ site.facebook }}"><i class="fab fa-facebook fa-2x"></i></a>
+        <a class="social" href="http://www.github.com/{{ site.github }}"><i class="fab fa-github fa-2x"></i></a>
+        <a class="social" href="https://twitter.com/{{ site.twitter }}"><i class="fab fa-twitter fa-2x"></i></a>
 
-      <p><a href="http://{{ site.prev_year }}.seium.org" target="_blank">{% t defaults.prev_edition %}</a> ||
+        <p><a href="https://{{ site.prev_year }}.seium.org" target="_blank">{% t defaults.prev_edition %}</a> ||
 
-      {% if page.path == 'hackathon/index.html' %}
+          {% if page.path == 'hackathon/index.html' %}
 
-      <a href="https://drive.google.com/open?id=0B98jlL4oJiLlUHpnOENrTTM4bkU" target="_blank">Code of Conduct</a>
+          <a href="https://drive.google.com/open?id=0B98jlL4oJiLlUHpnOENrTTM4bkU" target="_blank">Code of Conduct</a>
 
-      {% else %}
+          {% else %}
 
-      <a href="/codeofconduct" target="_blank">Code of Conduct</a>
+          <a href="/codeofconduct" target="_blank">Code of Conduct</a>
 
-      {% endif %}
-      </p>
+          {% endif %}
+        </p>
+      </div>
+
     </div>
-
-  </div>
-</footer>
+  </footer>

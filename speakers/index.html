@@ -7,7 +7,7 @@ layout: default
       <h1 class="section-title">{% t navbar.speakers %}</h1>
     </div>
 
-    <div class="speakers-def col-md-8 col-md-offset-2 ">
+    <div class="speakers-def col-md-8 col-md-offset-2">
       {% t speakers.headline %}
     </div>
 
@@ -55,14 +55,15 @@ layout: default
           </ul>
         </div>
         {% endif %}
-  </div>
+    </div>
 
     <div class="col-md-9 vcenter">
         <span class="aboutspeaker">{% t speakers.{{speaker.about}} %}</span>
       </div>
-    </div>
-<div class="col-md-3 vcenter"><br><br><br></div>
-    {% endfor %}
 
+    </div>
+
+    <div class="col-md-3 vcenter"><br><br><br></div>
+    {% endfor %}
   </div>
 </section>
