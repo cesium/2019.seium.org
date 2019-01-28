@@ -3,20 +3,20 @@
   month: feb
   day_of_week: saturday
   activities:
-    - name: CoderDojo #TODO
-      time: 10:00-12:00
-      duration: two-hours
-      about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
+    - name: geekgirls.name #TODO
+      time: 09:30-14:00
+      duration: three-hours
+      about: geekgirls.about
       icon: fa-users
       type: social
-      place: Generation
+      place:
 
 - monday:
   day: 4
   month: feb
   day_of_week: monday
   activities:
-    - name: sessao_abertura.name #TODO
+    - name: sessao_abertura.name
       time: 10:00-10:30
       duration: half-hour
       icon: fas fa-cut
@@ -25,7 +25,7 @@
       place: CP2-B1
 
     - name: apresentacao_desafios.name
-      time: 11:00-11:30
+      time: 10:30-11:00
       duration: half-hour
       icon: fas fa-bullhorn
       about: apresentacao_desafios.about
@@ -169,7 +169,7 @@
       icon: fas fa-desktop
       type: talk
       about: talk_andre_pimenta.about
-      place: TBA
+      place: CP2-B1
 
     - name: talk_celso_martinho.name
       speaker: Celso Martinho
@@ -180,7 +180,7 @@
       icon: fa-cogs
       type: talk
       about: talk_celso_martinho.about
-      place: TBA
+      place: CP2-B1
 
     - coffee: true
 
@@ -193,7 +193,7 @@
       about: TBA
       type: talk
       icon: fa-desktop
-      place: TBA
+      place: CP2-B1
 
     - name: tertulia.name #TODO
       speaker: TBA
@@ -204,7 +204,7 @@
       about: tertulia.about
       icon: fas fa-university
       type: Tertúlia
-      place: TBA
+      place: CP2-B1
 
     - name: arraial.name
       time: 21:00-00:00
@@ -252,7 +252,7 @@
       icon: fas fa-wrench
       type: talk
       about: talk_wedo.about
-      place: TBA
+      place: CP2-B1
 
     - meal: true
 
@@ -265,7 +265,7 @@
       icon: fas fa-database
       type: talk
       about: talk_talkdesk.about
-      place: TBA
+      place: CP2-B1
 
     - name: talk.name #TODO
       speaker: TBA
@@ -276,7 +276,7 @@
       icon: fas fa-globe
       type: talk
       about: talk.about
-      place: TBA
+      place: CP2-B1
 
     - coffee: true
 
@@ -289,7 +289,7 @@
       about: apresentacao_bosch.about
       type: talk
       icon: fas fa-table
-      place: TBA
+      place: CP2-B1
 
     - name: TBA #TODO
       speaker: TBA
@@ -300,7 +300,7 @@
       icon: fas fa-table
       type: talk
       about: TBA
-      place: TBA
+      place: CP2-B1
 
     - name: rally.name
       time: 21:00-00:00
@@ -349,7 +349,7 @@
       speaker: José Carreiras
       enterprise: Aptiv
       enterpriseURL: https://www.aptiv.com/
-      place: TBA
+      place: CP2-B1
 
     - meal: true
 
@@ -362,7 +362,7 @@
       speaker: Bruno Ribeiro
       type: talk
       about: talk_bruno_ribeiro.about
-      place: TBA
+      place: CP2-B1
 
     - name: talk_andre_barbosa.name #TODO
       speaker: André Barbosa
@@ -373,7 +373,7 @@
       type: talk
       icon: fa-cogs
       about: talk_andre_barbosa.about
-      place: TBA
+      place: CP2-B1
 
     - coffee: true
 
@@ -386,7 +386,7 @@
       about:
       type: talk
       icon: fa-desktop
-      place: TBA
+      place: CP2-B1
 
     - name: TBA #TODO
       speaker: TBA
@@ -397,7 +397,7 @@
       icon: fa-car
       type: talk
       about: TBA
-      place: TBA
+      place: CP2-B1
 
 - friday:
   day: 8
@@ -435,7 +435,7 @@
       icon: fas fa-globe
       about: talk_primavera.about
       duration: one-hour
-      place: TBA
+      place: CP2-B1
 
     - meal: true
 
@@ -459,7 +459,7 @@
       icon: fas fa-fire
       type: talk
       about: TBA
-      place: TBA
+      place: CP2-B1
 
     - coffee: true
 
@@ -471,35 +471,17 @@
       type: social
       place: CP2-B1
 
-#HERE
-
 - saturday9:
   day: 9
   month: feb
   day_of_week: saturday
   activities:
-    - double: true
-      nameLeft: Hackathon
-      timeLeft: 10:00-14:30
-      durationLeft: four-hours-and-half
-      iconLeft: fa-code
-      typeLeft: Concurso
-      aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
-      placeLeft: CP2
-      nameRight: 61º Geek Girls Portugal
-      timeRight: 10:30-14:30
-      durationRight: four-hours
-      iconRight: fa-female
-      typeRight: Meeting
-      aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
-      placeRight: Smith Micro Portugal, Braga
-
-    - name: Hackathon
-      time: 14:30-23:59
-      duration: nine-hours-and-half
+    - name: hackathon.name
+      time: 09:00-23:59
+      duration: twenty-hours
       icon: fa-code
       type: Concurso
-      about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
+      about:
       place: CP2
 
 - sunday10:
@@ -507,10 +489,10 @@
   month: feb
   day_of_week: sunday
   activities:
-    - name: Hackathon
+    - name: hackathon.name
       time: 00:00-13:00
-      duration: thirteen-hours
+      duration: four-hours-and-half
       icon: fa-code
       type: Concurso
-      about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
+      about:
       place: CP2

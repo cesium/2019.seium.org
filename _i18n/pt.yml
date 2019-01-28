@@ -169,12 +169,12 @@ getting_here:
     description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Descrição do CoderDojo
+  geekgirls:
+    name: Geek Girls
+    about:
   sessao_abertura:
     name: Sessão de Abertura
-    about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, algumas surpresas.
+    about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
   apresentacao_desafios:
     name: Apresentação dos desafios
     about: Apresentação de todos os desafios que irão acontecer durante a semana.
@@ -276,3 +276,6 @@ activities:
   encerramento:
     name: Encerramento & entrega de prémios
     about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+  hackathon:
+    name: Hackathon
+    about:
