@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
   $('.partners-carousel').slick({
     autoplay: true,
@@ -19,7 +19,7 @@ $(document).ready(function(){
         dots: true
       }
     }
-  ]
+    ]
   });
 
   var day = new Date().getDay();
@@ -37,11 +37,10 @@ $(document).ready(function(){
         dots: false
       }
     }
-  ]};
-
+    ]
+  };
 
   $('.agenda-carousel').slick(slickOpts);
-
 
 });
 

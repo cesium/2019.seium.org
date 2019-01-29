@@ -4,10 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-$(function() {
+$(function () {
 
     // jQuery to collapse the navbar on scroll
-    $(window).scroll(function() {
+    $(window).scroll(function () {
         if ($(".navbar").offset().top > 50) {
             $(".navbar-fixed-top").addClass("top-nav-collapse");
         } else {
@@ -16,7 +16,7 @@ $(function() {
     });
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function() {
+    $('.navbar-collapse ul li a').click(function () {
         $('.navbar-toggle:visible').click();
     });
 });
