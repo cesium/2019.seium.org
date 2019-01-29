@@ -7,6 +7,8 @@
   enterpriseURL: https://brpx.com/
   twitter: celso
   github: celso
+  linkedin: celsomartinho
+  web: http://celso.io/
   about: celso_martinho.about
   id: 1
 
@@ -26,6 +28,7 @@
   twitter: DJ_Link
   github: DJLink
   web: http://www.david-amador.com/
+  linkedin: davidamador
   about: david_amador.about
   id: 3
 
@@ -34,6 +37,9 @@
   position: CEO and Founder
   enterprise: Performetric
   enterpriseURL: https://performetric.net/
+  github: pimenta53
+  twitter: pimenta53
+  linkedin: andrepimentaribeiro
   about: andre_pimenta.about
   id: 4
 
@@ -42,6 +48,10 @@
   position: Engineering Manager
   enterprise: Skycanner
   enterpriseURL: https://www.skyscanner.pt/
+  github: nata79
+  web: http://blog.andrebarbosa.co/
+  twitter: AndreBarbosa88
+  linkedin: andrebarbosaie
   about: andre_barbosa.about
   id: 5
 
@@ -50,6 +60,7 @@
   position: CTO
   enterprise: IEM4.0
   enterpriseURL: https://www.iem4-0.com/
+  linkedin: jorgeresende
   about: jorge_resende.about
   id: 6
 
@@ -58,6 +69,7 @@
   position: CEO
   enterprise: IEM4.0
   enterpriseURL: https://www.iem4-0.com/
+  linkedin: nuno-cascais-07b9b017
   about: nuno_cascais.about
   id: 7
 
@@ -68,6 +80,7 @@
   position: Associate Director
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
+  linkedin: sergiogaio
   about: sergio_gaio.about
   id: 8
 
@@ -92,6 +105,8 @@
   position: Data Scientist
   enterprise: TalkDesk
   enterpriseURL: https://www.talkdesk.com/
+  github: FerrariDG
+  linkedin: danielgomesferrari
   about: daniel_ferrari.about
   id: 11
 
@@ -108,6 +123,7 @@
   position: Software Engineer
   enterprise: Aptiv
   enterpriseURL: https://www.aptiv.com/
+  linkedin: diogoferreiracruz
   about: diogo_cruz.about
   id: 13
 
@@ -116,6 +132,7 @@
   position: Diretor do Centro de Desenvolvimento de Braga
   enterprise: Aptiv
   enterpriseURL: https://www.aptiv.com/
+  linkedin: jose-carreiras-0546b682
   about: jose_carreiras.about
   id: 14
 
@@ -132,6 +149,7 @@
   position: Diretor de Investigação e Desenvolvimento
   enterprise: Eurotux
   enterpriseURL: https://eurotux.com/
+  linkedin: nunofernandes1
   about: nuno_fernandes.about
   id: 16
 
@@ -140,6 +158,7 @@
   position: Engagement Manager Mentor
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
+  linkedin: cmpinto
   about: cesar_pinto.about
   id: 17
 
@@ -148,6 +167,7 @@
   position: Architect / Delivery Manager
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
+  linkedin: hernani
   about: hernani_fernandes.about
   id: 18
 
@@ -156,6 +176,7 @@
   position: Software Engineer
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
+  linkedin: pjmmarques
   about: paulo_marques.about
   id: 19
 
