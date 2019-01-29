@@ -189,7 +189,7 @@
 ##     enterprise: TBA
 ##     enterpriseURL:
 ##     time: 16:30-16:45
-##     duration: fifty-min
+##     duration: fifteen-min
 ##     about: TBA
 ##     type: talk
 ##     icon: fa-desktop
@@ -285,7 +285,7 @@
       enterprise: Bosch
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
-      duration: fifty-min
+      duration: fifteen-min
       about: apresentacao_bosch.about
       type: talk
       icon: fas fa-table
@@ -382,7 +382,7 @@
   ##    enterprise: TBA
   ##    enterpriseURL:
   ##    time: 16:30-16:45
-  ##    duration: fifty-min
+  ##    duration: fifteen-min
   ##    about:
   ##    type: talk
   ##    icon: fa-desktop
