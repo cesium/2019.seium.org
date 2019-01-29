@@ -12,7 +12,7 @@ navbar:
 defaults:
   date: 4th to 8th of February
   university: University of Minho
-  computer_eng_week: Computer Engineering Week
+  software_eng_week: Software Engineering Week
   register: Register
   registration: Registration
   send: Send
@@ -129,7 +129,7 @@ getting_here:
     title: Train
     description: >
       All roads lead to SEI. Several train lines cross in Braga in order to
-      bring you to Portugal's best Computer Engineering Week.
+      bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
     description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.

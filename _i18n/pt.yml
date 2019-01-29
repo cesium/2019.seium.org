@@ -12,7 +12,7 @@ navbar:
 defaults:
   date: 4 a 8 de Fevereiro
   university: Universidade do Minho
-  computer_eng_week: Semana da Engenharia Informática
+  software_eng_week: Semana da Engenharia Informática
   register: Inscrever
   registration: Inscrição
   send: Submeter
