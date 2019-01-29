@@ -66,7 +66,16 @@ speakers:
     about: During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene ...
   mike_elsmore:
     about: Mike is american Mike is american Mike is american Mike is american Mike is americanoMike is american Mike is american...
-
+  jorge_resende:
+    about: Degree in Electronic Engineering at University of Minho, dedicated his career to develop software and hardware for automated industrial equipment. Currently CTO of IEM4.0 and teacher in automation and robotics courses at University of Aveiro.
+  nuno_cascais:
+    about: Having studied Chemical Engineering at University of Porto and having 10 years of professional experience in the automobile industry, Nuno Cascais pursued an MBA in Enterprise Management at University Fernando Pessoa. That was his start point for the creation of synergies that led to the birth of IEM4.0
+  sergio_gaio:
+    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+  carlos_jesus:
+    about: 20 years of experience in IT management and project consulting.</span><span class="aboutspeaker"> Currently Scrum Master at a large project in the United States, HCP/SAP UI5.</span><span class="aboutspeaker"> Education in Management, PMP (Project Management Professional) certificate from PMI and PSM (Professional Scrum Master) from scrum.org . </span><span class="aboutspeaker"> Current hobbies are surfing, playing soccer, and watching son playing little league.
+  andre_silva:
+    about: Masters Degree in Software Engineering from University of Minho. Started working at Accenture in 2016 and participates in the implementation of custom workforce management solutions for international clients. </span><span class="aboutspeaker"> In his free times enjoys motorcycle touring.
 team:
   organization: Organization
   staff: Staff
