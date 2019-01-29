@@ -1,16 +1,3 @@
-- saturday2:
-  day: 2
-  month: feb
-  day_of_week: saturday
-  activities:
-    - name: geekgirls.name
-      time: 09:30-14:00
-      duration: three-hours
-      about: geekgirls.about
-      icon: fa-users
-      type: social
-      place:
-
 - monday:
   day: 4
   month: feb
@@ -84,7 +71,8 @@
       place: CP2-B1
 
     - name: job.name
-      speaker: Job van der Voort
+      speakerLeft: Job van der Voort
+      speakerRight2: Marcelo Lebre
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
