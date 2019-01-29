@@ -21,6 +21,8 @@ defaults:
   about: Sobre
   activities: Atividades
   schedule: Horário
+  contacts: Contactos
+  braga_taxis: Táxis de Braga
   days_of_week:
     monday: Segunda
     tuesday: Terça
