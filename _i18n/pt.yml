@@ -167,7 +167,10 @@ getting_here:
   headline: Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
   train:
     title: Comboio
-    description: De 5 a 9 de fevereiro, podes viajar por 2,00€ ida e volta, nos comboios Urbanos do Porto com destino a Braga (linhas de Braga, Marco de Canaveses, Guimarães e Aveiro).
+    description: >
+      Todos os caminhos vão dar à SEI. Várias linhas de comboio cruzam-se em
+      Braga para te trazer à melhor Semana de Engenharia Informática do
+      país.
   bus:
     title: Autocarro
     description: Poderás viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB), nomeadamente através do autocarro número 43. A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.

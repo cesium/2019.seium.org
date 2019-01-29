@@ -125,7 +125,9 @@ getting_here:
   headline: If you do not know exactly how to get to SEI, we help. Take advantage of train tickets at a very special price, thanks to our partnership with CP - Comboios de Portugal, or come by own means. What you can not do is miss this edition of your favorite week.
   train:
     title: Train
-    description: From February 5 to 9, you can travel for 2.00 € round trip, on the urban trains from Porto to Braga (lines from Braga, Marco de Canaveses, Guimarães and Aveiro).
+    description: >
+      All roads lead to SEI. Several train lines cross in Braga in order to
+      bring you to Portugal's best Computer Engineering Week.
   bus:
     title: Bus
     description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
