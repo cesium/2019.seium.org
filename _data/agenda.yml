@@ -366,7 +366,7 @@
 
     - name: talk_andre_barbosa.name
       speaker: André Barbosa
-      enterprise: Skycanner
+      enterprise: Skyscanner
       enterpriseURL: https://www.skyscanner.pt/
       time: 15:00-16:00
       duration: one-hour
