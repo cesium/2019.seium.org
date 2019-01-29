@@ -62,10 +62,13 @@ defaults:
 
 speakers:
   headline: During this week, you have the opportunity to interact with many recognized speakers, national, international and notorious companies! You can get to know them better here.
-  eugene_petrenko:
-    about: During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene ...
-  mike_elsmore:
-    about: Mike is american Mike is american Mike is american Mike is american Mike is americanoMike is american Mike is american...
+  nuno_fernandes:
+    about: Nuno Fernandes is a Computer Systems Engineer graduated at University of Minho and is currently the Research and Development  Director at Eurotux Informatica. Co-Author of the book Apache Instalação, Configuração Gestão Servidores Web, edited by FCA, Nuno has now been responsible for the implementation of several projects with large technology infrastructure.
+  cesar_pinto:
+    about: César joined OutSystems as Engagement Manager by having the responsibility for the overall management and delivery of innovative solutions using the OutSystems technology thru an agile approach. Recently become an Engagement Manager Mentor by leading a team of Engagement Managers with the responsibility of accelerating the team growth to an outstanding level and ensuring the team's deliveries success.
+  hernani_fernandes:
+    about: Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being responsible for the technical delivery of innovative solutions based on customer business needs and drivers. Since mid-2018 he's also a member of the Architecture Experts, who are responsible for designing flexible and cost-effective solution architectures that are aligned with the OutSystems customers' business strategies.
+
 
 team:
   organization: Organization
