@@ -176,21 +176,123 @@ about:
   organisation: The SEI is free for participants and is organized by volunteers from CeSIUM.
 
 getting_here:
-  headline: If you do not know exactly how to get to SEI, we help. Take advantage of train tickets at a very special price, thanks to our partnership with CP - Comboios de Portugal, or come by own means. What you can not do is miss this edition of your favorite week.
+  headline: |-
+    If you do not know exactly how to get to SEI, we help. Take advantage of
+    train tickets at a very special price, thanks to our partnership with CP
+    - Comboios de Portugal, or come by own means. What you can not do is miss
+    this edition of your favorite week.
   train:
     title: Train
-    description: >
+    description: |
       All roads lead to SEI. Several train lines cross in Braga in order to
       bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
-    description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
+    description: |
+      You can travel from the center and surroundings of Braga to the Campus
+      of Gualtar using the various buses of the Urban Transport of Braga
+      (TUB), namely by bus number 43. From other cities of the country there
+      are several companies with direct buses to Braga. Rede Expressos has
+      the widest coverage. Regional and express buses end their journey at
+      the central bus station in the center of the city.
   car:
     title: Car
-    description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
+    description: |
+      Whether you come by the motorway or the national, the safest is to put
+      in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua
+      da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Description of CoderDojo
-    time: 10AM-12AM
+  sessao_abertura:
+    name: Opening session
+    about: |
+      The inaugural session of this year's edition. The SEI calendar and
+      partners will be presented. And, possibly, some surprises.
+  apresentacao_desafios:
+    name: Apresentação dos desafios
+    about: Apresentação de todos os desafios que irão acontecer durante a semana.
+  talk_blip:
+    name: Mutation testing - Let's kill some mutants
+    about: |
+      Every day we write tests to ensure the quality of our code. But what
+      ensures the quality of our tests?
+      </span><br><span class="about">
+      Mutation Testing is a method of inserting faults (mutants) into programs
+      to verify whether the tests pick them up, thereby guaranteeing their
+      quality.
+      </span><br><span class="about">
+      Do you want to improve the quality of your tests? Do not let mutants
+      invade your code.
+      </span><br><span class="about">
+      Join us to learn how to create and kill some mutants in JavaScript.
+  talk_accenture:
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    about:
+      <b>Tech Trends Summary</b>
+        </span><br><span class="about">-
+        Five technology trends are upping the game and allowing companies to tap
+        into the powerful potential of intelligent enterprise, creating new
+        business opportunities and helping to change the world as we know it.
+        </span><br><span class="about">-
+        Leading companies are improving the way we live with new products and
+        services that will become indispensable in the future.
+        </span><br><span class="about">-
+        Business is getting personal. Leaders must shift their mindsets and
+        business models to focus on forging strong, trusted relationships with
+        partners, customers, employees, governments, and more.
+    talk_upfall:
+      name: Analysing a Cross-Platform Game engine
+      about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
+    apresentacao_blip:
+      name: Apresentação da BLIP
+      about:
+    job:
+      name: Remote Work Podcast
+      about: TBA
+    meetup:
+      name: BigData meetup
+      about: TBA
+    workshop_xpandit:
+      name: Data crunching with Tableau
+      about: >-
+        Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
+    workshop_accenture:
+      name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+      about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+    workshop_pixelmatters:
+      name: Workshop - Pixelmatters
+      about: TBA
+    workshop_outsystems:
+      name: Mobile and web rapid application development with OutSystems
+      about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+    talk_andre_pimenta:
+      name: MVP (Minimum Viable Product) for AI Products
+      about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
+    talk_celso_martinho:
+    name: Startups para Geeks
+    about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+  ##TODO
+  tertulia:
+    name: Eng. Informática nas Universidades Portuguesas
+    about: TBA
+  arraial:
+    name: Arraial de engenharia
+    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+  workshop_andre_sousa:
+    name: React.js
+    about: React.js
+  workshop_wedo:
+    name: Workshop - WeDo
+    about: TBA
+  talk_wedo:
+    name: Talk WeDo
+    about: TBA
+  talk_talkdesk:
+    name: A evolução do Data Scientist
+    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+  talk:
+    name: Talk
+    about: TBA
+  apresentacao_bosch:
+    name: Apresentação da Bosch
+    about:

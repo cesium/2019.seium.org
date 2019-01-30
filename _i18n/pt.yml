@@ -208,36 +208,74 @@ about:
   organisation: A SEI é gratuita para os participantes, sendo organizada por voluntários do CeSIUM.
 
 getting_here:
-  headline: Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
+  headline: |
+    Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de
+    bilhetes de comboio a preço super especial, graças à nossa parceria com a
+    CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é
+    perder esta edição da tua semana favorita.
   train:
     title: Comboio
-    description: >
+    description: |
       Todos os caminhos vão dar à SEI. Várias linhas de comboio cruzam-se em
       Braga para te trazer à melhor Semana de Engenharia Informática do
       país.
   bus:
     title: Autocarro
-    description: Poderás viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB), nomeadamente através do autocarro número 43. A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.
+    description: |
+      Poderás viajar desde o centro e arredores de Braga até ao Campus de
+      Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de
+      Braga (TUB), nomeadamente através do autocarro número 43. A partir de
+      outras cidades do país existem diversas companhias com autocarros
+      diretos até Braga. A Rede Expressos possui a cobertura mais alargada.
+      Os autocarros regionais e expresso terminam a sua viagem na central de
+      camionagem, no centro da cidade.
   car:
     title: Carro
-    description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
+    description: |
+      Quer venhas pela autoestrada ou pela nacional, o mais seguro é
+      colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a
+      morada Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  geekgirls:
-    name: Geek Girls
-    about:
   sessao_abertura:
     name: Sessão de Abertura
-    about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
+    about: |
+      Sessão inaugural da edição deste ano. Será apresentado o calendário e
+      os parceiros da SEI. E, possivelmente, algumas surpresas.
   apresentacao_desafios:
     name: Apresentação dos desafios
     about: Apresentação de todos os desafios que irão acontecer durante a semana.
   talk_blip:
-    name: Mutation testing - Let's kill some mutants
-    about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
+    name: Testes de Mutantes - Vamos matar alguns mutantes
+    about: |
+      Todos os dias escrevemos testes para garantir a qualidade do nosso
+      código. Mas o que garante a qualidade dos nossos testes?
+      </span><br><span class="about">
+      O teste de mutação é um método de inserir falhas (mutantes) em programas
+      para verificar se os testes os captam, garantindo assim sua qualidade.
+      </span><br><span class="about">
+      Queres melhorar a qualidade dos teus testes? Não deixes que os mutantes
+      invadam seu código.
+      </span><br><span class="about">
+      Junta-te a nós para aprender a criar e matar alguns mutantes em
+      JavaScript.
   talk_accenture:
-    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
-    about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+    name: Visão Tecnológica da Accenture – Intelligent Enterprise Unleashed
+    about: |
+      <b>Resumo das Tendências Tecnológicas</b>
+      </span><br><span class="about">-
+      Cinco tendências tecnológicas estão a proporcionar avanços que permitem
+      as empresas explorem o poderoso potencial da empresa inteligente, criando
+      novas oportunidades de negócios e ajudando a mudar o mundo como o
+      conhecemos.
+      </span><br><span class="about">-
+      As empresas líderes estão a melhorar maneira como vivemos com novos
+      produtos e serviços que se tornarão indispensáveis no futuro.
+      </span><br><span class="about">-
+      Os negócios estão a ficar mais pessoais. Os líderes devem mudar as suas
+      mentalidades e modelos de negócios para se concentrarem em criar
+      relacionamentos fortes e confiáveis com parceiros, clientes,
+      funcionários, governos e muito mais.
   talk_upfall:
     name: Analysing a Cross-Platform Game engine
     about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
