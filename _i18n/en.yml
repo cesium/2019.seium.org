@@ -118,6 +118,17 @@ speakers:
           daily users. Currently I spend my days with a team of Software
           Engineers and Data Scientists trying to create a personalized
           experience to our users.
+  andre_sousa:
+      about: |
+        André is currently a guest assistant professor at the University of
+        Trás-os-Montes and Alto Douro in the undergraduate courses of
+        Computer Science and Information Technology and Communication,
+        teaching curricular units Web Development, Object-Oriented
+        Programming, Systems Integration, and Distributed Systems, among
+        others, completed his PhD with the theme "Dynamic and
+        context-sensitive adaptation of mobile interfaces in a ubiquitous
+        environment". With interests in the areas of Machine Learning,
+        Ubiquitous Computing and DevOps for cross-platform applications.
 
 team:
   organization: Organization

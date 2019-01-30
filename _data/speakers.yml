@@ -73,6 +73,17 @@
   about: nuno_cascais.about
   id: 7
 
+- name: André Sousa
+  pic: andre-sousa.jpg
+  position: Guest Assistant Professor
+  enterprise: Universidade de Trás-os-Montes e Alto Douro
+  enterpriseURL: https://www.utad.pt/
+  github: Xipas
+  twitter: Xipas
+  linkedin: andré-sousa-6056029
+  about: andre_sousa.about
+  id: 8
+
 #ORADORES EMPRESAS
 
 - name: Sérgio Gaio
