@@ -145,9 +145,23 @@ speakers:
       partida, para a criação de sinergias que proporcionaram o nascimento da
       IEM4.0.
   rui_saraiva:
-    about: Licenciado em Engenharia Eletrónica e Redes de Computadores pela Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Viana do Castelo, com uma veia de Full-Stack developer desde o 12º ano. Desde então dedica-se ao desenvolvimento de aplicações web, tanto front-end como back-end. Tem uma grande paixão pelo desenvolvimento de aplicações web progressivas (PWAs).
+    about: |
+      Licenciado em Engenharia Eletrónica e Redes de Computadores pela Escola
+      Superior de Tecnologia e Gestão do Instituto Politécnico de Viana do
+      Castelo, com uma veia de Full-Stack developer desde o 12º ano. Desde
+      então dedica-se ao desenvolvimento de aplicações web, tanto front-end
+      como back-end. Tem uma grande paixão pelo desenvolvimento de aplicações
+      web progressivas (PWAs).
   fabio_martins:
-    about: Frequentou a licenciatura em Engenharia Elétrica e Eletrónica pelo Instituto Superior de Engenharia da Universidade do Algarve. Foi co-Fundador e CTO da Skilleo e nos últimos anos tem assumido a posição de CTO na Pixelmatters. Durante o seu percurso profissional trabalhou em posições de front-end e back-end developer em variados contextos empresariais. Mais recentemente tem-se focado no desenvolvimento e automação de infra-estruturas na cloud, assim como, na definição de processos de desenvolvimento.
+    about: |
+      Frequentou a licenciatura em Engenharia Elétrica e Eletrónica pelo
+      Instituto Superior de Engenharia da Universidade do Algarve. Foi
+      co-Fundador e CTO da Skilleo e nos últimos anos tem assumido a posição de
+      CTO na Pixelmatters. Durante o seu percurso profissional trabalhou em
+      posições de front-end e back-end developer em variados contextos
+      empresariais. Mais recentemente tem-se focado no desenvolvimento e
+      automação de infra-estruturas na cloud, assim como, na definição de
+      processos de desenvolvimento.
   sergio_gaio:
     about: |
       Sérgio is a Associate Director at Accenture Portugal, with 17 year in the
@@ -208,19 +222,21 @@ speakers:
   paulo_gomes:
     about: |
       Paulo Gomes é natural do Brasil e trabalha com BI há mais de 10 anos.
-      Desde há cerca de 1 ano, tem feito a migração para o novo mundo de Big Data.
+      Desde há cerca de 1 ano, tem feito a migração para o novo mundo de Big
+      Data.
 
-      Depois de ter trabalhado nos setores de retalho,
-      financeiro e telefónico no Brasil, aceitou o desafio de
-      fazer parte da Farfetch. Vindo de São Paulo, está há cerca de 2 anos em
-      Portugal e começou a liderar uma equipa na área de Data há 10 meses.
+      Depois de ter trabalhado nos setores de retalho, financeiro e telefónico
+      no Brasil, aceitou o desafio de fazer parte da Farfetch. Vindo de São
+      Paulo, está há cerca de 2 anos em Portugal e começou a liderar uma equipa
+      na área de Data há 10 meses.
 
       Agnóstico a fornecedores, já trabalhou com Microsoft, Oracle, Cloudera e agora Google.
   diogo_cruz:
     about: |
-      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu
-      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da
-      Aptiv em Braga, como Software Engineer.
+      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela
+      Universidade do Minho em 2016, onde permaneceu em projeto de investigação
+      na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de
+      Desenvolvimento da Aptiv em Braga, como Software Engineer.
   jose_carreiras:
     about: |
       José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção,
@@ -229,20 +245,25 @@ speakers:
       Diretor do Centro Técnico de Desenvolvimento de Braga.
   raphael_espanha:
     about: |
-      Com licenciatura em Engenharia Biomédica e mestrado em Informática Médica pela Universidade do Minho,
-      o Raphael iniciou o seu percurso a estagiar na Philips em Aachen, Alemanha. Realizou a sua tese de mestrado
-      no Hospital Universitário de Colónia onde combinou imagens médicas e dados clínicos num modelo de
-      Deep Learning (DL), sendo o seu trabalho publicado no paper “Combining Image and Non-image Clinical Data:
-      An Infrastructure that Allows Machine Learning Studies in a Hospital Environment" . Já em Portugal,
-      continuou o seu trabalho na Neadvance em projetos de segmentação de imagem.
+      Com licenciatura em Engenharia Biomédica e mestrado em Informática Médica
+      pela Universidade do Minho, o Raphael iniciou o seu percurso a estagiar
+      na Philips em Aachen, Alemanha. Realizou a sua tese de mestrado no
+      Hospital Universitário de Colónia onde combinou imagens médicas e dados
+      clínicos num modelo de Deep Learning (DL), sendo o seu trabalho publicado
+      no paper “Combining Image and Non-image Clinical Data: An Infrastructure
+      that Allows Machine Learning Studies in a Hospital Environment". Já em
+      Portugal, continuou o seu trabalho na Neadvance em projetos de
+      segmentação de imagem.
 
-      Atualmente é data scientist na WeDo Technologies onde tem como principal foco a deteção de fraude em Telecom.
+      Atualmente é data scientist na WeDo Technologies onde tem como principal
+      foco a deteção de fraude em Telecom.
   raul_azevedo:
     about: |
-      Raul Azevedo, depois de completar a sua formação superior em Engenharia de
-      Sistemas de Informática, teve uma rica e variada experiência enquanto líder de
-      Sistemas de Informação, numa diversidade de setores como manufatura, tecnologia,
-      retalho e banca. Hoje, Raul é o VP da WeDo Technologies responsável pelo desenvolvimento de produto.
+      Raul Azevedo, depois de completar a sua formação superior em Engenharia
+      de Sistemas de Informática, teve uma rica e variada experiência enquanto
+      líder de Sistemas de Informação, numa diversidade de setores como
+      manufatura, tecnologia, retalho e banca. Hoje, Raul é o VP da WeDo
+      Technologies responsável pelo desenvolvimento de produto.
   ricardo_soares:
     about: |
       Ricardo é software developer na Blip. Ele não fica intimidado ao alternar
@@ -297,16 +318,20 @@ speakers:
       desenvolvimento de interface para os Developers da OutSystems.
   carlos_moreira:
     about: |
-      Carlos Moreira é um consultor na área de Business Intelligence com experiência
-      E2E no processamento de dados, maioritariamente para as grandes entidades financeiras.
-      Adapta processos de desenvolvimento e tira partido de técnicas inovadoras, a partir de
-      serviços Cloud e Big Data, que permitem orquestrar soluções robustas e exigentes nos
-      projetos nacionais e internacionais que tem vindo a realizar. Adora bons desafios, sistemas complexos,
-      coordenação de equipas e é focado em participar ativamente na evolução constante de todo o envolvente que o rodeia.
+      Carlos Moreira é um consultor na área de Business Intelligence com
+      experiência E2E no processamento de dados, maioritariamente para as
+      grandes entidades financeiras.  Adapta processos de desenvolvimento e
+      tira partido de técnicas inovadoras, a partir de serviços Cloud e Big
+      Data, que permitem orquestrar soluções robustas e exigentes nos projetos
+      nacionais e internacionais que tem vindo a realizar. Adora bons desafios,
+      sistemas complexos, coordenação de equipas e é focado em participar
+      ativamente na evolução constante de todo o envolvente que o rodeia.
 
-      Nos seus tempos livres tem preferência por se desconectar do mundo abstrato das tecnologias e
-      ligar-se ao mundo terreno. Apaixonado pela prática de desportos combinada com desfrutar da natureza.
-      Aprecia socializar com pessoas diretamente, explorar outras culturas e gastronomia".
+      Nos seus tempos livres tem preferência por se desconectar do mundo
+      abstrato das tecnologias e ligar-se ao mundo terreno. Apaixonado pela
+      prática de desportos combinada com desfrutar da natureza.  Aprecia
+      socializar com pessoas diretamente, explorar outras culturas e
+      gastronomia".
   jno:
     about: |
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
@@ -333,7 +358,13 @@ workshops:
   headline: Inscreve-te aqui para os workshops que não queres mesmo perder. As inscrições são limitadas, apressa-te!
   laravel:
     name: Real-time Webapps com Laravel e Pusher
-    description: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel, vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
+    description: |
+      Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada
+      dia e dotar uma aplicação destas tecnologias pode ser incrivelmente
+      simples. Aproveitando a onda da crescente popularidade da framework web
+      Laravel, vem desenvolver uma pequena aplicação integrada com o Pusher, um
+      serviço de tecnologias realtime que vais querer integrar nos teus
+      próximos projetos.
 
 challenges:
   headline: Somos de opinião que mais interessante que palestras e workshops, são desafios e concursos! Por essa razão, e já como vem sendo tradição, decidimos criar várias competições amigáveis. Destaca-te numa destas áreas mas, mais importante ainda, diverte-te!
@@ -411,19 +442,48 @@ getting_here:
 activities:
   sessao_abertura:
     name: Sessão de Abertura
-    about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
+    about: |
+      Sessão inaugural da edição deste ano. Será apresentado o calendário e
+      os parceiros da SEI. E, possivelmente, algumas surpresas.
   apresentacao_desafios:
     name: Apresentação dos desafios
     about: Apresentação de todos os desafios que irão acontecer durante a semana.
   talk_blip:
-    name: Mutation testing - Let's kill some mutants
-    about: Every day we write tests to ensure the quality of our code. But what ensures the quality of our tests?</span><br><span class="about">Mutation Testing is a method of inserting faults (mutants) into programs to verify whether the tests pick them up, thereby guaranteeing their quality.</span><br><span class="about">Do you want to improve the quality of your tests? Do not let mutants invade your code.</span><br><span class="about">Join us to learn how to create and kill some mutants in JavaScript.
+    name: Testes de Mutantes - Vamos matar alguns mutantes
+    about: |
+      Todos os dias escrevemos testes para garantir a qualidade do nosso
+      código. Mas o que garante a qualidade dos nossos testes?
+
+      O teste de mutação é um método de inserir falhas (mutantes) em programas
+      para verificar se os testes os captam, garantindo assim sua qualidade.
+
+      Queres melhorar a qualidade dos teus testes? Não deixes que os mutantes
+      invadam seu código.
+
+      Junta-te a nós para aprender a criar e matar alguns mutantes em
+      JavaScript.
   talk_accenture:
-    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
-    about: <b>Tech Trends Summary</b></span><br><span class="about">- Five technology trends are upping the game and allowing companies to tap into the powerful potential of intelligent enterprise, creating new business opportunities and helping to change the world as we know it.</span><br><span class="about">- Leading companies are improving the way we live with new products and services that will become indispensable in the future.</span><br><span class="about">- Business is getting personal. Leaders must shift their mindsets and business models to focus on forging strong, trusted relationships with partners, customers, employees, governments, and more.
+    name: Visão Tecnológica da Accenture – Intelligent Enterprise Unleashed
+    about: |
+      **Resumo das Tendências Tecnológicas**
+
+      Cinco tendências tecnológicas estão a proporcionar avanços que permitem
+      as empresas explorem o poderoso potencial da empresa inteligente, criando
+      novas oportunidades de negócios e ajudando a mudar o mundo como o
+      conhecemos.
+
+      As empresas líderes estão a melhorar maneira como vivemos com novos
+      produtos e serviços que se tornarão indispensáveis no futuro.
+
+      Os negócios estão a ficar mais pessoais. Os líderes devem mudar as suas
+      mentalidades e modelos de negócios para se concentrarem em criar
+      relacionamentos fortes e confiáveis com parceiros, clientes,
+      funcionários, governos e muito mais.
   talk_upfall:
     name: Analysing a Cross-Platform Game engine
-    about: An overview of the process, tools and libs used to build a custom engine for several platforms, from mobile to consoles.
+    about: |
+      An overview of the process, tools and libs used to build a custom engine
+      for several platforms, from mobile to consoles.
   apresentacao_blip:
     name: Apresentação da BLIP
     about:
@@ -432,25 +492,72 @@ activities:
     about: Remote Work Podcast, a podcast about working from anywhere, how to do that, what tools to use and more.
   workshop_xpandit:
     name: Data crunching with Tableau
-    about: >-
-      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
+    about: |-
+      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
+      Tableau com os respetivos exercícios e uma sessão aberta de questões
+      posteriormente.
+
+      Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com
+      um dos SOs anteriores (De preferência com a última versão do Tableau
+      Desktop instalado).
   workshop_accenture:
-    name: |
-      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
-    about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+    name: >-
+      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base
+      Management)
+    about: |
+      Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada
+      vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Desenvolvimento de uma aplicação web com Vue.js
     about: >-
-      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar a construção de interfaces interativas. A comunidade de Vue.js tem crescido significativamente nos últimos anos, tendo atualmente mais de 125.000 estrelas no Github.</span><br><br><span class="about">Neste workshop iremos criar uma aplicação de Vue.js a partir do zero, tendo como objetivos:</span><br><span class="about">- Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;</span><br><span class="about">- Fazer uso de “single file components” (*.vue files);</span><br><span class="about">- Entender o ciclo de vida das aplicações Vue;</span><br><span class="about">- Conhecer como é feita a comunicação entre componentes;</span><br><span class="about">- Usar o VueX como “store” para centralização de estados da aplicação.</span><br><br><span class="about">Pré-requisitos:</span><br><span class="about">- Computador e conhecimentos elementares de Javascript.
+      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar
+      a construção de interfaces interativas. A comunidade de Vue.js tem
+      crescido significativamente nos últimos anos, tendo atualmente mais de
+      125.000 estrelas no Github.
+
+      Neste workshop iremos criar uma aplicação de Vue.js a partir do zero,
+      tendo como objetivos:
+
+      * Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;
+      * Fazer uso de “single file components” (*.vue files);
+      * Entender o ciclo de vida das aplicações Vue;
+      * Conhecer como é feita a comunicação entre componentes;
+      * Usar o VueX como “store” para centralização de estados da
+      aplicação.
+
+      Pré-requisitos:
+      * Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
-    about: OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te permite desenvolver visualmente a tua aplicação móvel e web.</span><br><span class="about">Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada aspeto da nossa plataforma é projetado para ajudar-te a construir e entregar melhores aplicações e mais rápido.</span><br><span class="about">Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
+    about: |
+      OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te
+      permite desenvolver visualmente a tua aplicação móvel e web.
+
+      Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada
+      aspeto da nossa plataforma é projetado para ajudar-te a construir e
+      entregar melhores aplicações e mais rápido.
+
+      Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
   talk_andre_pimenta:
     name: MVP (Minimum Viable Product) para produtos com inteligência artificial
-    about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
+    about: |
+      Criar produtos baseados em inteligência artificial é uma tarefa difícil e
+      que requer um investimento de tempo e dinheiro alto e muitas vezes com um
+      retorno não imediato. A criação de MVPs pode ser a solução para validar o
+      investimento necessário.
   talk_celso_martinho:
     name: Startups para Geeks
-    about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
+    about: |
+      Os engenheiros são particularmente bons a pensar em formas de utilizar a
+      tecnologia para resolver problemas reais das pessoas e das empresas, no
+      entanto criar um produto e uma empresa é um campeonato diferente. Ao
+      contrário do que a comunicação social nos conta, criar uma startup tem
+      tanto de entusiasmo e realização profissional como de dor e dificuldades.
+      Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu
+      durante a sua carreira e como é que a Bright Pixel, um “venture builder
+      studio” e “early stage investor", pode ajudar os empreendedores de base
+      tecnológica a realizar as suas ambições.
+
   ##TODO
   tertulia:
     name: Informática em Portugal

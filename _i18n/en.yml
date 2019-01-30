@@ -63,61 +63,79 @@ defaults:
 speakers:
   headline: During this week, you have the opportunity to interact with many recognized speakers, national, international and notorious companies! You can get to know them better here.
   nuno_fernandes:
-    about: Nuno Fernandes is a Computer Systems Engineer graduated at University of Minho and is currently the Research and Development  Director at Eurotux Informatica. Co-Author of the book Apache Instalação, Configuração Gestão Servidores Web, edited by FCA, Nuno has now been responsible for the implementation of several projects with large technology infrastructure.
+    about: |
+      Nuno Fernandes is a Computer Systems Engineer graduated at University of
+      Minho and is currently the Research and Development  Director at Eurotux
+      Informatica. Co-Author of the book Apache Instalação, Configuração Gestão
+      Servidores Web, edited by FCA, Nuno has now been responsible for the
+      implementation of several projects with large technology infrastructure.
   cesar_pinto:
-    about: César joined OutSystems as Engagement Manager by having the responsibility for the overall management and delivery of innovative solutions using the OutSystems technology thru an agile approach. Recently become an Engagement Manager Mentor by leading a team of Engagement Managers with the responsibility of accelerating the team growth to an outstanding level and ensuring the team's deliveries success.
+    about: |
+      César joined OutSystems as Engagement Manager by having the
+      responsibility for the overall management and delivery of innovative
+      solutions using the OutSystems technology thru an agile approach.
+      Recently become an Engagement Manager Mentor by leading a team of
+      Engagement Managers with the responsibility of accelerating the team
+      growth to an outstanding level and ensuring the team's deliveries
+      success.
   hernani_fernandes:
-    about: Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being responsible for the technical delivery of innovative solutions based on customer business needs and drivers. Since mid-2018 he's also a member of the Architecture Experts, who are responsible for designing flexible and cost-effective solution architectures that are aligned with the OutSystems customers' business strategies.
+    about: |
+      Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being
+      responsible for the technical delivery of innovative solutions based on
+      customer business needs and drivers. Since mid-2018 he's also a member of
+      the Architecture Experts, who are responsible for designing flexible and
+      cost-effective solution architectures that are aligned with the
+      OutSystems customers' business strategies.
   celso_martinho:
-      about: |-
-          Celso Martinho is someone that finds motivation in challenges, an
-          optimistic technological geek, a man of the product and a business
-          oriented soul, thrown into a managerial career. Founder of SAPO, the
-          biggest internet project in Portugal, now a media company and part of
-          the innovation engine that is Portugal Telecom, he now builds large
-          scale B2C services in areas such as: cloud, e-commerce, e-payments and
-          IPTV interactivity. His past is composed of high level management,
-          software projects management, systems architecture, technical product
-          development and several decades of experience in the telecom and
-          internet industries. Celso is also the CEO and founder of Bright
-          Pixel, a software studio, home to a team of industrie experts with
-          vast experience using technology and creativity to create products
-          with global reach and services in a diverse group of areas such as
-          web development, security, e-payment, big-data and user interface
-          design.
-  bruno_ribeiro:
-      about: |
-          Bruno is a problem solver, with a diverse background and alongside a
-          strong focus in Game Design. He started designing games from an early
-          age and destroying the rules of the traditional board games.  He has
-          also accompanied various Portuguese Game Designers as a consultant
-          and has more then 30 hostage prototypes waiting to be released.
+    about: |-
+      Celso Martinho is someone that finds motivation in challenges, an
+      optimistic technological geek, a man of the product and a business
+      oriented soul, thrown into a managerial career. Founder of SAPO, the
+      biggest internet project in Portugal, now a media company and part of the
+      innovation engine that is Portugal Telecom, he now builds large scale B2C
+      services in areas such as: cloud, e-commerce, e-payments and IPTV
+      interactivity. His past is composed of high level management, software
+      projects management, systems architecture, technical product development
+      and several decades of experience in the telecom and internet industries.
 
-          He's a writer, when he can, and splits his time between family, with
-          his two kids, and being an entertainer in an online Role Playing Game
-          channel, he's a storyteller by heart and lives in his imagination of
-          multiple worlds, stepping among us every once in a while.
+      Celso is also the CEO and founder of Bright Pixel, a software studio,
+      home to a team of industrie experts with vast experience using technology
+      and creativity to create products with global reach and services in a
+      diverse group of areas such as web development, security, e-payment,
+      big-data and user interface design.
+  bruno_ribeiro:
+    about: |
+      Bruno is a problem solver, with a diverse background and alongside a
+      strong focus in Game Design. He started designing games from an early
+      age and destroying the rules of the traditional board games.  He has
+      also accompanied various Portuguese Game Designers as a consultant
+      and has more then 30 hostage prototypes waiting to be released.
+
+      He's a writer, when he can, and splits his time between family, with
+      his two kids, and being an entertainer in an online Role Playing Game
+      channel, he's a storyteller by heart and lives in his imagination of
+      multiple worlds, stepping among us every once in a while.
   david_amador:
       about: |
-          David started to mod (and play) games as soon as he had access to a
-          computer/console. After some time working professionally in the
-          gaming industry he decided to go independent and make his own games
-          back in 2010. Among the titles he worked on you can find Vizati and
-          Puwang. Most recently, after creating Upfall Studios, his game, Quest
-          of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4
-          and Switch.
+        David started to mod (and play) games as soon as he had access to a
+        computer/console. After some time working professionally in the
+        gaming industry he decided to go independent and make his own games
+        back in 2010. Among the titles he worked on you can find Vizati and
+        Puwang. Most recently, after creating Upfall Studios, his game, Quest
+        of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4
+        and Switch.
   andre_pimenta:
       about: |
-          CEO e co-fundador of Performetric and PhD in Informatics specialized
-          in Artificial Intelligence on the University of Minho.
+        CEO e co-fundador of Performetric and PhD in Informatics specialized
+        in Artificial Intelligence on the University of Minho.
   andre_barbosa:
       about: |
-          I enrolled in LEI in 2006 and, with some help, I manage to finish the
-          course. I passed through various industries and companies until I
-          ended up joining Skyscanner, challenged by the amount of data and
-          daily users. Currently I spend my days with a team of Software
-          Engineers and Data Scientists trying to create a personalized
-          experience to our users.
+        I enrolled in LEI in 2006 and, with some help, I manage to finish the
+        course. I passed through various industries and companies until I
+        ended up joining Skyscanner, challenged by the amount of data and
+        daily users. Currently I spend my days with a team of Software
+        Engineers and Data Scientists trying to create a personalized
+        experience to our users.
   andre_sousa:
       about: |
         André is currently a guest assistant professor at the University of
@@ -131,9 +149,11 @@ speakers:
         Ubiquitous Computing and DevOps for cross-platform applications.
 
   jorge_resende:
-    about: |
+    about:
+
   nuno_cascais:
-    about: |
+    about:
+
   sergio_gaio:
     about: |
       Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last
@@ -154,10 +174,13 @@ speakers:
       the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.
 
       Executive Master Business Administration - ISCTE / INDEG Business School.
+
   carlos_jesus:
-    about: |
+    about:
+
   andre_silva:
     about:
+
   daniel_ferrari:
     about: |
       Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D. in IA and Machine Learning.
@@ -166,7 +189,7 @@ speakers:
       10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop
       complete pipelines from data mining and manipulation to production distribution of Machine Learning models.
   marcio_azevedo:
-    about: | 
+    about: |
       Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the
       software industry, he started as a software developer after graduating from the University of Minho and
       has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
@@ -187,25 +210,38 @@ speakers:
       with an amazing team the sky is the limit.
   paulo_marques:
     about: |
-      Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a
-      software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development
-      of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience.
-      Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
+      Paulo has a masters degree in Informatics Engineering from the University
+      of Minho and joined OutSystems as a software engineer where he had the
+      opportunity to put in use his problem-solving skills to contribute to the
+      development of OutSystems's platform integration systems so that the use
+      of data and logic from  external systems is a seamless experience.
+      Recently, he joined the Mac IDE team with the purpose that both
+      experience and capabilities of the OutSystems IDE is identical across
+      operating systems.
   tiago_fernandes:
     about: |
-      Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in
-      2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate
-      in several engineering challenges and craft some of the features that are part of OutSystems IDE.
-      Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
+      Tiago joined the team as a software engineer after completing his
+      master's degree in Informatics Engineering at the University of Minho in
+      2017 in a partnership with OutSystems. Tiago is a very methodical and
+      curious person who had the opportunity to participate in several
+      engineering challenges and craft some of the features that are part of
+      OutSystems IDE.  Currently, he is working in the Mac IDE team aiming to
+      create a seamless IDE experience for OutSystems Developers.
   jno:
     about: |
-      Researcher at the Reliable Software Laboratory (HASLab) and professor at Department of Informatics at School of Engineering of the University of Minho.
+      Researcher at the Reliable Software Laboratory (HASLab) and professor at
+      Department of Informatics at School of Engineering of the University of
+      Minho.
   jbb:
     about: |
-      José Bernardo Barros, better known by his students as JBB, is a professor in the Department of Informatics at the University of Minho and a Senior Researcher at HASLab/INESC TEC.
+      José Bernardo Barros, better known by his students as JBB, is a professor
+      in the Department of Informatics at the University of Minho and a Senior
+      Researcher at HASLab/INESC TEC.
   psa:
     about: |
-      Paulo Sérgio Almeida is a professor at Department of Informatics of the University of Minho and Researcher in the area of systems distributed at HASLab.
+      Paulo Sérgio Almeida is a professor at Department of Informatics of the
+      University of Minho and Researcher in the area of systems distributed at
+      HASLab.
 team:
   organization: Organization
   staff: Staff
@@ -263,15 +299,19 @@ about:
   organisation: The SEI is free for participants and is organized by volunteers from CeSIUM.
 
 getting_here:
-  headline: If you do not know exactly how to get to SEI, we help. Take advantage of train tickets at a very special price, thanks to our partnership with CP - Comboios de Portugal, or come by own means. What you can not do is miss this edition of your favorite week.
+  headline: |-
+    If you do not know exactly how to get to SEI, we help. Take advantage of
+    train tickets at a very special price, thanks to our partnership with CP
+    - Comboios de Portugal, or come by own means. What you can not do is miss
+    this edition of your favorite week.
   train:
     title: Train
-    description: >
+    description: |
       All roads lead to SEI. Several train lines cross in Braga in order to
       bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
-    description: > 
+    description: |
       You can travel from the center and surroundings of Braga to the Campus
       of Gualtar using the various buses of the Urban Transport of Braga
       (TUB), namely by bus number 43. From other cities of the country there
@@ -280,21 +320,133 @@ getting_here:
       the central bus station in the center of the city.
   car:
     title: Car
-    description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
+    description: |
+      Whether you come by the motorway or the national, the safest is to put
+      in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua
+      da Universidade, Gualtar, Portugal.
 
 activities:
+  sessao_abertura:
+    name: Opening session
+    about: |
+      The inaugural session of this year's edition. The SEI calendar and
+      partners will be presented. And, possibly, some surprises.
+  apresentacao_desafios:
+    name: Apresentação dos desafios
+    about: Apresentação de todos os desafios que irão acontecer durante a semana.
+  talk_blip:
+    name: Mutation testing - Let's kill some mutants
+    about: |
+      Every day we write tests to ensure the quality of our code. But what
+      ensures the quality of our tests?
+
+      Mutation Testing is a method of inserting faults (mutants) into programs
+      to verify whether the tests pick them up, thereby guaranteeing their
+      quality.
+
+      Do you want to improve the quality of your tests? Do not let mutants
+      invade your code.
+
+      Join us to learn how to create and kill some mutants in JavaScript.
+  talk_accenture:
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    about: |
+        **Tech Trends Summary**
+
+        Five technology trends are upping the game and allowing companies to tap
+        into the powerful potential of intelligent enterprise, creating new
+        business opportunities and helping to change the world as we know it.
+
+        Leading companies are improving the way we live with new products and
+        services that will become indispensable in the future.
+
+        Business is getting personal. Leaders must shift their mindsets and
+        business models to focus on forging strong, trusted relationships with
+        partners, customers, employees, governments, and more.
+    talk_upfall:
+      name: Analysing a Cross-Platform Game engine
+      about: |
+        An overview of the process, tools and libs used to build a custom
+        engine for several platforms, from mobile to consoles.
+    apresentacao_blip:
+      name: Apresentação da BLIP
+      about:
+    job:
+      name: Remote Work Podcast
+      about: TBA
+    meetup:
+      name: BigData meetup
+      about: TBA
   workshop_accenture:
     name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
-    about: How projects that uses AGILE are adapting to highly complex demands and immediately development/delivery needed.
-  workshop_pixelmatters:
-    name: Workshop - Pixelmatters
+    about: |
+      How projects that uses AGILE are adapting to highly complex demands and
+      immediately development/delivery needed.
+    workshop_xpandit:
+      name: Data crunching with Tableau
+      about: |-
+        Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
+        Tableau com os respetivos exercícios e uma sessão aberta de questões
+        posteriormente.
+        Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
+        com um dos SOs anteriores (De preferência com a última versão do
+        Tableau Desktop instalado).
+    workshop_pixelmatters:
+      name: Workshop - Pixelmatters
+      about: TBA
+    workshop_outsystems:
+      name: Mobile and web rapid application development with OutSystems
+      about: |
+        OutSystems is a rapid application development platform that lets you
+        visually develop your mobile and web applications in a visual
+        way.
+
+        Crafted by engineers with an obsessive attention to detail, every
+        aspect of our platform is designed to help you build and deliver better
+        apps faster.
+
+        Join us if you want to understand what we do, and how we do it!
+    talk_andre_pimenta:
+      name: MVP (Minimum Viable Product) for AI Products
+      about: |
+        Creating products based on artificial intelligence is an hard task and
+        requires a very high investment of time and money and often with an
+        non-immediate return. Creating MVPs can be the solution to validate the
+        investment needed.
+    talk_celso_martinho:
+      name: Startups for Geeks
+      about: |
+        Engineers are particularly good at thinking of ways to use technology
+        to solve real problems for people and companies, but creating a product
+        and a business is a different reality. Unlike social media tell us,
+        creating a startup has such of enthusiasm and professional achievement
+        than pain and difficulties. In this talk, Celso Martinho is going to
+        explain us what he learned during his career and how Bright Pixel, a
+        "venture builder studio" and "early stage investor", can help
+        technology-based entrepreneur achieve theirs ambitions.
+
+  ##TODO
+  tertulia:
+    name: Eng. Informática nas Universidades Portuguesas
     about: TBA
-  workshop_outsystems:
-    name: Mobile and web rapid application development with OutSystems
-    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
-  talk_andre_pimenta:
-    name: MVP (Minimum Viable Product) for AI Products
-    about: Creating products based on artificial intelligence is an hard task and requires a very high investment of time and money and often with an non-immediate return. Creating MVPs can be the solution to validate the investment needed.
-  talk_celso_martinho:
-    name: Startups for Geeks
-    about: Engineers are particularly good at thinking of ways to use technology to solve real problems for people and companies, but creating a product and a business is a different reality. Unlike social media tell us, creating a startup has such of enthusiasm and professional achievement than pain and difficulties. In this talk, Celso Martinho is going to explain us what he learned during his career and how Bright Pixel, a "venture builder studio" and "early stage investor", can help technology-based entrepreneur achieve theirs ambitions.
+  arraial:
+    name: Arraial de engenharia
+    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+  workshop_andre_sousa:
+    name: React.js
+    about: React.js
+  workshop_wedo:
+    name: Workshop - WeDo
+    about: TBA
+  talk_wedo:
+    name: Talk WeDo
+    about: TBA
+  talk_talkdesk:
+    name: A evolução do Data Scientist
+    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+  talk:
+    name: Talk
+    about: TBA
+  apresentacao_bosch:
+    name: Apresentação da Bosch
+    about:
