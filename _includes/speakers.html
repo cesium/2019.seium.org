@@ -6,6 +6,7 @@
     </div>
     <div class="speakers-list">
       {% for speaker in site.data.speakers %}
+      {% if speaker.main %}
       <div class="speakers-list-cell speakers-container">
         <div class="speaker-img">
           {% image 'speakers/{{ speaker.pic }}' class:speaker-pic %}
@@ -41,6 +42,7 @@
           </ul>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
     <div class="col-md-12 flex-center">
