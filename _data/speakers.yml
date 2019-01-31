@@ -280,6 +280,26 @@
   main: false
   id: 27
 
+- name: Leandro Duarte
+  pic: leandro-duarte.jpg
+  position: Senior Tester
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/pt/
+  linkedin: leandro-miguel-freitas-duarte-550b2220
+  about: leandro_duarte.about
+  main: false
+  id: 28
+
+- name: Pedro Ferreira
+  pic: pedro-ferreira.jpg
+  position: Developer
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/pt/
+  linkedin: pedro-tiago-ferreira-b5631323
+  about: pedro_ferreira.about
+  main: false
+  id: 29
+
 - name: José Nuno Oliveira
   pic: jno.jpg
   position: Professor
@@ -287,7 +307,7 @@
   enterpriseURL: https://www.uminho.pt/
   about: jno.about
   main: false
-  id: 28
+  id: 30
 
 # - name: JBB
 #   pic: jbb.jpg

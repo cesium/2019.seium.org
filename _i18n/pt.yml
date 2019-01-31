@@ -66,56 +66,58 @@ speakers:
     reconhecidos, nacionais, internacionais e de empresas notórias! Podes
     conhecê-los melhor aqui.
   celso_martinho:
-    about: |
-        Celso Martinho é uma pessoa que encontra motivação nos desafios, um
-        geek tecnológico optimista, um homem de produto, uma alma empresarial,
-        eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior
-        projeto de internet de Portugal, agora uma empresa mídia e conteúdo da
-        fábrica de inovação da Portugal Telecom, constrói serviços B2C em
-        grande escala em áreas desde cloud, e-commerce e e-payments até
-        interatividade IPTV. Ele tem um combinado passado em gestão de alto
-        nível, gestão de projetos software, arquitetura de sistemas e
-        desenvolvimento de produto técnico e várias décadas de experiência nas
-        indústrias telecom e internet. Celso é também CEO e fundador da Bright
-        Pixel, um estúdio de software, casa de uma equipa de experts da
-        indústria com vasta experiência em usar tecnologia e criatividade para
-        criar produtos com alcance mundial e serviços num ambiente diverso de
-        áreas desde desenvolvimento web, segurança, e-payment, tecnologias
-        big-data e design de interfaces e usabilidade.
+    about: |-
+      Celso Martinho é uma pessoa que encontra motivação nos desafios, um
+      geek tecnológico optimista, um homem de produto, uma alma empresarial,
+      eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior
+      projeto de internet de Portugal, agora uma empresa mídia e conteúdo da
+      fábrica de inovação da Portugal Telecom, constrói serviços B2C em
+      grande escala em áreas desde cloud, e-commerce e e-payments até
+      interatividade IPTV. Ele tem um combinado passado em gestão de alto
+      nível, gestão de projetos software, arquitetura de sistemas e
+      desenvolvimento de produto técnico e várias décadas de experiência nas
+      indústrias telecom e internet.
+
+      Celso é também CEO e fundador da Bright
+      Pixel, um estúdio de software, casa de uma equipa de experts da
+      indústria com vasta experiência em usar tecnologia e criatividade para
+      criar produtos com alcance mundial e serviços num ambiente diverso de
+      áreas desde desenvolvimento web, segurança, e-payment, tecnologias
+      big-data e design de interfaces e usabilidade.
   bruno_ribeiro:
     about: |
-        O Bruno é um criativo da resolução dos problemas, com um background
-        diversificado e uma forte componente no Game Design. Desde cedo que
-        começou a desenhar jogos e a destruir as regras dos ditos jogos de
-        tabuleiro tradicionais. Acompanhou vários Game Designers portugueses
-        como consultor e tem mais de 30 protótipos reféns, à espera de serem
-        libertados.
+      O Bruno é um criativo da resolução dos problemas, com um background
+      diversificado e uma forte componente no Game Design. Desde cedo que
+      começou a desenhar jogos e a destruir as regras dos ditos jogos de
+      tabuleiro tradicionais. Acompanhou vários Game Designers portugueses
+      como consultor e tem mais de 30 protótipos reféns, à espera de serem
+      libertados.
 
-        É escritor, apenas quando pode, e divide o seu tempo entre a família,
-        com os seus dois filhos e a animação de um canal online, na comunidade
-        de Roleplaying games, é um storyteller por natureza, e vive na
-        imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
+      É escritor, apenas quando pode, e divide o seu tempo entre a família,
+      com os seus dois filhos e a animação de um canal online, na comunidade
+      de Roleplaying games, é um storyteller por natureza, e vive na
+      imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   david_amador:
     about: |
-        David começou a modificar (e jogar) jogos logo que teve acesso a um
-        computador ou consola. Ao fim de algum tempo a trabalhar
-        profissionalmente na industria dos jogos decidiu tornar-se independente
-        e fazer os próprios jogos (desde 2010). De entre os títulos em que
-        trabalhou podes encontrar Vizati e Puwang. Mais recentemente, depois de
-        criar Upfall Studios, lançou para 3DS, Xbox One, PS4 e Switch o seu
-        jogo, Quest of Dungeons.
+      David começou a modificar (e jogar) jogos logo que teve acesso a um
+      computador ou consola. Ao fim de algum tempo a trabalhar
+      profissionalmente na industria dos jogos decidiu tornar-se independente
+      e fazer os próprios jogos (desde 2010). De entre os títulos em que
+      trabalhou podes encontrar Vizati e Puwang. Mais recentemente, depois de
+      criar Upfall Studios, lançou para 3DS, Xbox One, PS4 e Switch o seu
+      jogo, Quest of Dungeons.
   andre_pimenta:
     about: |
-        CEO e co-founder da Performetric e Doutorado em Informática na
-        especialidade de Inteligência Artificial pela Universidade do Minho.
+      CEO e co-founder da Performetric e Doutorado em Informática na
+      especialidade de Inteligência Artificial pela Universidade do Minho.
   andre_barbosa:
     about: |
-        Entrou em LEI em 2006 e, com alguma ajuda, lá conseguiu acabar o
-        curso. Passou por várias indústrias e empresas até que acabou por se
-        juntar à Skyscanner desafiado pela quantidade de dados e utilizadores
-        diários. Atualmente passa os seus dias com uma equipa de Software
-        Engineers e Data Scientists a tentar criar uma experiência
-        personalizada para os nossos utilizadores.
+      Entrou em LEI em 2006 e, com alguma ajuda, lá conseguiu acabar o
+      curso. Passou por várias indústrias e empresas até que acabou por se
+      juntar à Skyscanner desafiado pela quantidade de dados e utilizadores
+      diários. Atualmente passa os seus dias com uma equipa de Software
+      Engineers e Data Scientists a tentar criar uma experiência
+      personalizada para os nossos utilizadores.
   andre_sousa:
     about: |
       Atualmente professor auxiliar convidado da Universidade de Trás-os-Montes
@@ -332,6 +334,21 @@ speakers:
       prática de desportos combinada com desfrutar da natureza.  Aprecia
       socializar com pessoas diretamente, explorar outras culturas e
       gastronomia".
+  leandro_duarte:
+    about: |
+      Mestre em Engenharia de Telecomunicações e Informática pela UM,
+      tem dedicado a sua carreira à área de testes de Software, trabalhando
+      atualmente na PRIMAVERA BSS. É um entusiasta das novas tecnologias,
+      e “obcecado” pela qualidade dos produtos!
+  pedro_ferreira:
+    about: |
+      Mestre em Eng. Biológica e doutorado em Eng. Mecânica pela UM,
+      desenvolveu um grande interesse pela área das TI que o levou a
+      realizar uma pós-graduação em Engenharia do Software, também na UM.
+      Este curso deu-lhe a oportunidade de integrar a PRIMAVERA BSS em 2017,
+      onde começou por trabalhar em tratamento dos dados com tecnologias de
+      Business Intelligence. Atualmente é developer na área de AI, estando
+      neste momento a trabalhar em Forecasting de Vendas.
   jno:
     about: |
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
@@ -449,7 +466,7 @@ activities:
     name: Apresentação dos desafios
     about: Apresentação de todos os desafios que irão acontecer durante a semana.
   talk_blip:
-    name: Testes de Mutantes - Vamos matar alguns mutantes
+    name: Mutation testing - Let's kill some mutants
     about: |
       Todos os dias escrevemos testes para garantir a qualidade do nosso
       código. Mas o que garante a qualidade dos nossos testes?
@@ -463,7 +480,7 @@ activities:
       Junta-te a nós para aprender a criar e matar alguns mutantes em
       JavaScript.
   talk_accenture:
-    name: Visão Tecnológica da Accenture – Intelligent Enterprise Unleashed
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
     about: |
       **Resumo das Tendências Tecnológicas**
 
@@ -486,10 +503,11 @@ activities:
       for several platforms, from mobile to consoles.
   apresentacao_blip:
     name: Apresentação da BLIP
-    about:
   job:
     name: Remote Work Podcast
-    about: Remote Work Podcast, a podcast about working from anywhere, how to do that, what tools to use and more.
+    about: |
+      Remote Work Podcast, um podcast sobre trabalhar a partir de qualquer
+      sítio, como fazê-lo, que ferramentas utilizar, e muito mais.
   workshop_xpandit:
     name: Data crunching with Tableau
     about: |-
@@ -501,9 +519,8 @@ activities:
       um dos SOs anteriores (De preferência com a última versão do Tableau
       Desktop instalado).
   workshop_accenture:
-    name: >-
-      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base
-      Management)
+    name: |
+      Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
     about: |
       Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada
       vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
@@ -529,7 +546,7 @@ activities:
 
       * Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
-    name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
+    name: Mobile and web rapid application development with OutSystems
     about: |
       OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te
       permite desenvolver visualmente a tua aplicação móvel e web.
@@ -558,34 +575,51 @@ activities:
       durante a sua carreira e como é que a Bright Pixel, um “venture builder
       studio” e “early stage investor", pode ajudar os empreendedores de base
       tecnológica a realizar as suas ambições.
-
-  ##TODO
   tertulia:
     name: Informática em Portugal
     about: TBA
   arraial:
     name: Arraial de engenharia
-    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+    about: |
+      Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas
+      de Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
     name: Workshop de React.js
     about: React.js
   workshop_wedo:
     name: Introdução ao Deep Learning
-    about: O objetivo deste workshop consiste em fornecer uma visão geral dos fundamentos de Deep Learning no contexto de classificação de imagens. O workshop será realizado com recurso a Jupyter Notebook, um ambiente computacional web interativo. Os participantes serão guiados na implementação de redes neuronais convolucionais usando Keras  - biblioteca de Deep Learning para Python com suporte à aceleração por GPU.
+    about: |
+      O objetivo deste workshop consiste em fornecer uma visão geral dos
+      fundamentos de Deep Learning no contexto de classificação de imagens.
+      O workshop será realizado com recurso a Jupyter Notebook, um ambiente
+      computacional web interativo. Os participantes serão guiados na
+      implementação de redes neuronais convolucionais usando Keras - biblioteca
+      de Deep Learning para Python com suporte à aceleração por GPU.
   talk_wedo:
     name: |
       Automated Machine Learning: The next frontier in Fraud Detection
-    about: Apesar de ser um dos casos de uso mais referenciado de utilização de  Machine Learning, a deteção de fraude está longe de ser um dos de mais simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo na aplicação de Machine Learning no domínio da gestão de Fraude, e porque é que o AutoML é neste momento um dos tópicos prioritários da estratégia de I+D da WeDo.
+    about: |
+      Apesar de ser um dos casos de uso mais referenciado de utilização de
+      Machine Learning, a deteção de fraude está longe de ser um dos de mais
+      simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo
+      na aplicação de Machine Learning no domínio da gestão de Fraude, e porque
+      é que o AutoML é neste momento um dos tópicos prioritários da
+      estratégia de I+D da WeDo.
   talk_talkdesk:
     name: A evolução do Data Scientist
-    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+    about: |
+      Fica a conhecer melhor as origens e definições de Data Science e a
+      evolução atual desta área nas empresas e quais os papéis que este
+      profissional pode assumir dentro das equipas.
   talk:
     name: |
       IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
-    about: Uma viagem pela jornada de materialização de um sonho, onde começamos e de que forma aprendemos a pensar como poderíamos criar valor, na implementação de soluções que superassem as necessidades dos nossos clientes.
+    about: |
+      Uma viagem pela jornada de materialização de um sonho, onde começamos e
+      de que forma aprendemos a pensar como poderíamos criar valor, na
+      implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
-    about:
   ##TODO
   rally:
     name: Rally das Tascas
@@ -614,30 +648,39 @@ activities:
   talk_aptiv:
     name: Transforming Mobility
     about: |
-     Abordagem sobre o nosso foco em trazer a próxima geração de veículos
-     autónomos, cidades inteligentes e conectividade para a vida. Além disso,
-     serão abordados outros temas como a nova tecnologia de condução
-     autónoma, a redefinição da conectividade do infotainment e novas
-     soluções inteligentes de mobilidade.
+      Abordagem sobre o nosso foco em trazer a próxima geração de veículos
+      autónomos, cidades inteligentes e conectividade para a vida. Além disso,
+      serão abordados outros temas como a nova tecnologia de condução
+      autónoma, a redefinição da conectividade do infotainment e novas
+      soluções inteligentes de mobilidade.
   talk_bruno_ribeiro:
     name: Gamification 1-0-1
     about: |
-     Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os
-     dias elementos presentes nos jogos sem termos a noção de o estar a fazer
-     é um comportamento humano automático, que selecciona e identifica as
-     ações que provocam melhores benefícios para a resolução de uma dada
-     situação.
+      Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os
+      dias elementos presentes nos jogos sem termos a noção de o estar a fazer
+      é um comportamento humano automático, que selecciona e identifica as
+      ações que provocam melhores benefícios para a resolução de uma dada
+      situação.
 
-     Os jogos estão presentes na nossa vida de uma forma irreversível. Como é
-     que nos podemos aproveitar desta premissa e utilizá-la para resolver
-     problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários
-     exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão
-     prática de um Gamification Designer.
+      Os jogos estão presentes na nossa vida de uma forma irreversível. Como é
+      que nos podemos aproveitar desta premissa e utilizá-la para resolver
+      problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários
+      exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão
+      prática de um Gamification Designer.
   talk_andre_barbosa:
     name: Building data driven products at scale
-    about: Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde usamos esses dados para construir produtos novos e melhorar a experiencia dos utilizadores que usam o nosso serviço.
-  ##TODO
-  ##TODO
+    about: |
+      Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar
+      voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande
+      quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde
+      usamos esses dados para construir produtos novos e melhorar a experiencia
+      dos utilizadores que usam o nosso serviço.
+  dinner:
+    name: Jantar de Networking
+    about: |
+      Um jantar com profissionais da Accenture e com alunos de Engenharia
+      Informática com o objetivo de estreitar laços
+      e criar uma rede de contactos.
   workshop_eurotux:
     name: Devops @Eurotux
     about: |
@@ -655,25 +698,32 @@ activities:
       * Uma breve visão sobre Data Science
       * Data at Farfetch
       * Q&A
-      
+
       HandsOn
       * Google Data Plataform - Explicação (10 minutos)
       * Using the BigQuery Web UI (40 minutos)
       * Q&A
   talk_primavera:
-    name: Talk - Primavera
-    about: TBA
-  talk_farfetch:
-    name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
+    name: Big Data and AI/ML - A história do Big Data na PRIMAVERA
     about: |
-     Starting your professional career can be a daunting thought. The
-     presentation will go through some of the main challenges and things that
-     don’t teach you at University, as well as some advice for your first
-     steps.
-  ##TODO
+      Na busca de um ERP preditivo, a PRIMAVERA iniciou um caminho alicerçado
+      em conceitos como Big Data, Inteligência Artificial e Machine Learning.
+      Nesta talk vamos explicar este caminho e a sua aplicabilidade nos
+      produtos PRIMAVERA, através de insights e forecasting.
+  talk_farfetch:
+    name: |
+      Career advice from an Engineering Manager!
+      (...and why Farfetch is an awesome place to start!)
+    about: |
+      Starting your professional career can be a daunting thought. The
+      presentation will go through some of the main challenges and things that
+      don’t teach you at University, as well as some advice for your first
+      steps.
   encerramento:
     name: Encerramento & entrega de prémios
-    about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+    about: |
+      Cerimónia de encerramento da SEI, com a habitual entrega de prémios
+      relativos aos concursos decorridos ao longo da semana.
   hackathon:
     name: Hackathon
     about:

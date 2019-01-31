@@ -65,7 +65,7 @@
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
       duration: fifteen-min
-      about: apresentacao_blip.about
+      about:
       type: talk
       icon: fas fa-desktop
       place: CP2-B1
@@ -260,12 +260,11 @@
     - coffee: true
 
     - name: apresentacao_bosch.name
-      speaker:
       enterprise: Bosch
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
       duration: fifteen-min
-      about: apresentacao_bosch.about
+      about:
       type: talk
       icon: fas fa-table
       place: CP2-B1
@@ -298,8 +297,8 @@
       nameLeft: workshop_smithmicro.name
       speakerLeft: TBA
       speakerLeft2: TBA
-      enterpriseLeft: Xpand IT
-      enterpriseURLLeft: https://xpand-it.com/
+      enterpriseLeft: Smith Micro
+      enterpriseURLLeft: https://www.smithmicro.com/
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fas fa-globe
@@ -356,16 +355,16 @@
 
     - coffee: true
 
-  ##  - name: Talk TBA #TODO
-  ##    speaker: TBA
-  ##    enterprise: TBA
-  ##    enterpriseURL:
-  ##    time: 16:30-17:00
-  ##    duration: fifteen-min
-  ##    about:
-  ##    type: talk
-  ##    icon: fa-desktop
-  ##    place: CP2-B1
+    - name: TBA #TODO
+      speaker: TBA
+      enterprise: TBA
+      enterpriseURL:
+      time: 16:30-17:00
+      duration: half-hour
+      about: TBA
+      type: talk
+      icon: fa-desktop
+      place: CP2-B1
 
     - name: TBA #TODO
       speaker: TBA
@@ -377,6 +376,14 @@
       type: talk
       about: TBA
       place: CP2-B1
+
+    - name: dinner.name
+      time: 20:30-22:00
+      duration: two-hours
+      icon: fas fa-utensils
+      type: dinner
+      about: dinner.about
+      place: Meliá Braga Hotel & SPA
 
 - friday:
   day: 8
@@ -407,8 +414,9 @@
 
     - coffee: true
 
-    - name: talk_primavera.name #TODO
-      speaker: TBA
+    - name: talk_primavera.name
+      speaker: Leandro Duarte
+      speaker2: Pedro Ferreira
       type: talk
       time: 11:30-12:30
       icon: fas fa-globe
