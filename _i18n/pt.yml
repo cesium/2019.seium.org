@@ -61,7 +61,10 @@ defaults:
     dec: Dez
 
 speakers:
-  headline: Durante esta semana, tens oportunidade de interagir com muitos oradores reconhecidos, nacionais, internacionais e de empresas notórias! Podes conhecê-los melhor aqui.
+  headline: |
+    Durante esta semana, tens oportunidade de interagir com muitos oradores
+    reconhecidos, nacionais, internacionais e de empresas notórias! Podes
+    conhecê-los melhor aqui.
   celso_martinho:
     about: |
         Celso Martinho é uma pessoa que encontra motivação nos desafios, um
@@ -87,12 +90,11 @@ speakers:
         tabuleiro tradicionais. Acompanhou vários Game Designers portugueses
         como consultor e tem mais de 30 protótipos reféns, à espera de serem
         libertados.
-        </span><br><span class="aboutspeaker">
-        É escritor, apenas quando
-        pode, e divide o seu tempo entre a família, com os seus dois filhos e a
-        animação de um canal online, na comunidade de Roleplaying games, é um
-        storyteller por natureza, e vive na imaginação de múltiplos mundos,
-        pondo o pé de vez enquanto entre nós!
+
+        É escritor, apenas quando pode, e divide o seu tempo entre a família,
+        com os seus dois filhos e a animação de um canal online, na comunidade
+        de Roleplaying games, é um storyteller por natureza, e vive na
+        imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   david_amador:
     about: |
         David começou a modificar (e jogar) jogos logo que teve acesso a um
@@ -115,72 +117,169 @@ speakers:
         Engineers e Data Scientists a tentar criar uma experiência
         personalizada para os nossos utilizadores.
   andre_sousa:
-      about: |
-        Atualmente professor auxiliar convidado da Universidade de
-        Trás-os-Montes e Alto Douro nos cursos de Licenciatura em Engenharia
-        em Informática e Tecnologia de Informação e Comunicação, lecionando
-        unidades curriculares de Desenvolvimento Web, Programação Orientada a
-        Objectos, Integração de sistemas, e Sistemas Distribuídos, entre
-        outras, concluiu o seu doutoramento com a temática “Adaptação
-        dinâmica e sensível ao contexto de interfaces móveis em ambiente
-        ubíquo”. Com interesses nas áreas de Machine Learning, Computação
-        Ubíqua e DevOps de aplicações multiplataforma.
+    about: |
+      Atualmente professor auxiliar convidado da Universidade de Trás-os-Montes
+      e Alto Douro nos cursos de Licenciatura em Engenharia em Informática e
+      Tecnologia de Informação e Comunicação, lecionando unidades curriculares
+      de Desenvolvimento Web, Programação Orientada a Objectos, Integração de
+      sistemas, e Sistemas Distribuídos, entre outras, concluiu o seu
+      doutoramento com a temática “Adaptação dinâmica e sensível ao contexto de
+      interfaces móveis em ambiente ubíquo”. Com interesses nas áreas de
+      Machine Learning, Computação Ubíqua e DevOps de aplicações
+      multiplataforma.
   jorge_resende:
-    about: Licenciado em Engenharia Eletrónica Industrial e Computadores pela Universidade do Minho, tem dedicado a sua carreira ao desenvolvimento de hardware e software para equipamentos industriais automatizados e robotizados. Atualmente, além de CTO da IEM4.0, também é docente nos cursos TeSP de Automação, Robótica e Informática Industrial (ARII) e Sistemas Mecatrónicos e de Produção (SMP), lecionados na Escola Superior Aveiro Norte da Universidade de Aveiro.
+    about: |
+      Licenciado em Engenharia Eletrónica Industrial e Computadores pela
+      Universidade do Minho, tem dedicado a sua carreira ao desenvolvimento de
+      hardware e software para equipamentos industriais automatizados e
+      robotizados. Atualmente, além de CTO da IEM4.0, também é docente nos
+      cursos TeSP de Automação, Robótica e Informática Industrial (ARII) e
+      Sistemas Mecatrónicos e de Produção (SMP), lecionados na Escola Superior
+      Aveiro Norte da Universidade de Aveiro.
   nuno_cascais:
-    about: Nuno Cascais, com formação em Engenharia Química na Faculdade de Engenharia da Universidade do Porto e após um percurso profissional desenvolvido no sector automóvel, durante 10 anos, decide fazer um MBA em Gestão de Empresas na Universidade Fernando Pessoa. Esse foi o ponto de partida, para a criação de sinergias que proporcionaram o nascimento da IEM4.0.
+    about: |
+      Nuno Cascais, com formação em Engenharia Química na Faculdade de
+      Engenharia da Universidade do Porto e após um percurso profissional
+      desenvolvido no sector automóvel, durante 10 anos, decide fazer um MBA em
+      Gestão de Empresas na Universidade Fernando Pessoa. Esse foi o ponto de
+      partida, para a criação de sinergias que proporcionaram o nascimento da
+      IEM4.0.
   sergio_gaio:
-    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+    about: |
+      Sérgio is a Associate Director at Accenture Portugal, with 17 year in the
+      company and spent the last 10 years helping clients address their
+      workforce management (WFM) challenges.
+
+      Has extensive knowledge in Communications & High Tech and experience in
+      WFM, CRM and IT deployment custom solution. In the WFM domain has
+      participate in implementations of ClickSoftware, Oracle Field Service
+      (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning
+      and IFS. Collaboration on WFM solutions with Telecom, Utilities and
+      Insurance customers.
+
+      Sérgio has been the Functional/Technical Lead for the deployment of an
+      end to end WFM solution with a state-of-the-art features for Demand &
+      Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25
+      customer around the world.
+
+      Sérgio hold’s a degree in Computer Science and Business Administration
+      from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)
+
+      Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
-    about: Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.</span><span class="aboutspeaker">Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5.</span><span class="aboutspeaker">Formação em Gestão, Certificado PMP (Project Management Professional) pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org.</span><span class="aboutspeaker">Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
+    about: |
+      Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.
+
+      Atualmente é Scrum Master de um grande projecto nos EUA, HCP/SAP UI5.
+
+      Formação em Gestão, Certificado PMP (Project Management Professional)
+      pelo PMI e PSM (Professional Scrum Master) pela Scrum.Org.
+
+      Tem como hobby, Surf, Futebol e ver o seu miúdo a jogar no Braga sub-9.
   andre_silva:
-    about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
+    about: |
+      André Silva possui um Mestrado de Engenharia informática pela
+      Universidade do Minho. Entrou na Accenture em 2016 e participa no
+      desenvolvimento e customização de soluções de workforce management para
+      clientes internacionais.
+
+      Nos tempos livres gosta de praticar mototurismo.
   daniel_ferrari:
-    about: | 
-      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, 
-      publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de 
-      Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, 
-      combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e 
-      manipulação de dados até a distribuição em produção de modelos de Machine Learning.
+    about: |
+      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e
+      doutorado em IA e Machine Learning. Como investigador, publicou um livro
+      e diversos artigos em parceria com laboratórios de Computação e de
+      Biologia. Como Engenheiro de Software, contribuiu para o desenvolvimento
+      de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist,
+      combina a sua experiência como engenheiro e investigador para desenvolver
+      pipelines completos desde a extração e manipulação de dados até a
+      distribuição em produção de modelos de Machine Learning.
   marcio:
     about: |
-      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software, 
-      sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho, 
-      tendo trabalhado em diferentes setores como saúde, media, telecomunicações e finanças antes de ingressar na Farfetch.
+      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10
+      anos de experiência na indústria de software, sendo que inicialmente
+      começou por ser um desenvolvedor de software logo após se formar na
+      Universidade do Minho, tendo trabalhado em diferentes setores como saúde,
+      media, telecomunicações e finanças antes de ingressar na Farfetch.
   diogo_cruz:
     about: |
-      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu 
-      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da 
-      Aptiv em Braga, como Software Engineer.
+      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela
+      Universidade do Minho em 2016, onde permaneceu em projeto de investigação
+      na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de
+      Desenvolvimento da Aptiv em Braga, como Software Engineer.
   jose_carreiras:
     about: |
-      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. 
-      Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro 
-      Técnico de Desenvolvimento de Braga.
+      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção,
+      tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014
+      foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado
+      Diretor do Centro Técnico de Desenvolvimento de Braga.
   ricardo_soares:
     about: |
-      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend, 
-      sem esquecer de testar tudo para garantir a qualidade de seu código. Ele acredita que com uma equipa incrível o céu é o limite.
+      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar
+      entre as tecnologias frontend e backend, sem esquecer de testar tudo para
+      garantir a qualidade de seu código. Ele acredita que com uma equipa
+      incrível o céu é o limite.
   nuno_fernandes:
-    about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
+    about: |
+      Licenciado pela Universidade do Minho em Engenharia de Sistemas e
+      Informática é actualmente Diretor de Investigação e Desenvolvimento da
+      Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração
+      Gestão Servidores Web, editado pela FCA, tem sido responsável pela
+      implementação de diversos projectos de infra-estruturas tecnológicas de
+      grande porte.
   cesar_pinto:
-    about: César juntou-se à OutSystems como Engagement Manager, responsável pela gestão e entrega de soluções inovadoras usando a tecnologia OutSystems através de uma abordagem ágil. Recentemente, tornou-se Engagement Manager Mentor liderando uma equipa de Engagement Managers, com a responsabilidade de acelerar o crescimento da equipa e de garantir o sucesso das entregas.
+    about: |
+      César juntou-se à OutSystems como Engagement Manager, responsável pela
+      gestão e entrega de soluções inovadoras usando a tecnologia OutSystems
+      através de uma abordagem ágil. Recentemente, tornou-se Engagement Manager
+      Mentor liderando uma equipa de Engagement Managers, com a
+      responsabilidade de acelerar o crescimento da equipa e de garantir o
+      sucesso das entregas.
   hernani_fernandes:
-    about: Hernani juntou-se à OutSystems em meados de 2016 como Delivery Manager, sendo responsável pela entrega técnica de soluções inovadoras com base nas necessidades de negócio dos clientes. Desde 2018 é também membro da Architecture Experts,  responsáveis por criar soluções de arquitetura flexíveis e económicas que estejam alinhadas com as estratégias de negócio dos clientes da OutSystems.
+    about: |
+      Hernani juntou-se à OutSystems em meados de 2016 como Delivery Manager,
+      sendo responsável pela entrega técnica de soluções inovadoras com base
+      nas necessidades de negócio dos clientes. Desde 2018 é também membro da
+      Architecture Experts,  responsáveis por criar soluções de arquitetura
+      flexíveis e económicas que estejam alinhadas com as estratégias de
+      negócio dos clientes da OutSystems.
   paulo_marques:
-    about: Paulo tirou o Mestrado em Engenharia Informática na Universidade do Minho e juntou-se à OutSystems como Engenheiro Informático onde teve oportunidade de colocar as suas capacidades de resolução de problemas em prática para contribuir para o desenvolvimento da plataforma de integração de sistemas da OutSystems, pelo que o uso de dados e lógica de sistemas externos é uma experiência perfeita.
-           Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac com o objetivo de, tanto a experiência como as capacidades da interface de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
+    about: |
+      Paulo tirou o Mestrado em Engenharia Informática na Universidade do Minho
+      e juntou-se à OutSystems como Engenheiro Informático onde teve
+      oportunidade de colocar as suas capacidades de resolução de problemas em
+      prática para contribuir para o desenvolvimento da plataforma de
+      integração de sistemas da OutSystems, pelo que o uso de dados e lógica de
+      sistemas externos é uma experiência perfeita.
+
+      Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac
+      com o objetivo de, tanto a experiência como as capacidades da interface
+      de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
   tiago_fernandes:
-    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 
-    com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e 
-    criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o 
-    objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
+    about: |
+      Tiago juntou-se à equipa de Engenharia Informática depois de completar o
+      mestrado na Universidade do Minho em 2017 com parceria da OutSystems.
+      Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de
+      participar em diversos desafios de engenharia e criar diversos recursos
+      que fazem parte da interface de desenvolvimento da OutSystems.
+      Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de
+      interface da Mac com o objetivo de criar uma experiência perfeita de
+      desenvolvimento de interface para os Developers da OutSystems.
   jno:
-    about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
+    about: |
+      Investigador do Laboratório de Software Confiável (HASLab) e professor do
+      Departamento de Informática da Escola de Engenharia da Universidade do
+      Minho.
   jbb:
-    about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
+    about: |
+      José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é
+      professor no Departamento de Informática da Universidade do Minho e
+      Senior Researcher no HASLab/INESC TEC.
   psa:
-    about: Paulo Sérgio Almeida é professor no Departamento de Informática da Universidade do Minho e Researcher na área dos sistemas distribuídos no HASLab.
+    about: |
+      Paulo Sérgio Almeida é professor no Departamento de Informática da
+      Universidade do Minho e Researcher na área dos sistemas distribuídos no
+      HASLab.
 
 team:
   organization: Organização
@@ -239,19 +338,33 @@ about:
   organisation: A SEI é gratuita para os participantes, sendo organizada por voluntários do CeSIUM.
 
 getting_here:
-  headline: Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
+  headline: |
+    Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de
+    bilhetes de comboio a preço super especial, graças à nossa parceria com a
+    CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é
+    perder esta edição da tua semana favorita.
   train:
     title: Comboio
-    description: >
+    description: |
       Todos os caminhos vão dar à SEI. Várias linhas de comboio cruzam-se em
       Braga para te trazer à melhor Semana de Engenharia Informática do
       país.
   bus:
     title: Autocarro
-    description: Poderás viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB), nomeadamente através do autocarro número 43. A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.
+    description: |
+      Poderás viajar desde o centro e arredores de Braga até ao Campus de
+      Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de
+      Braga (TUB), nomeadamente através do autocarro número 43. A partir de
+      outras cidades do país existem diversas companhias com autocarros diretos
+      até Braga. A Rede Expressos possui a cobertura mais alargada. Os
+      autocarros regionais e expresso terminam a sua viagem na central de
+      camionagem, no centro da cidade.
   car:
     title: Carro
-    description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
+    description: |
+      Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares
+      no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da
+      Universidade, Gualtar, Portugal.
 
 activities:
   geekgirls:
