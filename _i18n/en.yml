@@ -92,7 +92,7 @@ speakers:
           age and destroying the rules of the traditional board games.  He has
           also accompanied various Portuguese Game Designers as a consultant
           and has more then 30 hostage prototypes waiting to be released.
-          </span><br><span class="aboutspeaker">
+
           He's a writer, when he can, and splits his time between family, with
           his two kids, and being an entertainer in an online Role Playing Game
           channel, he's a storyteller by heart and lives in his imagination of
@@ -135,7 +135,25 @@ speakers:
   nuno_cascais:
     about: |
   sergio_gaio:
-    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+    about: |
+      Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last
+      10 years helping clients address their workforce management (WFM) challenges.
+
+      Has extensive knowledge
+      in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution.
+      In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA)
+      and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on
+      WFM solutions with Telecom, Utilities and Insurance customers.
+
+      Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM
+      solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile,
+      Reporting and Locate modules for more than 25 customer around the world.​
+
+
+      Sérgio hold’s a degree in Computer Science and Business Administration from
+      the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.
+
+      Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
     about: |
   andre_silva:

@@ -144,6 +144,10 @@ speakers:
       Gestão de Empresas na Universidade Fernando Pessoa. Esse foi o ponto de
       partida, para a criação de sinergias que proporcionaram o nascimento da
       IEM4.0.
+  rui_saraiva:
+    about: Licenciado em Engenharia Eletrónica e Redes de Computadores pela Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Viana do Castelo, com uma veia de Full-Stack developer desde o 12º ano. Desde então dedica-se ao desenvolvimento de aplicações web, tanto front-end como back-end. Tem uma grande paixão pelo desenvolvimento de aplicações web progressivas (PWAs).
+  fabio_martins:
+    about: Frequentou a licenciatura em Engenharia Elétrica e Eletrónica pelo Instituto Superior de Engenharia da Universidade do Algarve. Foi co-Fundador e CTO da Skilleo e nos últimos anos tem assumido a posição de CTO na Pixelmatters. Durante o seu percurso profissional trabalhou em posições de front-end e back-end developer em variados contextos empresariais. Mais recentemente tem-se focado no desenvolvimento e automação de infra-estruturas na cloud, assim como, na definição de processos de desenvolvimento.
   sergio_gaio:
     about: |
       Sérgio is a Associate Director at Accenture Portugal, with 17 year in the
@@ -201,13 +205,44 @@ speakers:
       começou por ser um desenvolvedor de software logo após se formar na
       Universidade do Minho, tendo trabalhado em diferentes setores como saúde,
       media, telecomunicações e finanças antes de ingressar na Farfetch.
- 
+  paulo_gomes:
+    about: |
+      Paulo Gomes é natural do Brasil e trabalha com BI há mais de 10 anos.
+      Desde há cerca de 1 ano, tem feito a migração para o novo mundo de Big Data.
+
+      Depois de ter trabalhado nos setores de retalho,
+      financeiro e telefónico no Brasil, aceitou o desafio de
+      fazer parte da Farfetch. Vindo de São Paulo, está há cerca de 2 anos em
+      Portugal e começou a liderar uma equipa na área de Data há 10 meses.
+
+      Agnóstico a fornecedores, já trabalhou com Microsoft, Oracle, Cloudera e agora Google.
+  diogo_cruz:
+    about: |
+      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu
+      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da
+      Aptiv em Braga, como Software Engineer.
   jose_carreiras:
     about: |
       José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção,
       tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014
       foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado
       Diretor do Centro Técnico de Desenvolvimento de Braga.
+  raphael_espanha:
+    about: |
+      Com licenciatura em Engenharia Biomédica e mestrado em Informática Médica pela Universidade do Minho,
+      o Raphael iniciou o seu percurso a estagiar na Philips em Aachen, Alemanha. Realizou a sua tese de mestrado
+      no Hospital Universitário de Colónia onde combinou imagens médicas e dados clínicos num modelo de
+      Deep Learning (DL), sendo o seu trabalho publicado no paper “Combining Image and Non-image Clinical Data:
+      An Infrastructure that Allows Machine Learning Studies in a Hospital Environment" . Já em Portugal,
+      continuou o seu trabalho na Neadvance em projetos de segmentação de imagem.
+
+      Atualmente é data scientist na WeDo Technologies onde tem como principal foco a deteção de fraude em Telecom.
+  raul_azevedo:
+    about: |
+      Raul Azevedo, depois de completar a sua formação superior em Engenharia de
+      Sistemas de Informática, teve uma rica e variada experiência enquanto líder de
+      Sistemas de Informação, numa diversidade de setores como manufatura, tecnologia,
+      retalho e banca. Hoje, Raul é o VP da WeDo Technologies responsável pelo desenvolvimento de produto.
   ricardo_soares:
     about: |
       Ricardo é software developer na Blip. Ele não fica intimidado ao alternar
@@ -260,6 +295,18 @@ speakers:
       Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de
       interface da Mac com o objetivo de criar uma experiência perfeita de
       desenvolvimento de interface para os Developers da OutSystems.
+  carlos_moreira:
+    about: |
+      Carlos Moreira é um consultor na área de Business Intelligence com experiência
+      E2E no processamento de dados, maioritariamente para as grandes entidades financeiras.
+      Adapta processos de desenvolvimento e tira partido de técnicas inovadoras, a partir de
+      serviços Cloud e Big Data, que permitem orquestrar soluções robustas e exigentes nos
+      projetos nacionais e internacionais que tem vindo a realizar. Adora bons desafios, sistemas complexos,
+      coordenação de equipas e é focado em participar ativamente na evolução constante de todo o envolvente que o rodeia.
+
+      Nos seus tempos livres tem preferência por se desconectar do mundo abstrato das tecnologias e
+      ligar-se ao mundo terreno. Apaixonado pela prática de desportos combinada com desfrutar da natureza.
+      Aprecia socializar com pessoas diretamente, explorar outras culturas e gastronomia".
   jno:
     about: |
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
@@ -382,20 +429,19 @@ activities:
     about:
   job:
     name: Remote Work Podcast
-    about: TBA
-  meetup:
-    name: BigData meetup
-    about: TBA
+    about: Remote Work Podcast, a podcast about working from anywhere, how to do that, what tools to use and more.
   workshop_xpandit:
     name: Data crunching with Tableau
     about: >-
       Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
   workshop_accenture:
-    name: Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
+    name: |
+      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
     about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
-    name: Workshop - Pixelmatters
-    about: TBA
+    name: Desenvolvimento de uma aplicação web com Vue.js
+    about: >-
+      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar a construção de interfaces interativas. A comunidade de Vue.js tem crescido significativamente nos últimos anos, tendo atualmente mais de 125.000 estrelas no Github.</span><br><br><span class="about">Neste workshop iremos criar uma aplicação de Vue.js a partir do zero, tendo como objetivos:</span><br><span class="about">- Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;</span><br><span class="about">- Fazer uso de “single file components” (*.vue files);</span><br><span class="about">- Entender o ciclo de vida das aplicações Vue;</span><br><span class="about">- Conhecer como é feita a comunicação entre componentes;</span><br><span class="about">- Usar o VueX como “store” para centralização de estados da aplicação.</span><br><br><span class="about">Pré-requisitos:</span><br><span class="about">- Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
     about: OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te permite desenvolver visualmente a tua aplicação móvel e web.</span><br><span class="about">Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada aspeto da nossa plataforma é projetado para ajudar-te a construir e entregar melhores aplicações e mais rápido.</span><br><span class="about">Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
@@ -407,26 +453,28 @@ activities:
     about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
   ##TODO
   tertulia:
-    name: Eng. Informática nas Universidades Portuguesas
+    name: Informática em Portugal
     about: TBA
   arraial:
     name: Arraial de engenharia
     about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
-    name: React.js
+    name: Workshop de React.js
     about: React.js
   workshop_wedo:
-    name: Workshop - WeDo
-    about: TBA
+    name: Introdução ao Deep Learning
+    about: O objetivo deste workshop consiste em fornecer uma visão geral dos fundamentos de Deep Learning no contexto de classificação de imagens. O workshop será realizado com recurso a Jupyter Notebook, um ambiente computacional web interativo. Os participantes serão guiados na implementação de redes neuronais convolucionais usando Keras  - biblioteca de Deep Learning para Python com suporte à aceleração por GPU.
   talk_wedo:
-    name: Talk WeDo
-    about: TBA
+    name: |
+      Automated Machine Learning: The next frontier in Fraud Detection
+    about: Apesar de ser um dos casos de uso mais referenciado de utilização de  Machine Learning, a deteção de fraude está longe de ser um dos de mais simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo na aplicação de Machine Learning no domínio da gestão de Fraude, e porque é que o AutoML é neste momento um dos tópicos prioritários da estratégia de I+D da WeDo.
   talk_talkdesk:
     name: A evolução do Data Scientist
     about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
   talk:
-    name: Talk
-    about: TBA
+    name: |
+      IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
+    about: Uma viagem pela jornada de materialização de um sonho, onde começamos e de que forma aprendemos a pensar como poderíamos criar valor, na implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
     about:
@@ -435,7 +483,7 @@ activities:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
   workshop_smithmicro:
-    name: Workshop CG - SmithMicro
+    name: Workshop - SmithMicro
     about: TBA
   workshop_aptiv:
     name: Automotive Infotainment Systems
@@ -456,8 +504,9 @@ activities:
     name: Devops @Eurotux
     about: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
   workshop_farfetch:
-    name: Workshop - Farfetch
-    about: TBA
+    name: Small and Big Data at Farfetch
+    about: >-
+      Apresentação, The Age of Data (1 hora)</span><br><span class="about">- A evolução de dados pela história</span><br><span class="about">- Business Intelligence</span><br><span class="about">- Big Data</span><br><span class="about">- Data Quality e Data Governance</span><br><span class="about">- Uma breve visão sobre Data Science</span><br><span class="about"> - Data at Farfetch</span><br><span class="about">- Q&A</span><br><br><span class="about">HandsOn</span><br><span class="about">- Google Data Plataform - Explicação (10 minutos)</span><br><span class="about">- Using the BigQuery Web UI (40 minutos)</span><br><span class="about">- Q&A
   talk_primavera:
     name: Talk - Primavera
     about: TBA

@@ -71,8 +71,8 @@
       place: CP2-B1
 
     - name: job.name
-      speakerLeft: Job van der Voort
-      speakerRight2: Marcelo Lebre
+      speaker: Job van der Voort
+      speaker2: Marcelo Lebre
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
@@ -82,23 +82,14 @@
       icon: fas fa-podcast
       place: CP2-B1
 
-    - name: meetup.name #TODO
-      time: 19:00-21:30
-      duration: two-hours
-      about: meetup.about
-      type: social
-      icon: fa-users
-      place: Departamento de Informática
-
 - tuesday:
   day: 5
   month: feb
-  day_of_week: tuesday #TODO
+  day_of_week: tuesday
   activities:
     - double: true
       nameLeft: workshop_xpandit.name
-      speakerLeft:
-      speakerLeft2:
+      speakerLeft: Carlos Moreira
       enterpriseLeft: Xpand IT
       enterpriseURLLeft: https://xpand-it.com/
       timeLeft: 09:00-11:00
@@ -121,9 +112,10 @@
 
     - coffee: true
 
-    - double: true #TODO
+    - double: true
       nameLeft: workshop_pixelmatters.name
-      speakerLeft: TBA
+      speakerLeft: Rui Saraiva
+      speakerLeft2: Fábio Martins
       enterpriseLeft: Pixelmatters
       enterpriseURLLeft: http://pixelmatters.com/
       timeLeft: 11:30-13:30
@@ -187,7 +179,7 @@
       speaker: TBA
       speaker2: TBA
       speaker3: TBA
-      time: 17:00-18:00
+      time: 16:30-17:30
       duration: one-hour
       about: tertulia.about
       icon: fas fa-university
@@ -208,31 +200,29 @@
   day_of_week: wednesday
   activities:
     - double: true
-      nameLeft: workshop_andre_sousa.name #TODO
+      nameLeft: workshop_andre_sousa.name
       speakerLeft: André Sousa
-      enterpriseLeft: TBA
-      enterpriseURLLeft: TBA
       timeLeft: 09:00-11:00
       durationLeft: two-hours
       iconLeft: fas fa-code
       aboutLeft: workshop_andre_sousa.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: workshop_wedo.name #TODO
-      speakerRight: TBA
+      nameRight: workshop_wedo.name
+      speakerRight: Raphael Espanha
       enterpriseRight: WeDo
       enterpriseURLRight: https://www.wedotechnologies.com/
       timeRight: 09:00-11:00
       durationRight: two-hours
       iconRight: fas fa-paperclip
       aboutRight: workshop_wedo.about
-      typeRight: TBA
+      typeRight: workshop
       placeRight: DI-TBA
 
     - coffee: true
 
-    - name: talk_wedo.name  #TODO
-      speaker: TBA
+    - name: talk_wedo.name
+      speaker: Raul Azevedo
       enterprise: WeDo
       enterpriseURL: https://www.wedotechnologies.com/
       time: 11:30-12:30
@@ -255,10 +245,11 @@
       about: talk_talkdesk.about
       place: CP2-B1
 
-    - name: talk.name #TODO
-      speaker: TBA
-      enterprise: TBA
-      enterpriseURL: TBA
+    - name: talk.name
+      speaker: Jorge Resende
+      speaker2: Nuno Cascais
+      enterprise: IEM4.0
+      enterpriseURL: https://www.iem4-0.com/
       time: 15:00-16:00
       duration: one-hour
       icon: fas fa-globe
@@ -365,11 +356,11 @@
 
     - coffee: true
 
-  ##  - name: Apresentação da TBA #TODO
-  ##    speaker:
+  ##  - name: Talk TBA #TODO
+  ##    speaker: TBA
   ##    enterprise: TBA
   ##    enterpriseURL:
-  ##    time: 16:30-16:45
+  ##    time: 16:30-17:00
   ##    duration: fifteen-min
   ##    about:
   ##    type: talk
@@ -403,8 +394,8 @@
       aboutLeft: workshop_eurotux.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: workshop_farfetch.name #TODO
-      speakerRight: TBA
+      nameRight: workshop_farfetch.name
+      speakerRight: Paulo Gomes
       enterpriseRight: Farfetch
       enterpriseURLRight: https://www.farfetch.com/pt/
       timeRight: 09:00-11:00
