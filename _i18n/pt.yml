@@ -519,20 +519,15 @@ activities:
       tendo como objetivos:
 
       * Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;
-
       * Fazer uso de “single file components” (*.vue files);
-
       * Entender o ciclo de vida das aplicações Vue;
-
       * Conhecer como é feita a comunicação entre componentes;
-
       * Usar o VueX como “store” para centralização de estados da
       aplicação.
 
-
       Pré-requisitos:
 
-        * Computador e conhecimentos elementares de Javascript.
+      * Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
     about: |
@@ -600,14 +595,44 @@ activities:
     about: TBA
   workshop_aptiv:
     name: Automotive Infotainment Systems
-    about: >-
-      A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos últimos anos. Com software cada vez mais complexo, aumentam os desafios para garantir que todas as unidades que saem da linha de produção cumprem os respetivos requisitos. Neste workshop apresentamos as nossas soluções e desafiamos-te a desenvolver um script capaz de controlar e testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio para a melhor equipa!</span><br><br><span class="about">Dinâmica: As equipas serão criadas no decorrer no workshop, consoante a disposição dos participantes na sala (este aspecto não é relevante, pois o objectivo não é competição).</span><br><br><span class="about">Pré-requisitos: Não há nenhum em especifico, é apenas necessário que os participantes dominem alguma linguagem de programação (Python, C, C#, Java...).
+    about: |-
+      A tecnologia a bordo dos automóveis tem aumentado exponencialmente nos
+      últimos anos. Com software cada vez mais complexo, aumentam os desafios
+      para garantir que todas as unidades que saem da linha de produção
+      cumprem os respetivos requisitos. Neste workshop apresentamos as nossas
+      soluções e desafiamos-te a desenvolver um script capaz de controlar e
+      testar as funcionalidades dos nossos aparelhos mais recentes. Há prémio
+      para a melhor equipa!
+
+      Dinâmica: As equipas serão criadas no decorrer no workshop, consoante a
+      disposição dos participantes na sala (este aspecto não é relevante,
+      pois o objectivo não é competição).
+
+      Pré-requisitos: Não há nenhum em especifico, é apenas
+      necessário que os participantes dominem alguma linguagem de programação
+      (Python, C, C#, Java...).
   talk_aptiv:
     name: Transforming Mobility
-    about: Abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
+    about: |
+     Abordagem sobre o nosso foco em trazer a próxima geração de veículos
+     autónomos, cidades inteligentes e conectividade para a vida. Além disso,
+     serão abordados outros temas como a nova tecnologia de condução
+     autónoma, a redefinição da conectividade do infotainment e novas
+     soluções inteligentes de mobilidade.
   talk_bruno_ribeiro:
     name: Gamification 1-0-1
-    about: Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os dias elementos presentes nos jogos sem termos a noção de o estar a fazer é um comportamento humano automático, que selecciona e identifica as ações que provocam melhores benefícios para a resolução de uma dada situação. </span><br><br><span class="about">Os jogos estão presentes na nossa vida de uma forma irreversível. Como é que nos podemos aproveitar desta premissa e utilizá-la para resolver problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão prática de um Gamification Designer.
+    about: |
+     Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os
+     dias elementos presentes nos jogos sem termos a noção de o estar a fazer
+     é um comportamento humano automático, que selecciona e identifica as
+     ações que provocam melhores benefícios para a resolução de uma dada
+     situação.
+
+     Os jogos estão presentes na nossa vida de uma forma irreversível. Como é
+     que nos podemos aproveitar desta premissa e utilizá-la para resolver
+     problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários
+     exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão
+     prática de um Gamification Designer.
   talk_andre_barbosa:
     name: Building data driven products at scale
     about: Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde usamos esses dados para construir produtos novos e melhorar a experiencia dos utilizadores que usam o nosso serviço.
@@ -615,17 +640,36 @@ activities:
   ##TODO
   workshop_eurotux:
     name: Devops @Eurotux
-    about: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
+    about: |
+      Iremos abordar algumas das problemáticas que temos vindo a explorar no
+      âmbito de devops com ênfase num projeto de migração que ocorreu num
+      cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
   workshop_farfetch:
     name: Small and Big Data at Farfetch
-    about: >-
-      Apresentação, The Age of Data (1 hora)</span><br><span class="about">- A evolução de dados pela história</span><br><span class="about">- Business Intelligence</span><br><span class="about">- Big Data</span><br><span class="about">- Data Quality e Data Governance</span><br><span class="about">- Uma breve visão sobre Data Science</span><br><span class="about"> - Data at Farfetch</span><br><span class="about">- Q&A</span><br><br><span class="about">HandsOn</span><br><span class="about">- Google Data Plataform - Explicação (10 minutos)</span><br><span class="about">- Using the BigQuery Web UI (40 minutos)</span><br><span class="about">- Q&A
+    about: |-
+      The Age of Data (1 hora)
+      * A evolução de dados pela história
+      * Business Intelligence
+      * Big Data
+      * Data Quality e Data Governance
+      * Uma breve visão sobre Data Science
+      * Data at Farfetch
+      * Q&A
+      
+      HandsOn
+      * Google Data Plataform - Explicação (10 minutos)
+      * Using the BigQuery Web UI (40 minutos)
+      * Q&A
   talk_primavera:
     name: Talk - Primavera
     about: TBA
   talk_farfetch:
     name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
-    about: Starting your professional career can be a daunting thought. The presentation will go through some of the main challenges and things that don’t teach you at University, as well as some advice for your first steps.
+    about: |
+     Starting your professional career can be a daunting thought. The
+     presentation will go through some of the main challenges and things that
+     don’t teach you at University, as well as some advice for your first
+     steps.
   ##TODO
   encerramento:
     name: Encerramento & entrega de prémios
