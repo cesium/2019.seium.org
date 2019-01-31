@@ -129,6 +129,10 @@ speakers:
     about: Licenciado em Engenharia Eletrónica Industrial e Computadores pela Universidade do Minho, tem dedicado a sua carreira ao desenvolvimento de hardware e software para equipamentos industriais automatizados e robotizados. Atualmente, além de CTO da IEM4.0, também é docente nos cursos TeSP de Automação, Robótica e Informática Industrial (ARII) e Sistemas Mecatrónicos e de Produção (SMP), lecionados na Escola Superior Aveiro Norte da Universidade de Aveiro.
   nuno_cascais:
     about: Nuno Cascais, com formação em Engenharia Química na Faculdade de Engenharia da Universidade do Porto e após um percurso profissional desenvolvido no sector automóvel, durante 10 anos, decide fazer um MBA em Gestão de Empresas na Universidade Fernando Pessoa. Esse foi o ponto de partida, para a criação de sinergias que proporcionaram o nascimento da IEM4.0.
+  rui_saraiva:
+    about: Licenciado em Engenharia Eletrónica e Redes de Computadores pela Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Viana do Castelo, com uma veia de Full-Stack developer desde o 12º ano. Desde então dedica-se ao desenvolvimento de aplicações web, tanto front-end como back-end. Tem uma grande paixão pelo desenvolvimento de aplicações web progressivas (PWAs).
+  fabio_martins:
+    about: Frequentou a licenciatura em Engenharia Elétrica e Eletrónica pelo Instituto Superior de Engenharia da Universidade do Algarve. Foi co-Fundador e CTO da Skilleo e nos últimos anos tem assumido a posição de CTO na Pixelmatters. Durante o seu percurso profissional trabalhou em posições de front-end e back-end developer em variados contextos empresariais. Mais recentemente tem-se focado no desenvolvimento e automação de infra-estruturas na cloud, assim como, na definição de processos de desenvolvimento.
   sergio_gaio:
     about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
@@ -172,6 +176,18 @@ speakers:
            Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac com o objetivo de, tanto a experiência como as capacidades da interface de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
   tiago_fernandes:
     about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
+  carlos_moreira:
+    about: |
+      Carlos Moreira é um consultor na área de Business Intelligence com experiência
+      E2E no processamento de dados, maioritariamente para as grandes entidades financeiras.
+      Adapta processos de desenvolvimento e tira partido de técnicas inovadoras, a partir de
+      serviços Cloud e Big Data, que permitem orquestrar soluções robustas e exigentes nos
+      projetos nacionais e internacionais que tem vindo a realizar. Adora bons desafios, sistemas complexos,
+      coordenação de equipas e é focado em participar ativamente na evolução constante de todo o envolvente que o rodeia.
+
+      Nos seus tempos livres tem preferência por se desconectar do mundo abstrato das tecnologias e
+      ligar-se ao mundo terreno. Apaixonado pela prática de desportos combinada com desfrutar da natureza.
+      Aprecia socializar com pessoas diretamente, explorar outras culturas e gastronomia".
   jno:
     about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
   jbb:
@@ -274,10 +290,7 @@ activities:
     about:
   job:
     name: Remote Work Podcast
-    about: TBA
-  meetup:
-    name: BigData meetup
-    about: TBA
+    about: Remote Work Podcast, a podcast about working from anywhere, how to do that, what tools to use and more.
   workshop_xpandit:
     name: Data crunching with Tableau
     about: >-
@@ -286,8 +299,21 @@ activities:
     name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
     about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
-    name: Workshop - Pixelmatters
-    about: TBA
+    name: Desenvolvimento de uma aplicação web com Vue.js
+    about: |
+      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar a construção de interfaces interativas. A comunidade de Vue.js tem crescido significativamente nos últimos anos, tendo atualmente mais de 125.000 estrelas no Github.
+
+
+      Neste workshop iremos criar uma aplicação de Vue.js a partir do zero, tendo como objetivos:
+      - Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;
+      - Fazer uso de “single file components” (*.vue files);
+      - Entender o ciclo de vida das aplicações Vue;
+      - Conhecer como é feita a comunicação entre componentes;
+      - Usar o VueX como “store” para centralização de estados da aplicação.
+
+
+      Pré-requisitos:
+      - Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Mobile and web rapid application development with OutSystems
     about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!

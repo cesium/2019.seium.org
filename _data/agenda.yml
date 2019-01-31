@@ -71,8 +71,8 @@
       place: CP2-B1
 
     - name: job.name
-      speakerLeft: Job van der Voort
-      speakerRight2: Marcelo Lebre
+      speaker: Job van der Voort
+      speaker2: Marcelo Lebre
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
@@ -82,23 +82,14 @@
       icon: fas fa-podcast
       place: CP2-B1
 
-    - name: meetup.name #TODO
-      time: 19:00-21:30
-      duration: two-hours
-      about: meetup.about
-      type: social
-      icon: fa-users
-      place: Departamento de Informática
-
 - tuesday:
   day: 5
   month: feb
-  day_of_week: tuesday #TODO
+  day_of_week: tuesday
   activities:
     - double: true
       nameLeft: workshop_xpandit.name
-      speakerLeft:
-      speakerLeft2:
+      speakerLeft: Carlos Moreira
       enterpriseLeft: Xpand IT
       enterpriseURLLeft: https://xpand-it.com/
       timeLeft: 09:00-11:00
@@ -121,9 +112,10 @@
 
     - coffee: true
 
-    - double: true #TODO
+    - double: true
       nameLeft: workshop_pixelmatters.name
-      speakerLeft: TBA
+      speakerLeft: Rui Saraiva
+      speakerLeft2: Fábio Martins
       enterpriseLeft: Pixelmatters
       enterpriseURLLeft: http://pixelmatters.com/
       timeLeft: 11:30-13:30
@@ -428,7 +420,7 @@
     - meal: true
 
     - name: talk_farfetch.name
-      speaker: Márcio
+      speaker: Márcio Azevedo
       enterprise: Farfetch
       enterpriseURL: https://www.farfetch.com/pt/
       time: 14:00-15:00
