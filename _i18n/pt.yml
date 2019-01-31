@@ -466,7 +466,7 @@ activities:
     name: Apresentação dos desafios
     about: Apresentação de todos os desafios que irão acontecer durante a semana.
   talk_blip:
-    name: Testes de Mutantes - Vamos matar alguns mutantes
+    name: Mutation testing - Let's kill some mutants
     about: |
       Todos os dias escrevemos testes para garantir a qualidade do nosso
       código. Mas o que garante a qualidade dos nossos testes?
@@ -480,7 +480,7 @@ activities:
       Junta-te a nós para aprender a criar e matar alguns mutantes em
       JavaScript.
   talk_accenture:
-    name: Visão Tecnológica da Accenture – Intelligent Enterprise Unleashed
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
     about: |
       **Resumo das Tendências Tecnológicas**
 
@@ -503,10 +503,11 @@ activities:
       for several platforms, from mobile to consoles.
   apresentacao_blip:
     name: Apresentação da BLIP
-    about:
   job:
     name: Remote Work Podcast
-    about: Remote Work Podcast, a podcast about working from anywhere, how to do that, what tools to use and more.
+    about: |
+      Remote Work Podcast, um podcast sobre trabalhar a partir de qualquer
+      sítio, como fazê-lo, que ferramentas utilizar, e muito mais.
   workshop_xpandit:
     name: Data crunching with Tableau
     about: |-
@@ -545,7 +546,7 @@ activities:
 
       * Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
-    name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
+    name: Mobile and web rapid application development with OutSystems
     about: |
       OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te
       permite desenvolver visualmente a tua aplicação móvel e web.
@@ -574,34 +575,51 @@ activities:
       durante a sua carreira e como é que a Bright Pixel, um “venture builder
       studio” e “early stage investor", pode ajudar os empreendedores de base
       tecnológica a realizar as suas ambições.
-
-  ##TODO
   tertulia:
     name: Informática em Portugal
     about: TBA
   arraial:
     name: Arraial de engenharia
-    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+    about: |
+      Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas
+      de Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
     name: Workshop de React.js
     about: React.js
   workshop_wedo:
     name: Introdução ao Deep Learning
-    about: O objetivo deste workshop consiste em fornecer uma visão geral dos fundamentos de Deep Learning no contexto de classificação de imagens. O workshop será realizado com recurso a Jupyter Notebook, um ambiente computacional web interativo. Os participantes serão guiados na implementação de redes neuronais convolucionais usando Keras  - biblioteca de Deep Learning para Python com suporte à aceleração por GPU.
+    about: |
+      O objetivo deste workshop consiste em fornecer uma visão geral dos
+      fundamentos de Deep Learning no contexto de classificação de imagens.
+      O workshop será realizado com recurso a Jupyter Notebook, um ambiente
+      computacional web interativo. Os participantes serão guiados na
+      implementação de redes neuronais convolucionais usando Keras - biblioteca
+      de Deep Learning para Python com suporte à aceleração por GPU.
   talk_wedo:
     name: |
       Automated Machine Learning: The next frontier in Fraud Detection
-    about: Apesar de ser um dos casos de uso mais referenciado de utilização de  Machine Learning, a deteção de fraude está longe de ser um dos de mais simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo na aplicação de Machine Learning no domínio da gestão de Fraude, e porque é que o AutoML é neste momento um dos tópicos prioritários da estratégia de I+D da WeDo.
+    about: |
+      Apesar de ser um dos casos de uso mais referenciado de utilização de
+      Machine Learning, a deteção de fraude está longe de ser um dos de mais
+      simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo
+      na aplicação de Machine Learning no domínio da gestão de Fraude, e porque
+      é que o AutoML é neste momento um dos tópicos prioritários da
+      estratégia de I+D da WeDo.
   talk_talkdesk:
     name: A evolução do Data Scientist
-    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+    about: |
+      Fica a conhecer melhor as origens e definições de Data Science e a
+      evolução atual desta área nas empresas e quais os papéis que este
+      profissional pode assumir dentro das equipas.
   talk:
     name: |
       IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
-    about: Uma viagem pela jornada de materialização de um sonho, onde começamos e de que forma aprendemos a pensar como poderíamos criar valor, na implementação de soluções que superassem as necessidades dos nossos clientes.
+    about: |
+      Uma viagem pela jornada de materialização de um sonho, onde começamos e
+      de que forma aprendemos a pensar como poderíamos criar valor, na
+      implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
-    about:
   ##TODO
   rally:
     name: Rally das Tascas
@@ -693,13 +711,14 @@ activities:
       Nesta talk vamos explicar este caminho e a sua aplicabilidade nos
       produtos PRIMAVERA, através de insights e forecasting.
   talk_farfetch:
-    name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
+    name: |
+      Career advice from an Engineering Manager!
+      (...and why Farfetch is an awesome place to start!)
     about: |
-     Starting your professional career can be a daunting thought. The
-     presentation will go through some of the main challenges and things that
-     don’t teach you at University, as well as some advice for your first
-     steps.
-  ##TODO
+      Starting your professional career can be a daunting thought. The
+      presentation will go through some of the main challenges and things that
+      don’t teach you at University, as well as some advice for your first
+      steps.
   encerramento:
     name: Encerramento & entrega de prémios
     about: |

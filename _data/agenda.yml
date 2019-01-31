@@ -65,7 +65,7 @@
       enterpriseURL: https://www.blip.pt/
       time: 16:30-16:45
       duration: fifteen-min
-      about: apresentacao_blip.about
+      about:
       type: talk
       icon: fas fa-desktop
       place: CP2-B1
@@ -265,7 +265,7 @@
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
       duration: fifteen-min
-      about: apresentacao_bosch.about
+      about:
       type: talk
       icon: fas fa-table
       place: CP2-B1

@@ -353,8 +353,8 @@ activities:
       The inaugural session of this year's edition. The SEI calendar and
       partners will be presented. And, possibly, some surprises.
   apresentacao_desafios:
-    name: Apresentação dos desafios
-    about: Apresentação de todos os desafios que irão acontecer durante a semana.
+    name:
+    about:
   talk_blip:
     name: Mutation testing - Let's kill some mutants
     about: |
@@ -372,109 +372,157 @@ activities:
   talk_accenture:
     name: Accenture Technology Vision – Intelligent Enterprise Unleashed
     about: |
-        **Tech Trends Summary**
+      **Tech Trends Summary**
 
-        Five technology trends are upping the game and allowing companies to tap
-        into the powerful potential of intelligent enterprise, creating new
-        business opportunities and helping to change the world as we know it.
+      Five technology trends are upping the game and allowing companies to tap
+      into the powerful potential of intelligent enterprise, creating new
+      business opportunities and helping to change the world as we know it.
 
-        Leading companies are improving the way we live with new products and
-        services that will become indispensable in the future.
+      Leading companies are improving the way we live with new products and
+      services that will become indispensable in the future.
 
-        Business is getting personal. Leaders must shift their mindsets and
-        business models to focus on forging strong, trusted relationships with
-        partners, customers, employees, governments, and more.
-    talk_upfall:
-      name: Analysing a Cross-Platform Game engine
-      about: |
-        An overview of the process, tools and libs used to build a custom
-        engine for several platforms, from mobile to consoles.
-    apresentacao_blip:
-      name: Apresentação da BLIP
-      about:
-    job:
-      name: Remote Work Podcast
-      about: TBA
-    meetup:
-      name: BigData meetup
-      about: TBA
+      Business is getting personal. Leaders must shift their mindsets and
+      business models to focus on forging strong, trusted relationships with
+      partners, customers, employees, governments, and more.
+  talk_upfall:
+    name: Analysing a Cross-Platform Game engine
+    about: |
+      An overview of the process, tools and libs used to build a custom
+      engine for several platforms, from mobile to consoles.
+  apresentacao_blip:
+    name: Blip Presentation
+  job:
+    name: Remote Work Podcast
+    about: |
+      Remote Work Podcast, a podcast about working from anywhere,
+      how to do that, what tools to use and more.
+  workshop_xpandit:
+    name: Data crunching with Tableau
+    about: |-
+      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
+      Tableau com os respetivos exercícios e uma sessão aberta de questões
+      posteriormente.
+
+      Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
+      com um dos SOs anteriores (De preferência com a última versão do
+      Tableau Desktop instalado).
   workshop_accenture:
-    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
+    name: |
+      Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
     about: |
       How projects that uses AGILE are adapting to highly complex demands and
       immediately development/delivery needed.
-    workshop_xpandit:
-      name: Data crunching with Tableau
-      about: |-
-        Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
-        Tableau com os respetivos exercícios e uma sessão aberta de questões
-        posteriormente.
+  workshop_pixelmatters:
+    name:
+    about:
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: |
+      OutSystems is a rapid application development platform that lets you
+      visually develop your mobile and web applications in a visual
+      way.
 
-        Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
-        com um dos SOs anteriores (De preferência com a última versão do
-        Tableau Desktop instalado).
-    workshop_pixelmatters:
-      name: Workshop - Pixelmatters
-      about: TBA
-    workshop_outsystems:
-      name: Mobile and web rapid application development with OutSystems
-      about: |
-        OutSystems is a rapid application development platform that lets you
-        visually develop your mobile and web applications in a visual
-        way.
+      Crafted by engineers with an obsessive attention to detail, every
+      aspect of our platform is designed to help you build and deliver better
+      apps faster.
 
-        Crafted by engineers with an obsessive attention to detail, every
-        aspect of our platform is designed to help you build and deliver better
-        apps faster.
-
-        Join us if you want to understand what we do, and how we do it!
-    talk_andre_pimenta:
-      name: MVP (Minimum Viable Product) for AI Products
-      about: |
-        Creating products based on artificial intelligence is an hard task and
-        requires a very high investment of time and money and often with an
-        non-immediate return. Creating MVPs can be the solution to validate the
-        investment needed.
-    talk_celso_martinho:
-      name: Startups for Geeks
-      about: |
-        Engineers are particularly good at thinking of ways to use technology
-        to solve real problems for people and companies, but creating a product
-        and a business is a different reality. Unlike social media tell us,
-        creating a startup has such of enthusiasm and professional achievement
-        than pain and difficulties. In this talk, Celso Martinho is going to
-        explain us what he learned during his career and how Bright Pixel, a
-        "venture builder studio" and "early stage investor", can help
-        technology-based entrepreneur achieve theirs ambitions.
-  ##TODO
+      Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: |
+      Creating products based on artificial intelligence is an hard task and
+      requires a very high investment of time and money and often with an
+      non-immediate return. Creating MVPs can be the solution to validate the
+      investment needed.
+  talk_celso_martinho:
+    name: Startups for Geeks
+    about: |
+      Engineers are particularly good at thinking of ways to use technology
+      to solve real problems for people and companies, but creating a product
+      and a business is a different reality. Unlike social media tell us,
+      creating a startup has such of enthusiasm and professional achievement
+      than pain and difficulties. In this talk, Celso Martinho is going to
+      explain us what he learned during his career and how Bright Pixel, a
+      "venture builder studio" and "early stage investor", can help
+      technology-based entrepreneur achieve theirs ambitions.
   tertulia:
-    name: Eng. Informática nas Universidades Portuguesas
-    about: TBA
+    name: Informatic in Portugal
+    about:
   arraial:
     name: Arraial de engenharia
     about: |
-     Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de
-     Engenharia Informática proporciona-te uma noite épica!
+      Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de
+      Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
-    name: React.js
+    name: React.js Workshop
     about: React.js
   workshop_wedo:
-    name: Workshop - WeDo
-    about: TBA
+    name: Deep Learning Introduction
+    about:
   talk_wedo:
-    name: Talk WeDo
-    about: TBA
+    name: |
+      Automated Machine Learning: The next frontier in Fraud Detection
+    about:
   talk_talkdesk:
-    name: A evolução do Data Scientist
-    about: |
-     Fica a conhecer melhor as origens e definições de Data Science e a
-     evolução atual desta área nas empresas e quais os papéis que este
-     profissional pode assumir dentro das equipas.
+    name: The Data Scientist Evolution
+    about:
   talk:
-    name: Talk
-    about: TBA
+    name: |
+      IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
+    about:
   apresentacao_bosch:
-    name: Apresentação da Bosch
+    name: Bosch Presentation
+  rally:
+    name:
+    about:
+  workshop_smithmicro:
+    name: Automotive Infotainment Systems
+    about:
+  talk_aptiv:
+    name: Transforming Mobility
+    about:
+  talk_bruno_ribeiro:
+    name: Gamification 1-0-1
+    about:
+  talk_andre_barbosa:
+    name: Building data driven products at scale
     about:
   dinner:
     name: Networking Dinner
+  workshop_eurotux:
+    name: Devops @Eurotux
+    about:
+  workshop_farfetch:
+    name: Small and Big Data at Farfetch
+    about: |-
+      The Age of Data (1 hora)
+      * A evolução de dados pela história
+      * Business Intelligence
+      * Big Data
+      * Data Quality e Data Governance
+      * Uma breve visão sobre Data Science
+      * Data at Farfetch
+      * Q&A
+
+      HandsOn
+      * Google Data Plataform - Explicação (10 minutos)
+      * Using the BigQuery Web UI (40 minutos)
+      * Q&A
+  talk_primavera:
+    name: Big Data and AI/ML - A história do Big Data na PRIMAVERA
+    about:
+  talk_farfetch:
+    name: |
+      Career advice from an Engineering Manager!
+      (...and why Farfetch is an awesome place to start!)
+    about: |
+      Starting your professional career can be a daunting thought. The
+      presentation will go through some of the main challenges and things that
+      don’t teach you at University, as well as some advice for your first
+      steps.
+  encerramento:
+    name:
+    about:
+  hackathon:
+    name: Hackathon
+    about:
