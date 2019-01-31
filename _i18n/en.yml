@@ -167,7 +167,27 @@ speakers:
       Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend
       technologies, without forgetting to test everything to assure the quality of his code. He believes that 
       with an amazing team the sky is the limit.
-
+  paulo_marques:
+    about: |
+      Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a 
+      software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development 
+      of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. 
+      Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
+  tiago_fernandes:
+    about: |
+      Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 
+      2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate 
+      in several engineering challenges and craft some of the features that are part of OutSystems IDE. 
+      Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
+  jno:
+    about: |
+      Researcher at the Reliable Software Laboratory (HASLab) and professor at Department of Informatics at School of Engineering of the University of Minho.
+  jbb:
+    about: |
+      José Bernardo Barros, better known by his students as JBB, is a professor in the Department of Informatics at the University of Minho and a Senior Researcher at HASLab/INESC TEC.
+  psa:
+    about: |
+      Paulo Sérgio Almeida is a professor at Department of Informatics of the University of Minho and Researcher in the area of systems distributed at HASLab.
 team:
   organization: Organization
   staff: Staff

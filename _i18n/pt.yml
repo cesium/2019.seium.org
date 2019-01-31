@@ -152,9 +152,13 @@ speakers:
   hernani_fernandes:
     about: Hernani juntou-se à OutSystems em meados de 2016 como Delivery Manager, sendo responsável pela entrega técnica de soluções inovadoras com base nas necessidades de negócio dos clientes. Desde 2018 é também membro da Architecture Experts,  responsáveis por criar soluções de arquitetura flexíveis e económicas que estejam alinhadas com as estratégias de negócio dos clientes da OutSystems.
   paulo_marques:
-    about: Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
+    about: Paulo tirou o Mestrado em Engenharia Informática na Universidade do Minho e juntou-se à OutSystems como Engenheiro Informático onde teve oportunidade de colocar as suas capacidades de resolução de problemas em prática para contribuir para o desenvolvimento da plataforma de integração de sistemas da OutSystems, pelo que o uso de dados e lógica de sistemas externos é uma experiência perfeita.
+           Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac com o objetivo de, tanto a experiência como as capacidades da interface de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
   tiago_fernandes:
-    about: Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate in several engineering challenges and craft some of the features that are part of OutSystems IDE. Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
+    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 
+    com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e 
+    criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o 
+    objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
   jno:
     about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
   jbb:
