@@ -7,8 +7,9 @@ layout: default
       <h1 class="section-title">{% t navbar.speakers %}</h1>
     </div>
 
-    <div class="speakers-def col-md-8 col-md-offset-2">
-      {% t speakers.headline %}
+    <div class="col-md-8 col-md-offset-2">
+      {% capture speakers_headline %}{% t speakers.headline %}{% endcapture %}
+      {{ speakers_headline | markdownify | replace: '<p', '<p class="speakers-def"' }}
     </div>
 
     {% for speaker in site.data.speakers %}
@@ -59,12 +60,12 @@ layout: default
     </div>
 
     <div class="col-md-9 vcenter">
-      <span class="aboutspeaker">{% t speakers.{{speaker.about}} %}</span>
+        {% capture speaker_description %}{% t speakers.{{ speaker.about }} %}{% endcapture %}
+        {{ speaker_description | markdownify | replace: '<p', '<p class="aboutspeaker"' }}
     </div>
 
     <div class="col-md-3 vcenter"><br><br><br></div>
 
     {% endfor %}
   </div>
-
 </section>

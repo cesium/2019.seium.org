@@ -253,7 +253,13 @@ getting_here:
       bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
-    description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
+    description: > 
+      You can travel from the center and surroundings of Braga to the Campus
+      of Gualtar using the various buses of the Urban Transport of Braga
+      (TUB), namely by bus number 43. From other cities of the country there
+      are several companies with direct buses to Braga. Rede Expressos has
+      the widest coverage. Regional and express buses end their journey at
+      the central bus station in the center of the city.
   car:
     title: Car
     description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
