@@ -388,6 +388,7 @@ activities:
         Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
         Tableau com os respetivos exercícios e uma sessão aberta de questões
         posteriormente.
+
         Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
         com um dos SOs anteriores (De preferência com a última versão do
         Tableau Desktop instalado).
@@ -431,7 +432,9 @@ activities:
     about: TBA
   arraial:
     name: Arraial de engenharia
-    about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+    about: |
+     Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de
+     Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
     name: React.js
     about: React.js
@@ -443,7 +446,10 @@ activities:
     about: TBA
   talk_talkdesk:
     name: A evolução do Data Scientist
-    about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
+    about: |
+     Fica a conhecer melhor as origens e definições de Data Science e a
+     evolução atual desta área nas empresas e quais os papéis que este
+     profissional pode assumir dentro das equipas.
   talk:
     name: Talk
     about: TBA
