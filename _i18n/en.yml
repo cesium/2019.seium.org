@@ -129,6 +129,44 @@ speakers:
         context-sensitive adaptation of mobile interfaces in a ubiquitous
         environment". With interests in the areas of Machine Learning,
         Ubiquitous Computing and DevOps for cross-platform applications.
+   
+  jorge_resende:
+    about: |  
+  nuno_cascais:
+    about: |
+  sergio_gaio:
+    about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
+  carlos_jesus:
+    about: | 
+  andre_silva:
+    about: 
+  daniel_ferrari:
+    about: |
+      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D. in IA and Machine Learning. 
+      As a researcher, he published a book and many articles in partnership with Computing and Biology 
+      labs. As a Software Engineer, he has contributed to the development of an ERP planning system for 
+      10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop 
+      complete pipelines from data mining and manipulation to production distribution of Machine Learning models.
+  marcio:
+    about: | 
+      Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the
+      software industry, he started as a software developer after graduating from the University of Minho and 
+      has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
+  diogo_cruz:
+    about: |
+      Diogo Cruz completed his Master's Degree in Electronic Engineering from the University of Minho in 2016, 
+      where he remained in a research project in the automotive area until 2017. In the same year he joined 
+      the Aptiv Technical Development Center in Braga as Software Engineer.
+  jose_carreiras:
+    about: |
+      José Carreiras started his career in 1992 in Production Engineering, having worked in several areas. 
+      Most recently, in 2014 he was appointed Engineering Director and in 2017, José Carreiras was appointed 
+      Director of the Technical Development Center of Braga.
+  ricardo_soares:
+    about: | 
+      Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend
+      technologies, without forgetting to test everything to assure the quality of his code. He believes that 
+      with an amazing team the sky is the limit.
 
 team:
   organization: Organization
