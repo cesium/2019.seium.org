@@ -9,8 +9,11 @@ layout: default
 
     <div class="col-md-8 col-md-offset-2">
       {% capture speakers_headline %}{% t speakers.headline %}{% endcapture %}
-      {{ speakers_headline | markdownify | replace: '<p', '<p class="speakers-def"' }} </div> {% for speaker in
-        site.data.speakers %} <div id="{{ speaker.name | slugify }}" class="col-md-12 speak-list">
+      {{ speakers_headline | markdownify | replace: '<p', '<p class="speakers-def"' }}
+    </div>
+
+    {% for speaker in site.data.speakers %}
+      <div id="{{ speaker.name | slugify }}" class="col-md-12 speak-list">
 
         <div class="speaker-img">
           {% image 'speakers/{{ speaker.pic }}' class:'speaker-pic' %}
@@ -18,8 +21,9 @@ layout: default
         <span class="speaker-name">{{ speaker.name }}</span>
 
         {% if speaker.position %}
-        <span class="speaker-position">{{ speaker.position }}</span>
+          <span class="speaker-position">{{ speaker.position }}</span>
         {% endif %}
+
         {% if speaker.enterprise %}
         <p class="speaker-company">
           <a href="{{ speaker.enterpriseURL }}" target="_blank">
@@ -27,6 +31,7 @@ layout: default
           </a>
         </p>
         {% endif %}
+
         {% if speaker.web or speaker.twitter or speaker.github or speaker.linkedin %}
         <div class="col-lg-12 ">
           <ul class="list-inline social-buttons speaker-social">
@@ -54,12 +59,14 @@ layout: default
         </div>
         {% endif %}
 
-    </div>
+      </div>
 
-    <div class="col-md-9 vcenter">
-      {% capture speaker_description %}{% t speakers.{{ speaker.about }} %}{% endcapture %}
-      {{ speaker_description | markdownify | replace: '<p', '<p class="aboutspeaker"' }} </div> <div class="col-md-3 vcenter"><br><br><br></div>
+      <div class="col-md-9 vcenter">
+        {% capture speaker_description %}{% t speakers.{{ speaker.about }} %}{% endcapture %}
+        {{ speaker_description | markdownify | replace: '<p', '<p class="aboutspeaker"' }}
+      </div>
 
+      <div class="col-md-3 vcenter"><br><br><br></div>
     {% endfor %}
   </div>
 </section>
