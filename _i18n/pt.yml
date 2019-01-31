@@ -146,7 +146,7 @@ speakers:
       Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist,
       combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e
       manipulação de dados até a distribuição em produção de modelos de Machine Learning.
-  marcio:
+  marcio_azevedo:
     about: |
       Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software,
       sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho,
@@ -161,6 +161,22 @@ speakers:
       José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas.
       Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro
       Técnico de Desenvolvimento de Braga.
+  raphael_espanha:
+    about: |
+      Com licenciatura em Engenharia Biomédica e mestrado em Informática Médica pela Universidade do Minho,
+      o Raphael iniciou o seu percurso a estagiar na Philips em Aachen, Alemanha. Realizou a sua tese de mestrado
+      no Hospital Universitário de Colónia onde combinou imagens médicas e dados clínicos num modelo de
+      Deep Learning (DL), sendo o seu trabalho publicado no paper “Combining Image and Non-image Clinical Data:
+      An Infrastructure that Allows Machine Learning Studies in a Hospital Environment" . Já em Portugal,
+      continuou o seu trabalho na Neadvance em projetos de segmentação de imagem.
+
+      Atualmente é data scientist na WeDo Technologies onde tem como principal foco a deteção de fraude em Telecom.
+  raul_azevedo:
+    about: |
+      Raul Azevedo, depois de completar a sua formação superior em Engenharia de
+      Sistemas de Informática, teve uma rica e variada experiência enquanto líder de
+      Sistemas de Informação, numa diversidade de setores como manufatura, tecnologia,
+      retalho e banca. Hoje, Raul é o VP da WeDo Technologies responsável pelo desenvolvimento de produto.
   ricardo_soares:
     about: |
       Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend,
@@ -325,26 +341,28 @@ activities:
     about: Os engenheiros são particularmente bons a pensar em formas de utilizar a tecnologia para resolver problemas reais das pessoas e das empresas, no entanto criar um produto e uma empresa é um campeonato diferente. Ao contrário do que a comunicação social nos conta, criar uma startup tem tanto de entusiasmo e realização profissional como de dor e dificuldades. Nesta conversa, Celso Martinho vais-nos explicar o que é que aprendeu durante a sua carreira e como é que a Bright Pixel, um “venture builder studio” e “early stage investor", pode ajudar os empreendedores de base tecnológica a realizar as suas ambições.
   ##TODO
   tertulia:
-    name: Eng. Informática nas Universidades Portuguesas
+    name: Informática em Portugal
     about: TBA
   arraial:
     name: Arraial de engenharia
     about: Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
-    name: React.js
+    name: Workshop de React.js
     about: React.js
   workshop_wedo:
-    name: Workshop - WeDo
-    about: TBA
+    name: Introdução ao Deep Learning
+    about: O objetivo deste workshop consiste em fornecer uma visão geral dos fundamentos de Deep Learning no contexto de classificação de imagens. O workshop será realizado com recurso a Jupyter Notebook, um ambiente computacional web interativo. Os participantes serão guiados na implementação de redes neuronais convolucionais usando Keras  - biblioteca de Deep Learning para Python com suporte à aceleração por GPU.
   talk_wedo:
-    name: Talk WeDo
-    about: TBA
+    name: |
+      Automated Machine Learning: The next frontier in Fraud Detection
+    about: Apesar de ser um dos casos de uso mais referenciado de utilização de  Machine Learning, a deteção de fraude está longe de ser um dos de mais simples aplicação. Nesta Talk, o Raul irá partilhar a experiência da WeDo na aplicação de Machine Learning no domínio da gestão de Fraude, e porque é que o AutoML é neste momento um dos tópicos prioritários da estratégia de I+D da WeDo.
   talk_talkdesk:
     name: A evolução do Data Scientist
     about: Fica a conhecer melhor as origens e definições de Data Science e a evolução atual desta área nas empresas e quais os papéis que este profissional pode assumir dentro das equipas.
   talk:
-    name: Talk
-    about: TBA
+    name: |
+      IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
+    about: Uma viagem pela jornada de materialização de um sonho, onde começamos e de que forma aprendemos a pensar como poderíamos criar valor, na implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
     about:

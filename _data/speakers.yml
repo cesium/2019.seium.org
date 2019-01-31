@@ -158,7 +158,7 @@
   position: Engineering Manager
   enterprise: Farfetch
   enterpriseURL: https://www.farfetch.com/pt/
-  about: marcio.about
+  about: marcio_azevedo.about
   main: false
   id: 15
 
@@ -182,6 +182,26 @@
   main: false
   id: 17
 
+- name: Raphael Espanha
+  pic: raphael-espanha.png
+  position: Data Scientist
+  enterprise: WeDo
+  enterpriseURL: https://www.wedotechnologies.com/
+  linkedin: respanha
+  about: raphael_espanha.about
+  main: false
+  id: 18
+
+- name: Raul Azevedo
+  pic: raul-azevedo.png
+  position: VP Product Development
+  enterprise: WeDo
+  enterpriseURL: https://www.wedotechnologies.com/
+  linkedin: raul-azevedo
+  about: raul_azevedo.about
+  main: false
+  id: 19
+
 - name: Ricardo Soares
   pic: ricardo-soares.png
   position: Software Developer
@@ -189,7 +209,7 @@
   enterpriseURL: https://blip.pt/
   about: ricardo_soares.about
   main: false
-  id: 18
+  id: 20
 
 - name: Nuno Fernandes
   pic: nuno-fernandes.png
@@ -199,7 +219,7 @@
   linkedin: nunofernandes1
   about: nuno_fernandes.about
   main: false
-  id: 19
+  id: 21
 
 - name: César Pinto
   pic: cesar-pinto.png
@@ -209,7 +229,7 @@
   linkedin: cmpinto
   about: cesar_pinto.about
   main: false
-  id: 20
+  id: 22
 
 - name: Hernâni Fernandes
   pic: hernani-fernandes.png
@@ -219,7 +239,7 @@
   linkedin: hernani
   about: hernani_fernandes.about
   main: false
-  id: 21
+  id: 23
 
 - name: Paulo Marques
   pic: paulo-marques.png
@@ -229,7 +249,7 @@
   linkedin: pjmmarques
   about: paulo_marques.about
   main: false
-  id: 22
+  id: 24
 
 - name: Tiago Fernandes
   pic: tiago-fernandes.png
@@ -238,7 +258,7 @@
   enterpriseURL: https://www.outsystems.com/
   about: tiago_fernandes.about
   main: false
-  id: 23
+  id: 25
 
 - name: Carlos Moreira
   pic: carlos-moreira.png
@@ -248,7 +268,7 @@
   linkedin: carlos-moreira
   about: carlos_moreira.about
   main: false
-  id: 24
+  id: 26
 
 - name: José Nuno Oliveira
   pic: jno.jpg
@@ -257,7 +277,7 @@
   enterpriseURL: https://www.uminho.pt/
   about: jno.about
   main: false
-  id: 25
+  id: 27
 
 # - name: JBB
 #   pic: jbb.jpg
