@@ -165,8 +165,8 @@ speakers:
       labs. As a Software Engineer, he has contributed to the development of an ERP planning system for
       10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop
       complete pipelines from data mining and manipulation to production distribution of Machine Learning models.
-  marcio:
-    about: |
+  marcio_azevedo:
+    about: | 
       Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the
       software industry, he started as a software developer after graduating from the University of Minho and
       has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
@@ -271,13 +271,30 @@ getting_here:
       bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
-    description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
+    description: > 
+      You can travel from the center and surroundings of Braga to the Campus
+      of Gualtar using the various buses of the Urban Transport of Braga
+      (TUB), namely by bus number 43. From other cities of the country there
+      are several companies with direct buses to Braga. Rede Expressos has
+      the widest coverage. Regional and express buses end their journey at
+      the central bus station in the center of the city.
   car:
     title: Car
     description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Description of CoderDojo
-    time: 10AM-12AM
+  workshop_accenture:
+    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+    about: How projects that uses AGILE are adapting to highly complex demands and immediately development/delivery needed.
+  workshop_pixelmatters:
+    name: Workshop - Pixelmatters
+    about: TBA
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: Creating products based on artificial intelligence is an hard task and requires a very high investment of time and money and often with an non-immediate return. Creating MVPs can be the solution to validate the investment needed.
+  talk_celso_martinho:
+    name: Startups for Geeks
+    about: Engineers are particularly good at thinking of ways to use technology to solve real problems for people and companies, but creating a product and a business is a different reality. Unlike social media tell us, creating a startup has such of enthusiasm and professional achievement than pain and difficulties. In this talk, Celso Martinho is going to explain us what he learned during his career and how Bright Pixel, a "venture builder studio" and "early stage investor", can help technology-based entrepreneur achieve theirs ambitions.
