@@ -509,7 +509,7 @@ activities:
       vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Desenvolvimento de uma aplicação web com Vue.js
-    about: >-
+    about: |-
       O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar
       a construção de interfaces interativas. A comunidade de Vue.js tem
       crescido significativamente nos últimos anos, tendo atualmente mais de
@@ -519,14 +519,20 @@ activities:
       tendo como objetivos:
 
       * Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;
+
       * Fazer uso de “single file components” (*.vue files);
+
       * Entender o ciclo de vida das aplicações Vue;
+
       * Conhecer como é feita a comunicação entre componentes;
+
       * Usar o VueX como “store” para centralização de estados da
       aplicação.
 
+
       Pré-requisitos:
-      * Computador e conhecimentos elementares de Javascript.
+
+        * Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
     about: |

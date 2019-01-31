@@ -101,7 +101,10 @@
               </div>
             </div>
             {% endif %}
-            <p class="col-xs-12 activity-text">{% t activities.{{ act.aboutLeft }} %}</p>
+
+            {% capture activity_description %}{% t activities.{{ act.aboutLeft }} %}{% endcapture %}
+            {{ activity_description | markdownify | replace: '<p', '<p class="col-xs-12 activity-text"' }}
+
             {% if act.registerLeft %}
             <a href="{{ act.registerLeft }}" target="_blank">
               <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
@@ -220,7 +223,10 @@
               </div>
             </div>
             {% endif %}
-            <p class="col-xs-12 activity-text">{% t activities.{{ act.aboutRight }} %}</p>
+
+            {% capture activity_description %}{% t activities.{{ act.aboutRight }} %}{% endcapture %}
+            {{ activity_description | markdownify | replace: '<p', '<p class="col-xs-12 activity-text"' }}
+
             {% if act.registerRight %}
             <a href="{{ act.registerRight }}" target="_blank">
               <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
@@ -360,7 +366,10 @@
               </div>
             </div>
             {% endif %}
-            <p class="col-xs-12 activity-text">{% t activities.{{ act.about }} %}</p>
+
+            {% capture activity_description %}{% t activities.{{ act.about }} %}{% endcapture %}
+            {{ activity_description | markdownify | replace: '<p', '<p class="col-xs-12 activity-text"' }}
+
             {% if act.register %}
             <a href="{{ act.register }}" target="_blank">
               <button class="btn btn-info btn-sei">{% t defaults.registration %}</button>
