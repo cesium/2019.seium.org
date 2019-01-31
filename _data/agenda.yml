@@ -260,7 +260,6 @@
     - coffee: true
 
     - name: apresentacao_bosch.name
-      speaker:
       enterprise: Bosch
       enterpriseURL: https://www.bosch.pt/
       time: 16:30-16:45
@@ -356,16 +355,16 @@
 
     - coffee: true
 
-  ##  - name: Talk TBA #TODO
-  ##    speaker: TBA
-  ##    enterprise: TBA
-  ##    enterpriseURL:
-  ##    time: 16:30-17:00
-  ##    duration: fifteen-min
-  ##    about:
-  ##    type: talk
-  ##    icon: fa-desktop
-  ##    place: CP2-B1
+    - name: TBA #TODO
+      speaker: TBA
+      enterprise: TBA
+      enterpriseURL:
+      time: 16:30-17:00
+      duration: half-hour
+      about: TBA
+      type: talk
+      icon: fa-desktop
+      place: CP2-B1
 
     - name: TBA #TODO
       speaker: TBA
