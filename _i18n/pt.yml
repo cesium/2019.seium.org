@@ -424,7 +424,8 @@ activities:
     about: >-
       Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
   workshop_accenture:
-    name: Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
+    name: |
+      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
     about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Desenvolvimento de uma aplicação web com Vue.js
