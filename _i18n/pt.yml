@@ -201,12 +201,7 @@ speakers:
       começou por ser um desenvolvedor de software logo após se formar na
       Universidade do Minho, tendo trabalhado em diferentes setores como saúde,
       media, telecomunicações e finanças antes de ingressar na Farfetch.
-  diogo_cruz:
-    about: |
-      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela
-      Universidade do Minho em 2016, onde permaneceu em projeto de investigação
-      na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de
-      Desenvolvimento da Aptiv em Braga, como Software Engineer.
+ 
   jose_carreiras:
     about: |
       José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção,
@@ -367,9 +362,6 @@ getting_here:
       Universidade, Gualtar, Portugal.
 
 activities:
-  geekgirls:
-    name: Geek Girls
-    about:
   sessao_abertura:
     name: Sessão de Abertura
     about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
@@ -399,16 +391,16 @@ activities:
     about: >-
       Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
   workshop_accenture:
-    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
-    about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+    name: Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
+    about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Workshop - Pixelmatters
     about: TBA
   workshop_outsystems:
-    name: Mobile and web rapid application development with OutSystems
-    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+    name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
+    about: OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te permite desenvolver visualmente a tua aplicação móvel e web.</span><br><span class="about">Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada aspeto da nossa plataforma é projetado para ajudar-te a construir e entregar melhores aplicações e mais rápido.</span><br><span class="about">Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
   talk_andre_pimenta:
-    name: MVP (Minimum Viable Product) for AI Products
+    name: MVP (Minimum Viable Product) para produtos com inteligência artificial
     about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
   talk_celso_martinho:
     name: Startups para Geeks
