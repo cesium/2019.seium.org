@@ -134,11 +134,11 @@
   id: 12
 
 - name: Márcio Azevedo
-  pic: marcio.png
+  pic: marcio-azevedo.png
   position: Engineering Manager
   enterprise: Farfetch
   enterpriseURL: https://www.farfetch.com/pt/
-  about: marcio.about
+  about: marcio_azevedo.about
   main: false
   id: 13
 

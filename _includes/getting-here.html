@@ -33,7 +33,8 @@
           {% image 'sponsors/tub.png' class:img-responsive %}
         </div>
         <div class="col-md-offset-2 col-md-5 transport-desc">
-          <p>{% t getting_here.bus.description %}</p>
+          {% capture bus_description %}{% t getting_here.bus.description %}{% endcapture %}
+          {{ bus_description | markdownify }}
         </div>
       </div>
   </section>
@@ -49,7 +50,8 @@
             allowfullscreen></iframe>
         </div>
         <div class="col-md-offset-1 col-md-5 transport-desc">
-          <p>{% t getting_here.car.description %}</p>
+          {% capture car_description %}{% t getting_here.car.description %}{% endcapture %}
+          {{ car_description | markdownify }}
         </div>
       </div>
   </section>
@@ -63,7 +65,8 @@
         <div class="col-md-offset-1 col-md-4">
         </div>
         <div class="col-md-offset-1 col-md-5 transport-desc">
-          <p>{% t getting_here.train.description %}</p>
+          {% capture train_description %}{% t getting_here.train.description %}{% endcapture %}
+          {{ train_description | markdownify }}
         </div>
       </div>
     </div>
