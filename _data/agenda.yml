@@ -407,8 +407,9 @@
 
     - coffee: true
 
-    - name: talk_primavera.name #TODO
-      speaker: TBA
+    - name: talk_primavera.name
+      speaker: Leandro Duarte
+      speaker2: Pedro Ferreira
       type: talk
       time: 11:30-12:30
       icon: fas fa-globe

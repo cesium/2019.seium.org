@@ -332,6 +332,21 @@ speakers:
       prática de desportos combinada com desfrutar da natureza.  Aprecia
       socializar com pessoas diretamente, explorar outras culturas e
       gastronomia".
+  leandro_duarte:
+    about: |
+      Mestre em Engenharia de Telecomunicações e Informática pela UM,
+      tem dedicado a sua carreira à área de testes de Software, trabalhando
+      atualmente na PRIMAVERA BSS. É um entusiasta das novas tecnologias,
+      e “obcecado” pela qualidade dos produtos!
+  pedro_ferreira:
+    about: |
+      Mestre em Eng. Biológica e doutorado em Eng. Mecânica pela UM,
+      desenvolveu um grande interesse pela área das TI que o levou a
+      realizar uma pós-graduação em Engenharia do Software, também na UM.
+      Este curso deu-lhe a oportunidade de integrar a PRIMAVERA BSS em 2017,
+      onde começou por trabalhar em tratamento dos dados com tecnologias de
+      Business Intelligence. Atualmente é developer na área de AI, estando
+      neste momento a trabalhar em Forecasting de Vendas.
   jno:
     about: |
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
