@@ -205,6 +205,17 @@ speakers:
       começou por ser um desenvolvedor de software logo após se formar na
       Universidade do Minho, tendo trabalhado em diferentes setores como saúde,
       media, telecomunicações e finanças antes de ingressar na Farfetch.
+  paulo_gomes:
+    about: |
+      Paulo Gomes é natural do Brasil e trabalha com BI há mais de 10 anos.
+      Desde há cerca de 1 ano, tem feito a migração para o novo mundo de Big Data.
+
+      Depois de ter trabalhado nos setores de retalho,
+      financeiro e telefónico no Brasil, aceitou o desafio de
+      fazer parte da Farfetch. Vindo de São Paulo, está há cerca de 2 anos em
+      Portugal e começou a liderar uma equipa na área de Data há 10 meses.
+
+      Agnóstico a fornecedores, já trabalhou com Microsoft, Oracle, Cloudera e agora Google.
   diogo_cruz:
     about: |
       Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu
@@ -495,7 +506,7 @@ activities:
   workshop_farfetch:
     name: Small and Big Data at Farfetch
     about: >-
-      Apresentação, The Age of Data (1 hora)</span><br><span class="about">- A evolução de dados pela história</span><br><span class="about">- Business Intelligence</span><br><span class="about">- Big Data</span><br><span class="about">- Data Quality e Data Governance</span><br><span class="about">- Uma breve visão sobre Data Science</span><br><span class="about"> - Data at Farfetch</span><br><span class="about">- Q&A</span><br><br><span class="about">HandsOn</span><br><span class="about">- Google Data Plataform - Explicação (10 minutos)</span><br><span class="about">- Using the BigQuery Web UI (40 minutos) link</span><br><span class="about">- Q&A
+      Apresentação, The Age of Data (1 hora)</span><br><span class="about">- A evolução de dados pela história</span><br><span class="about">- Business Intelligence</span><br><span class="about">- Big Data</span><br><span class="about">- Data Quality e Data Governance</span><br><span class="about">- Uma breve visão sobre Data Science</span><br><span class="about"> - Data at Farfetch</span><br><span class="about">- Q&A</span><br><br><span class="about">HandsOn</span><br><span class="about">- Google Data Plataform - Explicação (10 minutos)</span><br><span class="about">- Using the BigQuery Web UI (40 minutos)</span><br><span class="about">- Q&A
   talk_primavera:
     name: Talk - Primavera
     about: TBA

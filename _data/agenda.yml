@@ -394,8 +394,8 @@
       aboutLeft: workshop_eurotux.about
       typeLeft: workshop
       placeLeft: DI-TBA
-      nameRight: workshop_farfetch.name #TODO
-      speakerRight: TBA
+      nameRight: workshop_farfetch.name
+      speakerRight: Paulo Gomes
       enterpriseRight: Farfetch
       enterpriseURLRight: https://www.farfetch.com/pt/
       timeRight: 09:00-11:00
