@@ -129,55 +129,55 @@ speakers:
         context-sensitive adaptation of mobile interfaces in a ubiquitous
         environment". With interests in the areas of Machine Learning,
         Ubiquitous Computing and DevOps for cross-platform applications.
-   
+
   jorge_resende:
-    about: |  
+    about: |
   nuno_cascais:
     about: |
   sergio_gaio:
     about: Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last 10 years helping clients address their workforce management (WFM) challenges.</span><span class="aboutspeaker">Has extensive knowledge in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution. In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.</span><span class="aboutspeaker">Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25 customer around the world.​</span><br><span class="aboutspeaker">Sérgio hold’s a degree in Computer Science and Business Administration from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.</span><span class="aboutspeaker">Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
-    about: | 
+    about: |
   andre_silva:
-    about: 
+    about:
   daniel_ferrari:
     about: |
-      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D. in IA and Machine Learning. 
-      As a researcher, he published a book and many articles in partnership with Computing and Biology 
-      labs. As a Software Engineer, he has contributed to the development of an ERP planning system for 
-      10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop 
+      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D. in IA and Machine Learning.
+      As a researcher, he published a book and many articles in partnership with Computing and Biology
+      labs. As a Software Engineer, he has contributed to the development of an ERP planning system for
+      10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop
       complete pipelines from data mining and manipulation to production distribution of Machine Learning models.
   marcio:
-    about: | 
+    about: |
       Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the
-      software industry, he started as a software developer after graduating from the University of Minho and 
+      software industry, he started as a software developer after graduating from the University of Minho and
       has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
   diogo_cruz:
     about: |
-      Diogo Cruz completed his Master's Degree in Electronic Engineering from the University of Minho in 2016, 
-      where he remained in a research project in the automotive area until 2017. In the same year he joined 
+      Diogo Cruz completed his Master's Degree in Electronic Engineering from the University of Minho in 2016,
+      where he remained in a research project in the automotive area until 2017. In the same year he joined
       the Aptiv Technical Development Center in Braga as Software Engineer.
   jose_carreiras:
     about: |
-      José Carreiras started his career in 1992 in Production Engineering, having worked in several areas. 
-      Most recently, in 2014 he was appointed Engineering Director and in 2017, José Carreiras was appointed 
+      José Carreiras started his career in 1992 in Production Engineering, having worked in several areas.
+      Most recently, in 2014 he was appointed Engineering Director and in 2017, José Carreiras was appointed
       Director of the Technical Development Center of Braga.
   ricardo_soares:
-    about: | 
+    about: |
       Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend
-      technologies, without forgetting to test everything to assure the quality of his code. He believes that 
+      technologies, without forgetting to test everything to assure the quality of his code. He believes that
       with an amazing team the sky is the limit.
   paulo_marques:
     about: |
-      Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a 
-      software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development 
-      of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience. 
+      Paulo has a masters degree in Informatics Engineering from the University of Minho and joined OutSystems as a
+      software engineer where he had the opportunity to put in use his problem-solving skills to contribute to the development
+      of OutSystems's platform integration systems so that the use of data and logic from  external systems is a seamless experience.
       Recently, he joined the Mac IDE team with the purpose that both experience and capabilities of the OutSystems IDE is identical across operating systems.
   tiago_fernandes:
     about: |
-      Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in 
-      2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate 
-      in several engineering challenges and craft some of the features that are part of OutSystems IDE. 
+      Tiago joined the team as a software engineer after completing his master's degree in Informatics Engineering at the University of Minho in
+      2017 in a partnership with OutSystems. Tiago is a very methodical and curious person who had the opportunity to participate
+      in several engineering challenges and craft some of the features that are part of OutSystems IDE.
       Currently, he is working in the Mac IDE team aiming to create a seamless IDE experience for OutSystems Developers.
   jno:
     about: |
@@ -259,7 +259,18 @@ getting_here:
     description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Description of CoderDojo
-    time: 10AM-12AM
+  workshop_accenture:
+    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
+    about: How projects that uses AGILE are adapting to highly complex demands and immediately development/delivery needed.
+  workshop_pixelmatters:
+    name: Workshop - Pixelmatters
+    about: TBA
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: Creating products based on artificial intelligence is an hard task and requires a very high investment of time and money and often with an non-immediate return. Creating MVPs can be the solution to validate the investment needed.
+  talk_celso_martinho:
+    name: Startups for Geeks
+    about: Engineers are particularly good at thinking of ways to use technology to solve real problems for people and companies, but creating a product and a business is a different reality. Unlike social media tell us, creating a startup has such of enthusiasm and professional achievement than pain and difficulties. In this talk, Celso Martinho is going to explain us what he learned during his career and how Bright Pixel, a "venture builder studio" and "early stage investor", can help technology-based entrepreneur achieve theirs ambitions.

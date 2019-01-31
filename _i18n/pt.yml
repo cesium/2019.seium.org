@@ -136,30 +136,30 @@ speakers:
   andre_silva:
     about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
   daniel_ferrari:
-    about: | 
-      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, 
-      publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de 
-      Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, 
-      combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e 
+    about: |
+      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador,
+      publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de
+      Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist,
+      combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e
       manipulação de dados até a distribuição em produção de modelos de Machine Learning.
   marcio:
     about: |
-      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software, 
-      sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho, 
+      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software,
+      sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho,
       tendo trabalhado em diferentes setores como saúde, media, telecomunicações e finanças antes de ingressar na Farfetch.
   diogo_cruz:
     about: |
-      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu 
-      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da 
+      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu
+      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da
       Aptiv em Braga, como Software Engineer.
   jose_carreiras:
     about: |
-      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. 
-      Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro 
+      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas.
+      Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro
       Técnico de Desenvolvimento de Braga.
   ricardo_soares:
     about: |
-      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend, 
+      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend,
       sem esquecer de testar tudo para garantir a qualidade de seu código. Ele acredita que com uma equipa incrível o céu é o limite.
   nuno_fernandes:
     about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
@@ -171,9 +171,9 @@ speakers:
     about: Paulo tirou o Mestrado em Engenharia Informática na Universidade do Minho e juntou-se à OutSystems como Engenheiro Informático onde teve oportunidade de colocar as suas capacidades de resolução de problemas em prática para contribuir para o desenvolvimento da plataforma de integração de sistemas da OutSystems, pelo que o uso de dados e lógica de sistemas externos é uma experiência perfeita.
            Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac com o objetivo de, tanto a experiência como as capacidades da interface de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
   tiago_fernandes:
-    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 
-    com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e 
-    criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o 
+    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017
+    com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e
+    criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o
     objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
   jno:
     about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
@@ -254,9 +254,6 @@ getting_here:
     description: Quer venhas pela autoestrada ou pela nacional, o mais seguro é colocares no GPS as coordenadas 41.56131, 8.393804 ou seguir para a morada Rua da Universidade, Gualtar, Portugal.
 
 activities:
-  geekgirls:
-    name: Geek Girls
-    about:
   sessao_abertura:
     name: Sessão de Abertura
     about: Sessão inaugural da edição deste ano. Será apresentado o calendário e os parceiros da SEI. E, possivelmente, algumas surpresas.
@@ -286,16 +283,16 @@ activities:
     about: >-
       Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de Tableau com os respetivos exercícios e uma sessão aberta de questões posteriormente.</span><br><br><span class="about">Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual com um dos SOs anteriores (De preferência com a última versão do Tableau Desktop instalado).
   workshop_accenture:
-    name: Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management)
-    about: Como os projectos que utilizam AGILE,  estão a se adaptar às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
+    name: Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base Management)
+    about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Workshop - Pixelmatters
     about: TBA
   workshop_outsystems:
-    name: Mobile and web rapid application development with OutSystems
-    about: OutSystems is a rapid application development platform that lets you visually develop your mobile and web applications in a visual way.</span><br><span class="about">Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.</span><br><span class="about">Join us if you want to understand what we do, and how we do it!
+    name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
+    about: OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te permite desenvolver visualmente a tua aplicação móvel e web.</span><br><span class="about">Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada aspeto da nossa plataforma é projetado para ajudar-te a construir e entregar melhores aplicações e mais rápido.</span><br><span class="about">Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
   talk_andre_pimenta:
-    name: MVP (Minimum Viable Product) for AI Products
+    name: MVP (Minimum Viable Product) para produtos com inteligência artificial
     about: Criar produtos baseados em inteligência artificial é uma tarefa difícil e que requer um investimento de tempo e dinheiro alto e muitas vezes com um retorno não imediato. A criação de MVPs pode ser a solução para validar o investimento necessário.
   talk_celso_martinho:
     name: Startups para Geeks
