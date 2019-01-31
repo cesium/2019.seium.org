@@ -6,31 +6,31 @@
 
     <div class="col-md-12">
       <div class="col-md-10 col-md-offset-1">
-       <div class="col-md-12 agenda-carousel agenda-wrapper">
+        <div class="col-md-12 agenda-carousel agenda-wrapper">
 
-
-            {% for day in site.data.agenda %}
-            <div class="col-sm-3 agenda-day">
-              <h4 class="center-block agenda-date">{{ day.day }} {% t defaults.months.{{ day.month }} %}. <br><span>{% t defaults.days_of_week.{{ day.day_of_week }} %}</span></h4>
-              {% for act in day.activities %}
-              {% if act.coffee %}
-              <h5 class="agenda-coffee">
-                  <span>COFFEE-BREAK</span>
-              </h5>
-              {% elsif act.meal %}
-              <div class="agenda-meal"></div>
-              {% elsif act.offset %}
-              <div class="{{ act.offset }}"></div>
-              {% elsif act.double %}
-              <div class="agenda-double-activity">
-                <div class="activity-left">
-                  <div class="activity-time">{{ act.timeLeft }}</div>
-                  <a href="#{{ act.nameLeft | slugify }}">
-                    {% if act.tbaLeft %}
-                    <div class="activity-tba-block {{ act.durationLeft }} text-left">
+          {% for day in site.data.agenda %}
+          <div class="col-sm-3 agenda-day">
+            <h4 class="center-block agenda-date">{{ day.day }} {% t defaults.months.{{ day.month }} %}. <br><span>{% t
+                defaults.days_of_week.{{ day.day_of_week }} %}</span></h4>
+            {% for act in day.activities %}
+            {% if act.coffee %}
+            <h5 class="agenda-coffee">
+              <span>COFFEE-BREAK</span>
+            </h5>
+            {% elsif act.meal %}
+            <div class="agenda-meal"></div>
+            {% elsif act.offset %}
+            <div class="offset"></div>
+            {% elsif act.double %}
+            <div class="agenda-double-activity">
+              <div class="activity-left">
+                <div class="activity-time">{{ act.timeLeft }}</div>
+                <a href="#{{ act.nameLeft | slugify }}">
+                  {% if act.tbaLeft %}
+                  <div class="activity-tba-block {{ act.durationLeft }} text-left">
                     {% else %}
                     <div class="activity-block {{ act.durationLeft }} text-left">
-                    {% endif %}
+                      {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{% t activities.{{ act.nameLeft }} %}</b></div>
                       {% if (act.speakerLeft and act.speakerLeft2) %}
@@ -40,17 +40,17 @@
                       <div class="activity-speaker">{{ act.speakerLeft }}</div>
                       {% endif %}
                     </div>
-                  </a>
-                  <div class="activity-location">{{ act.placeLeft }}</div>
-                </div>
-                <div class="activity-right">
-                  <div class="activity-time">{{ act.timeRight }}</div>
-                  <a href="#{{ act.nameRight | slugify }}">
-                    {% if act.tba %}
-                    <div class="activity-tba-block {{ act.durationRight }} text-left">
+                </a>
+                <div class="activity-location">{{ act.placeLeft }}</div>
+              </div>
+              <div class="activity-right">
+                <div class="activity-time">{{ act.timeRight }}</div>
+                <a href="#{{ act.nameRight | slugify }}">
+                  {% if act.tba %}
+                  <div class="activity-tba-block {{ act.durationRight }} text-left">
                     {% else %}
                     <div class="activity-block {{ act.durationRight }} text-left">
-                    {% endif %}
+                      {% endif %}
                       <div class="activity-border"></div>
                       <div class="activity-name"><b>{% t activities.{{ act.nameRight }} %}</b></div>
                       {% if (act.speakerRight and act.speakerRight2 and act.speakerRight3 and act.speakerRight4) %}
@@ -63,19 +63,19 @@
                       <div class="activity-speaker">{{ act.speakerRight }}</div>
                       {% endif %}
                     </div>
-                  </a>
-                  <div class="activity-location">{{ act.placeRight }}</div>
-                </div>
+                </a>
+                <div class="activity-location">{{ act.placeRight }}</div>
               </div>
-              {% else %}
-              <div class="agenda-activity">
-                <div class="activity-time">{{ act.time }}</div>
-                <a href="#{{ act.name | slugify }}">
-                  {% if act.tba %}
-                  <div class="activity-tba-block {{ act.duration }} text-left">
+            </div>
+            {% else %}
+            <div class="agenda-activity">
+              <div class="activity-time">{{ act.time }}</div>
+              <a href="#{{ act.name | slugify }}">
+                {% if act.tba %}
+                <div class="activity-tba-block {{ act.duration }} text-left">
                   {% else %}
                   <div class="activity-block {{ act.duration }} text-left">
-                  {% endif %}
+                    {% endif %}
                     <div class="activity-border"></div>
                     <div class="activity-name"><b>{% t activities.{{ act.name }} %}</b></div>
                     {% if (act.speaker and act.speaker2 and act.speaker3 and act.speaker4) %}
@@ -90,15 +90,15 @@
                     <div class="activity-speaker">{{ act.speaker }}</div>
                     {% endif %}
                   </div>
-                </a>
-                <div class="activity-location">{{ act.place }}</div>
-              </div>
-              {% endif %}
-              {% endfor %}
+              </a>
+              <div class="activity-location">{{ act.place }}</div>
             </div>
+            {% endif %}
             {% endfor %}
           </div>
+          {% endfor %}
         </div>
       </div>
     </div>
+  </div>
 </section>
