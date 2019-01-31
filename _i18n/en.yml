@@ -61,31 +61,10 @@ defaults:
     dec: Dec
 
 speakers:
-  headline: During this week, you have the opportunity to interact with many recognized speakers, national, international and notorious companies! You can get to know them better here.
-  nuno_fernandes:
-    about: |
-      Nuno Fernandes is a Computer Systems Engineer graduated at University of
-      Minho and is currently the Research and Development  Director at Eurotux
-      Informatica. Co-Author of the book Apache Instalação, Configuração Gestão
-      Servidores Web, edited by FCA, Nuno has now been responsible for the
-      implementation of several projects with large technology infrastructure.
-  cesar_pinto:
-    about: |
-      César joined OutSystems as Engagement Manager by having the
-      responsibility for the overall management and delivery of innovative
-      solutions using the OutSystems technology thru an agile approach.
-      Recently become an Engagement Manager Mentor by leading a team of
-      Engagement Managers with the responsibility of accelerating the team
-      growth to an outstanding level and ensuring the team's deliveries
-      success.
-  hernani_fernandes:
-    about: |
-      Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being
-      responsible for the technical delivery of innovative solutions based on
-      customer business needs and drivers. Since mid-2018 he's also a member of
-      the Architecture Experts, who are responsible for designing flexible and
-      cost-effective solution architectures that are aligned with the
-      OutSystems customers' business strategies.
+  headline: |
+    During this week, you have the opportunity to interact with
+    many recognized speakers, national, international and notorious
+    companies! You can get to know them better here.
   celso_martinho:
     about: |-
       Celso Martinho is someone that finds motivation in challenges, an
@@ -116,98 +95,134 @@ speakers:
       channel, he's a storyteller by heart and lives in his imagination of
       multiple worlds, stepping among us every once in a while.
   david_amador:
-      about: |
-        David started to mod (and play) games as soon as he had access to a
-        computer/console. After some time working professionally in the
-        gaming industry he decided to go independent and make his own games
-        back in 2010. Among the titles he worked on you can find Vizati and
-        Puwang. Most recently, after creating Upfall Studios, his game, Quest
-        of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4
-        and Switch.
+    about: |
+      David started to mod (and play) games as soon as he had access to a
+      computer/console. After some time working professionally in the
+      gaming industry he decided to go independent and make his own games
+      back in 2010. Among the titles he worked on you can find Vizati and
+      Puwang. Most recently, after creating Upfall Studios, his game, Quest
+      of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4
+      and Switch.
   andre_pimenta:
-      about: |
-        CEO e co-fundador of Performetric and PhD in Informatics specialized
-        in Artificial Intelligence on the University of Minho.
+    about: |
+      CEO e co-fundador of Performetric and PhD in Informatics specialized
+      in Artificial Intelligence on the University of Minho.
   andre_barbosa:
-      about: |
-        I enrolled in LEI in 2006 and, with some help, I manage to finish the
-        course. I passed through various industries and companies until I
-        ended up joining Skyscanner, challenged by the amount of data and
-        daily users. Currently I spend my days with a team of Software
-        Engineers and Data Scientists trying to create a personalized
-        experience to our users.
+    about: |
+      I enrolled in LEI in 2006 and, with some help, I manage to finish the
+      course. I passed through various industries and companies until I
+      ended up joining Skyscanner, challenged by the amount of data and
+      daily users. Currently I spend my days with a team of Software
+      Engineers and Data Scientists trying to create a personalized
+      experience to our users.
   andre_sousa:
-      about: |
-        André is currently a guest assistant professor at the University of
-        Trás-os-Montes and Alto Douro in the undergraduate courses of
-        Computer Science and Information Technology and Communication,
-        teaching curricular units Web Development, Object-Oriented
-        Programming, Systems Integration, and Distributed Systems, among
-        others, completed his PhD with the theme "Dynamic and
-        context-sensitive adaptation of mobile interfaces in a ubiquitous
-        environment". With interests in the areas of Machine Learning,
-        Ubiquitous Computing and DevOps for cross-platform applications.
-
+    about: |
+      André is currently a guest assistant professor at the University of
+      Trás-os-Montes and Alto Douro in the undergraduate courses of
+      Computer Science and Information Technology and Communication,
+      teaching curricular units Web Development, Object-Oriented
+      Programming, Systems Integration, and Distributed Systems, among
+      others, completed his PhD with the theme "Dynamic and
+      context-sensitive adaptation of mobile interfaces in a ubiquitous
+      environment". With interests in the areas of Machine Learning,
+      Ubiquitous Computing and DevOps for cross-platform applications.
   jorge_resende:
     about:
-
   nuno_cascais:
     about:
-
+  rui_saraiva:
+    about:
+  fabio_martins:
+    about:
   sergio_gaio:
     about: |
-      Sérgio is a Associate Director at Accenture Portugal, with 17 year in the company and spent the last
-      10 years helping clients address their workforce management (WFM) challenges.
+      Sérgio is a Associate Director at Accenture Portugal, with 17 year in
+      the company and spent the last 10 years helping clients address their
+      workforce management (WFM) challenges.
 
-      Has extensive knowledge
-      in Communications & High Tech and experience in WFM, CRM and IT deployment custom solution.
-      In the WFM domain has participate in implementations of ClickSoftware, Oracle Field Service (TOA)
-      and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS. Collaboration on
-      WFM solutions with Telecom, Utilities and Insurance customers.
+      Has extensive knowledge in Communications & High Tech and experience
+      in WFM, CRM and IT deployment custom solution. In the WFM domain has
+      participate in implementations of ClickSoftware, Oracle Field Service (TOA)
+      and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS.
+      Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.
 
       Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM
       solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile,
       Reporting and Locate modules for more than 25 customer around the world.​
 
-
       Sérgio hold’s a degree in Computer Science and Business Administration from
       the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.
 
       Executive Master Business Administration - ISCTE / INDEG Business School.
-
   carlos_jesus:
     about:
-
   andre_silva:
     about:
-
   daniel_ferrari:
     about: |
-      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D. in IA and Machine Learning.
-      As a researcher, he published a book and many articles in partnership with Computing and Biology
-      labs. As a Software Engineer, he has contributed to the development of an ERP planning system for
-      10 years. As Data Scientist, he combines his experience as an engineer and researcher to develop
-      complete pipelines from data mining and manipulation to production distribution of Machine Learning models.
+      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D.
+      in IA and Machine Learning. As a researcher, he published a book and
+      many articles in partnership with Computing and Biology
+      labs. As a Software Engineer, he has contributed to the development of
+      an ERP planning system for 10 years. As Data Scientist, he combines his
+      experience as an engineer and researcher to develop
+      complete pipelines from data mining and manipulation to production
+      distribution of Machine Learning models.
   marcio_azevedo:
     about: |
-      Márcio is currently an Engineering Manager at Farfetch. With more than ten years of experience in the
-      software industry, he started as a software developer after graduating from the University of Minho and
-      has worked at different industries like healthcare, media, telecommunications and finance before joining Farfetch.
+      Márcio is currently an Engineering Manager at Farfetch. With more than
+      ten years of experience in the software industry, he started as a software
+      developer after graduating from the University of Minho and
+      has worked at different industries like healthcare, media,
+      telecommunications and finance before joining Farfetch.
+  paulo_gomes:
+    about:
   diogo_cruz:
     about: |
-      Diogo Cruz completed his Master's Degree in Electronic Engineering from the University of Minho in 2016,
-      where he remained in a research project in the automotive area until 2017. In the same year he joined
+      Diogo Cruz completed his Master's Degree in Electronic Engineering
+      from the University of Minho in 2016, where he remained in a research
+      project in the automotive area until 2017. In the same year he joined
       the Aptiv Technical Development Center in Braga as Software Engineer.
   jose_carreiras:
     about: |
-      José Carreiras started his career in 1992 in Production Engineering, having worked in several areas.
-      Most recently, in 2014 he was appointed Engineering Director and in 2017, José Carreiras was appointed
+      José Carreiras started his career in 1992 in Production Engineering,
+      having worked in several areas. Most recently, in 2014 he was appointed
+      Engineering Director and in 2017, José Carreiras was appointed
       Director of the Technical Development Center of Braga.
+  raphael_espanha:
+    about:
+  raul_azevedo:
+    about:
   ricardo_soares:
     about: |
-      Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend
-      technologies, without forgetting to test everything to assure the quality of his code. He believes that
+      Ricardo is a software developer at Blip. He is not intimidated in
+      switching between frontend and backend technologies, without forgetting
+      to test everything to assure the quality of his code. He believes that
       with an amazing team the sky is the limit.
+  nuno_fernandes:
+    about: |
+      Nuno Fernandes is a Computer Systems Engineer graduated at University of
+      Minho and is currently the Research and Development  Director at Eurotux
+      Informatica. Co-Author of the book Apache Instalação, Configuração Gestão
+      Servidores Web, edited by FCA, Nuno has now been responsible for the
+      implementation of several projects with large technology infrastructure.
+  cesar_pinto:
+    about: |
+      César joined OutSystems as Engagement Manager by having the
+      responsibility for the overall management and delivery of innovative
+      solutions using the OutSystems technology thru an agile approach.
+      Recently become an Engagement Manager Mentor by leading a team of
+      Engagement Managers with the responsibility of accelerating the team
+      growth to an outstanding level and ensuring the team's deliveries
+      success.
+  hernani_fernandes:
+    about: |
+      Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being
+      responsible for the technical delivery of innovative solutions based on
+      customer business needs and drivers. Since mid-2018 he's also a member of
+      the Architecture Experts, who are responsible for designing flexible and
+      cost-effective solution architectures that are aligned with the
+      OutSystems customers' business strategies.
   paulo_marques:
     about: |
       Paulo has a masters degree in Informatics Engineering from the University
@@ -227,6 +242,12 @@ speakers:
       engineering challenges and craft some of the features that are part of
       OutSystems IDE.  Currently, he is working in the Mac IDE team aiming to
       create a seamless IDE experience for OutSystems Developers.
+  carlos_moreira:
+    about:
+  leandro_duarte:
+    about:
+  pedro_ferreira:
+    about:
   jno:
     about: |
       Researcher at the Reliable Software Laboratory (HASLab) and professor at

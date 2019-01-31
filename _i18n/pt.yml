@@ -66,56 +66,58 @@ speakers:
     reconhecidos, nacionais, internacionais e de empresas notórias! Podes
     conhecê-los melhor aqui.
   celso_martinho:
-    about: |
-        Celso Martinho é uma pessoa que encontra motivação nos desafios, um
-        geek tecnológico optimista, um homem de produto, uma alma empresarial,
-        eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior
-        projeto de internet de Portugal, agora uma empresa mídia e conteúdo da
-        fábrica de inovação da Portugal Telecom, constrói serviços B2C em
-        grande escala em áreas desde cloud, e-commerce e e-payments até
-        interatividade IPTV. Ele tem um combinado passado em gestão de alto
-        nível, gestão de projetos software, arquitetura de sistemas e
-        desenvolvimento de produto técnico e várias décadas de experiência nas
-        indústrias telecom e internet. Celso é também CEO e fundador da Bright
-        Pixel, um estúdio de software, casa de uma equipa de experts da
-        indústria com vasta experiência em usar tecnologia e criatividade para
-        criar produtos com alcance mundial e serviços num ambiente diverso de
-        áreas desde desenvolvimento web, segurança, e-payment, tecnologias
-        big-data e design de interfaces e usabilidade.
+    about: |-
+      Celso Martinho é uma pessoa que encontra motivação nos desafios, um
+      geek tecnológico optimista, um homem de produto, uma alma empresarial,
+      eventualmente atirado na carreira de gestão. Fundador da SAPO, o maior
+      projeto de internet de Portugal, agora uma empresa mídia e conteúdo da
+      fábrica de inovação da Portugal Telecom, constrói serviços B2C em
+      grande escala em áreas desde cloud, e-commerce e e-payments até
+      interatividade IPTV. Ele tem um combinado passado em gestão de alto
+      nível, gestão de projetos software, arquitetura de sistemas e
+      desenvolvimento de produto técnico e várias décadas de experiência nas
+      indústrias telecom e internet.
+
+      Celso é também CEO e fundador da Bright
+      Pixel, um estúdio de software, casa de uma equipa de experts da
+      indústria com vasta experiência em usar tecnologia e criatividade para
+      criar produtos com alcance mundial e serviços num ambiente diverso de
+      áreas desde desenvolvimento web, segurança, e-payment, tecnologias
+      big-data e design de interfaces e usabilidade.
   bruno_ribeiro:
     about: |
-        O Bruno é um criativo da resolução dos problemas, com um background
-        diversificado e uma forte componente no Game Design. Desde cedo que
-        começou a desenhar jogos e a destruir as regras dos ditos jogos de
-        tabuleiro tradicionais. Acompanhou vários Game Designers portugueses
-        como consultor e tem mais de 30 protótipos reféns, à espera de serem
-        libertados.
+      O Bruno é um criativo da resolução dos problemas, com um background
+      diversificado e uma forte componente no Game Design. Desde cedo que
+      começou a desenhar jogos e a destruir as regras dos ditos jogos de
+      tabuleiro tradicionais. Acompanhou vários Game Designers portugueses
+      como consultor e tem mais de 30 protótipos reféns, à espera de serem
+      libertados.
 
-        É escritor, apenas quando pode, e divide o seu tempo entre a família,
-        com os seus dois filhos e a animação de um canal online, na comunidade
-        de Roleplaying games, é um storyteller por natureza, e vive na
-        imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
+      É escritor, apenas quando pode, e divide o seu tempo entre a família,
+      com os seus dois filhos e a animação de um canal online, na comunidade
+      de Roleplaying games, é um storyteller por natureza, e vive na
+      imaginação de múltiplos mundos, pondo o pé de vez enquanto entre nós!
   david_amador:
     about: |
-        David começou a modificar (e jogar) jogos logo que teve acesso a um
-        computador ou consola. Ao fim de algum tempo a trabalhar
-        profissionalmente na industria dos jogos decidiu tornar-se independente
-        e fazer os próprios jogos (desde 2010). De entre os títulos em que
-        trabalhou podes encontrar Vizati e Puwang. Mais recentemente, depois de
-        criar Upfall Studios, lançou para 3DS, Xbox One, PS4 e Switch o seu
-        jogo, Quest of Dungeons.
+      David começou a modificar (e jogar) jogos logo que teve acesso a um
+      computador ou consola. Ao fim de algum tempo a trabalhar
+      profissionalmente na industria dos jogos decidiu tornar-se independente
+      e fazer os próprios jogos (desde 2010). De entre os títulos em que
+      trabalhou podes encontrar Vizati e Puwang. Mais recentemente, depois de
+      criar Upfall Studios, lançou para 3DS, Xbox One, PS4 e Switch o seu
+      jogo, Quest of Dungeons.
   andre_pimenta:
     about: |
-        CEO e co-founder da Performetric e Doutorado em Informática na
-        especialidade de Inteligência Artificial pela Universidade do Minho.
+      CEO e co-founder da Performetric e Doutorado em Informática na
+      especialidade de Inteligência Artificial pela Universidade do Minho.
   andre_barbosa:
     about: |
-        Entrou em LEI em 2006 e, com alguma ajuda, lá conseguiu acabar o
-        curso. Passou por várias indústrias e empresas até que acabou por se
-        juntar à Skyscanner desafiado pela quantidade de dados e utilizadores
-        diários. Atualmente passa os seus dias com uma equipa de Software
-        Engineers e Data Scientists a tentar criar uma experiência
-        personalizada para os nossos utilizadores.
+      Entrou em LEI em 2006 e, com alguma ajuda, lá conseguiu acabar o
+      curso. Passou por várias indústrias e empresas até que acabou por se
+      juntar à Skyscanner desafiado pela quantidade de dados e utilizadores
+      diários. Atualmente passa os seus dias com uma equipa de Software
+      Engineers e Data Scientists a tentar criar uma experiência
+      personalizada para os nossos utilizadores.
   andre_sousa:
     about: |
       Atualmente professor auxiliar convidado da Universidade de Trás-os-Montes
