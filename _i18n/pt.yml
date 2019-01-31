@@ -136,30 +136,30 @@ speakers:
   andre_silva:
     about: André Silva possui um Mestrado de Engenharia informática pela Universidade do Minho. Entrou na Accenture em 2016 e participa no desenvolvimento e customização de soluções de workforce management para clientes internacionais.</span><span class="aboutspeaker">Nos tempos livres gosta de praticar mototurismo.
   daniel_ferrari:
-    about: | 
-      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador, 
-      publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de 
-      Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist, 
-      combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e 
+    about: |
+      Daniel Ferrari é Licenciado em Ciência da Computação, mestrado e doutorado em IA e Machine Learning. Como investigador,
+      publicou um livro e diversos artigos em parceria com laboratórios de Computação e de Biologia. Como Engenheiro de
+      Software, contribuiu para o desenvolvimento de um sistema de planeamento de ERP durante 10 anos. Como Data Scientist,
+      combina a sua experiência como engenheiro e investigador para desenvolver pipelines completos desde a extração e
       manipulação de dados até a distribuição em produção de modelos de Machine Learning.
   marcio:
     about: |
-      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software, 
-      sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho, 
+      Márcio é atualmente um Gestor de Projetos da Farfetch. Com mais de 10 anos de experiência na indústria de software,
+      sendo que inicialmente começou por ser um desenvolvedor de software logo após se formar na Universidade do Minho,
       tendo trabalhado em diferentes setores como saúde, media, telecomunicações e finanças antes de ingressar na Farfetch.
   diogo_cruz:
     about: |
-      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu 
-      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da 
+      Diogo Cruz concluiu o Mestrado Integrado em Engenharia Eletrónica pela Universidade do Minho em 2016, onde permaneceu
+      em projeto de investigação na área automóvel até 2017. No mesmo ano juntou-se ao Centro Técnico de Desenvolvimento da
       Aptiv em Braga, como Software Engineer.
   jose_carreiras:
     about: |
-      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. 
-      Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro 
+      José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas.
+      Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro
       Técnico de Desenvolvimento de Braga.
   ricardo_soares:
     about: |
-      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend, 
+      Ricardo é software developer na Blip. Ele não fica intimidado ao alternar entre as tecnologias frontend e backend,
       sem esquecer de testar tudo para garantir a qualidade de seu código. Ele acredita que com uma equipa incrível o céu é o limite.
   nuno_fernandes:
     about: Licenciado pela Universidade do Minho em Engenharia de Sistemas e Informática é actualmente Diretor de Investigação e Desenvolvimento da Eurotux Informática. Co-Autor do livro Apache Instalação, Configuração Gestão Servidores Web, editado pela FCA, tem sido responsável pela implementação de diversos projectos de infra-estruturas tecnológicas de grande porte.
@@ -171,10 +171,7 @@ speakers:
     about: Paulo tirou o Mestrado em Engenharia Informática na Universidade do Minho e juntou-se à OutSystems como Engenheiro Informático onde teve oportunidade de colocar as suas capacidades de resolução de problemas em prática para contribuir para o desenvolvimento da plataforma de integração de sistemas da OutSystems, pelo que o uso de dados e lógica de sistemas externos é uma experiência perfeita.
            Recentemente, juntou-se à equipa da interface de desenvolvimento da Mac com o objetivo de, tanto a experiência como as capacidades da interface de desenvolvimento OutSystems seja uniforme pelos sistemas operativos.
   tiago_fernandes:
-    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 
-    com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e 
-    criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o 
-    objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
+    about: Tiago juntou-se à equipa de Engenharia Informática depois de completar o mestrado na Universidade do Minho em 2017 com parceria da OutSystems. Tiago é uma pessoa muito metódica e curiosa que teve a oportunidade de participar em diversos desafios de engenharia e criar diversos recursos que fazem parte da interface de desenvolvimento da OutSystems. Atualmente, encontra-se a trabalhar na equipa de desenvolvimento de interface da Mac com o objetivo de criar uma experiência perfeita de desenvolvimento de interface para os Developers da OutSystems.
   jno:
     about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
   jbb:
