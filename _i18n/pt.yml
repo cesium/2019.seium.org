@@ -429,20 +429,8 @@ activities:
     about: Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
   workshop_pixelmatters:
     name: Desenvolvimento de uma aplicação web com Vue.js
-    about: |
-      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar a construção de interfaces interativas. A comunidade de Vue.js tem crescido significativamente nos últimos anos, tendo atualmente mais de 125.000 estrelas no Github.
-
-
-      Neste workshop iremos criar uma aplicação de Vue.js a partir do zero, tendo como objetivos:
-      - Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;
-      - Fazer uso de “single file components” (*.vue files);
-      - Entender o ciclo de vida das aplicações Vue;
-      - Conhecer como é feita a comunicação entre componentes;
-      - Usar o VueX como “store” para centralização de estados da aplicação.
-
-
-      Pré-requisitos:
-      - Computador e conhecimentos elementares de Javascript.
+    about: >-
+      O Vue.js é uma framework de JavaScript criada com o objetivo de facilitar a construção de interfaces interativas. A comunidade de Vue.js tem crescido significativamente nos últimos anos, tendo atualmente mais de 125.000 estrelas no Github.</span><br><br><span class="about">Neste workshop iremos criar uma aplicação de Vue.js a partir do zero, tendo como objetivos:</span><br><span class="about">- Entender como o Vue CLI 3 pode-nos ajudar na criação de aplicações vue;</span><br><span class="about">- Fazer uso de “single file components” (*.vue files);</span><br><span class="about">- Entender o ciclo de vida das aplicações Vue;</span><br><span class="about">- Conhecer como é feita a comunicação entre componentes;</span><br><span class="about">- Usar o VueX como “store” para centralização de estados da aplicação.</span><br><br><span class="about">Pré-requisitos:</span><br><span class="about">- Computador e conhecimentos elementares de Javascript.
   workshop_outsystems:
     name: Rápido desenvolvimento de aplicações móveis e web com OutSystems
     about: OutSytems é uma plataforma de rápido desenvolvimento de aplicações que te permite desenvolver visualmente a tua aplicação móvel e web.</span><br><span class="about">Trabalhada por engenheiros com uma atenção obsessiva pelo detalhe, cada aspeto da nossa plataforma é projetado para ajudar-te a construir e entregar melhores aplicações e mais rápido.</span><br><span class="about">Junta-te a nós se quiseres saber o que fazemos, e como o fazemos!
@@ -484,7 +472,7 @@ activities:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
   workshop_smithmicro:
-    name: Workshop CG - SmithMicro
+    name: Workshop - SmithMicro
     about: TBA
   workshop_aptiv:
     name: Automotive Infotainment Systems
@@ -505,8 +493,9 @@ activities:
     name: Devops @Eurotux
     about: Iremos abordar algumas das problemáticas que temos vindo a explorar no âmbito de devops com ênfase num projeto de migração que ocorreu num cliente utilizando tecnologias como AWS, GIT, infra-structure as code.
   workshop_farfetch:
-    name: Workshop - Farfetch
-    about: TBA
+    name: Small and Big Data at Farfetch
+    about: >-
+      Apresentação, The Age of Data (1 hora)</span><br><span class="about">- A evolução de dados pela história</span><br><span class="about">- Business Intelligence</span><br><span class="about">- Big Data</span><br><span class="about">- Data Quality e Data Governance</span><br><span class="about">- Uma breve visão sobre Data Science</span><br><span class="about"> - Data at Farfetch</span><br><span class="about">- Q&A</span><br><br><span class="about">HandsOn</span><br><span class="about">- Google Data Plataform - Explicação (10 minutos)</span><br><span class="about">- Using the BigQuery Web UI (40 minutos) link</span><br><span class="about">- Q&A
   talk_primavera:
     name: Talk - Primavera
     about: TBA
