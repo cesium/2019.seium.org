@@ -501,9 +501,8 @@ activities:
       um dos SOs anteriores (De preferência com a última versão do Tableau
       Desktop instalado).
   workshop_accenture:
-    name: >-
-      Agile: novo pensamento (resumo de Scrum, DevOps e EBM (Evidence Base
-      Management)
+    name: |
+      Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
     about: |
       Como os projectos que utilizam AGILE estão a adaptar-se às demandas cada
       vez mais complexas e com necessidade de desenvolvimento/entrega imediata.
@@ -655,14 +654,18 @@ activities:
       * Uma breve visão sobre Data Science
       * Data at Farfetch
       * Q&A
-      
+
       HandsOn
       * Google Data Plataform - Explicação (10 minutos)
       * Using the BigQuery Web UI (40 minutos)
       * Q&A
   talk_primavera:
-    name: Talk - Primavera
-    about: TBA
+    name: Big Data and AI/ML - A história do Big Data na PRIMAVERA
+    about: |
+      Na busca de um ERP preditivo, a PRIMAVERA iniciou um caminho alicerçado
+      em conceitos como Big Data, Inteligência Artificial e Machine Learning.
+      Nesta talk vamos explicar este caminho e a sua aplicabilidade nos
+      produtos PRIMAVERA, através de insights e forecasting.
   talk_farfetch:
     name: Career advice from an Engineering Manager! (...and why Farfetch is an awesome place to start!)
     about: |
