@@ -378,6 +378,14 @@
       about: TBA
       place: CP2-B1
 
+    - name: dinner.name
+      time: 20:30-22:00
+      duration: two-hours
+      icon: fas fa-utensils
+      type: dinner
+      about: dinner.about
+      place: Meliá Braga Hotel & SPA
+
 - friday:
   day: 8
   month: feb

@@ -425,7 +425,6 @@ activities:
         explain us what he learned during his career and how Bright Pixel, a
         "venture builder studio" and "early stage investor", can help
         technology-based entrepreneur achieve theirs ambitions.
-
   ##TODO
   tertulia:
     name: Eng. Informática nas Universidades Portuguesas
@@ -456,3 +455,5 @@ activities:
   apresentacao_bosch:
     name: Apresentação da Bosch
     about:
+  dinner:
+    name: Networking Dinner

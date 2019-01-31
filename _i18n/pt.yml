@@ -628,30 +628,39 @@ activities:
   talk_aptiv:
     name: Transforming Mobility
     about: |
-     Abordagem sobre o nosso foco em trazer a próxima geração de veículos
-     autónomos, cidades inteligentes e conectividade para a vida. Além disso,
-     serão abordados outros temas como a nova tecnologia de condução
-     autónoma, a redefinição da conectividade do infotainment e novas
-     soluções inteligentes de mobilidade.
+      Abordagem sobre o nosso foco em trazer a próxima geração de veículos
+      autónomos, cidades inteligentes e conectividade para a vida. Além disso,
+      serão abordados outros temas como a nova tecnologia de condução
+      autónoma, a redefinição da conectividade do infotainment e novas
+      soluções inteligentes de mobilidade.
   talk_bruno_ribeiro:
     name: Gamification 1-0-1
     about: |
-     Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os
-     dias elementos presentes nos jogos sem termos a noção de o estar a fazer
-     é um comportamento humano automático, que selecciona e identifica as
-     ações que provocam melhores benefícios para a resolução de uma dada
-     situação.
+      Qual o poder dos jogos, o que podemos retirar deles? Utilizamos todos os
+      dias elementos presentes nos jogos sem termos a noção de o estar a fazer
+      é um comportamento humano automático, que selecciona e identifica as
+      ações que provocam melhores benefícios para a resolução de uma dada
+      situação.
 
-     Os jogos estão presentes na nossa vida de uma forma irreversível. Como é
-     que nos podemos aproveitar desta premissa e utilizá-la para resolver
-     problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários
-     exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão
-     prática de um Gamification Designer.
+      Os jogos estão presentes na nossa vida de uma forma irreversível. Como é
+      que nos podemos aproveitar desta premissa e utilizá-la para resolver
+      problemas, desafios, ou apenas melhorar o nosso dia a dia? Os vários
+      exemplos de gamificação, com casos de sucesso e de insucesso. Uma visão
+      prática de um Gamification Designer.
   talk_andre_barbosa:
     name: Building data driven products at scale
-    about: Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde usamos esses dados para construir produtos novos e melhorar a experiencia dos utilizadores que usam o nosso serviço.
-  ##TODO
-  ##TODO
+    about: |
+      Todos os dias milhões de utilizadores utilizam a Skyscanner para procurar
+      voos, hotéis, comboios e carros. Todas essas pesquisas geram uma grande
+      quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde
+      usamos esses dados para construir produtos novos e melhorar a experiencia
+      dos utilizadores que usam o nosso serviço.
+  dinner:
+    name: Jantar de Networking
+    about: |
+      Um jantar com profissionais da Accenture e com alunos de Engenharia
+      Informática com o objetivo de estreitar laços
+      e criar uma rede de contactos.
   workshop_eurotux:
     name: Devops @Eurotux
     about: |
@@ -691,7 +700,9 @@ activities:
   ##TODO
   encerramento:
     name: Encerramento & entrega de prémios
-    about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+    about: |
+      Cerimónia de encerramento da SEI, com a habitual entrega de prémios
+      relativos aos concursos decorridos ao longo da semana.
   hackathon:
     name: Hackathon
     about:
