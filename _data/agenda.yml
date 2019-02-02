@@ -72,14 +72,14 @@
       icon: fas fa-desktop
       place: CP2-B1
 
-    - name: job.name
+    - name: remote_podcast.name
       speaker: Job van der Voort
       speaker2: Marcelo Lebre
       enterprise: Remote
       enterpriseURL: https://remote.com/
       time: 16:45-18:00
       duration: one-hour
-      about: job.about
+      about: remote_podcast.about
       type: podcast
       icon: fas fa-podcast
       place: CP2-B1
@@ -236,7 +236,7 @@
       about: talk_talkdesk.about
       place: CP2-B1
 
-    - name: talk.name
+    - name: talk_iem4.name
       speaker: Jorge Resende
       speaker2: Nuno Cascais
       enterprise: IEM4.0
@@ -245,7 +245,7 @@
       duration: one-hour
       icon: fas fa-globe
       type: talk
-      about: talk.about
+      about: talk_iem4.about
       place: CP2-B1
 
     - coffee: true
