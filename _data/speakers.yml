@@ -300,6 +300,16 @@
   main: false
   id: 29
 
+- name: João Martins
+  pic: joao-martins.jpg
+  position: Lead Software Engineer
+  enterprise: Smith Micro
+  enterpriseURL: https://www.smithmicro.com/
+  linkedin: jo%C3%A3o-martins-0b13579b
+  about: joao_martins.about
+  main: false
+  id: 30
+
 - name: José Nuno Oliveira
   pic: jno.jpg
   position: Professor
@@ -307,7 +317,7 @@
   enterpriseURL: https://www.uminho.pt/
   about: jno.about
   main: false
-  id: 30
+  id: 31
 
 # - name: JBB
 #   pic: jbb.jpg
