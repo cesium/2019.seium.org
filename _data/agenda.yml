@@ -3,6 +3,8 @@
   month: feb
   day_of_week: monday
   activities:
+    - offset: true
+
     - name: sessao_abertura.name
       time: 10:00-10:30
       duration: half-hour

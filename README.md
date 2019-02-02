@@ -30,6 +30,6 @@ This website was made with :heart: by:
 * [Miguel Pinto](https://github.com/miguelpinto98)
 * [Nuno Rafael Rocha](https://github.com/nunorafaelrocha)
 
-[See more Contributors](https://github.com/cesium/2018.seium.org/graphs/contributors)
+[See more Contributors](https://github.com/cesium/2019.seium.org/graphs/contributors)
 
 Design made by [Jorge Simão](https://www.linkedin.com/in/jorgepedrosimao)
