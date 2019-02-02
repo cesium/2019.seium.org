@@ -127,9 +127,18 @@ speakers:
       environment". With interests in the areas of Machine Learning,
       Ubiquitous Computing and DevOps for cross-platform applications.
   jorge_resende:
-    about: Degree in Electronic Engineering at University of Minho, dedicated his career to develop software and hardware for automated industrial equipment. Currently CTO of IEM4.0 and teacher in automation and robotics courses at University of Aveiro.
+    about: |
+      Degree in Electronic Engineering at University of Minho, dedicated his
+      career to develop software and hardware for automated industrial
+      equipment. Currently CTO of IEM4.0 and teacher in automation and robotics
+      courses at University of Aveiro.
   nuno_cascais:
-    about: Having studied Chemical Engineering at University of Porto and having 10 years of professional experience in the automobile industry, Nuno Cascais pursued an MBA in Enterprise Management at University Fernando Pessoa. That was his start point for the creation of synergies that led to the birth of IEM4.0
+    about: |
+      Having studied Chemical Engineering at University of Porto and having 10
+      years of professional experience in the automobile industry, Nuno Cascais
+      pursued an MBA in Enterprise Management at University Fernando Pessoa.
+      That was his start point for the creation of synergies that led to the
+      birth of IEM4.0
   rui_saraiva:
     about: |
       Graduated in Electronic Engineering and Computer Networks by Escola
@@ -169,9 +178,24 @@ speakers:
 
       Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
-    about: 20 years of experience in IT management and project consulting.</span><span class="aboutspeaker"> Currently Scrum Master at a large project in the United States, HCP/SAP UI5.</span><span class="aboutspeaker"> Education in Management, PMP (Project Management Professional) certificate from PMI and PSM (Professional Scrum Master) from scrum.org . </span><span class="aboutspeaker"> Current hobbies are surfing, playing soccer, and watching son playing little league.
+    about: |
+      20 years of experience in IT management and project consulting.
+
+      Currently Scrum Master at a large project in the United States, HCP/SAP
+      UI5.
+
+      Education in Management, PMP (Project Management Professional)
+      certificate from PMI and PSM (Professional Scrum Master) from scrum.org.
+
+      Current hobbies are surfing, playing soccer, and watching son playing
+      little league.
   andre_silva:
-    about: Masters Degree in Software Engineering from University of Minho. Started working at Accenture in 2016 and participates in the implementation of custom workforce management solutions for international clients. </span><span class="aboutspeaker"> In his free times enjoys motorcycle touring.
+    about: |
+      Masters Degree in Software Engineering from University of Minho. Started
+      working at Accenture in 2016 and participates in the implementation of
+      custom workforce management solutions for international clients.
+
+      In his free times enjoys motorcycle touring.
   daniel_ferrari:
     about: |
       Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D.
@@ -214,9 +238,24 @@ speakers:
       Engineering Director and in 2017, José Carreiras was appointed
       Director of the Technical Development Center of Braga.
   raphael_espanha:
-    about:
-  raul_azevedo:
-    about:
+   about: |-
+     With a degree in Biomedical Engineering and a Masters in Medical
+     Informatics by Universidade do Minho, Raphael began his internsh ip at
+     Philips in Aachen, Germany. He completed his master's thesis in Hospital
+     Universitário de Colónia where he combined medical images and clinical
+     data into a model of Deep Learning (DL), his work being published in the
+     paper "Combining Image and Non-image Clinical Data: An Infrastructure that
+     Allows Machine Learning Studies in a Hospital Environment". In Portugal,
+     he continued his work at Neadvance on image segmentation projects. He is
+     currently a scientist at WeDo Technologies, where his main focus is the de
+     tection of fraud in Telecom.
+   raul_azevedo:
+     about: |-
+       Raul Azevedo, after completing his higher education in Computer Systems
+       Engineering, had a rich and varied experience as a leader in Information
+       Systems, in a diversity of sectors such as manufacturing, technology,
+       retail and banking. Today, Raul is VP of WeDo Technologies responsible
+       for product development.
   ricardo_soares:
     about: |
       Ricardo is a software developer at Blip. He is not intimidated in
@@ -411,8 +450,8 @@ activities:
       The inaugural session of this year's edition. The SEI calendar and
       partners will be presented. And, possibly, some surprises.
   apresentacao_desafios:
-    name:
-    about:
+    name: Challenges Presentation
+    about: Presentation of all the challenges that will happen during the week.
   talk_blip:
     name: Mutation testing - Let's kill some mutants
     about: |
@@ -449,7 +488,7 @@ activities:
       engine for several platforms, from mobile to consoles.
   apresentacao_blip:
     name: Blip Presentation
-  job:
+  remote_podcast:
     name: Remote Work Podcast
     about: |
       Remote Work Podcast, a podcast about working from anywhere,
@@ -471,8 +510,24 @@ activities:
       How projects that uses AGILE are adapting to highly complex demands and
       immediately development/delivery needed.
   workshop_pixelmatters:
-    name:
-    about:
+    name: Developing a web application with Vue.js
+    about: |-
+      Vue.js is a JavaScript framework created with the aim of facilitating
+      the construction of interactive interfaces. The Vue.js community has
+      has grown significantly in recent years, 125,000 stars on Github.
+
+      In this workshop we will create an application of Vue.js from scratch,
+      having as objectives:
+
+      * Understand how Vue CLI 3 can help us create vue applications;
+      * Make use of "single file components" (*.vue files);
+      * Understand the life cycle of Vue applications;
+      * Know how communication between components is made;
+      * Use VueX as a store to centralize application.
+
+      Prerequisites:
+
+      * Computer and elementary knowledge of Javascript.
   workshop_outsystems:
     name: Mobile and web rapid application development with OutSystems
     about: |
@@ -509,30 +564,48 @@ activities:
   arraial:
     name: Arraial de engenharia
     about: |
-      Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de
-      Engenharia Informática proporciona-te uma noite épica!
+      With bifanas and pint on sale, to the sound of a Dj, the Software
+      Engineering gives you an epic night!
   workshop_andre_sousa:
     name: React.js Workshop
-    about: React.js
-  workshop_wedo:
-    name: Deep Learning Introduction
-    about:
+    about: |-
+      "React.js workshop", coordinated by André Sousa, where you can learn
+      the basics about React and create a mini project.
   talk_wedo:
     name: |
       Automated Machine Learning: The next frontier in Fraud Detection
-    about:
+    about: |
+      Although it is one of the most widely used cases of Machine Learning,
+      fraud detection is far from one of the most simplest application. In this
+      Talk, Raul will share WeDo's experience in the application of Machine
+      Learning in the field of fraud man agement, and why AutoML is currently
+      one of the priority topics of WeDo's I+D strategy.
+  workshop_wedo:
+    name: Introduction to Deep Learning
+    about: |
+      The purpose of this workshop is to provide an overview of the
+      fundamentals of Deep Learning in the context of image classification.
+      The workshop will be held using Jupyter Notebook, an interactive web
+      computing environment. Participants will be gui ded in the implementation
+      of convolutional neural networks using Keras - Deep Learning library for
+      Python with support for GPU acceleration.
   talk_talkdesk:
     name: The Data Scientist Evolution
     about:
-  talk:
-    name: |
+  talk_iem4:
+    name: >-
       IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
-    about:
+    about: |
+      A journey through the journey of materializing a dream, where we
+      started and how we learn to think how we could create value, in the
+      solutions that exceed the needs of our customers.
   apresentacao_bosch:
     name: Bosch Presentation
   rally:
-    name:
-    about:
+    name: Pub Crawl Competition
+    about: |-
+      The traditional Pub Crawl Competition, a social event that aims to promote
+      social interaction among SEI participants.
   workshop_smithmicro:
     name: THE ILLUSION OF LIFE - A LESSON IN ANIMATION
     about: |-
@@ -548,13 +621,34 @@ activities:
       as well as basic knowledge of Linear Algebra.
   talk_aptiv:
     name: Transforming Mobility
-    about:
+    about: |
+      Approach about our focus on bringing the next generation of autonomous vehicles,
+      intelligent cities and connectivity to life. Besides that,
+      other topics such as the new autonomous driving technology,
+      the redefinition of infotainment connectivity and new inteligent
+      mobility solutions.
   talk_bruno_ribeiro:
     name: Gamification 1-0-1
-    about:
+    about: |
+      What is the power of games, what can we get out of them? We use all
+      days, elements in the games without having the notion of doing it,
+      it is an automatic human behavior that identifies and selects
+      actions that provoke better benefits for the resolution of a given
+      situation.
+
+      Games are present in our lives in an irreversible way. How is it
+      that we can take advantage of this premise and use it to solve
+      problems, challenges, or just improving our day to day? The various
+      examples of gamification, with cases of success and failure. A practical
+      vision of a Gamification Designer.
   talk_andre_barbosa:
     name: Building data driven products at scale
-    about:
+    about: |
+      Everyday millions of users use Skyscanner to look up the
+      flights, hotels, trains and cars. All these surveys generate a large
+      amount of data. In this talk let's look at a couple of examples where
+      we use this data to build new products and improve the user experience
+      using our service.
   dinner:
     name: Networking Dinner
     about: |

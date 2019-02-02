@@ -165,23 +165,27 @@ speakers:
       automação de infra-estruturas na cloud, assim como, na definição de
       processos de desenvolvimento.
   sergio_gaio:
-    about: |-
-      Diretor Assistente da Accenture Portigal, com 17 anos na empresa e focado 
-      em ajudar clientes a abordar os seus desafios de gestão de recursos desde 
-      há 10 anos. 
-      
-      Conhecimento extenso em em comunicação e alta tecnologia na gestão de 
-      recursos de trabalho e lançamento de soluções TI. No âmbito da gestão de
-      recursos de trabalho, participou na implementação das tecnologias
-      ClickSoftware, Oracle Field Service e ServiceMax. Colaborou com clientes
-      na área das telecomunicações, seguradoras e utilidades.
-      
-      Diretor técnico e funcional do lançamento de uma ferramenta de gestão
-      de recursos de trabalho com funcionalidades modernas adotao por mais
-      de 25 clientes a nível mundial. 
-      
-      Tem um curso em ciências da computação e administração de negócios
-      pelo ISCTE-IUL.
+    about: |
+      Sérgio is a Associate Director at Accenture Portugal, with 17 year in the
+      company and spent the last 10 years helping clients address their
+      workforce management (WFM) challenges.
+
+      Has extensive knowledge in Communications & High Tech and experience in
+      WFM, CRM and IT deployment custom solution. In the WFM domain has
+      participate in implementations of ClickSoftware, Oracle Field Service
+      (TOA) and ServiceMax. Trained in the Salesforce Field Service Lightning
+      and IFS. Collaboration on WFM solutions with Telecom, Utilities and
+      Insurance customers.
+
+      Sérgio has been the Functional/Technical Lead for the deployment of an
+      end to end WFM solution with a state-of-the-art features for Demand &
+      Forecast, Schedule, Mobile, Reporting and Locate modules for more than 25
+      customer around the world.
+
+      Sérgio hold’s a degree in Computer Science and Business Administration
+      from the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)
+
+      Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
     about: |
       Carlos Jesus tem 20 anos de consultoria em projectos de gestão e TI.
@@ -327,9 +331,9 @@ speakers:
 
       Nos seus tempos livres tem preferência por se desconectar do mundo
       abstrato das tecnologias e ligar-se ao mundo terreno. Apaixonado pela
-      prática de desportos combinada com desfrutar da natureza. Aprecia
+      prática de desportos combinada com desfrutar da natureza.  Aprecia
       socializar com pessoas diretamente, explorar outras culturas e
-      gastronomia.
+      gastronomia".
   leandro_duarte:
     about: |
       Mestre em Engenharia de Telecomunicações e Informática pela UM,
@@ -507,7 +511,7 @@ activities:
       for several platforms, from mobile to consoles.
   apresentacao_blip:
     name: Apresentação da BLIP
-  job:
+  remote_podcast:
     name: Remote Work Podcast
     about: |
       Remote Work Podcast, um podcast sobre trabalhar a partir de qualquer
@@ -589,7 +593,9 @@ activities:
       de Engenharia Informática proporciona-te uma noite épica!
   workshop_andre_sousa:
     name: Workshop de React.js
-    about: React.js
+    about: |-
+      “Workshop de React.js”, coordenado por André Sousa, onde podes aprender
+      os básicos sobre React e criar um mini projecto.
   workshop_wedo:
     name: Introdução ao Deep Learning
     about: |
@@ -615,8 +621,8 @@ activities:
       Fica a conhecer melhor as origens e definições de Data Science e a
       evolução atual desta área nas empresas e quais os papéis que este
       profissional pode assumir dentro das equipas.
-  talk:
-    name: |
+  talk_iem4:
+    name: >-
       IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
     about: |
       Uma viagem pela jornada de materialização de um sonho, onde começamos e
@@ -724,14 +730,14 @@ activities:
       Nesta talk vamos explicar este caminho e a sua aplicabilidade nos
       produtos PRIMAVERA, através de insights e forecasting.
   talk_farfetch:
-    name: |
-      Career advice from an Engineering Manager!
-      (...and why Farfetch is an awesome place to start!)
-    about: |
-      Starting your professional career can be a daunting thought. The
-      presentation will go through some of the main challenges and things that
-      don’t teach you at University, as well as some advice for your first
-      steps.
+    name: |-
+      Conselho de carreira de um Engineering Manager!
+      (... e porque a Farfetch é um ótimo lugar para começar!)
+    about: ​​|-
+      Começar a sua carreira profissional pode ser um pensamento assustador. A
+      apresentação vai passar por alguns dos principais desafios e coisas que
+      não te ensinam na Universidade, bem como alguns conselhos para os seus
+      primeiros passos.
   encerramento:
     name: Encerramento & entrega de prémios
     about: |
