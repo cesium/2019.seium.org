@@ -131,9 +131,23 @@ speakers:
   nuno_cascais:
     about: Having studied Chemical Engineering at University of Porto and having 10 years of professional experience in the automobile industry, Nuno Cascais pursued an MBA in Enterprise Management at University Fernando Pessoa. That was his start point for the creation of synergies that led to the birth of IEM4.0
   rui_saraiva:
-    about:
+    about: |
+      Graduated in Electronic Engineering and Computer Networks by Escola
+      Superior de Tecnologia e Gestão do Instituto Politécnico of Viana do
+      Castelo, with a vein of Full-Stack developer since the 12th year. Since
+      then it has been dedicated to the development of web applications, both
+      front-end and back-end. Has a great passion for developing progressive
+      web applications (PWAs).
   fabio_martins:
-    about:
+    about: |
+      Attended a degree in Electrical and Electronic Engineering of Instituto
+      Superior de Engenharia da Universidade do Algarve. He was co-founder and
+      CTO of Skilleo and in recent years has assumed the position of CTO at
+      Pixelmatters. During his professional career he worked in front-end and
+      back-end developer positions in a variety of business contexts. More
+      recently, he has focused on the development and automation of
+      infrastructures in the cloud, as well as on the definition of development
+      processes.
   sergio_gaio:
     about: |
       Sérgio is a Associate Director at Accenture Portugal, with 17 year in
