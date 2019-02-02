@@ -61,12 +61,251 @@ defaults:
     dec: Dec
 
 speakers:
-  headline: During this week, you have the opportunity to interact with many recognized speakers, national, international and notorious companies! You can get to know them better here.
-  eugene_petrenko:
-    about: During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene During years, Eugene ...
-  mike_elsmore:
-    about: Mike is american Mike is american Mike is american Mike is american Mike is americanoMike is american Mike is american...
+  headline: |
+    During this week, you have the opportunity to interact with
+    many recognized speakers, national, international and notorious
+    companies! You can get to know them better here.
+  celso_martinho:
+    about: |-
+      Celso Martinho is someone that finds motivation in challenges, an
+      optimistic technological geek, a man of the product and a business
+      oriented soul, thrown into a managerial career. Founder of SAPO, the
+      biggest internet project in Portugal, now a media company and part of the
+      innovation engine that is Portugal Telecom, he now builds large scale B2C
+      services in areas such as: cloud, e-commerce, e-payments and IPTV
+      interactivity. His past is composed of high level management, software
+      projects management, systems architecture, technical product development
+      and several decades of experience in the telecom and internet industries.
 
+      Celso is also the CEO and founder of Bright Pixel, a software studio,
+      home to a team of industrie experts with vast experience using technology
+      and creativity to create products with global reach and services in a
+      diverse group of areas such as web development, security, e-payment,
+      big-data and user interface design.
+  bruno_ribeiro:
+    about: |
+      Bruno is a problem solver, with a diverse background and alongside a
+      strong focus in Game Design. He started designing games from an early
+      age and destroying the rules of the traditional board games.  He has
+      also accompanied various Portuguese Game Designers as a consultant
+      and has more then 30 hostage prototypes waiting to be released.
+
+      He's a writer, when he can, and splits his time between family, with
+      his two kids, and being an entertainer in an online Role Playing Game
+      channel, he's a storyteller by heart and lives in his imagination of
+      multiple worlds, stepping among us every once in a while.
+  david_amador:
+    about: |
+      David started to mod (and play) games as soon as he had access to a
+      computer/console. After some time working professionally in the
+      gaming industry he decided to go independent and make his own games
+      back in 2010. Among the titles he worked on you can find Vizati and
+      Puwang. Most recently, after creating Upfall Studios, his game, Quest
+      of Dungeons, released to mobile and consoles, like 3DS, Xbox One, PS4
+      and Switch.
+  andre_pimenta:
+    about: |
+      CEO e co-fundador of Performetric and PhD in Informatics specialized
+      in Artificial Intelligence on the University of Minho.
+  andre_barbosa:
+    about: |
+      I enrolled in LEI in 2006 and, with some help, I manage to finish the
+      course. I passed through various industries and companies until I
+      ended up joining Skyscanner, challenged by the amount of data and
+      daily users. Currently I spend my days with a team of Software
+      Engineers and Data Scientists trying to create a personalized
+      experience to our users.
+  andre_sousa:
+    about: |
+      André is currently a guest assistant professor at the University of
+      Trás-os-Montes and Alto Douro in the undergraduate courses of
+      Computer Science and Information Technology and Communication,
+      teaching curricular units Web Development, Object-Oriented
+      Programming, Systems Integration, and Distributed Systems, among
+      others, completed his PhD with the theme "Dynamic and
+      context-sensitive adaptation of mobile interfaces in a ubiquitous
+      environment". With interests in the areas of Machine Learning,
+      Ubiquitous Computing and DevOps for cross-platform applications.
+  jorge_resende:
+    about:
+  nuno_cascais:
+    about:
+  rui_saraiva:
+    about:
+  fabio_martins:
+    about:
+  sergio_gaio:
+    about: |
+      Sérgio is a Associate Director at Accenture Portugal, with 17 year in
+      the company and spent the last 10 years helping clients address their
+      workforce management (WFM) challenges.
+
+      Has extensive knowledge in Communications & High Tech and experience
+      in WFM, CRM and IT deployment custom solution. In the WFM domain has
+      participate in implementations of ClickSoftware, Oracle Field Service (TOA)
+      and ServiceMax. Trained in the Salesforce Field Service Lightning and IFS.
+      Collaboration on WFM solutions with Telecom, Utilities and Insurance customers.
+
+      Sérgio has been the Functional/Technical Lead for the deployment of an end to end WFM
+      solution with a state-of-the-art features for Demand & Forecast, Schedule, Mobile,
+      Reporting and Locate modules for more than 25 customer around the world.​
+
+      Sérgio hold’s a degree in Computer Science and Business Administration from
+      the ISCTE-Instituto Universitário de Lisboa (ISCTE-IUL)​.
+
+      Executive Master Business Administration - ISCTE / INDEG Business School.
+  carlos_jesus:
+    about:
+  andre_silva:
+    about:
+  daniel_ferrari:
+    about: |
+      Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D.
+      in IA and Machine Learning. As a researcher, he published a book and
+      many articles in partnership with Computing and Biology
+      labs. As a Software Engineer, he has contributed to the development of
+      an ERP planning system for 10 years. As Data Scientist, he combines his
+      experience as an engineer and researcher to develop
+      complete pipelines from data mining and manipulation to production
+      distribution of Machine Learning models.
+  marcio_azevedo:
+    about: |
+      Márcio is currently an Engineering Manager at Farfetch. With more than
+      ten years of experience in the software industry, he started as a software
+      developer after graduating from the University of Minho and
+      has worked at different industries like healthcare, media,
+      telecommunications and finance before joining Farfetch.
+  paulo_gomes:
+    about: |
+      Paulo Gomes has born in Brazil and works with BI for over 10 years.
+      Since last year, he has been migrating to the world of Big Data.
+
+      After work in the retail, financial and telephone areas in Brazil,
+      he accepted the challenge of being part of Farfetch. Coming from
+      São Paulo, he has been in Portugal for about 2 years and started
+      to lead a team in the data area 10 months ago.
+
+      Agnostic to suppliers, Paulo has worked with Microsoft,
+      Oracle, Cloudera and now Google.
+  diogo_cruz:
+    about: |
+      Diogo Cruz completed his Master's Degree in Electronic Engineering
+      from the University of Minho in 2016, where he remained in a research
+      project in the automotive area until 2017. In the same year he joined
+      the Aptiv Technical Development Center in Braga as Software Engineer.
+  jose_carreiras:
+    about: |
+      José Carreiras started his career in 1992 in Production Engineering,
+      having worked in several areas. Most recently, in 2014 he was appointed
+      Engineering Director and in 2017, José Carreiras was appointed
+      Director of the Technical Development Center of Braga.
+  raphael_espanha:
+    about:
+  raul_azevedo:
+    about:
+  ricardo_soares:
+    about: |
+      Ricardo is a software developer at Blip. He is not intimidated in
+      switching between frontend and backend technologies, without forgetting
+      to test everything to assure the quality of his code. He believes that
+      with an amazing team the sky is the limit.
+  nuno_fernandes:
+    about: |
+      Nuno Fernandes is a Computer Systems Engineer graduated at University of
+      Minho and is currently the Research and Development  Director at Eurotux
+      Informatica. Co-Author of the book Apache Instalação, Configuração Gestão
+      Servidores Web, edited by FCA, Nuno has now been responsible for the
+      implementation of several projects with large technology infrastructure.
+  cesar_pinto:
+    about: |
+      César joined OutSystems as Engagement Manager by having the
+      responsibility for the overall management and delivery of innovative
+      solutions using the OutSystems technology thru an agile approach.
+      Recently become an Engagement Manager Mentor by leading a team of
+      Engagement Managers with the responsibility of accelerating the team
+      growth to an outstanding level and ensuring the team's deliveries
+      success.
+  hernani_fernandes:
+    about: |
+      Hernâni joined OutSystems in mid-2016 as a Delivery Manager, being
+      responsible for the technical delivery of innovative solutions based on
+      customer business needs and drivers. Since mid-2018 he's also a member of
+      the Architecture Experts, who are responsible for designing flexible and
+      cost-effective solution architectures that are aligned with the
+      OutSystems customers' business strategies.
+  paulo_marques:
+    about: |
+      Paulo has a masters degree in Informatics Engineering from the University
+      of Minho and joined OutSystems as a software engineer where he had the
+      opportunity to put in use his problem-solving skills to contribute to the
+      development of OutSystems's platform integration systems so that the use
+      of data and logic from  external systems is a seamless experience.
+      Recently, he joined the Mac IDE team with the purpose that both
+      experience and capabilities of the OutSystems IDE is identical across
+      operating systems.
+  tiago_fernandes:
+    about: |
+      Tiago joined the team as a software engineer after completing his
+      master's degree in Informatics Engineering at the University of Minho in
+      2017 in a partnership with OutSystems. Tiago is a very methodical and
+      curious person who had the opportunity to participate in several
+      engineering challenges and craft some of the features that are part of
+      OutSystems IDE.  Currently, he is working in the Mac IDE team aiming to
+      create a seamless IDE experience for OutSystems Developers.
+  carlos_moreira:
+    about: |
+      Carlos Moreira is a Business Intelligence consultant with E2E
+      experience in data processing, mostly for large financial entities.
+      He adapts development processes and takes advantage of innovative
+      techniques, from Cloud and Big Data services, that allow him to
+      orchestrate robust and demanding solutions in the national and
+      international projects that he has been involved with. He loves
+      good challenges, complex systems, team coordination and is focused
+      on actively participate in the constant evolution
+      of the surrounding environment.
+
+      In his free time he prefers to disconnect from the abstract world of
+      technologies and connect with the earthly world. He’s in love with
+      the practice of sports combined with enjoying nature. He enjoys
+      socialize with people, exploring other cultures and gastronomy.
+  leandro_duarte:
+    about: |
+      Master in Telecommunications Engineering and Informatic at UM,
+      he has dedicated his career to the software testing area,
+      currently working at PRIMAVERA BSS. He is an enthusiast
+      of new technologies, and "obsessed" by the quality of products!
+  pedro_ferreira:
+    about: |
+      Master in Biological Engineering and PhD in Mechanical Engineering
+      from UM, he developed a great interest in the IT area that led
+      him to undertake a postgraduate degree in Software Engineering,
+      also at UM. This course gave him the opportunity to integrate
+      PRIMAVERA BSS in 2017, where he started working on data processing
+      with Business Intelligence technologies. He is currently a developer
+      in the AI area, and is currently working on Sales Forecasting.
+  joao_martins:
+    about: |
+      With a licentiate degree in Computer Science by Faculdade de
+      Ciências da Universidade do Porto, João soon started taking
+      special interest in computer graphics and low level programming.
+      With experience in game development, virtual reality and image
+      processing, he currently works at Smith Micro as lead developer
+      of Moho, an award winning 2D animation software.
+  jno:
+    about: |
+      Researcher at the Reliable Software Laboratory (HASLab) and professor at
+      Department of Informatics at School of Engineering of the University of
+      Minho.
+  jbb:
+    about: |
+      José Bernardo Barros, better known by his students as JBB, is a professor
+      in the Department of Informatics at the University of Minho and a Senior
+      Researcher at HASLab/INESC TEC.
+  psa:
+    about: |
+      Paulo Sérgio Almeida is a professor at Department of Informatics of the
+      University of Minho and Researcher in the area of systems distributed at
+      HASLab.
 team:
   organization: Organization
   staff: Staff
@@ -115,7 +354,7 @@ hackathon:
       time: 6PM-7PM
 
 about:
-  activities: 8 days of activities
+  activities: 5 days of activities
   free: Totally free
   challenges: Multiple challenges and contests
   talks_workshops_and_hackathon: Talks, Workshops and Hackathon
@@ -124,21 +363,219 @@ about:
   organisation: The SEI is free for participants and is organized by volunteers from CeSIUM.
 
 getting_here:
-  headline: If you do not know exactly how to get to SEI, we help. Take advantage of train tickets at a very special price, thanks to our partnership with CP - Comboios de Portugal, or come by own means. What you can not do is miss this edition of your favorite week.
+  headline: |-
+    If you do not know exactly how to get to SEI, we help. Take advantage of
+    train tickets at a very special price, thanks to our partnership with CP
+    - Comboios de Portugal, or come by own means. What you can not do is miss
+    this edition of your favorite week.
   train:
     title: Train
-    description: >
+    description: |
       All roads lead to SEI. Several train lines cross in Braga in order to
       bring you to Portugal's best Software Engineering Week.
   bus:
     title: Bus
-    description: You can travel from the center and surroundings of Braga to the Campus of Gualtar using the various buses of the Urban Transport of Braga (TUB), namely by bus number 43. From other cities of the country there are several companies with direct buses to Braga. Rede Expressos has the widest coverage. Regional and express buses end their journey at the central bus station in the center of the city.
+    description: |
+      You can travel from the center and surroundings of Braga to the Campus
+      of Gualtar using the various buses of the Urban Transport of Braga
+      (TUB), namely by bus number 43. From other cities of the country there
+      are several companies with direct buses to Braga. Rede Expressos has
+      the widest coverage. Regional and express buses end their journey at
+      the central bus station in the center of the city.
   car:
     title: Car
-    description: Whether you come by the motorway or the national, the safest is to put in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua da Universidade, Gualtar, Portugal.
+    description: |
+      Whether you come by the motorway or the national, the safest is to put
+      in the GPS the coordinates 41.56131, 8.393804 or go to the address Rua
+      da Universidade, Gualtar, Portugal.
 
 activities:
-  coderdojo:
-    name: CoderDojo
-    about: Description of CoderDojo
-    time: 10AM-12AM
+  sessao_abertura:
+    name: Opening session
+    about: |
+      The inaugural session of this year's edition. The SEI calendar and
+      partners will be presented. And, possibly, some surprises.
+  apresentacao_desafios:
+    name:
+    about:
+  talk_blip:
+    name: Mutation testing - Let's kill some mutants
+    about: |
+      Every day we write tests to ensure the quality of our code. But what
+      ensures the quality of our tests?
+
+      Mutation Testing is a method of inserting faults (mutants) into programs
+      to verify whether the tests pick them up, thereby guaranteeing their
+      quality.
+
+      Do you want to improve the quality of your tests? Do not let mutants
+      invade your code.
+
+      Join us to learn how to create and kill some mutants in JavaScript.
+  talk_accenture:
+    name: Accenture Technology Vision – Intelligent Enterprise Unleashed
+    about: |
+      **Tech Trends Summary**
+
+      Five technology trends are upping the game and allowing companies to tap
+      into the powerful potential of intelligent enterprise, creating new
+      business opportunities and helping to change the world as we know it.
+
+      Leading companies are improving the way we live with new products and
+      services that will become indispensable in the future.
+
+      Business is getting personal. Leaders must shift their mindsets and
+      business models to focus on forging strong, trusted relationships with
+      partners, customers, employees, governments, and more.
+  talk_upfall:
+    name: Analysing a Cross-Platform Game engine
+    about: |
+      An overview of the process, tools and libs used to build a custom
+      engine for several platforms, from mobile to consoles.
+  apresentacao_blip:
+    name: Blip Presentation
+  job:
+    name: Remote Work Podcast
+    about: |
+      Remote Work Podcast, a podcast about working from anywhere,
+      how to do that, what tools to use and more.
+  workshop_xpandit:
+    name: Data crunching with Tableau
+    about: |-
+      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
+      Tableau com os respetivos exercícios e uma sessão aberta de questões
+      posteriormente.
+
+      Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
+      com um dos SOs anteriores (De preferência com a última versão do
+      Tableau Desktop instalado).
+  workshop_accenture:
+    name: |
+      Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
+    about: |
+      How projects that uses AGILE are adapting to highly complex demands and
+      immediately development/delivery needed.
+  workshop_pixelmatters:
+    name:
+    about:
+  workshop_outsystems:
+    name: Mobile and web rapid application development with OutSystems
+    about: |
+      OutSystems is a rapid application development platform that lets you
+      visually develop your mobile and web applications in a visual
+      way.
+
+      Crafted by engineers with an obsessive attention to detail, every
+      aspect of our platform is designed to help you build and deliver better
+      apps faster.
+
+      Join us if you want to understand what we do, and how we do it!
+  talk_andre_pimenta:
+    name: MVP (Minimum Viable Product) for AI Products
+    about: |
+      Creating products based on artificial intelligence is an hard task and
+      requires a very high investment of time and money and often with an
+      non-immediate return. Creating MVPs can be the solution to validate the
+      investment needed.
+  talk_celso_martinho:
+    name: Startups for Geeks
+    about: |
+      Engineers are particularly good at thinking of ways to use technology
+      to solve real problems for people and companies, but creating a product
+      and a business is a different reality. Unlike social media tell us,
+      creating a startup has such of enthusiasm and professional achievement
+      than pain and difficulties. In this talk, Celso Martinho is going to
+      explain us what he learned during his career and how Bright Pixel, a
+      "venture builder studio" and "early stage investor", can help
+      technology-based entrepreneur achieve theirs ambitions.
+  tertulia:
+    name: Informatic in Portugal
+    about:
+  arraial:
+    name: Arraial de engenharia
+    about: |
+      Com bifanas e finos à venda, ao som de um Dj, a Comissão de Festas de
+      Engenharia Informática proporciona-te uma noite épica!
+  workshop_andre_sousa:
+    name: React.js Workshop
+    about: React.js
+  workshop_wedo:
+    name: Deep Learning Introduction
+    about:
+  talk_wedo:
+    name: |
+      Automated Machine Learning: The next frontier in Fraud Detection
+    about:
+  talk_talkdesk:
+    name: The Data Scientist Evolution
+    about:
+  talk:
+    name: |
+      IEM4.0 - Indústria Automóvel: De Startup a parceiro tecnológico de automação industrial
+    about:
+  apresentacao_bosch:
+    name: Bosch Presentation
+  rally:
+    name:
+    about:
+  workshop_smithmicro:
+    name: THE ILLUSION OF LIFE - A LESSON IN ANIMATION
+    about: |-
+      In this workshop we'll be working out computer graphics as a tool
+      to generate animated scenes focusing on 2D animation. We'll be analysing
+      various concepts needed to generated fluid animations, applicable to a
+      wide range of platforms and fields, like Game Development, Simulation
+      System, UI/UX and virtual environments in general, and implementing
+      solutions according to said standards.
+
+      Pre-Requisites: the attendants should have a rudimentary understanding
+      of computer graphics (rendering)
+      as well as basic knowledge of Linear Algebra.
+  talk_aptiv:
+    name: Transforming Mobility
+    about:
+  talk_bruno_ribeiro:
+    name: Gamification 1-0-1
+    about:
+  talk_andre_barbosa:
+    name: Building data driven products at scale
+    about:
+  dinner:
+    name: Networking Dinner
+  workshop_eurotux:
+    name: Devops @Eurotux
+    about:
+  workshop_farfetch:
+    name: Small and Big Data at Farfetch
+    about: |-
+      The Age of Data (1 hora)
+      * A evolução de dados pela história
+      * Business Intelligence
+      * Big Data
+      * Data Quality e Data Governance
+      * Uma breve visão sobre Data Science
+      * Data at Farfetch
+      * Q&A
+
+      HandsOn
+      * Google Data Plataform - Explicação (10 minutos)
+      * Using the BigQuery Web UI (40 minutos)
+      * Q&A
+  talk_primavera:
+    name: Big Data and AI/ML - A história do Big Data na PRIMAVERA
+    about:
+  talk_farfetch:
+    name: |
+      Career advice from an Engineering Manager!
+      (...and why Farfetch is an awesome place to start!)
+    about: |
+      Starting your professional career can be a daunting thought. The
+      presentation will go through some of the main challenges and things that
+      don’t teach you at University, as well as some advice for your first
+      steps.
+  encerramento:
+    name:
+    about:
+  hackathon:
+    name: Hackathon
+    about:

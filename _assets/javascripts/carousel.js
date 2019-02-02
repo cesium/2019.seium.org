@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
   $('.partners-carousel').slick({
     autoplay: true,
@@ -19,12 +19,15 @@ $(document).ready(function(){
         dots: true
       }
     }
-  ]
+    ]
   });
 
-  var day = new Date().getDay();
+  var today = new Date();
+
+  weekday = today.getDate() > 3 ? today.getDay() : 0;
+
   var slickOpts = {
-    initialSlide: day,
+    initialSlide: weekday,
     dots: true,
     autoplay: false,
     infinite: false,
@@ -37,7 +40,8 @@ $(document).ready(function(){
         dots: false
       }
     }
-  ]};
+    ]
+  };
 
 
   $('.agenda-carousel').slick(slickOpts);
