@@ -127,9 +127,9 @@ speakers:
       environment". With interests in the areas of Machine Learning,
       Ubiquitous Computing and DevOps for cross-platform applications.
   jorge_resende:
-    about:
+    about: Degree in Electronic Engineering at University of Minho, dedicated his career to develop software and hardware for automated industrial equipment. Currently CTO of IEM4.0 and teacher in automation and robotics courses at University of Aveiro.
   nuno_cascais:
-    about:
+    about: Having studied Chemical Engineering at University of Porto and having 10 years of professional experience in the automobile industry, Nuno Cascais pursued an MBA in Enterprise Management at University Fernando Pessoa. That was his start point for the creation of synergies that led to the birth of IEM4.0
   rui_saraiva:
     about:
   fabio_martins:
@@ -155,9 +155,9 @@ speakers:
 
       Executive Master Business Administration - ISCTE / INDEG Business School.
   carlos_jesus:
-    about:
+    about: 20 years of experience in IT management and project consulting.</span><span class="aboutspeaker"> Currently Scrum Master at a large project in the United States, HCP/SAP UI5.</span><span class="aboutspeaker"> Education in Management, PMP (Project Management Professional) certificate from PMI and PSM (Professional Scrum Master) from scrum.org . </span><span class="aboutspeaker"> Current hobbies are surfing, playing soccer, and watching son playing little league.
   andre_silva:
-    about:
+    about: Masters Degree in Software Engineering from University of Minho. Started working at Accenture in 2016 and participates in the implementation of custom workforce management solutions for international clients. </span><span class="aboutspeaker"> In his free times enjoys motorcycle touring.
   daniel_ferrari:
     about: |
       Daniel Ferrari has a degree in Computer Science, a Master's and Ph.D.
@@ -306,6 +306,7 @@ speakers:
       Paulo Sérgio Almeida is a professor at Department of Informatics of the
       University of Minho and Researcher in the area of systems distributed at
       HASLab.
+
 team:
   organization: Organization
   staff: Staff
