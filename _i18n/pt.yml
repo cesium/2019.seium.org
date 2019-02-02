@@ -634,16 +634,16 @@ activities:
   workshop_smithmicro:
     name: The Illusion of Life - A Lesson in Animation
     about: |-
-      In this workshop we'll be working out computer graphics as a tool
-      to generate animated scenes focusing on 2D animation. We'll be analysing
-      various concepts needed to generated fluid animations, applicable to a
-      wide range of platforms and fields, like Game Development, Simulation
-      System, UI/UX and virtual environments in general, and implementing
-      solutions according to said standards.
+      Neste workshop vamos trabalhar com computação gráfica como uma
+      ferramenta para gerar cenas animadas com foco em animação 2D.
+      Analisaremos vários conceitos necessários para gerar animações fluídas,
+      aplicáveis a uma ampla gama de plataformas, como Desenvolvimento de Jogos,
+      Sistemas de Simulação, UI/UX e ambientes virtuais em geral, e implementar
+      soluções de acordo com esses padrões.
 
-      Pre-Requisites: the attendants should have a rudimentary understanding
-      of computer graphics (rendering)
-      as well as basic knowledge of Linear Algebra.
+      Pré-requisitos: os participantes devem ter uma compreensão rudimentar
+      de computação gráfica (renderização), bem como conhecimentos
+      básicos de Álgebra Linear.
   workshop_aptiv:
     name: Automotive Infotainment Systems
     about: |-
