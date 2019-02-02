@@ -10,6 +10,7 @@
   linkedin: celsomartinho
   web: http://celso.io/
   about: celso_martinho.about
+  main: true
   id: 1
 
 - name: Bruno Ribeiro
@@ -18,6 +19,7 @@
   enterprise: Fractal Mind
   enterpriseURL: http://landing.fractalmind.pt/
   about: bruno_ribeiro.about
+  main: true
   id: 2
 
 - name: David Amador
@@ -30,6 +32,7 @@
   web: http://www.david-amador.com/
   linkedin: davidamador
   about: david_amador.about
+  main: true
   id: 3
 
 - name: André Pimenta
@@ -41,6 +44,7 @@
   twitter: pimenta53
   linkedin: andrepimentaribeiro
   about: andre_pimenta.about
+  main: true
   id: 4
 
 - name: André Barbosa
@@ -53,6 +57,7 @@
   twitter: AndreBarbosa88
   linkedin: andrebarbosaie
   about: andre_barbosa.about
+  main: true
   id: 5
 
 - name: Jorge Resende
@@ -62,6 +67,7 @@
   enterpriseURL: https://www.iem4-0.com/
   linkedin: jorgeresende
   about: jorge_resende.about
+  main: true
   id: 6
 
 - name: Nuno Cascais
@@ -71,7 +77,40 @@
   enterpriseURL: https://www.iem4-0.com/
   linkedin: nuno-cascais-07b9b017
   about: nuno_cascais.about
+  main: true
   id: 7
+
+- name: André Sousa
+  pic: andre-sousa.jpg
+  position: Guest Assistant Professor
+  enterprise: Universidade de Trás-os-Montes e Alto Douro
+  enterpriseURL: https://www.utad.pt/
+  github: Xipas
+  twitter: Xipas
+  linkedin: andré-sousa-6056029
+  about: andre_sousa.about
+  main: true
+  id: 8
+
+- name: Rui Saraiva
+  pic: rui-saraiva.jpg
+  position: Front-End Developer
+  enterprise: Pixelmatters
+  enterpriseURL: http://pixelmatters.com/
+  linkedin: ruisaraiva19
+  about: rui_saraiva.about
+  main: true
+  id: 9
+
+- name: Fábio Martins
+  pic: fabio-martins.jpg
+  position: CTO
+  enterprise: Pixelmatters
+  enterpriseURL: http://pixelmatters.com/
+  linkedin: fabiomartins87
+  about: fabio_martins.about
+  main: true
+  id: 10
 
 #ORADORES EMPRESAS
 
@@ -82,7 +121,8 @@
   enterpriseURL: http://accenture.com/
   linkedin: sergiogaio
   about: sergio_gaio.about
-  id: 8
+  main: false
+  id: 11
 
 - name: Carlos Jesus
   pic: carlos-jesus.png
@@ -90,7 +130,8 @@
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
   about: carlos_jesus.about
-  id: 9
+  main: false
+  id: 12
 
 - name: André Silva
   pic: andre-silva.png
@@ -98,7 +139,8 @@
   enterprise: Accenture
   enterpriseURL: http://accenture.com/
   about: andre_silva.about
-  id: 10
+  main: false
+  id: 13
 
 - name: Daniel Ferrari
   pic: daniel-ferrari.png
@@ -108,15 +150,27 @@
   github: FerrariDG
   linkedin: danielgomesferrari
   about: daniel_ferrari.about
-  id: 11
+  main: false
+  id: 14
 
-- name: Márcio
-  pic: marcio.png
+- name: Márcio Azevedo
+  pic: marcio-azevedo.png
   position: Engineering Manager
   enterprise: Farfetch
   enterpriseURL: https://www.farfetch.com/pt/
-  about: marcio.about
-  id: 12
+  about: marcio_azevedo.about
+  main: false
+  id: 15
+
+- name: Paulo Gomes
+  pic: paulo-gomes.jpg
+  position: Lead Data Enginner
+  enterprise: Farfetch
+  enterpriseURL: https://www.farfetch.com/pt/
+  linkedin: paulo-gomes-4715597
+  about: paulo_gomes.about
+  main: false
+  id: 16
 
 - name: Diogo Cruz
   pic: diogo-cruz.png
@@ -125,7 +179,8 @@
   enterpriseURL: https://www.aptiv.com/
   linkedin: diogoferreiracruz
   about: diogo_cruz.about
-  id: 13
+  main: false
+  id: 17
 
 - name: José Carreiras
   pic: jose-carreiras.png
@@ -134,7 +189,28 @@
   enterpriseURL: https://www.aptiv.com/
   linkedin: jose-carreiras-0546b682
   about: jose_carreiras.about
-  id: 14
+  main: false
+  id: 18
+
+- name: Raphael Espanha
+  pic: raphael-espanha.png
+  position: Data Scientist
+  enterprise: WeDo
+  enterpriseURL: https://www.wedotechnologies.com/
+  linkedin: respanha
+  about: raphael_espanha.about
+  main: false
+  id: 19
+
+- name: Raul Azevedo
+  pic: raul-azevedo.png
+  position: VP Product Development
+  enterprise: WeDo
+  enterpriseURL: https://www.wedotechnologies.com/
+  linkedin: raul-azevedo
+  about: raul_azevedo.about
+  main: false
+  id: 20
 
 - name: Ricardo Soares
   pic: ricardo-soares.png
@@ -142,7 +218,8 @@
   enterprise: Blip
   enterpriseURL: https://blip.pt/
   about: ricardo_soares.about
-  id: 15
+  main: false
+  id: 21
 
 - name: Nuno Fernandes
   pic: nuno-fernandes.png
@@ -151,7 +228,8 @@
   enterpriseURL: https://eurotux.com/
   linkedin: nunofernandes1
   about: nuno_fernandes.about
-  id: 16
+  main: false
+  id: 22
 
 - name: César Pinto
   pic: cesar-pinto.png
@@ -160,7 +238,8 @@
   enterpriseURL: https://www.outsystems.com/
   linkedin: cmpinto
   about: cesar_pinto.about
-  id: 17
+  main: false
+  id: 23
 
 - name: Hernâni Fernandes
   pic: hernani-fernandes.png
@@ -169,7 +248,8 @@
   enterpriseURL: https://www.outsystems.com/
   linkedin: hernani
   about: hernani_fernandes.about
-  id: 18
+  main: false
+  id: 24
 
 - name: Paulo Marques
   pic: paulo-marques.png
@@ -178,7 +258,8 @@
   enterpriseURL: https://www.outsystems.com/
   linkedin: pjmmarques
   about: paulo_marques.about
-  id: 19
+  main: false
+  id: 25
 
 - name: Tiago Fernandes
   pic: tiago-fernandes.png
@@ -186,9 +267,48 @@
   enterprise: OutSystems
   enterpriseURL: https://www.outsystems.com/
   about: tiago_fernandes.about
-  id: 20
+  main: false
+  id: 26
 
-  #HERE
+- name: Carlos Moreira
+  pic: carlos-moreira.png
+  position: Senior BI & Big Data Consultant
+  enterprise: Xpand IT
+  enterpriseURL: https://www.xpand-it.com/pt-pt/
+  linkedin: carlos-moreira
+  about: carlos_moreira.about
+  main: false
+  id: 27
+
+- name: Leandro Duarte
+  pic: leandro-duarte.jpg
+  position: Senior Tester
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/pt/
+  linkedin: leandro-miguel-freitas-duarte-550b2220
+  about: leandro_duarte.about
+  main: false
+  id: 28
+
+- name: Pedro Ferreira
+  pic: pedro-ferreira.jpg
+  position: Developer
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/pt/
+  linkedin: pedro-tiago-ferreira-b5631323
+  about: pedro_ferreira.about
+  main: false
+  id: 29
+
+- name: João Martins
+  pic: joao-martins.jpg
+  position: Lead Software Engineer
+  enterprise: Smith Micro
+  enterpriseURL: https://www.smithmicro.com/
+  linkedin: jo%C3%A3o-martins-0b13579b
+  about: joao_martins.about
+  main: false
+  id: 30
 
 - name: José Nuno Oliveira
   pic: jno.jpg
@@ -196,7 +316,8 @@
   enterprise: Universidade do Minho
   enterpriseURL: https://www.uminho.pt/
   about: jno.about
-  id: 36
+  main: false
+  id: 31
 
 # - name: JBB
 #   pic: jbb.jpg
