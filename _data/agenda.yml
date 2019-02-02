@@ -417,6 +417,8 @@
     - name: talk_primavera.name
       speaker: Leandro Duarte
       speaker2: Pedro Ferreira
+      enterprise: Primavera
+      enterpriseURL: https://pt.primaverabss.com/pt/
       type: talk
       time: 11:30-12:30
       icon: fas fa-globe
