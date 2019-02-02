@@ -176,7 +176,17 @@ speakers:
       has worked at different industries like healthcare, media,
       telecommunications and finance before joining Farfetch.
   paulo_gomes:
-    about:
+    about: |
+      Paulo Gomes has born in Brazil and works with BI for over 10 years.
+      Since last year, he has been migrating to the world of Big Data.
+
+      After work in the retail, financial and telephone areas in Brazil,
+      he accepted the challenge of being part of Farfetch. Coming from
+      São Paulo, he has been in Portugal for about 2 years and started
+      to lead a team in the data area 10 months ago.
+
+      Agnostic to suppliers, Paulo has worked with Microsoft,
+      Oracle, Cloudera and now Google.
   diogo_cruz:
     about: |
       Diogo Cruz completed his Master's Degree in Electronic Engineering
@@ -243,11 +253,36 @@ speakers:
       OutSystems IDE.  Currently, he is working in the Mac IDE team aiming to
       create a seamless IDE experience for OutSystems Developers.
   carlos_moreira:
-    about:
+    about: |
+      Carlos Moreira is a Business Intelligence consultant with E2E
+      experience in data processing, mostly for large financial entities.
+      He adapts development processes and takes advantage of innovative
+      techniques, from Cloud and Big Data services, that allow him to
+      orchestrate robust and demanding solutions in the national and
+      international projects that he has been involved with. He loves
+      good challenges, complex systems, team coordination and is focused
+      on actively participate in the constant evolution
+      of the surrounding environment.
+
+      In his free time he prefers to disconnect from the abstract world of
+      technologies and connect with the earthly world. He’s in love with
+      the practice of sports combined with enjoying nature. He enjoys
+      socialize with people, exploring other cultures and gastronomy.
   leandro_duarte:
-    about:
+    about: |
+      Master in Telecommunications Engineering and Informatic at UM,
+      he has dedicated his career to the software testing area,
+      currently working at PRIMAVERA BSS. He is an enthusiast
+      of new technologies, and "obsessed" by the quality of products!
   pedro_ferreira:
-    about:
+    about: |
+      Master in Biological Engineering and PhD in Mechanical Engineering
+      from UM, he developed a great interest in the IT area that led
+      him to undertake a postgraduate degree in Software Engineering,
+      also at UM. This course gave him the opportunity to integrate
+      PRIMAVERA BSS in 2017, where he started working on data processing
+      with Business Intelligence technologies. He is currently a developer
+      in the AI area, and is currently working on Sales Forecasting.
   joao_martins:
     about: |
       With a licentiate degree in Computer Science by Faculdade de
