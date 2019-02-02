@@ -349,6 +349,14 @@ speakers:
       onde começou por trabalhar em tratamento dos dados com tecnologias de
       Business Intelligence. Atualmente é developer na área de AI, estando
       neste momento a trabalhar em Forecasting de Vendas.
+  joao_martins:
+    about: |
+      Licenciado em Ciências da Computação pela Faculdade de Ciências
+      da Universidade do Porto, João começou cedo a ter um interesse
+      especial em computação gráfica e em programação de baixo nível.
+      Com experiência em desenvolvimento de jogos, realidade virtual e
+      processamento de imagens, atualmente trabalha na Smith Micro como
+      Lead Developer of Moho, um premiado software de animação 2D.
   jno:
     about: |
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
@@ -620,13 +628,22 @@ activities:
       implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
-  ##TODO
   rally:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
   workshop_smithmicro:
-    name: Workshop - SmithMicro
-    about: TBA
+    name: The Illusion of Life - A Lesson in Animation
+    about: |-
+      Neste workshop vamos trabalhar com computação gráfica como uma
+      ferramenta para gerar cenas animadas com foco em animação 2D.
+      Analisaremos vários conceitos necessários para gerar animações fluídas,
+      aplicáveis a uma ampla gama de plataformas, como Desenvolvimento de Jogos,
+      Sistemas de Simulação, UI/UX e ambientes virtuais em geral, e implementar
+      soluções de acordo com esses padrões.
+
+      Pré-requisitos: os participantes devem ter uma compreensão rudimentar
+      de computação gráfica (renderização), bem como conhecimentos
+      básicos de Álgebra Linear.
   workshop_aptiv:
     name: Automotive Infotainment Systems
     about: |-

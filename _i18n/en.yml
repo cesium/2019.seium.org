@@ -248,6 +248,14 @@ speakers:
     about:
   pedro_ferreira:
     about:
+  joao_martins:
+    about: |
+      With a licentiate degree in Computer Science by Faculdade de
+      Ciências da Universidade do Porto, João soon started taking
+      special interest in computer graphics and low level programming.
+      With experience in game development, virtual reality and image
+      processing, he currently works at Smith Micro as lead developer
+      of Moho, an award winning 2D animation software.
   jno:
     about: |
       Researcher at the Reliable Software Laboratory (HASLab) and professor at
@@ -476,8 +484,18 @@ activities:
     name:
     about:
   workshop_smithmicro:
-    name:
-    about:
+    name: THE ILLUSION OF LIFE - A LESSON IN ANIMATION
+    about: |-
+      In this workshop we'll be working out computer graphics as a tool
+      to generate animated scenes focusing on 2D animation. We'll be analysing
+      various concepts needed to generated fluid animations, applicable to a
+      wide range of platforms and fields, like Game Development, Simulation
+      System, UI/UX and virtual environments in general, and implementing
+      solutions according to said standards.
+
+      Pre-Requisites: the attendants should have a rudimentary understanding
+      of computer graphics (rendering)
+      as well as basic knowledge of Linear Algebra.
   talk_aptiv:
     name: Transforming Mobility
     about:

@@ -164,17 +164,6 @@
 
     - coffee: true
 
-##   - name: Apresentação da TBA #TODO
-##     speaker:
-##     enterprise: TBA
-##     enterpriseURL:
-##     time: 16:30-16:45
-##     duration: fifteen-min
-##     about: TBA
-##     type: talk
-##     icon: fa-desktop
-##     place: CP2-B1
-
     - name: tertulia.name #TODO
       speaker: TBA
       speaker2: TBA
@@ -293,10 +282,9 @@
   month: feb
   day_of_week: thursday
   activities:
-    - double: true #TODO
+    - double: true
       nameLeft: workshop_smithmicro.name
-      speakerLeft: TBA
-      speakerLeft2: TBA
+      speakerLeft: João Martins
       enterpriseLeft: Smith Micro
       enterpriseURLLeft: https://www.smithmicro.com/
       timeLeft: 09:00-11:00
