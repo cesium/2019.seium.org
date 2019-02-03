@@ -543,28 +543,41 @@ activities:
     about:
   dinner:
     name: Networking Dinner
+    about: |
+      Dinner with Accenture professionals and Software Engineering
+      students with the goal of strengthen the bond and
+      create a contacts network.
   workshop_eurotux:
     name: Devops @Eurotux
-    about:
+    about: |
+      We will address some of the issues that we have been exploring
+      in the context of devops with emphasis on a migration project
+      that has occurred in a client using technologies such as
+      AWS, GIT, infra-structure as code.
   workshop_farfetch:
     name: Small and Big Data at Farfetch
     about: |-
-      The Age of Data (1 hora)
-      * A evolução de dados pela história
+      The Age of Data (1 hour)
+      * The evolution of data by history
       * Business Intelligence
       * Big Data
       * Data Quality e Data Governance
-      * Uma breve visão sobre Data Science
+      * A brief overview on Data Science
       * Data at Farfetch
       * Q&A
 
       HandsOn
-      * Google Data Plataform - Explicação (10 minutos)
-      * Using the BigQuery Web UI (40 minutos)
+      * Google Data Platform - Explanation (10 minutes)
+      * Using the BigQuery Web UI (40 minutes)
       * Q&A
   talk_primavera:
-    name: Big Data and AI/ML - A história do Big Data na PRIMAVERA
-    about:
+    name: Big Data and AI/ML - The history of Big Data at PRIMAVERA
+    about: |
+      In the search for a Smart ERP, PRIMAVERA started a path based
+      on concepts such as Big Data, Artificial Intelligence
+      and Machine Learning. In this talk we will explain this path
+      and its applicability in PRIMAVERA products,
+      through insights and forecasting.
   talk_farfetch:
     name: |
       Career advice from an Engineering Manager!
@@ -575,8 +588,10 @@ activities:
       don’t teach you at University, as well as some advice for your first
       steps.
   encerramento:
-    name:
-    about:
+    name: Closure & Prizes Delivery
+    about: |
+      SEI closing ceremony, with the usual delivery of prizes related
+      to the competitions that took place throughout the week.
   hackathon:
     name: Hackathon
     about:
