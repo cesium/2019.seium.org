@@ -16,20 +16,18 @@ layout: default
 </section>
 
 {% for workshop in site.data.workshops %}
-
 <section class="{{ workshop.class }} col-md-12">
   <div class="col-md-8 col-md-offset-2">
 
     <div class=" container des-subtitle col-md-12">
-      {% t workshops.{{ workshop.name }} %}
+      {% t activities.{{ workshop.name }} %}
     </div>
 
-    <span class="col-md-offset-2 def-text col-md-8">
-      {% t workshops.{{ workshop.desc }} %}
-    </span>
+      {% capture workshop_description %}{% t activities.{{ workshop.description }} %}{% endcapture %}
+      {{ workshop_description | markdownify | replace: '<p', '<p class="col-md-offset-2 def-text col-md-8"' | replace: '<ul', '<ul class="col-md-offset-2 def-text col-md-8"' }}
 
-    <a href="{{ workshop.speakerRef }}" class="col-md-offset-2 col-md-8">
-      <b>Orador:</b> {{ workshop.speaker }}
+    <a href="{{ workshop.speaker | slugify }}" class="col-md-offset-2 col-md-8">
+        <b>Orador:</b> {{ workshop.speaker }}
     </a>
 
     <a href="{{ workshop.link }}" target="_blank" class="col-md-offset-2 def-text col-md-8">
@@ -40,5 +38,4 @@ layout: default
 
   </div>
 </section>
-
 {% endfor %}
