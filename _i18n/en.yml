@@ -515,13 +515,12 @@ activities:
   workshop_xpandit:
     name: Data crunching with Tableau
     about: |-
-      Vamos fazer uma pequena introdução da Xpand-IT, seguida do Workshop de
-      Tableau com os respetivos exercícios e uma sessão aberta de questões
-      posteriormente.
+      Let's do a little introduction to Xpand-IT after the Tableau with their
+      exercises and an open session of questions posteriorly.
 
-      Requisitos: Computador com Windows ou Mac OS, ou uma máquina virtual
-      com um dos SOs anteriores (De preferência com a última versão do
-      Tableau Desktop instalado).
+      Requirements: Windows or Mac OS computer, or a virtual machine
+      with one of the previous OSs (preferably with the latest version of
+      Tableau Desktop installed).
   workshop_accenture:
     name: |
       Agile new thinking (Scrum overview, DevOps e EBM (Evidence Base Management))
@@ -636,8 +635,25 @@ activities:
       solutions according to said standards.
 
       Pre-Requisites: the attendants should have a rudimentary understanding
-      of computer graphics (rendering)
-      as well as basic knowledge of Linear Algebra.
+      of computer graphics (rendering) as well as basic knowledge of Linear
+      Algebra.
+  workshop_aptiv:
+    name: Automotive Infotainment Systems
+    about: |-
+      The technology on board cars has increased exponentially in last years.
+      With increasingly complex software, the challenges to ensure that all
+      units leaving the production line meet their requirements. In this
+      workshop we present our solutions and challenge you to develop a script
+      that can control and test the features of our latest handsets. There is a
+      prize for the best team!
+
+      Dynamics: The teams will be created during the workshop, depending on the
+      of the participants in the room (this is not relevant, because the goal
+      is not competition).
+
+      Prerequisites: There are none in specific, it is only necessary for
+      participants to master some programming language (Python, C, C #, Java
+      ...).
   talk_aptiv:
     name: Transforming Mobility
     about: |

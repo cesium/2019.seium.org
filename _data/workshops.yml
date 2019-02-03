@@ -1,0 +1,49 @@
+- name: workshop_xpandit.name
+  description: workshop_xpandit.about
+  speaker: Carlos Moreira
+  link: https://cesium.typeform.com/to/NWXzLQ
+
+- name: workshop_accenture.name
+  speaker: Carlos Jesus & André Silva
+  description: workshop_accenture.about
+  link: https://cesium.typeform.com/to/tFkbO0
+
+- name: workshop_pixelmatters.name
+  speaker: Rui Saraiva & Fábio Martins
+  description: workshop_pixelmatters.about
+  link: https://cesium.typeform.com/to/wuSFzp
+
+- name: workshop_outsystems.name
+  speaker: César Pinto & Hernâni Fernandes & Paulo Marques & Tiago Fernandes
+  description: workshop_outsystems.about
+  link: https://cesium.typeform.com/to/KH32fF
+
+- name: workshop_andre_sousa.name
+  speaker: André Sousa
+  description: workshop_andre_sousa.about
+  link: https://cesium.typeform.com/to/Av0vse
+
+- name: workshop_wedo.name
+  speaker: Raphael Espanha
+  description: workshop_wedo.about
+  link: https://cesium.typeform.com/to/ggy5oq
+
+- name: workshop_smithmicro.name
+  speaker: João Martins
+  description: workshop_smithmicro.about
+  link: https://cesium.typeform.com/to/wk91oe
+
+- name: workshop_aptiv.name
+  speaker: Diogo Cruz
+  description: workshop_aptiv.about
+  link: https://cesium.typeform.com/to/rDsqvx
+
+- name: workshop_eurotux.name
+  speaker: Nuno Fernandes
+  description: workshop_eurotux.about
+  link: https://cesium.typeform.com/to/NL1Yc6
+
+- name: workshop_farfetch.name
+  speaker: Paulo Gomes
+  description: workshop_farfetch.about
+  link: https://cesium.typeform.com/to/Q2Y2hh
