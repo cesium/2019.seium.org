@@ -47,6 +47,18 @@
   main: true
   id: 4
 
+- name: Job van der Voort
+  pic: job-voort.jpg
+  position: CEO
+  enterprise: Remote
+  enterpriseURL: https://remote.com/
+  github: JobV
+  twitter: Jobvo
+  linkedin: jobvo
+  about: job_voort.about
+  main: true
+  id: 5
+
 - name: André Barbosa
   pic: andre-barbosa.png
   position: Engineering Manager
@@ -58,7 +70,19 @@
   linkedin: andrebarbosaie
   about: andre_barbosa.about
   main: true
-  id: 5
+  id: 6
+
+- name: Marcelo Lebre
+  pic: marcelo-lebre.jpg
+  position: CTO
+  enterprise: Remote
+  enterpriseURL: https://remote.com/
+  github:
+  twitter: marcelo_lebre
+  linkedin: marcelolebre
+  about: marcelo_lebre.about
+  main: true
+  id: 7
 
 - name: Jorge Resende
   pic: jorge-resende.png
@@ -68,7 +92,7 @@
   linkedin: jorgeresende
   about: jorge_resende.about
   main: true
-  id: 6
+  id: 7
 
 - name: Nuno Cascais
   pic: nuno-cascais.png
@@ -78,7 +102,7 @@
   linkedin: nuno-cascais-07b9b017
   about: nuno_cascais.about
   main: true
-  id: 7
+  id: 8
 
 - name: André Sousa
   pic: andre-sousa.jpg
@@ -90,7 +114,7 @@
   linkedin: andré-sousa-6056029
   about: andre_sousa.about
   main: true
-  id: 8
+  id: 9
 
 - name: Rui Saraiva
   pic: rui-saraiva.jpg
@@ -100,7 +124,7 @@
   linkedin: ruisaraiva19
   about: rui_saraiva.about
   main: true
-  id: 9
+  id: 10
 
 - name: Fábio Martins
   pic: fabio-martins.jpg
@@ -110,7 +134,7 @@
   linkedin: fabiomartins87
   about: fabio_martins.about
   main: true
-  id: 10
+  id: 11
 
 #ORADORES EMPRESAS
 
@@ -122,7 +146,7 @@
   linkedin: sergiogaio
   about: sergio_gaio.about
   main: false
-  id: 11
+  id: 12
 
 - name: Carlos Jesus
   pic: carlos-jesus.png
@@ -131,7 +155,7 @@
   enterpriseURL: http://accenture.com/
   about: carlos_jesus.about
   main: false
-  id: 12
+  id: 13
 
 - name: André Silva
   pic: andre-silva.png
@@ -140,7 +164,7 @@
   enterpriseURL: http://accenture.com/
   about: andre_silva.about
   main: false
-  id: 13
+  id: 14
 
 - name: Daniel Ferrari
   pic: daniel-ferrari.png
@@ -151,7 +175,7 @@
   linkedin: danielgomesferrari
   about: daniel_ferrari.about
   main: false
-  id: 14
+  id: 15
 
 - name: Márcio Azevedo
   pic: marcio-azevedo.png
@@ -160,7 +184,7 @@
   enterpriseURL: https://www.farfetch.com/pt/
   about: marcio_azevedo.about
   main: false
-  id: 15
+  id: 16
 
 - name: Paulo Gomes
   pic: paulo-gomes.jpg
@@ -170,7 +194,7 @@
   linkedin: paulo-gomes-4715597
   about: paulo_gomes.about
   main: false
-  id: 16
+  id: 17
 
 - name: Diogo Cruz
   pic: diogo-cruz.png
@@ -180,7 +204,7 @@
   linkedin: diogoferreiracruz
   about: diogo_cruz.about
   main: false
-  id: 17
+  id: 18
 
 - name: José Carreiras
   pic: jose-carreiras.png
@@ -190,7 +214,7 @@
   linkedin: jose-carreiras-0546b682
   about: jose_carreiras.about
   main: false
-  id: 18
+  id: 19
 
 - name: Raphael Espanha
   pic: raphael-espanha.png
@@ -200,7 +224,7 @@
   linkedin: respanha
   about: raphael_espanha.about
   main: false
-  id: 19
+  id: 20
 
 - name: Raul Azevedo
   pic: raul-azevedo.png
@@ -210,7 +234,7 @@
   linkedin: raul-azevedo
   about: raul_azevedo.about
   main: false
-  id: 20
+  id: 21
 
 - name: Ricardo Soares
   pic: ricardo-soares.png
@@ -219,7 +243,7 @@
   enterpriseURL: https://blip.pt/
   about: ricardo_soares.about
   main: false
-  id: 21
+  id: 22
 
 - name: Nuno Fernandes
   pic: nuno-fernandes.png
@@ -229,7 +253,7 @@
   linkedin: nunofernandes1
   about: nuno_fernandes.about
   main: false
-  id: 22
+  id: 23
 
 - name: César Pinto
   pic: cesar-pinto.png
@@ -239,7 +263,7 @@
   linkedin: cmpinto
   about: cesar_pinto.about
   main: false
-  id: 23
+  id: 24
 
 - name: Hernâni Fernandes
   pic: hernani-fernandes.png
@@ -249,7 +273,7 @@
   linkedin: hernani
   about: hernani_fernandes.about
   main: false
-  id: 24
+  id: 25
 
 - name: Paulo Marques
   pic: paulo-marques.png
@@ -259,7 +283,7 @@
   linkedin: pjmmarques
   about: paulo_marques.about
   main: false
-  id: 25
+  id: 26
 
 - name: Tiago Fernandes
   pic: tiago-fernandes.png
@@ -268,7 +292,7 @@
   enterpriseURL: https://www.outsystems.com/
   about: tiago_fernandes.about
   main: false
-  id: 26
+  id: 27
 
 - name: Carlos Moreira
   pic: carlos-moreira.png
@@ -278,7 +302,7 @@
   linkedin: carlos-moreira
   about: carlos_moreira.about
   main: false
-  id: 27
+  id: 28
 
 - name: Leandro Duarte
   pic: leandro-duarte.jpg
@@ -288,7 +312,7 @@
   linkedin: leandro-miguel-freitas-duarte-550b2220
   about: leandro_duarte.about
   main: false
-  id: 28
+  id: 29
 
 - name: Pedro Ferreira
   pic: pedro-ferreira.jpg
@@ -298,7 +322,7 @@
   linkedin: pedro-tiago-ferreira-b5631323
   about: pedro_ferreira.about
   main: false
-  id: 29
+  id: 30
 
 - name: João Martins
   pic: joao-martins.jpg
@@ -308,7 +332,7 @@
   linkedin: jo%C3%A3o-martins-0b13579b
   about: joao_martins.about
   main: false
-  id: 30
+  id: 31
 
 - name: José Nuno Oliveira
   pic: jno.jpg
@@ -317,7 +341,7 @@
   enterpriseURL: https://www.uminho.pt/
   about: jno.about
   main: false
-  id: 31
+  id: 32
 
 # - name: JBB
 #   pic: jbb.jpg
