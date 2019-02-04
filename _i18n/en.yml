@@ -412,10 +412,13 @@ challenges:
     name: Open Challenge
     description:
   ctf:
-    name: Capture the Flag
+    name: Security Challenge - Capture the Flag
     description: |-
       Any question you might have is probably answered in
       [here](http://ctf-sei-2019.subvisual.co/faq).
+  photo:
+    name: Photography Challenge
+    description:
 
 hackathon:
   date: 10th to 11th of February
