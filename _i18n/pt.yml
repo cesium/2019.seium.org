@@ -438,10 +438,15 @@ challenges:
     name: Desafio Livre
     description:
   ctf:
-    name: Captura a Bandeira
+    name: Desafio de Segurança - Captura a Bandeira
     description: |-
       Todas as questões que possas ter podem ser consultadas
       [aqui](http://ctf-sei-2019.subvisual.co/faq).
+  photo:
+    name: Desafio de Fotografia
+    description: |-
+      Para entrares neste desafio basta tirares a melhor fotografia da SEI e
+      partilhar nas redes sociais com as hashtags #FotografaraSEI #SEI19.
 
 
 hackathon:

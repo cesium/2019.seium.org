@@ -27,9 +27,9 @@ layout: default
     {% capture challenge_description %}{% t challenges.{{ challenge.desc }} %}{% endcapture %}
     {{ challenge_description | markdownify | replace: '<p', '<p class="col-md-offset-2 def-text col-md-8"' }}
 
-    {% if challenge.enunciadol %}
+    {% if challenge.rules %}
         <div class="col-md-5 col-md-offset-1 ac-container">
-          <a href="{{ challenge.enunciadol }}" target="_blank"><button class="btn btn-info btn-sei btn-des">ENUNCIADO</button></a>
+          <a href="{{ challenge.rules }}" target="_blank"><button class="btn btn-info btn-sei btn-des">Regulamento</button></a>
         </div>
     {% endif %}
 
@@ -63,16 +63,6 @@ layout: default
       </div>
     </div>
 
-    {% elsif challenge.sub %}
-    <div class="col-md-5 col-md-offset-1 ac-container">
-      <div>
-        <a href="…">
-          <button class="btn btn-info btn-sei btn-des">
-            {% t defaults.send %}
-          </button>
-        </a>
-      </div>
-    </div>
     {% endif %}
 
   </div>
@@ -106,13 +96,22 @@ layout: default
         </div>
         {% endfor %}
       {% endunless %}
+      {% if challenge.prize %}
+        <div class="col-md-12 activities-container">
+          <i class="{{ challenge.prize.img }} fa-4x"></i>
+          <h5>Prémio</h5>
+          <!--<a href="{{ prize.link }}" target="_blank">          TIRAR O COMENTÁRIO QUANDO HOUVER PRÉMIOS-->
+            <button class="btn btn-info btn-sei disabled">{{ challenge.prize.name }}</button>
+         <!-- </a> -->
+        </div>
+      {% endif %}
       {% unless challenge.list == "" %}
           {% for prize in challenge.list %}
           <div class="col-md-4 activities-container">
             <i class="{{ prize.img }} fa-4x"></i>
                 <h5>{{ prize.name }}</h5>
             <a href="{{ prize.link }}" target="_blank">
-              <button class="btn btn-info btn-sei {{ prize.state }}">Regulamento</button>
+              <button class="btn btn-info btn-sei {{ prize.state }}">Enunciado</button>
             </a>
           </div>
           {% endfor %}

@@ -1,15 +1,15 @@
 - name: ps4.name
   desc: ps4.description
   class: dark
-  prizes:
-    - name: PS4
-      num: 1
-      img: fas fa-star
+  prize:
+    name: PS4
+    num: 1
+    img: fas fa-star
 
 - name: programming.name
   desc: programming.description
   class: light
-  link:
+  rules: https://docs.google.com/document/d/14-737p7km7tD8EXHz9UDNRpRiKvuRUqzKz-wFDY38GM/edit?usp=sharing
   list:
     - name: Haskell
       img: fas fa-code
@@ -25,9 +25,17 @@
       link:
       state: disabled
 
+
 - name: ctf.name
   desc: ctf.description
   class: dark
-  link:
-  enunciadol: http://ctf-sei-2019.subvisual.co/
+  enunciado: http://ctf-sei-2019.subvisual.co/
 
+- name: photo.name
+  desc: photo.description
+  class: light
+  rules: https://docs.google.com/document/d/1_NtKeFeTWmyHelHb4FZVQWe1MmjryANPu5_Lpb_WVyI/edit?usp=sharing
+  prize:
+    name: DJI TELLO BOOST Combo
+    num: 0
+    img: fas fa-helicopter
