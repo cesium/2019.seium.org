@@ -1,14 +1,14 @@
-<section id="organization">
+<section id="staff">
   <div class="container">
 
     <div class="section-title-container">
-      <h1 class="section-title">    {% t team.organization %}    </h1>
+      <h1 class="section-title">       {% t team.staff %}       </h1>
     </div>
 
     {% for member in site.data.team.organization %}
     {% if member.picture %}
     <div repeat="staff in staffs" class="col-md-2  col-sm-2 col-xs-3 staff">
-      <div class="staff-info-container" style="background-image: url( {% asset_path 'team/organization/{{ member.picture }}' %} )">
+      <div class="staff-info-container" style="background-image: url( {% asset_path 'team/staff/{{ member.picture }}' %} )">
         <div class="staff-info">
           <span class="col-md-12 staff-name">{{ member.name }}</span>
           <ul class="list-inline social-buttons">
@@ -46,6 +46,3 @@
 
   </div>
 </section>
-
-
-{% comment %} {% include staff.html %} {% endcomment %}
