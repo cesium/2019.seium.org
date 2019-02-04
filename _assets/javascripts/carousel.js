@@ -22,7 +22,8 @@ $(document).ready(function () {
     ]
   });
 
-  var today = new Date();
+  var today    = new Date();
+  var firstDay = 4;
 
   weekday = today.getDate() > 3 ? today.getDay() - 1 : 0;
 
@@ -48,6 +49,3 @@ $(document).ready(function () {
 
 
 });
-
-
-
