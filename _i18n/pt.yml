@@ -420,6 +420,22 @@ challenges:
   ps4:
     name: Sorteio PS4
     description: Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar uma PS4!
+  programming:
+    name: Desafios de Programação
+    description: Preparamos vários desafios para ti.
+  haskell:
+    name:
+    description:
+  clang:
+    name:
+    description:
+  livre:
+    name: Desafio Livre
+    description:
+  ctf:
+    name: Captura a Bandeira
+    description:
+
 
 hackathon:
   date: 10 a 11 de fevereiro

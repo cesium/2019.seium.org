@@ -5,3 +5,23 @@
     - name: PS4
       num: 1
       img: fa-star
+
+- name: programming.name
+  desc: programming.description
+  class: light
+  link: https://seium.org/assets/docs/desafio_haskell.pdf
+  list:
+    - name: haskell.name
+      desc:
+      link:
+    - name: clang.name
+      desc:
+      link:
+    - name: livre.name
+      desc:
+      link:
+
+- name: ctf.name
+  desc: ctf.description
+  class: dark
+  link:
