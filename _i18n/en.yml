@@ -399,6 +399,23 @@ challenges:
   ps4:
     name: PS4 Draw
     description: Did you go through CP2 and see Accenture? They want your resume! Send it to sei+cv@cesium.di.uminho.pt and enable yourself to win a PS4!
+  programming:
+    name: Programming Challengees
+    description:
+  haskell:
+    name: Challenge in Haskell
+    description:
+  clang:
+    name: Challenge in C
+    description:
+  livre:
+    name: Open Challenge
+    description:
+  ctf:
+    name: Capture the Flag
+    description: |-
+      Any question you might have is probably answered in
+      [here](http://ctf-sei-2019.subvisual.co/faq).
 
 hackathon:
   date: 10th to 11th of February

@@ -24,9 +24,8 @@ layout: default
       {% t challenges.{{ challenge.name }} %}
     </div>
 
-    <span class="col-md-offset-2 def-text col-md-8">
-      {% t challenges.{{ challenge.desc }} %}
-    </span>
+    {% capture challenge_description %}{% t challenges.{{ challenge.desc }} %}{% endcapture %}
+    {{ challenge_description | markdownify | replace: '<p', '<p class="col-md-offset-2 def-text col-md-8"' }}
 
     {% if challenge.enunciadol %}
         <div class="col-md-5 col-md-offset-1 ac-container">
@@ -81,12 +80,12 @@ layout: default
   <div id="hackathon-awards">
     <div class="container">
       <div class="row">
+      {% unless challenge.prizes == "" %}
         {% for prize in challenge.prizes %}
         <div class="col-md-4 activities-container">
-          <i class="fa {{ prize.img }} fa-4x"></i>
+          <i class="{{ prize.img }} fa-4x"></i>
           {% if prize.num %}
             {% assign number = prize.num %}
-            {% if site.lang == 'pt' %}
               <h5>{{ number }}.º {% t challenges.prize %}</h5>
             {% else %}
               {% if number == 1 %}
@@ -98,7 +97,6 @@ layout: default
               {% else %}
                 <h5>{{ number }}th {% t challenges.prize %}</h5>
               {% endif %}
-            {% endif %}
           {% else %}
             <h5>{% t challenges.prize %}</h5>
           {% endif %}
@@ -107,11 +105,21 @@ layout: default
          <!-- </a> -->
         </div>
         {% endfor %}
+      {% endunless %}
+      {% unless challenge.list == "" %}
+          {% for prize in challenge.list %}
+          <div class="col-md-4 activities-container">
+            <i class="{{ prize.img }} fa-4x"></i>
+                <h5>{{ prize.name }}</h5>
+            <a href="{{ prize.link }}" target="_blank">
+              <button class="btn btn-info btn-sei {{ prize.state }}">Regulamento</button>
+            </a>
+          </div>
+          {% endfor %}
+      {% endunless %}
       </div>
     </div>
   </div>
 
-
 </section>
-
 {% endfor %}

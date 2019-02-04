@@ -419,10 +419,15 @@ challenges:
   prize: Prémio
   ps4:
     name: Sorteio PS4
-    description: Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar uma PS4!
+    description: |-
+      Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu
+      Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar
+      uma PS4!
   programming:
     name: Desafios de Programação
-    description: Preparamos vários desafios para ti.
+    description: |-
+      Preparamos vários desafios para ti. O desafio em Haskell termina dia 6, o
+      em C termina dia 8 e o livre termina dia 10.
   haskell:
     name:
     description:
@@ -434,7 +439,9 @@ challenges:
     description:
   ctf:
     name: Captura a Bandeira
-    description:
+    description: |-
+      Todas as questões que possas ter podem ser consultadas
+      [aqui](http://ctf-sei-2019.subvisual.co/faq).
 
 
 hackathon:

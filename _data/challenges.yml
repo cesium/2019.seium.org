@@ -4,24 +4,30 @@
   prizes:
     - name: PS4
       num: 1
-      img: fa-star
+      img: fas fa-star
 
 - name: programming.name
   desc: programming.description
   class: light
-  link: https://seium.org/assets/docs/desafio_haskell.pdf
+  link: https://mooshak.di.uminho.pt/~mooshak/cgi-bin/execute/2599686236400011?login
   list:
-    - name: haskell.name
+    - name: Haskell
+      img: fas fa-code
+      desc:
+      link: https://seium.org/assets/docs/desafio_haskell.pdf
+    - name: C
+      img: fas fa-code
+      desc:
+      link: https://seium.org/assets/docs/desafio_clang.pdf
+    - name: Livre
+      img: fas fa-code
       desc:
       link:
-    - name: clang.name
-      desc:
-      link:
-    - name: livre.name
-      desc:
-      link:
+      state: disabled
 
 - name: ctf.name
   desc: ctf.description
   class: dark
   link:
+  enunciadol: http://ctf-sei-2019.subvisual.co/
+
