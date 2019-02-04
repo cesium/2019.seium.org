@@ -24,7 +24,7 @@ $(document).ready(function () {
 
   var today = new Date();
 
-  weekday = today.getDate() > 3 ? today.getDay() : 0;
+  weekday = today.getDate() > 3 ? today.getDay() - 1 : 0;
 
   var slickOpts = {
     initialSlide: weekday,
