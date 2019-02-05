@@ -166,6 +166,10 @@ speakers:
       then it has been dedicated to the development of web applications, both
       front-end and back-end. Has a great passion for developing progressive
       web applications (PWAs).
+  luis_silva:
+    about: |
+      Software Engineer at Performetric. Studied at Uminho and associate with
+      CeSIUM.
   fabio_martins:
     about: |
       Attended a degree in Electrical and Electronic Engineering of Instituto
@@ -726,6 +730,14 @@ activities:
       amount of data. In this talk let's look at a couple of examples where
       we use this data to build new products and improve the user experience
       using our service.
+  eletron:
+    name: Electron In a Nutshell
+    about: |-
+      Electron let's you create a desktop application with languages
+      used for web development. This opens the possibility to use html &
+      css for fully customizable UIs, and best javascript frameworks
+      available now. In this talk we will explore the principles of
+      Electron, it's advantages and challenges.
   dinner:
     name: Networking Dinner
     about: |

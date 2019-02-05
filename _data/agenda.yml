@@ -153,16 +153,16 @@
       about: talk_andre_pimenta.about
       place: CP2-B1
 
-    - name: talk_celso_martinho.name
-      speaker: Celso Martinho
-      enterprise: Bright Pixel
-      enterpriseURL: https://brpx.com/
-      time: 15:00-16:00
-      duration: one-hour
-      icon: fa-cogs
-      type: talk
-      about: talk_celso_martinho.about
-      place: CP2-B1
+    # - name: talk_celso_martinho.name
+    #   speaker: Celso Martinho
+    #   enterprise: Bright Pixel
+    #   enterpriseURL: https://brpx.com/
+    #   time: 15:00-16:00
+    #   duration: one-hour
+    #   icon: fa-cogs
+    #   type: talk
+    #   about: talk_celso_martinho.about
+    #   place: CP2-B1
 
     - coffee: true
 
@@ -348,13 +348,13 @@
 
     - coffee: true
 
-    - name: TBA #TODO
-      speaker: TBA
-      enterprise: TBA
-      enterpriseURL:
+    - name: eletron.name
+      speaker: José Luís Silva
+      enterprise: Performetric
+      enterpriseURL: https://performetric.net/
       time: 16:30-17:00
       duration: half-hour
-      about: TBA
+      about: eletron.about
       type: talk
       icon: fa-desktop
       place: CP2-B1

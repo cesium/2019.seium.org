@@ -126,6 +126,13 @@
   main: true
   id: 10
 
+- name: José Luís Silva
+  pic: luis-silva.png
+  position: Software Engineer
+  enterprise: Performetric
+  enterpriseURL: https://performetric.net/
+  about: luis_silva.about
+
 - name: Fábio Martins
   pic: fabio-martins.jpg
   position: CTO
