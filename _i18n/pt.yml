@@ -680,8 +680,19 @@ activities:
   apresentacao_bosch:
     name: Apresentação da Bosch
   etica:
-    name: Ética na Informática
-    about:
+    name: O poder dos dados - Ética e Big Data
+    about: |-
+      Muito se tem falado da Big Data e de todo o seu potencial, paralelamente,
+      a conscientização da necessidade de proteger os nossos dados tem também
+      crescido. Numa altura em que a extrema-direita vai crescendo por todo o
+      mundo, qual é o papel das _big data solutions_ neste panorama de ódio?
+      Neste painel vamos discutir estas e outras questões à volta do poder dos
+      dados.
+
+      **Convidados:**
+      - José Maciel - Diretor executivo - IDEIA Big Data
+      - Francisco Andrade  - Professor de Direito Informático - UMinho
+      - Carlos Baquero - Professor de Engenharia Informática - Uminho
   rally:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.

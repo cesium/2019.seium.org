@@ -640,8 +640,18 @@ activities:
   apresentacao_bosch:
     name: Bosch Presentation
   etica:
-    name: Ethics in Tech
-    about:
+    name: The power of Data - Ethics and Big Data
+    about: |-
+      A lot has been said about Big Data and all of its potential, likewise,
+      the awareness of the importance of data protection has also been growing.
+      In an age where the far-right is gaining ground around the world, what is
+      the role of big data solutions in this hate panorama? In this round table
+      we will discuss this and other questions about the power of Data.
+
+      **Guests:**
+      - José Maciel - Diretor executivo - IDEIA Big Data
+      - Francisco Andrade  - Professor de Direito Informático - UMinho
+      - Carlos Baquero - Professor de Engenharia Informática - Uminho
   rally:
     name: Pub Crawl Competition
     about: |-
