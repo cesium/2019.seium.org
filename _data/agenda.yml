@@ -166,7 +166,7 @@
 
     - coffee: true
 
-    - name: informatic_portugal.name #TODO
+    - name: informatic_portugal.name
       speaker: Vitor Filipe
       speaker2: José Nuno Oliveira
       speaker3: João Faria
