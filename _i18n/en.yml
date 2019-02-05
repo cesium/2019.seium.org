@@ -639,6 +639,9 @@ activities:
       solutions that exceed the needs of our customers.
   apresentacao_bosch:
     name: Bosch Presentation
+  etica:
+    name: Ethics in Tech
+    about:
   rally:
     name: Pub Crawl Competition
     about: |-

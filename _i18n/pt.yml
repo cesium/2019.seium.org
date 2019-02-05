@@ -679,6 +679,9 @@ activities:
       implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
+  etica:
+    name: Ética na Informática
+    about:
   rally:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.
