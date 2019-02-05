@@ -24,13 +24,12 @@ layout: default
       {% t challenges.{{ challenge.name }} %}
     </div>
 
-    <span class="col-md-offset-2 def-text col-md-8">
-      {% t challenges.{{ challenge.desc }} %}
-    </span>
+    {% capture challenge_description %}{% t challenges.{{ challenge.desc }} %}{% endcapture %}
+    {{ challenge_description | markdownify | replace: '<p', '<p class="col-md-offset-2 def-text col-md-8"' }}
 
-    {% if challenge.enunciadol %}
+    {% if challenge.rules %}
         <div class="col-md-5 col-md-offset-1 ac-container">
-          <a href="{{ challenge.enunciadol }}" target="_blank"><button class="btn btn-info btn-sei btn-des">ENUNCIADO</button></a>
+          <a href="{{ challenge.rules }}" target="_blank"><button class="btn btn-info btn-sei btn-des">Regulamento</button></a>
         </div>
     {% endif %}
 
@@ -64,16 +63,6 @@ layout: default
       </div>
     </div>
 
-    {% elsif challenge.sub %}
-    <div class="col-md-5 col-md-offset-1 ac-container">
-      <div>
-        <a href="…">
-          <button class="btn btn-info btn-sei btn-des">
-            {% t defaults.send %}
-          </button>
-        </a>
-      </div>
-    </div>
     {% endif %}
 
   </div>
@@ -81,12 +70,12 @@ layout: default
   <div id="hackathon-awards">
     <div class="container">
       <div class="row">
+      {% unless challenge.prizes == "" %}
         {% for prize in challenge.prizes %}
         <div class="col-md-4 activities-container">
-          <i class="fa {{ prize.img }} fa-4x"></i>
+          <i class="{{ prize.img }} fa-4x"></i>
           {% if prize.num %}
             {% assign number = prize.num %}
-            {% if site.lang == 'pt' %}
               <h5>{{ number }}.º {% t challenges.prize %}</h5>
             {% else %}
               {% if number == 1 %}
@@ -98,7 +87,6 @@ layout: default
               {% else %}
                 <h5>{{ number }}th {% t challenges.prize %}</h5>
               {% endif %}
-            {% endif %}
           {% else %}
             <h5>{% t challenges.prize %}</h5>
           {% endif %}
@@ -107,11 +95,30 @@ layout: default
          <!-- </a> -->
         </div>
         {% endfor %}
+      {% endunless %}
+      {% if challenge.prize %}
+        <div class="col-md-12 activities-container">
+          <i class="{{ challenge.prize.img }} fa-4x"></i>
+          <h5>Prémio</h5>
+          <!--<a href="{{ prize.link }}" target="_blank">          TIRAR O COMENTÁRIO QUANDO HOUVER PRÉMIOS-->
+            <button class="btn btn-info btn-sei disabled">{{ challenge.prize.name }}</button>
+         <!-- </a> -->
+        </div>
+      {% endif %}
+      {% unless challenge.list == "" %}
+          {% for prize in challenge.list %}
+          <div class="col-md-4 activities-container">
+            <i class="{{ prize.img }} fa-4x"></i>
+                <h5>{{ prize.name }}</h5>
+            <a href="{{ prize.link }}" target="_blank">
+              <button class="btn btn-info btn-sei {{ prize.state }}">Enunciado</button>
+            </a>
+          </div>
+          {% endfor %}
+      {% endunless %}
       </div>
     </div>
   </div>
 
-
 </section>
-
 {% endfor %}

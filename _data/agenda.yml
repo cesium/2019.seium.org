@@ -99,7 +99,7 @@
       iconLeft: fa fa-code
       aboutLeft: workshop_xpandit.about
       typeLeft: workshop
-      placeLeft: DI-TBA
+      placeLeft: DI-0.05
       nameRight: workshop_accenture.name
       speakerRight: Carlos Jesus
       speakerRight2: André Silva
@@ -110,7 +110,7 @@
       iconRight: fa fa-globe
       aboutRight: workshop_accenture.about
       typeRight: workshop
-      placeRight: DI-TBA
+      placeRight: DI-0.07
 
     - coffee: true
 
@@ -125,7 +125,7 @@
       iconLeft: fas fa-fire
       aboutLeft: workshop_pixelmatters.about
       typeLeft: workshop
-      placeLeft: DI-TBA
+      placeLeft: DI-0.05
       nameRight: workshop_outsystems.name
       speakerRight: César Pinto
       speakerRight2: Hernâni Fernandes
@@ -138,7 +138,7 @@
       iconRight: fa fa-code
       aboutRight: workshop_outsystems.about
       typeRight: workshop
-      placeRight: DI-TBA
+      placeRight: DI-0.07
 
     - meal: true
 
@@ -166,13 +166,13 @@
 
     - coffee: true
 
-    - name: tertulia.name #TODO
-      speaker: TBA
-      speaker2: TBA
-      speaker3: TBA
+    - name: informatic_portugal.name
+      speaker: Vitor Filipe
+      speaker2: José Nuno Oliveira
+      speaker3: João Faria
       time: 16:30-17:30
       duration: one-hour
-      about: tertulia.about
+      about: informatic_portugal.about
       icon: fas fa-university
       type: Tertúlia
       place: CP2-B1
@@ -198,7 +198,7 @@
       iconLeft: fas fa-code
       aboutLeft: workshop_andre_sousa.about
       typeLeft: workshop
-      placeLeft: DI-TBA
+      placeLeft: DI-0.05
       nameRight: workshop_wedo.name
       speakerRight: Raphael Espanha
       enterpriseRight: WeDo
@@ -208,7 +208,7 @@
       iconRight: fas fa-paperclip
       aboutRight: workshop_wedo.about
       typeRight: workshop
-      placeRight: DI-TBA
+      placeRight: DI-0.08
 
     - coffee: true
 
@@ -260,15 +260,18 @@
       icon: fas fa-table
       place: CP2-B1
 
-    - name: TBA #TODO
-      speaker: TBA
-      enterprise: TBA
+    - name: etica.name
+      speaker: Bruno Cancelinha
+      speaker2: Carlos Baquero
+      speaker3: Francisco Andrade
+      speaker4: José Maciel
+      enterprise:
       enterpriseURL:
       time: 17:00-18:00
-      duration: one-hour
+      duration: one-hour-and-half
       icon: fas fa-table
       type: talk
-      about: TBA
+      about: etica.about
       place: CP2-B1
 
     - name: rally.name

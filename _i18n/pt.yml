@@ -383,6 +383,10 @@ speakers:
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
       Departamento de Informática da Escola de Engenharia da Universidade do
       Minho.
+  vitor_filipe:
+    about:
+  joao_faria:
+    about:
   jbb:
     about: |
       José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é
@@ -419,7 +423,35 @@ challenges:
   prize: Prémio
   ps4:
     name: Sorteio PS4
-    description: Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar uma PS4!
+    description: |-
+      Passaste pelo CP2 e viste a empresa Accenture? Eles querem o teu
+      Currículo! Envia-o para sei+cv@cesium.di.uminho.pt e habilita-te a ganhar
+      uma PS4!
+  programming:
+    name: Desafios de Programação
+    description: |-
+      Preparamos vários desafios para ti. O desafio em Haskell termina dia 6, o
+      em C termina dia 8 e o livre termina dia 10.
+  haskell:
+    name:
+    description:
+  clang:
+    name:
+    description:
+  livre:
+    name: Desafio Livre
+    description:
+  ctf:
+    name: Desafio de Segurança - Captura a Bandeira
+    description: |-
+      Todas as questões que possas ter podem ser consultadas
+      [aqui](http://ctf-sei-2019.subvisual.co/faq).
+  photo:
+    name: Desafio de Fotografia
+    description: |-
+      Para entrares neste desafio basta tirares a melhor fotografia da SEI e
+      partilhar nas redes sociais com as hashtags #FotografaraSEI #SEI19.
+
 
 hackathon:
   date: 10 a 11 de fevereiro
@@ -604,9 +636,14 @@ activities:
       durante a sua carreira e como é que a Bright Pixel, um “venture builder
       studio” e “early stage investor", pode ajudar os empreendedores de base
       tecnológica a realizar as suas ambições.
-  tertulia:
+  informatic_portugal:
     name: Informática em Portugal
-    about: TBA
+    about: |-
+      Nesta mesa redonda interuniversitária vamos discutir o ensino de
+      informática em Portugal: as diferenças entre o ensino nas várias
+      instituições, o seu passado, quais as apostas de cada instituição
+      e o que ainda há para melhorar. Junta-te a nós para uma cativante
+      conversa com professores icónicos das UMinho, FEUP e UTAD.
   arraial:
     name: Arraial de engenharia
     about: |
@@ -651,6 +688,20 @@ activities:
       implementação de soluções que superassem as necessidades dos nossos clientes.
   apresentacao_bosch:
     name: Apresentação da Bosch
+  etica:
+    name: O poder dos dados - Ética e Big Data
+    about: |-
+      Muito se tem falado da Big Data e de todo o seu potencial, paralelamente,
+      a conscientização da necessidade de proteger os nossos dados tem também
+      crescido. Numa altura em que a extrema-direita vai crescendo por todo o
+      mundo, qual é o papel das _big data solutions_ neste panorama de ódio?
+      Neste painel vamos discutir estas e outras questões à volta do poder dos
+      dados.
+
+      **Convidados:**
+      - José Maciel - Diretor executivo - IDEIA Big Data
+      - Francisco Andrade  - Professor de Direito Informático - UMinho
+      - Carlos Baquero - Professor de Engenharia Informática - Uminho
   rally:
     name: Rally das Tascas
     about: O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI.

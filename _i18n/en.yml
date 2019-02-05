@@ -368,6 +368,10 @@ speakers:
       Researcher at the Reliable Software Laboratory (HASLab) and professor at
       Department of Informatics at School of Engineering of the University of
       Minho.
+  vitor_filipe:
+    about:
+  joao_faria:
+    about:
   jbb:
     about: |
       José Bernardo Barros, better known by his students as JBB, is a professor
@@ -399,6 +403,26 @@ challenges:
   ps4:
     name: PS4 Draw
     description: Did you go through CP2 and see Accenture? They want your resume! Send it to sei+cv@cesium.di.uminho.pt and enable yourself to win a PS4!
+  programming:
+    name: Programming Challengees
+    description:
+  haskell:
+    name: Challenge in Haskell
+    description:
+  clang:
+    name: Challenge in C
+    description:
+  livre:
+    name: Open Challenge
+    description:
+  ctf:
+    name: Security Challenge - Capture the Flag
+    description: |-
+      Any question you might have is probably answered in
+      [here](http://ctf-sei-2019.subvisual.co/faq).
+  photo:
+    name: Photography Challenge
+    description:
 
 hackathon:
   date: 10th to 11th of February
@@ -576,9 +600,14 @@ activities:
       explain us what he learned during his career and how Bright Pixel, a
       "venture builder studio" and "early stage investor", can help
       technology-based entrepreneur achieve theirs ambitions.
-  tertulia:
+  informatic_portugal:
     name: Informatic in Portugal
-    about:
+    about: |-
+      In this round table we will discuss the study of Informatics in Portugal:
+      The difference from the various ademies, their past and bets for the
+      future, as well as a glimpse of what has yet to be improved. Come join us
+      for a gripping conversation with the most infamous professores of UMinho,
+      FEUP and UTAD.
   arraial:
     name: Arraial de engenharia
     about: |
@@ -619,6 +648,19 @@ activities:
       solutions that exceed the needs of our customers.
   apresentacao_bosch:
     name: Bosch Presentation
+  etica:
+    name: The power of Data - Ethics and Big Data
+    about: |-
+      A lot has been said about Big Data and all of its potential, likewise,
+      the awareness of the importance of data protection has also been growing.
+      In an age where the far-right is gaining ground around the world, what is
+      the role of big data solutions in this hate panorama? In this round table
+      we will discuss this and other questions about the power of Data.
+
+      **Guests:**
+      - José Maciel - Diretor executivo - IDEIA Big Data
+      - Francisco Andrade  - Professor de Direito Informático - UMinho
+      - Carlos Baquero - Professor de Engenharia Informática - Uminho
   rally:
     name: Pub Crawl Competition
     about: |-
