@@ -766,6 +766,14 @@ activities:
       quantidade de dados. Nesta talk vamos olhar para um par de exemplos onde
       usamos esses dados para construir produtos novos e melhorar a experiencia
       dos utilizadores que usam o nosso serviço.
+  eletron:
+    name: Electron In a Nutshell
+    about: |-
+      Electron permite criar aplicações de desktop utilizando linguagens usadas
+      em desenvolvimento web. Isso abre a possibilidade de usar o html e css
+      para interfaces de usuário totalmente personalizáveis e os melhores
+      frameworks de javascript disponível agora. Nesta palestra iremos explorar
+      os princípios de Electron, as suas vantagens e desafios.
   dinner:
     name: Jantar de Networking
     about: |
