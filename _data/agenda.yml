@@ -166,13 +166,13 @@
 
     - coffee: true
 
-    - name: tertulia.name #TODO
-      speaker: TBA
-      speaker2: TBA
-      speaker3: TBA
+    - name: informatic_portugal.name #TODO
+      speaker: Vitor Filipe
+      speaker2: José Nuno Oliveira
+      speaker3: João Faria
       time: 16:30-17:30
       duration: one-hour
-      about: tertulia.about
+      about: informatic_portugal.about
       icon: fas fa-university
       type: Tertúlia
       place: CP2-B1
@@ -260,12 +260,15 @@
       icon: fas fa-table
       place: CP2-B1
 
-    - name: etica.nome
-      speaker: Bruno Cancelinha & Carlos Baquero & Francisco Andrade & José Maciel
+    - name: etica.name
+      speaker: Bruno Cancelinha
+      speaker2: Carlos Baquero
+      speaker3: Francisco Andrade
+      speaker4: José Maciel
       enterprise:
       enterpriseURL:
       time: 17:00-18:00
-      duration: one-hour
+      duration: one-hour-and-half
       icon: fas fa-table
       type: talk
       about: etica.about

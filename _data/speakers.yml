@@ -343,6 +343,24 @@
   main: false
   id: 32
 
+- name: Vitor Filipe
+  pic: vitor-filipe.jpg
+  position: Professor
+  enterprise: UTAD
+  enterpriseURL:
+  about: vitor_filipe.about
+  main: false
+  id: 33
+
+- name: João Faria
+  pic: joao-faria.jpg
+  position: Professor
+  enterprise: FEUP
+  enterpriseURL:
+  about: joao_faria.about
+  main: false
+  id: 34
+
 # - name: JBB
 #   pic: jbb.jpg
 #   position: Professor

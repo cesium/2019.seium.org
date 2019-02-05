@@ -383,6 +383,10 @@ speakers:
       Investigador do Laboratório de Software Confiável (HASLab) e professor do
       Departamento de Informática da Escola de Engenharia da Universidade do
       Minho.
+  vitor_filipe:
+    about:
+  joao_faria:
+    about:
   jbb:
     about: |
       José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é
@@ -632,9 +636,14 @@ activities:
       durante a sua carreira e como é que a Bright Pixel, um “venture builder
       studio” e “early stage investor", pode ajudar os empreendedores de base
       tecnológica a realizar as suas ambições.
-  tertulia:
+  informatic_portugal:
     name: Informática em Portugal
-    about: TBA
+    about: |-
+      Nesta mesa redonda interuniversitária vamos discutir o ensino de
+      informática em Portugal: as diferenças entre o ensino nas várias
+      instituições, o seu passado, quais as apostas de cada instituição
+      e o que ainda há para melhorar. Junta-te a nós para uma cativante
+      conversa com professores icónicos das UMinho, FEUP e UTAD.
   arraial:
     name: Arraial de engenharia
     about: |
