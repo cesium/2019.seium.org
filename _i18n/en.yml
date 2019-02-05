@@ -368,6 +368,10 @@ speakers:
       Researcher at the Reliable Software Laboratory (HASLab) and professor at
       Department of Informatics at School of Engineering of the University of
       Minho.
+  vitor_filipe:
+    about:
+  joao_faria:
+    about:
   jbb:
     about: |
       José Bernardo Barros, better known by his students as JBB, is a professor
@@ -596,9 +600,14 @@ activities:
       explain us what he learned during his career and how Bright Pixel, a
       "venture builder studio" and "early stage investor", can help
       technology-based entrepreneur achieve theirs ambitions.
-  tertulia:
+  informatic_portugal:
     name: Informatic in Portugal
-    about:
+    about: |-
+      In this round table we will discuss the study of Informatics in Portugal:
+      The difference from the various ademies, their past and bets for the
+      future, as well as a glimpse of what has yet to be improved. Come join us
+      for a gripping conversation with the most infamous professores of UMinho,
+      FEUP and UTAD.
   arraial:
     name: Arraial de engenharia
     about: |
