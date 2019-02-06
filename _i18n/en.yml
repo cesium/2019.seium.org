@@ -510,7 +510,7 @@ hackathon:
         time: 9:30AM - 10AM
       hackathon:
         name: Hackathon
-        time: 10AM - 12PM
+        time: 10AM - 11:59PM
     second_day:
       hackathon:
         name: Hackathon
