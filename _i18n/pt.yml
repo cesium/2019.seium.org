@@ -630,9 +630,10 @@ activities:
       funcionários, governos e muito mais.
   talk_upfall:
     name: Analysing a Cross-Platform Game engine
-    about: |
-      An overview of the process, tools and libs used to build a custom engine
-      for several platforms, from mobile to consoles.
+    about: |-
+      Uma visão geral do processo, ferramentas e bibliotecas usadas para criar
+      um *game engine* personalizado para várias plataformas, de dispositivos
+      móveis a consoles.
   apresentacao_blip:
     name: Apresentação da BLIP
   remote_podcast:
