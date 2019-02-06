@@ -406,7 +406,12 @@ challenges:
   prize: Prize
   ps4:
     name: PS4 Draw
-    description: Did you go through CP2 and see Accenture? They want your resume! Send it to sei+cv@cesium.di.uminho.pt and enable yourself to win a PS4!
+    description: |-
+      Did you go through CP2 and see Accenture? They want your
+      resume! Send it to sei+cv@cesium.di.uminho.pt and enable yourself to win a
+      PS4!
+      Also, you need to be in the Closure & Prizes Delivery Session of SEI'19 to
+      be able to win!
   programming:
     name: Programming Challengees
     description:
