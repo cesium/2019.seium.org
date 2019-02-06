@@ -465,95 +465,50 @@ hackathon:
     title: Kit de Sobrevivência
     what:
       description: |-
-        **WHAT IS A HACKATHON?**
+        **O QUE É UMA HACKATHON?**
 
-        It is a programming marathon, where teams of 3-5 put their ideas
-        together to create something exciting in only 24 hours. It gives
-        hackers the chance to turn their ideas into prototypes.
+        É uma maratona de programação, onde equipas de 3 a 5 elementos juntam
+        as suas ideias para criar algo excitante em apenas 24 horas. Dá aos
+        hackers a oportunidade de transformar as suas ideias em protótipos.
 
-        **CAN I PARTICIPATE?**
+        **POSSO PARTICIPAR?**
 
-        To be eligible for participation, you need to be a university student
-        or recently left the university. Unfortunately, we are unable to
-        accept students under 18 years old.
+        Para participares tens que ser um estudante universitário ou teres
+        deixado a universidade recentemente. Infelizmente, não nos é possível
+        aceitar estudantes menores de 18 anos.
 
-        **HOW DO I REGISTER?**
+        **COMO ME INSCREVO?**
 
-        Only teams of 3-5 are eligible for acceptance, but full teams are
-        preferable. After setting your team together, you just have to sign
-        up your team on this form.
+        Apenas equipas de 3 a 5 elementos são elegíveis para admissão, mas
+        são preferíveis equipas completas. Após definires a tua equipa, basta
+        que a inscrevas neste [formulário](https://cesium.typeform.com/to/wj18uo).
 
-        **WHAT ABOUT SLEEP?**
+        **E PARA DORMIR?**
 
-        We have a special room for people who want to get some Z’s. You must
-        come with a sleeping bag and a mat.
+        Temos uma sala especial para pessoas que pretendam dormir um pouco.
+        Tens de trazer um saco-cama e um colchão.
 
-        **WHAT DO I NEED TO BRING?**
+        **O QUE É QUE PRECISO DE TRAZER?**
 
-        Just your laptop, sleeping bag, mat and lots of motivation for this
-        hackathon. We provide free Wi-fi access, food and one table for teams
-        to work on their ideas.
+        Só o teu portátil, saco-cama, colchão e montes de motivação para esta
+        hackathon. Nós oferecemos o WiFi, a comida e providenciamos uma mesa
+        para as equipas trabalharem nas suas ideias.
 
-        **WHAT ABOUT FOOD?**
+        **E A COMIDA?**
 
-        We provide lunch, dinner and snacks during the event. You are able to
-        specify dietary restrictions in your profile. We’ll do our best to
-        fulfill them.
+        Oferecemos o almoço, jantar e snacks durante o evento. É possível
+        especificares restrições alimentares no teu perfil. Faremos o nosso
+        melhor para as respeitar.
 
-        **WHAT IS THE SUBJECT?**
+        **QUAL É O TEMA?**
 
-        This hackathon is subject-free. We encourage you to think out of the
-        box, build up your idea prototype and surprise the jurors.
+        Esta hackathon é de tema livre. Encorajamos-te a pensar fora da caixa,
+        construir o protótipo da tua ideia e surpreender o júri.
 
-        **WHAT ARE THE RULES?**
+        **QUAIS SÃO AS REGRAS?**
 
-        Your should be aware of the Regulation of the hackathon and entirely
-        respect the Code of Conduct.
-      coiso:
-#         **O QUE É UMA HACKATHON? **
-
-#         É uma maratona de programação, onde equipes de 3-5 colocam suas ideias
-#         juntos para criar algo emocionante em apenas 24 horas. Dá
-#         hackers a chance de transformar suas idéias em protótipos.
-
-#         **POSSO PARTICIPAR? *
-
-#         Para ser elegível para participação, você precisa ser um estudante universitário
-#         ou recentemente saiu da universidade. Infelizmente, somos incapazes de
-#         aceitar estudantes menores de 18 anos.
-
-#         **COMO ME REGISTRO?**
-
-#         Apenas equipas de 3-5 são elegíveis, mas equipas completas são
-#         preferiveis. Depois de definir sua equipe, só precisas inscrever a
-#         tua equipa neste [formulário](https://cesium.typeform.com/to/wj18uo).
-
-#         **o que sobre o sono?**
-
-#         Temos uma sala especial para pessoas que querem obter alguns Z's. Você deve
-#         vem com um saco de dormir e um tapete.
-
-#         **O QUE PRECISO TRAZER?**
-
-#         Apenas o seu laptop, saco de dormir, tapete e muita motivação para isso
-#         hackathon. Nós fornecemos acesso Wi-Fi gratuito, comida e uma mesa para as equipes
-#         para trabalhar em suas idéias.
-
-#         **E A COMIDA?**
-
-#         Oferecemos almoço, jantar e lanches durante o evento. Estás esta capacitado para
-#         especifique restrições alimentares em seu perfil. Faremos o nosso melhor para
-#         cumpri-los.
-
-#         **QUAL É O TEMA?**
-
-#         Este hackathon é de tema livre. Encorajamos-te a pensar fora da
-#         caixa, constrói um protótipo da tua ideia e supreende os jurados.
-
-#         **QUAIS SÃO AS REGRAS?**
-
-#         Seu deve estar ciente do regulamento do hackathon e inteiramente
-#         respeitar o Código de Conduta.
+        Deves estar informado sobre o Regulamento da hackathon e respeitar
+        totalmente o Código de Conduta.
   organisation:
     supported_by: Apoiado por
   starts_in: Começa em
