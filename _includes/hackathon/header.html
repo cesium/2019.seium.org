@@ -6,9 +6,14 @@
 
           {% image hackathon/header.png class:'brand img-responsive' %}
 
-          <div id="date">
-            {% t hackathon.date %} <br> <br>
+          <div id="location">
+            {{ site.data.hackathon.location }}
           </div>
+
+          <div id="date">
+            {% t hackathon.date %}
+          </div>
+
 
           <div id="remaining">{% t hackathon.starts_in %}</div>
 
