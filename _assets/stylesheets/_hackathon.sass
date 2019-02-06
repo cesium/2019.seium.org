@@ -1,4 +1,5 @@
 $hackathon-color: #d5445c
+$hackathon-link-color: #3A4F41
 
 #hackathon
   @import "hackathon/_header"
@@ -7,6 +8,9 @@ $hackathon-color: #d5445c
   @import "hackathon/_organisation"
   @import "hackathon/_partners"
 
+  a
+    color: $hackathon-link-color
+    font-weight: bold
   a:hover,
   a:focus
     color: $hackathon-color
