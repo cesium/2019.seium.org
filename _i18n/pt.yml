@@ -848,7 +848,13 @@ activities:
       os princípios de Electron, as suas vantagens e desafios.
   aragao:
     name: Empreendorismo na Informática
-    about:
+    about: |-
+      Empreendedorismo e informática são duas palavras que neste momento andam 
+      muitas vezes de mão dada, quer seja pelo facto dos média darem ênfase a este
+      assunto ou porque nem toda a gente gosta de trabalhar para um empregador
+      toda a sua vida. Nesta palestra vamos abordar os prós e os contras de criares
+      a tua empresa e os desafios pelos quais possas passar.
+
   dinner:
     name: Jantar de Networking
     about: |
