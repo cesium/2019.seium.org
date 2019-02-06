@@ -22,13 +22,14 @@ $(document).ready(function () {
     ]
   });
 
+  // new Date(year, month, day), where the month is 0-based. This means that January = 0 and December = 11
+  var firstDay = new Date('2019', '01', '04');
   var today    = new Date();
-  var firstDay = 4;
-
-  weekday = today.getDate() > 3 ? today.getDay() - 1 : 0;
+  var timeDiff = Math.abs(today.getTime() - firstDay.getTime());
+  var daysDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
 
   var slickOpts = {
-    initialSlide: weekday,
+    initialSlide: daysDiff - 1,
     dots: true,
     autoplay: false,
     infinite: false,
