@@ -804,6 +804,9 @@ activities:
       css for fully customizable UIs, and best javascript frameworks
       available now. In this talk we will explore the principles of
       Electron, it's advantages and challenges.
+  aragao:
+    name: From Code to Business
+    about:
   dinner:
     name: Networking Dinner
     about: |

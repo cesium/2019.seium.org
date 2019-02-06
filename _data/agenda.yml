@@ -359,15 +359,17 @@
       icon: fa-desktop
       place: CP2-B1
 
-    - name: TBA #TODO
-      speaker: TBA
-      enterprise: TBA
+    - name: aragao.name #TODO
+      speaker: Martinho Aragão
+      speaker2: Nuno Ferreira
+      speaker3: André Santos
+      enterprise:
       enterpriseURL:
       time: 17:00-18:00
       duration: one-hour
       icon: fa-car
       type: talk
-      about: TBA
+      about: aragao.name
       place: CP2-B1
 
     - name: dinner.name
