@@ -52,9 +52,12 @@
           <li>
             <a class="page-scroll" href="{{ site.baseurl }}/workshops">{% t navbar.workshops %}</a>
           </li>
-          <!-- <li>
-            <a class="page-scroll" href="http://intra.seium.org" target="_blank">{% t navbar.badges %}</a>
-          </li> -->
+          <li>
+            <a class="page-scroll" href="{{ site.baseurl }}/hackathon">{% t navbar.hackathon %}</a>
+          </li>
+          <li>
+            <a class="page-scroll" href="https://moonstone.seium.org/" target="_blank">{% t navbar.badges %}</a>
+          </li>
           <li>
             {% if site.lang == "pt" %}
             {% capture link_en %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}

@@ -1,12 +1,21 @@
-<div id="hackathon-info">
+<div id="info" class="hackathon-info">
   <div class="container">
 
+    <div class="section-title-container">
+      <h1 class="section-title">{% t hackathon.infos.title %}</h1>
+    </div>
+
     <div class="info">
-      <h4 class="info-question">{% t hackathon.infos.what.title %}</h4>
-      <div class="info-text">
-        {% t hackathon.infos.what.description %}
+      <!-- <h4 class="info-question">{% t hackathon.infos.what.title %}</h4> -->
+      <div class="col-md-8 info-text">
+        {% capture hackathon_description %}{% t hackathon.infos.what.description %}{% endcapture %}
+        {{ hackathon_description | markdownify }}
       </div>
     </div>
+
+    <a class="col-md-12" href="{{ site.data.hackathon.code_of_conduct }}" target="_blank">
+      <button id="cocbutton" class="btn btn-info btn-sei btn-hackathon">{% t defaults.learn_more %}</button>
+    </a>
 
   </div>
 </div>

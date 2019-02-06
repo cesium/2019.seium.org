@@ -1,0 +1,26 @@
+code_of_conduct: https://seium.org/docs/hackathon-coc.pdf
+
+first_day:
+  - name: reception.name
+    time: reception.time
+    duration: half-hour
+  - name: opening.name
+    time: opening.time
+    duration: half-hour
+  - name: hackathon.name 
+    time: hackathon.time
+    duration: nine-hours-and-half
+
+second_day:
+  - name: hackathon.name
+    time: hackathon.time
+    duration: six-hours
+  - name: preparation.name
+    time: preparation.time
+    duration: half-hour
+  - name: pitch.name
+    time: pitch.time
+    duration: half-hour
+  - name: closing.name
+    time: closing.time
+    duration: one-hour

@@ -5,15 +5,13 @@
         <div class="col-md-12">
 
           {% image hackathon/header.png class:'brand img-responsive' %}
-            
+
           <div id="date">
             {% t hackathon.date %} <br> <br>
-            <!--Faltam
-            As inscrições encontram-se encerradas-->
           </div>
 
-         <div id="remaining">Faltam</div>
-         
+          <div id="remaining">{% t hackathon.starts_in %}</div>
+
           <div id="clock">
             <div class="clock-segment">
               <span class="days"></span>
@@ -33,12 +31,9 @@
             </div>
           </div>
 
-          <div id="remaining">para o inicio da hackathon</div>
-
-          <a href="https://cesium.typeform.com/to/W0HpqL" target="_blank">
-            <button id="registerbutton" class="btn btn-info btn-sei btn-hackathon">Inscreve-te Já!</button>
+          <a href="https://cesium.typeform.com/to/wj18uo" target="_blank">
+            <button id="registerbutton" class="btn btn-info btn-sei btn-hackathon">{% t hackathon.apply_now %}</button>
           </a>
-      
 
         </div>
       </div>

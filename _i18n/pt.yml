@@ -460,28 +460,139 @@ challenges:
 hackathon:
   date: 9 a 10 de fevereiro
   infos:
+    title: Kit de Sobrevivência
     what:
-      title: O que é?
-      description:
+      description: |-
+        **WHAT IS A HACKATHON?**
+
+        It is a programming marathon, where teams of 3-5 put their ideas
+        together to create something exciting in only 24 hours. It gives
+        hackers the chance to turn their ideas into prototypes.
+
+        **CAN I PARTICIPATE?**
+
+        To be eligible for participation, you need to be a university student
+        or recently left the university. Unfortunately, we are unable to
+        accept students under 18 years old.
+
+        **HOW DO I REGISTER?**
+
+        Only teams of 3-5 are eligible for acceptance, but full teams are
+        preferable. After setting your team together, you just have to sign
+        up your team on this form.
+
+        **WHAT ABOUT SLEEP?**
+
+        We have a special room for people who want to get some Z’s. You must
+        come with a sleeping bag and a mat.
+
+        **WHAT DO I NEED TO BRING?**
+
+        Just your laptop, sleeping bag, mat and lots of motivation for this
+        hackathon. We provide free Wi-fi access, food and one table for teams
+        to work on their ideas.
+
+        **WHAT ABOUT FOOD?**
+
+        We provide lunch, dinner and snacks during the event. You are able to
+        specify dietary restrictions in your profile. We’ll do our best to
+        fulfill them.
+
+        **WHAT IS THE SUBJECT?**
+
+        This hackathon is subject-free. We encourage you to think out of the
+        box, build up your idea prototype and surprise the jurors.
+
+        **WHAT ARE THE RULES?**
+
+        Your should be aware of the Regulation of the hackathon and entirely
+        respect the Code of Conduct.
+      coiso:
+#         **O QUE É UMA HACKATHON? **
+
+#         É uma maratona de programação, onde equipes de 3-5 colocam suas ideias
+#         juntos para criar algo emocionante em apenas 24 horas. Dá
+#         hackers a chance de transformar suas idéias em protótipos.
+
+#         **POSSO PARTICIPAR? *
+
+#         Para ser elegível para participação, você precisa ser um estudante universitário
+#         ou recentemente saiu da universidade. Infelizmente, somos incapazes de
+#         aceitar estudantes menores de 18 anos.
+
+#         **COMO ME REGISTRO?**
+
+#         Apenas equipas de 3-5 são elegíveis, mas equipas completas são
+#         preferiveis. Depois de definir sua equipe, só precisas inscrever a
+#         tua equipa neste [formulário](https://cesium.typeform.com/to/wj18uo).
+
+#         **o que sobre o sono?**
+
+#         Temos uma sala especial para pessoas que querem obter alguns Z's. Você deve
+#         vem com um saco de dormir e um tapete.
+
+#         **O QUE PRECISO TRAZER?**
+
+#         Apenas o seu laptop, saco de dormir, tapete e muita motivação para isso
+#         hackathon. Nós fornecemos acesso Wi-Fi gratuito, comida e uma mesa para as equipes
+#         para trabalhar em suas idéias.
+
+#         **E A COMIDA?**
+
+#         Oferecemos almoço, jantar e lanches durante o evento. Estás esta capacitado para
+#         especifique restrições alimentares em seu perfil. Faremos o nosso melhor para
+#         cumpri-los.
+
+#         **QUAL É O TEMA?**
+
+#         Este hackathon é de tema livre. Encorajamos-te a pensar fora da
+#         caixa, constrói um protótipo da tua ideia e supreende os jurados.
+
+#         **QUAIS SÃO AS REGRAS?**
+
+#         Seu deve estar ciente do regulamento do hackathon e inteiramente
+#         respeitar o Código de Conduta.
   organisation:
     supported_by: Apoiado por
+  starts_in: Começa em
+  apply_now: Inscreve-te já
   awards:
     first:
       title: 1º Prémio
-      description:
+      description: Vale Fnac 200€
     second:
       title: 2º Prémio
-      description:
+      description: Vale Fnac 100€
     third:
       title: 3º Prémio
-      description:
+      description: Vale Fnac 50€
     surprises:
       title: Surpresas
       description:
   schedule:
-    activity_example:
-      name: Abertura
-      time: 18:00-19:00
+    first_day:
+      reception:
+        name: Receção
+        time: 9:00 - 9:30
+      opening:
+        name: Sessão de Abertura
+        time: 9:30 - 10:00
+      hackathon:
+        name: Hackathon
+        time: 10:00 - 24:00
+    second_day:
+      hackathon:
+        name: Hackathon
+        time: 00:00 - 10:00
+      preparation:
+        name: Preparação do Pitch
+        time: 10:00 - 10:30
+      pitch:
+        name: Pitches
+        time: 10:30 - 11:00
+      closing:
+        name: Entrega de Prémios / Sessão de Encerramento
+        time: 11:15 - 12:00
 
 about:
   activities: 5 dias de atividades

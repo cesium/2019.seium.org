@@ -431,28 +431,94 @@ challenges:
 hackathon:
   date: 9th to 10th of February
   infos:
+    title: Survival Kit
     what:
-      title: What is it?
-      description:
+      description: |-
+        **WHAT IS A HACKATHON?**
+
+        It is a programming marathon, where teams of 3-5 put their ideas
+        together to create something exciting in only 24 hours. It gives
+        hackers the chance to turn their ideas into prototypes.
+
+        **CAN I PARTICIPATE?**
+
+        To be eligible for participation, you need to be a university student
+        or recently left the university. Unfortunately, we are unable to
+        accept students under 18 years old.
+
+        **HOW DO I REGISTER?**
+
+        Only teams of 3-5 are eligible for acceptance, but full teams are
+        preferable. After setting your team together, you just have to sign
+        up your team on this form.
+
+        **WHAT ABOUT SLEEP?**
+
+        We have a special room for people who want to get some Z’s. You must
+        come with a sleeping bag and a mat.
+
+        **WHAT DO I NEED TO BRING?**
+
+        Just your laptop, sleeping bag, mat and lots of motivation for this
+        hackathon. We provide free Wi-fi access, food and one table for teams
+        to work on their ideas.
+
+        **WHAT ABOUT FOOD?**
+
+        We provide lunch, dinner and snacks during the event. You are able to
+        specify dietary restrictions in your profile. We’ll do our best to
+        fulfill them.
+
+        **WHAT IS THE SUBJECT?**
+
+        This hackathon is subject-free. We encourage you to think out of the
+        box, build up your idea prototype and surprise the jurors.
+
+        **WHAT ARE THE RULES?**
+
+        Your should be aware of the Regulation of the hackathon and entirely
+        respect the Code of Conduct.
   organisation:
     supported_by: Supported by
+  starts_in: Starts in
+  apply_now: Apply now
   awards:
     first:
       title: 1st Award
-      description:
+      description: FNAC vaucher 200€
     second:
       title: 2nd Award
-      description:
+      description: FNAC vaucher 100€
     third:
       title: 3rd Award
-      description:
+      description: FNAC vaucher 50€
     surprises:
       title: Surprises
       description:
   schedule:
-    activity_example:
-      name: Opening
-      time: 6PM-7PM
+    first_day:
+      reception:
+        name: Reception
+        time: 9AM - 9:30AM
+      opening:
+        name: Opening session
+        time: 9:30AM - 10AM
+      hackathon:
+        name: Hackathon
+        time: 10AM - 12PM
+    second_day:
+      hackathon:
+        name: Hackathon
+        time: 00AM - 10AM
+      preparation:
+        name: Pitch preparation
+        time: 10AM - 10:30AM
+      pitch:
+        name: Pitches
+        time: 10:30AM - 11AM
+      closing:
+        name: Awards delivery / Closing session
+        time: 11:15AM - 12AM
 
 about:
   activities: 5 days of activities

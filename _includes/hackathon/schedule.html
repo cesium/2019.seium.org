@@ -1,22 +1,47 @@
 <div id="agenda" class="hackathon-schedule">
   <div class="container">
+
     <div class="section-title-container">
       <h1 class="section-title">{% t defaults.schedule %}</h1>
     </div>
 
     <div class="agenda-wrapper">
-      <div class="col-sm-3 agenda-day">
-        <h4 class="center-block agenda-date">9 {% t defaults.months.fev %} <br><span>{% t defaults.saturday %}</span></h4>
 
+      <div class="col-sm-3 agenda-day">
+        <h4 class="center-block agenda-date">9 {% t defaults.months.fev %} <br><span>{% t
+            defaults.days_of_week.saturday %}</span></h4>
+
+        {% for activity in site.data.hackathon.first_day %}
         <div class="agenda-activity">
-          <div class="activity-time">{% t hackathon.schedule.activity_example.time %}</div>
-            <div class="activity-block half-hour text-left">
-              <div class="activity-border"></div>
-              <div class="activity-name"><b>{% t hackathon.schedule.activity_example.name %}</b></div>
-            </div>
+          <div class="activity-time">{% t hackathon.schedule.first_day.{{ activity.time }} %}</div>
+          <div class="activity-block {{ activity.duration }} text-left">
+            <div class="activity-border"></div>
+            <div class="activity-name"><b>{% t hackathon.schedule.first_day.{{ activity.name }} %}</b></div>
+          </div>
           <div class="activity-location"></div>
         </div>
+        {% endfor %}
+
       </div>
+
+      <div class="col-sm-3 agenda-day">
+        <h4 class="center-block agenda-date">10 {% t defaults.months.fev %} <br><span>{% t
+            defaults.days_of_week.sunday %}</span></h4>
+
+        {% for activity in site.data.hackathon.second_day %}
+        <div class="agenda-activity">
+          <div class="activity-time">{% t hackathon.schedule.second_day.{{ activity.time }} %}</div>
+          <div class="activity-block {{ activity.duration }} text-left">
+            <div class="activity-border"></div>
+            <div class="activity-name"><b>{% t hackathon.schedule.second_day.{{ activity.name }} %}</b></div>
+          </div>
+          <div class="activity-location"></div>
+        </div>
+        {% endfor %}
+
+      </div>
+
     </div>
+
   </div>
 </div>
