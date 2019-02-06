@@ -1,5 +1,7 @@
 code_of_conduct: https://seium.org/docs/hackathon-coc.pdf
 
+location: Departamento de Informática, Universidade do Minho
+
 first_day:
   - name: reception.name
     time: reception.time
@@ -7,7 +9,7 @@ first_day:
   - name: opening.name
     time: opening.time
     duration: half-hour
-  - name: hackathon.name 
+  - name: hackathon.name
     time: hackathon.time
     duration: nine-hours-and-half
 
