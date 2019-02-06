@@ -693,6 +693,10 @@ activities:
     about: |-
       "React.js workshop", coordinated by André Sousa, where you can learn
       the basics about React and create a mini project.
+
+      The source code is avaible
+      [here](https://gitlab.com/xipas/react-workshop) and
+      [here](https://github.com/Xipas/react-workshop).
   talk_wedo:
     name: |
       Automated Machine Learning: The next frontier in Fraud Detection

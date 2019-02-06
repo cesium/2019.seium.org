@@ -725,6 +725,10 @@ activities:
     about: |-
       “Workshop de React.js”, coordenado por André Sousa, onde podes aprender
       os básicos sobre React e criar um mini projecto.
+
+      O código fonte está disponível
+      [aqui](https://gitlab.com/xipas/react-workshop) e
+      [aqui](https://github.com/Xipas/react-workshop).
   workshop_wedo:
     name: Introdução ao Deep Learning
     about: |
