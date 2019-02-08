@@ -154,9 +154,9 @@
       place: CP2-B1
 
     - name: Desafios 1 vs 1
-      speaker: Celso Martinho
-      enterprise: Bright Pixel
-      enterpriseURL: https://brpx.com/
+      speaker:
+      enterprise:
+      enterpriseURL:
       time: 15:00-16:00
       duration: one-hour
       icon: fa-cogs
@@ -369,7 +369,7 @@
       duration: one-hour
       icon: fa-car
       type: talk
-      about: aragao.name
+      about: aragao.about
       place: CP2-B1
 
     - name: dinner.name
