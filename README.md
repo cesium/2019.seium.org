@@ -8,7 +8,7 @@ This is the website for the 2019 Edition.
 ## Bugs and Issues
 
 Please take into account that this website is still a work in progress. And
-we can still use your help! Found a bug or an issue? 
+we can still use your help! Found a bug or an issue?
 [Open a new issue](https://github.com/cesium/2019.seium.org/issues) here on
 GitHub.
 
