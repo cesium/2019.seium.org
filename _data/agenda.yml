@@ -153,16 +153,16 @@
       about: talk_andre_pimenta.about
       place: CP2-B1
 
-    # - name: talk_celso_martinho.name
-    #   speaker: Celso Martinho
-    #   enterprise: Bright Pixel
-    #   enterpriseURL: https://brpx.com/
-    #   time: 15:00-16:00
-    #   duration: one-hour
-    #   icon: fa-cogs
-    #   type: talk
-    #   about: talk_celso_martinho.about
-    #   place: CP2-B1
+    - name: Desafios 1 vs 1
+      speaker: Celso Martinho
+      enterprise: Bright Pixel
+      enterpriseURL: https://brpx.com/
+      time: 15:00-16:00
+      duration: one-hour
+      icon: fa-cogs
+      type: talk
+      # about: talk_celso_martinho.about
+      place: CP2-B1
 
     - coffee: true
 
@@ -423,26 +423,26 @@
 
     - meal: true
 
+    - name: talk_celso_martinho.name
+      speaker: Celso Martinho
+      enterprise: Bright Pixel
+      enterpriseURL: https://brpx.com/
+      time: 14:00-15:00
+      duration: one-hour
+      icon: fa-cogs
+      type: talk
+      about: talk_celso_martinho.about
+      place: CP2-B1
+
     - name: talk_farfetch.name
       speaker: Márcio Azevedo
       enterprise: Farfetch
       enterpriseURL: https://www.farfetch.com/pt/
-      time: 14:00-15:00
+      time: 15:00-16:00
       duration: one-hour
       icon: fas fa-user-graduate
       about: talk_farfetch.about
       type: talk
-      place: CP2-B1
-
-    - name: TBA #TODO
-      speaker: TBA
-      enterprise: TBA
-      enterpriseURL:
-      time: 15:00-16:00
-      duration: one-hour
-      icon: fas fa-fire
-      type: talk
-      about: TBA
       place: CP2-B1
 
     - coffee: true
