@@ -22,7 +22,7 @@
     - name: Livre
       img: fas fa-code
       desc:
-      link:
+      link: https://seium.org/docs/desafio_livre.pdf
       state: disabled
 
 
