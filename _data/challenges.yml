@@ -23,7 +23,6 @@
       img: fas fa-code
       desc:
       link: https://seium.org/docs/desafio_livre.pdf
-      state: disabled
 
 
 - name: ctf.name
