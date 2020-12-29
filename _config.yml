@@ -13,7 +13,7 @@ description: |-
   oradores de relevo nacional e internacional, momentos de discussão,
   pró-atividade e de lazer bem como uma abordagem social.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://seium.org" # the base hostname & protocol for your site
+url: "http://2019.seium.org" # the base hostname & protocol for your site
 facebook: SEI.UMinho
 twitter: cesiuminho
 github: cesium
